@@ -1,0 +1,95 @@
+{
+  "id": "rice-and-peas",
+  "title": "Rice and Peas",
+  "summary": "Karibischer Reis mit Kidneybohnen in Kokosmilch, mit Piment, Thymian und einer scharfen Scotch-Bonnet-Chili.",
+  "image": "images/rice-and-peas.jpg",
+  "category": "Sonstige",
+  "cuisine": "Karibisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 100,
+  "restTime": 10,
+  "ingredients": [
+    {
+      "amount": 180,
+      "unit": "g",
+      "name": "Kidneybohnen",
+      "variety": null
+    },
+    {
+      "amount": 1.2,
+      "unit": "l",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 380,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Basmati"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Piment",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "Scotch Bonnet"
+    }
+  ],
+  "steps": [
+    "Kidneybohnen mit Wasser, Salz und Thymian weich kochen, 1–2 Stunden (über Nacht eingeweicht geht's schneller).",
+    "Bohnen abgießen, etwas Kochwasser auffangen.",
+    "Knoblauch, Ingwer, Piment, Frühlingszwiebel in Öl leicht anbraten.",
+    "Reis, Bohnenwasser, Kokosmilch, Wasser und die Chili dazu.",
+    "Salzen, aufkochen.",
+    "Bei kleiner Hitze zugedeckt 10 Minuten köcheln.",
+    "Herd aus, Deckel drauf, 10 Minuten ruhen lassen.",
+    "Auflockern, heiß servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/rice-and-peas"
+  },
+  "note": null
+}

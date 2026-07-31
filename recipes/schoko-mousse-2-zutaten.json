@@ -1,0 +1,49 @@
+{
+  "id": "schoko-mousse-2-zutaten",
+  "title": "Schoko-Mousse aus 2 Zutaten",
+  "summary": "Samtige Schokoladenmousse nur aus Schokolade und Wasser — über Eis aufgeschlagen, in Minuten fertig.",
+  "image": "images/schoko-mousse-2-zutaten.jpg",
+  "category": "Dessert",
+  "cuisine": "Sonstige",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Schokolade",
+      "variety": "dunkel, 74%"
+    },
+    {
+      "amount": 210,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Eiswürfel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Salz",
+      "variety": "als Garnitur, optional"
+    }
+  ],
+  "steps": [
+    "Wasser aufkochen. Eiswürfel in große Schüssel geben, mit kaltem Wasser fast randvoll auffüllen.",
+    "Schokolade in Schüssel brechen, kochendes Wasser darüber gießen, glattrühren.",
+    "Schüssel ins Eisbad stellen, 4–5 Minuten kräftig aufschlagen bis dick und cremig.",
+    "Aus dem Eisbad nehmen, nochmal 30 Sekunden aufschlagen. Sofort in Gläsern servieren, nach Belieben mit Salz bestreuen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/2-ingredient-chocolate-mousse/"
+  },
+  "note": null
+}

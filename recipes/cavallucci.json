@@ -1,0 +1,93 @@
+{
+  "id": "cavallucci",
+  "title": "Cavallucci",
+  "summary": "Toskanische Weihnachtskekse mit Anis, Walnüssen und kandierten Früchten — würzig-rustikal.",
+  "image": "images/cavallucci.jpg",
+  "category": "Dessert",
+  "cuisine": "Italienisch",
+  "servings": 20,
+  "prepTime": 30,
+  "cookTime": 20,
+  "restTime": 30,
+  "ingredients": [
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Anis",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zimt",
+      "variety": "gehäuft"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Muskatnuss",
+      "variety": "gehäuft, gerieben"
+    },
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Walnüsse",
+      "variety": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Kandierte Früchte",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Backpulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Wein",
+      "variety": "Vin Santo, zum Servieren"
+    }
+  ],
+  "steps": [
+    "Ofen auf 180°C vorheizen. Anis kurz anrösten, grob zerstoßen, mit Zimt und Muskatnuss mischen.",
+    "Zucker und Wasser im selben Topf erhitzen bis aufgelöst und sirupartig, kurz abkühlen lassen.",
+    "Walnüsse grob hacken, mit kandierten Früchten und Gewürzen zum Sirup geben.",
+    "Mehl, Salz und Backpulver verrühren, Sirup-Mischung einarbeiten bis grober Teig entsteht.",
+    "Teig zur Rolle formen, in 20 Stücke teilen, zu Kugeln formen, flach drücken, Mitte eindrücken, bemehlen, auf Blech legen.",
+    "20 Minuten backen bis an den Rändern fest und leicht gebräunt. Komplett auskühlen lassen, mit Vin Santo servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/cavallucci-tuscan-christmas-cookies/"
+  },
+  "note": null
+}

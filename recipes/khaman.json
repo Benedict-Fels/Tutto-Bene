@@ -1,0 +1,137 @@
+{
+  "id": "khaman",
+  "title": "Khaman",
+  "summary": "Luftig-schwammiger gedämpfter Kichererbsenmehl-Kuchen aus Gujarat mit würziger Senfsaat-Tarka.",
+  "image": "images/khaman.jpg",
+  "category": "Sonstige",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "grün"
+    },
+    {
+      "amount": 180,
+      "unit": "g",
+      "name": "Kichererbsenmehl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 0.75,
+      "unit": "TL",
+      "name": "Natron",
+      "variety": null
+    },
+    {
+      "amount": 230,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "grün, für die Tarka"
+    },
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": "für die Tarka"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Senfkörner",
+      "variety": null
+    },
+    {
+      "amount": 10,
+      "unit": "Stück",
+      "name": "Curryblätter",
+      "variety": null
+    },
+    {
+      "amount": 180,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "für die Tarka"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zucker",
+      "variety": "für die Tarka"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": "für die Tarka"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Kokosraspeln",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Ingwer und Chili zu Paste zerstoßen.",
+    "Kichererbsenmehl mit Salz und Zucker verrühren. Wasser, Zitronensaft, Öl und Ingwer-Chili-Paste unterrühren bis glatt. Zugedeckt 10 Minuten ruhen lassen.",
+    "Dämpfer mit Wasser vorbereiten, Form einölen.",
+    "Natron unter den Teig rühren bis er leicht schäumt, sofort in die Form gießen.",
+    "Zugedeckt 25 Minuten dämpfen bis eine Klinge sauber rauskommt.",
+    "Aus dem Dämpfer nehmen, etwas abkühlen lassen.",
+    "Ingwer und Chili für die Tarka in Streifen schneiden, Koriander hacken. Öl erhitzen, Senfkörner zischen lassen, Curryblätter und Chili dazu. Sobald knusprig, Wasser, Zucker und Salz dazu, aufkochen, vom Herd nehmen.",
+    "Khaman stürzen, in Quadrate schneiden, mit Tarka übergießen, mit Koriander und Kokosraspeln bestreuen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/khaman-indian-spongy-chickpea-cake/"
+  },
+  "note": null
+}

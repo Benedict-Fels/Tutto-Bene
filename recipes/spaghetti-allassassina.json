@@ -1,0 +1,85 @@
+{
+  "id": "spaghetti-allassassina",
+  "title": "Spaghetti all'Assassina",
+  "summary": "Scharfe italienische Spaghetti aus Bari, direkt in der Pfanne angeröstet statt gekocht — knusprig und rauchig.",
+  "image": "images/spaghetti-allassassina.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 40,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Passata",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Beträufeln"
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "lang, scharf, frisch"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": "gehäuft"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": "Spaghetti"
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Tomatenmark, einen Teil der Passata, Salz und Wasser verrühren, aufkochen, dann köcheln lassen.",
+    "Öl in großer Pfanne erhitzen, gehackten Knoblauch, Chili und Chiliflocken anbraten bis der Knoblauch golden ist.",
+    "Restliche Passata dazu, Hitze hoch, 1-2 Minuten köcheln bis eingedickt.",
+    "Trockene Spaghetti in einer Schicht in die Sauce legen, 2-3 Minuten rösten bis angetrocknet, dann mit zwei Pfannenwendern wenden.",
+    "Ein Drittel der Brühe dazu, ohne umzurühren köcheln bis aufgesogen und die Nudeln wieder kleben, 3-4 Minuten, kurz karamellisieren lassen, wenden.",
+    "Vorgang zweimal mit restlicher Brühe wiederholen bis die Nudeln al dente sind mit leichten Röstspuren.",
+    "Auf Teller verteilen, mit Olivenöl beträufeln, servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/spaghetti-allassassina-italian-killer-spaghetti/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

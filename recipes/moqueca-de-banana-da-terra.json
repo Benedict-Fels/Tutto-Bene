@@ -1,0 +1,114 @@
+{
+  "id": "moqueca-de-banana-da-terra",
+  "title": "Moqueca de Banana-da-Terra",
+  "summary": "Bahianischer Eintopf aus reifen Kochbananen in Kokosmilch, Limette und Dendê-Öl.",
+  "image": "images/moqueca-de-banana-da-terra.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Brasilianisch",
+  "servings": 4,
+  "prepTime": 45,
+  "cookTime": 20,
+  "restTime": 5,
+  "ingredients": [
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    },
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": "frisch"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "grün, mild"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "gelb"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "groß"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 900,
+      "unit": "g",
+      "name": "Kochbanane",
+      "variety": "reif"
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Limette",
+      "variety": "Schale und Saft"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Palmöl",
+      "variety": "Dendê"
+    }
+  ],
+  "steps": [
+    "Zwiebel in Olivenöl andünsten, bis weich (8-10 Minuten). Unteren Teil vom Koriander fein hacken, mit dazu.",
+    "Chili, Paprika, Tomaten und Salz dazu, Knoblauch kurz mitbraten. Deckel drauf, 10 Minuten köcheln.",
+    "Kochbananen schräg in Scheiben schneiden, in Öl goldbraun braten (ca. 10 Minuten).",
+    "Kokosmilch, Wasser, etwas Limettenschale und -saft in den Topf. Kochbananen obendrauf legen, Palmöl drüber.",
+    "Deckel drauf, 20 Minuten köcheln.",
+    "Vom Herd, 5 Minuten ziehen lassen. Mit Koriander bestreuen, mit Farofa oder Reis servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/moqueca-de-banana-da-terra-brazilian-plantain-and-coconut-stew/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

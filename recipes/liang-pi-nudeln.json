@@ -1,0 +1,51 @@
+{
+  "id": "liang-pi-nudeln",
+  "title": "Liang-Pi-Nudeln",
+  "summary": "Selbstgemachte, glasige Weizenstärke-Nudeln — Grundlage für kalte chinesische Nudelgerichte.",
+  "image": "images/liang-pi-nudeln.jpg",
+  "category": "Sonstige",
+  "cuisine": "Chinesisch",
+  "servings": 4,
+  "prepTime": 65,
+  "cookTime": 65,
+  "restTime": 360,
+  "ingredients": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Weizenstärke",
+      "variety": null
+    },
+    {
+      "amount": 1.35,
+      "unit": "l",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": "zum Bestreichen"
+    }
+  ],
+  "steps": [
+    "Weizenstärke mit Wasser glattrühren, Salz einrühren, mindestens 6 Stunden oder über Nacht absetzen lassen.",
+    "Klare Flüssigkeit vorsichtig abgießen, dicke Schicht am Boden mit dem Rest verrühren.",
+    "Wasser in breitem Topf zum Kochen bringen. Kuchenform einölen, dünne Schicht der Masse hineingießen.",
+    "Form auf dem kochenden Wasser schwimmen lassen, zugedeckt 1–2 Minuten dämpfen bis Blasen zwischen Masse und Form entstehen.",
+    "Form 30–60 Sekunden in kaltem Wasser schwimmen lassen zum Abkühlen. Einölen, Nudelblatt lösen, auf Brett legen. Restliche Masse genauso verarbeiten.",
+    "Abgekühlte Blätter in breite Streifen schneiden."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/how-to-make-liang-pi-chinese-wheat-starch-noodles/"
+  },
+  "note": null
+}

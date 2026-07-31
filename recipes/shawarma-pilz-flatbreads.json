@@ -1,0 +1,195 @@
+{
+  "id": "shawarma-pilz-flatbreads",
+  "title": "Shawarma-Pilz-Flatbreads",
+  "summary": "Marinierte Austernpilze vom Spieß geröstet, mit Tahinisauce, frischem Salat und eingelegten Zwiebeln im Fladenbrot.",
+  "image": "images/shawarma-pilz-flatbreads.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Orientalisch",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 20,
+  "restTime": 60,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "kg",
+      "name": "Austernpilz",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Ahornsirup",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Harissa",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Koriander gemahlen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zimt",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kardamom",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Kartoffel",
+      "variety": "zum Aufspießen"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Salatgurke",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Radieschen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Minze",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "für den Salat"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft, für den Salat"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": "für den Salat"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Tahini",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft, für die Sauce"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": "für die Sauce"
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Fladenbrot",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Zwiebel",
+      "variety": "eingelegt, rot"
+    },
+    {
+      "amount": 8,
+      "unit": "Stück",
+      "name": "Peperoni",
+      "variety": "eingelegt"
+    }
+  ],
+  "steps": [
+    "Pilzcluster in etwas Öl in Pfanne pressen bis goldbraun, wenden, wieder pressen. Abkühlen lassen, Pfanne mit Wasser ablöschen, Flüssigkeit auffangen.",
+    "Öl, Zitronensaft, Ahornsirup, Harissa, Gewürze, Salz und die aufgefangene Flüssigkeit verrühren. Pilze darin wenden, abdecken, mindestens eine Stunde oder über Nacht ziehen lassen.",
+    "Ofen auf 240°C vorheizen. Kartoffel halbieren, untere Hälfte auf Blech legen, Spieße hineinstecken. Pilze aufspießen, dabei mit Marinade bepinseln, mit zweiter Kartoffelhälfte abschließen. 25 Minuten rösten bis die Ränder Farbe haben. Vom Spieß schneiden.",
+    "Tahini, Zitronensaft und Salz zu fester Paste verrühren, nach und nach kaltes Wasser einrühren bis cremig.",
+    "Gurke, Tomate und Radieschen klein schneiden, Minze und Petersilie grob hacken. Knoblauch dazu reiben, mit Öl, Zitronensaft und Salz vermengen.",
+    "Fladenbrot mit Tahinisauce bestreichen, Salat und Pilze darauf verteilen, mit eingelegten Zwiebeln und Peperoni toppen, einklappen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/shawarma-inspired-roasted-mushroom-flatbreads/"
+  },
+  "note": null
+}

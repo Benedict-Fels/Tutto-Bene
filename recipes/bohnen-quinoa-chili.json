@@ -1,0 +1,112 @@
+{
+  "id": "bohnen-quinoa-chili",
+  "title": "Bohnen-Quinoa-Chili",
+  "summary": "Proteinreiches Slow-Cooker-Chili mit Bohnen und Quinoa — zehn Zutaten, alles in den Topf, fertig.",
+  "image": "images/bohnen-quinoa-chili.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 240,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 280,
+      "unit": "g",
+      "name": "Mais",
+      "variety": "tiefgekühlt, aufgetaut"
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Kidneybohnen",
+      "variety": "aus der Dose"
+    },
+    {
+      "amount": 550,
+      "unit": "g",
+      "name": "Schwarze Bohnen",
+      "variety": "aus der Dose"
+    },
+    {
+      "amount": 190,
+      "unit": "g",
+      "name": "Quinoa",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": "ein halbes Bund"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Chilipulver",
+      "variety": "Ancho, salzfrei"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": "Cayenne, optional"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gehackt, salzfrei"
+    },
+    {
+      "amount": 170,
+      "unit": "g",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 650,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Alle Zutaten — Zwiebel, Mais, Bohnen, Quinoa, Knoblauch, Korianderstiele, Gewürze, Salz, Tomaten, Tomatenmark und Brühe — in den Slow Cooker geben und gut vermischen.",
+    "Mit Deckel 4–5 Stunden auf niedriger oder 3 Stunden auf hoher Stufe garen.",
+    "Gut umrühren, mit Salz abschmecken.",
+    "Warm servieren, mit Korianderblättern und Toppings nach Wahl."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/slow-cooker-bean-quinoa-chili/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

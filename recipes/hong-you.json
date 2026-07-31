@@ -1,0 +1,98 @@
+{
+  "id": "hong-you",
+  "title": "Hóng Yóu",
+  "summary": "Traditionelles rubinrotes Sichuan-Chiliöl mit Gewürzaroma — für Nudeln, Dumplings und Pfannengerichte.",
+  "image": "images/hong-you.jpg",
+  "category": "Sonstige",
+  "cuisine": "Chinesisch",
+  "servings": 8,
+  "prepTime": 30,
+  "cookTime": 30,
+  "restTime": 45,
+  "ingredients": [
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Sternanis",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Nelken",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Kardamom",
+      "variety": "schwarz, optional"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sichuan-Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Schalotte",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Chili",
+      "variety": "getrocknet, ganze Sichuan-Chilis"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Trockene Gewürze in Topf kurz rösten bis aromatisch. Öl, halbierte Schalotten, Knoblauch und Ingwerscheiben dazu, erhitzen bis Bläschen aufsteigen, dann 30 Minuten auf kleiner Hitze ziehen lassen.",
+    "Getrocknete Chilis separat 2–3 Minuten rösten bis sie dunkler werden. Etwas abkühlen, entkernen, grob mahlen, in hitzefeste Schüssel geben.",
+    "Heißes Öl durch Sieb über die gemahlenen Chilis gießen, dabei die groben Zutaten vorher mit Schaumkelle rausfischen.",
+    "Restliches Öl kurz abkühlen lassen, ebenfalls über die Chilis gießen, gut verrühren, Salz unterrühren.",
+    "Auf Raumtemperatur abkühlen lassen, dann abfüllen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/hong-you-sichuan-chili-oil/"
+  },
+  "note": null
+}

@@ -1,0 +1,113 @@
+{
+  "id": "one-pot-tex-mex-quinoa",
+  "title": "One-Pot-Tex-Mex-Quinoa",
+  "summary": "Schnelles Feierabendgericht mit Quinoa, schwarzen Bohnen, Mais und Paprika in Tex-Mex-Gewürzen.",
+  "image": "images/one-pot-tex-mex-quinoa.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mexikanisch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 185,
+      "unit": "g",
+      "name": "Quinoa",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Dose",
+      "name": "Schwarze Bohnen",
+      "variety": "abgetropft"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Mais",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gehackt, aus der Dose"
+    },
+    {
+      "amount": 470,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": "zum Servieren"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Avocado",
+      "variety": "zum Servieren, optional"
+    }
+  ],
+  "steps": [
+    "Zwiebel, Knoblauch und Paprika in einem großen Topf mit etwas Öl anbraten, bis weich.",
+    "Quinoa, schwarze Bohnen, Mais, Tomaten, Brühe, Kreuzkümmel, Chilipulver, Paprikapulver und Salz dazugeben, aufkochen.",
+    "Hitze reduzieren, zugedeckt 15–18 Minuten köcheln bis die Quinoa gar ist.",
+    "Mit einer Gabel auflockern.",
+    "Mit Koriander und Avocado bestreut servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/one-pot-mexican-quinoa/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

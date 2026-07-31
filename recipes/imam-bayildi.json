@@ -1,0 +1,89 @@
+{
+  "id": "imam-bayildi",
+  "title": "İmam Bayıldı",
+  "summary": "Türkische geschmorte Auberginen, gefüllt mit Zwiebeln, Tomaten und Paprika — kalt serviert, in Olivenöl geschmort.",
+  "image": "images/imam-bayildi.jpg",
+  "category": "Sonstige",
+  "cuisine": "Türkisch",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 65,
+  "restTime": 20,
+  "ingredients": [
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Aubergine",
+      "variety": "klein"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 9,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Beträufeln"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot, lang"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "grün, lang"
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": "Pul Biber"
+    },
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Petersilie",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Auberginenenden kappen, in Streifen schälen (Zebra-Muster), mit Salz einreiben, beiseite.",
+    "Öl erhitzen, Zwiebel mit etwas Salz andünsten, 8–10 Minuten. Knoblauch und Paprikastreifen dazu, weitere 10 Minuten.",
+    "Tomaten würfeln, mit Chiliflocken dazugeben, zugedeckt 5 Minuten köcheln. Petersilie hacken, etwas beiseitelegen, Rest untermischen. Durch Sieb abgießen, Flüssigkeit auffangen.",
+    "Ofen auf 220°C vorheizen. Auberginen trockentupfen, in Öl rundum goldbraun braten, 8–12 Minuten.",
+    "In Auflaufform legen, längs einschneiden, mit Löffel öffnen und mit Füllung befüllen.",
+    "Kochflüssigkeit mit etwas Salz drüber und drumherum gießen, bei Bedarf etwas Wasser dazu. Tomatenstück obendrauf, mit Öl beträufeln.",
+    "30 Minuten rösten bis leicht angebräunt.",
+    "Auf Zimmertemperatur abkühlen lassen, mit restlicher Petersilie garnieren, servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/imam-bayildi-turkish-stuffed-eggplants/"
+  },
+  "note": null
+}

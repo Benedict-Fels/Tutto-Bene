@@ -1,0 +1,111 @@
+{
+  "id": "tavce-gravce",
+  "title": "Tavče Gravče",
+  "summary": "Nordmazedonisches Nationalgericht — im Ofen geschmorte weiße Bohnen mit Paprika und geröstetem Zwiebel.",
+  "image": "images/tavce-gravce.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mazedonisch",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 120,
+  "restTime": 735,
+  "ingredients": [
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Weiße Bohnen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 7,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "getrocknet, lang"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Minze",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": "schwarz, frisch gemahlen"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot, lang"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Beträufeln"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Mehl",
+      "variety": "gehäuft"
+    }
+  ],
+  "steps": [
+    "Bohnen mit etwas Salz über Nacht in Wasser einweichen.",
+    "Abgießen, abspülen. Mit frischem Wasser, halber Zwiebel, etwas Knoblauch, Lorbeerblatt und Chili aufkochen, Schaum abschöpfen, zugedeckt 1,5 Stunden köcheln bis weich. Kochflüssigkeit aufheben.",
+    "Restliche Zwiebel in Ringe, Paprika in Streifen schneiden.",
+    "Öl erhitzen, gehackte Zwiebel andünsten, restlichen Knoblauch dazu, weiter andünsten.",
+    "Tomatenmark, Mehl und Paprikapulver unterrühren, mit etwas Kochflüssigkeit ablöschen.",
+    "Bohnen in Auflaufform, gekochte Zwiebel und Knoblauch untermischen, Sauce, Pfeffer, Minze und etwas Kochflüssigkeit dazu.",
+    "Paprikastreifen und Zwiebelringe reinschichten, Chili und Lorbeerblatt zwischenlegen, mit Sauce und Öl beträufeln.",
+    "Bei 200°C 30 Minuten backen bis die Zwiebeln angebräunt sind.",
+    "15 Minuten ruhen lassen, Lorbeerblatt und Chili rausnehmen, servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/tavce-gravce-macedonian-baked-beans/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

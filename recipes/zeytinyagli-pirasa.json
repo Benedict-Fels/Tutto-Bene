@@ -1,0 +1,74 @@
+{
+  "id": "zeytinyagli-pirasa",
+  "title": "Zeytinyağlı Pırasa",
+  "summary": "Türkischer Lauch in Olivenöl geschmort, mit Karotten und Reis — kalt serviert, mild und frisch.",
+  "image": "images/zeytinyagli-pirasa.jpg",
+  "category": "Sonstige",
+  "cuisine": "Türkisch",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 25,
+  "restTime": 60,
+  "ingredients": [
+    {
+      "amount": 750,
+      "unit": "g",
+      "name": "Lauch",
+      "variety": null
+    },
+    {
+      "amount": 180,
+      "unit": "g",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Servieren"
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Reis",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Dill",
+      "variety": "optional"
+    }
+  ],
+  "steps": [
+    "Lauch putzen, Wurzeln und dunkle Enden entfernen, schräg in Stücke schneiden, wässern. Karotten halbieren, im gleichen Winkel schneiden.",
+    "Öl in Pfanne erhitzen, Lauch und Karotten dazu, kurz auf hoher Hitze anschwitzen.",
+    "Salz, Zucker und Wasser dazu, aufkochen, zugedeckt 15 Minuten köcheln bis Lauch weich ist.",
+    "Reis abspülen, mit Zitronensaft dazugeben, zugedeckt 20 Minuten köcheln bis der Reis gar ist, dabei einmal umrühren. Mit leicht geöffnetem Deckel komplett abkühlen lassen, dann kühl stellen.",
+    "Auf Platte anrichten, mit Olivenöl beträufeln, mit Dill bestreuen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/zeytinyagli-pirasa-turkish-leeks-with-olive-oil/"
+  },
+  "note": null
+}

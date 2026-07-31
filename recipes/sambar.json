@@ -1,0 +1,217 @@
+{
+  "id": "sambar",
+  "title": "Sambar",
+  "summary": "Würzig-saurer südindischer Linsen-Gemüse-Eintopf mit Tamarinde, serviert zu Idli oder Reis.",
+  "image": "images/sambar.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "restTime": 45,
+  "ingredients": [
+    {
+      "amount": 160,
+      "unit": "g",
+      "name": "Toor Dal",
+      "variety": null
+    },
+    {
+      "amount": 600,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Tamarinde",
+      "variety": "entkernt"
+    },
+    {
+      "amount": 150,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 8,
+      "unit": "Stück",
+      "name": "Schalotte",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "grün"
+    },
+    {
+      "amount": 120,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Stück",
+      "name": "Okra",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Kartoffel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Aubergine",
+      "variety": "klein"
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": "frisch"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 10,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "getrocknet, Kashmiri"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Koriandersamen",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Bockshornklee",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Curryblätter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chana Dal",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "EL",
+      "name": "Urad Dal",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Asafoetida",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Senfkörner",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Bockshornklee",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Curryblätter",
+      "variety": null
+    },
+    {
+      "amount": 0.125,
+      "unit": "TL",
+      "name": "Asafoetida",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Toor Dal waschen bis das Wasser klar bleibt. Mit Wasser aufkochen, offen köcheln bis weich (ca. 45 Minuten). Mit Kartoffelstampfer zu dünnem Brei zerdrücken.",
+    "Parallel Tamarinde in kochendem Wasser 15 Minuten einweichen, zwischen den Fingern von den Fasern lösen, Saft durchsieben.",
+    "Für die Sambar-Gewürzmischung: entkernte Chilis anrösten. Koriandersamen, Kreuzkümmel, Bockshornklee, Pfeffer dazu rösten bis aromatisch. Curryblätter rein bis knusprig, zuletzt Chana Dal und Urad Dal goldbraun rösten. Alles mit Kurkuma und Asafoetida fein mahlen.",
+    "Schalotten halbieren, Chili und restliches Gemüse grob schneiden, Koriander hacken. Schalotten kurz anbraten, Tomaten und Chili dazu, dann restliches Gemüse mit Wasser, Kurkuma und Salz. Aufkochen, zugedeckt 10 Minuten köcheln.",
+    "Gewürzmischung unterrühren, Tamarindensaft und den Dal-Brei dazu, aufkochen, Herd aus.",
+    "Für den Temper: Öl erhitzen, Senfkörner und Bockshornklee zischen lassen. Chilis und Curryblätter dazu, zuletzt Asafoetida.",
+    "Temper über den Sambar gießen, Koriander drüber, 2 Minuten zugedeckt ziehen lassen. Umrühren, mit Idli oder Reis servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/sambar-south-indian-lentil-veg-stew/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

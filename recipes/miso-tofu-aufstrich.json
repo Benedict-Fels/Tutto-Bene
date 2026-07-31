@@ -1,0 +1,85 @@
+{
+  "id": "miso-tofu-aufstrich",
+  "title": "Cremiger Miso-Tofu-Aufstrich",
+  "summary": "Luftig aufgeschlagener Seidentofu mit weißem Miso und Zitrone, mit angebratenen Zucchini-Scheiben.",
+  "image": "images/miso-tofu-aufstrich.jpg",
+  "category": "Sonstige",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Seidentofu",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Miso",
+      "variety": "weiß"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzlicher Joghurt",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": "nur Schale"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zucchini",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Seidentofu, Miso, Zitronensaft, Salz im Mixer glatt pürieren, abschmecken.",
+    "Öl in Pfanne erhitzen, Zucchini-Scheiben darin 5 Minuten braten bis weich-knackig.",
+    "Zitronensaft und -schale dazu, salzen, pfeffern.",
+    "Tofu-Creme auf Brot streichen, mit Zucchini toppen."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/whipped-miso-tofu-spread"
+  },
+  "note": null
+}

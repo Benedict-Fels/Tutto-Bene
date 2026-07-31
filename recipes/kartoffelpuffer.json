@@ -1,0 +1,51 @@
+{
+  "id": "kartoffelpuffer",
+  "title": "Kartoffelpuffer",
+  "summary": "Knusprige deutsche Kartoffelpuffer mit goldener Kruste — klassisch mit Apfelmus oder Sauerkraut.",
+  "image": "images/kartoffelpuffer.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "mittelgroß"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": "zum Braten"
+    }
+  ],
+  "steps": [
+    "Kartoffeln schälen, fein reiben, überschüssiges Wasser durch ein Sieb auspressen. Stärkesatz aus der Flüssigkeit aufheben.",
+    "Zwiebel reiben, Flüssigkeit auspressen, mit Salz zu den Kartoffeln geben.",
+    "Kartoffelstärke wieder untermischen.",
+    "Öl in einer Pfanne erhitzen, dann auf mittlere Hitze runter. Esslöffelweise Teig in die Pfanne geben, auf ½ cm flachdrücken. 4-5 Minuten pro Seite goldbraun braten.",
+    "Auf Küchenpapier abtropfen, bei Bedarf im Ofen bei 100°C warmhalten.",
+    "Heiß mit Apfelmus oder Sauerkraut servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/kartoffelpuffer-crispy-potato-pancakes/"
+  },
+  "note": null
+}

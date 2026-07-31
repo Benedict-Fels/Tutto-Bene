@@ -1,0 +1,127 @@
+{
+  "id": "jamaican-rice-and-peas",
+  "title": "Jamaican Rice and Peas",
+  "summary": "Cremiger Kokosreis mit Pintobohnen und Piment — klassische karibische Beilage, die auch als Hauptgericht trägt.",
+  "image": "images/jamaican-rice-and-peas.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Karibisch",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 50,
+  "restTime": 5,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 0.25,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "grün"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 900,
+      "unit": "g",
+      "name": "Pinto-Bohnen",
+      "variety": "aus der Dose"
+    },
+    {
+      "amount": 1.75,
+      "unit": "TL",
+      "name": "Adobo-Gewürz",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Knoblauchgranulat",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Zwiebelgranulat",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Brauner Zucker",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": "im Ganzen, angequetscht"
+    },
+    {
+      "amount": 700,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Vollkorn, Langkorn"
+    }
+  ],
+  "steps": [
+    "Öl im großen Topf erhitzen, Zwiebel, Paprika und Knoblauch 2 Minuten dünsten bis die Paprika weicher wird.",
+    "Bohnen, Adobo-Gewürz, Knoblauchgranulat, Zwiebelgranulat, Pfeffer, Thymian und Zucker dazu, umrühren, 3 Minuten köcheln.",
+    "Kokosmilch einrühren, Hitze hoch, aufkochen. Frühlingszwiebel dazu, 5 Minuten köcheln.",
+    "Kochendes Wasser dazu, abschmecken, kräftig aufkochen. Reis einrühren, zugedeckt Hitze auf mittel-niedrig.",
+    "Alle 5 Minuten umrühren, bis der Großteil der Flüssigkeit aufgesogen ist, 20–30 Minuten.",
+    "Mit Alufolie und Deckel fest abdecken, Hitze auf niedrig, 15 Minuten dampfen lassen.",
+    "Herd aus, 5 Minuten stehen lassen, dann auflockern und servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/vegan-jamaican-rice-peas/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

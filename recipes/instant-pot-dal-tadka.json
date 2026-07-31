@@ -1,0 +1,154 @@
+{
+  "id": "instant-pot-dal-tadka",
+  "title": "Instant-Pot-Dal-Tadka",
+  "summary": "Gelbe Linsen aus dem Schnellkochtopf mit knisterndem Gewürz-Tadka aus Senfkörnern, Kreuzkümmel und Zimt.",
+  "image": "images/instant-pot-dal-tadka.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Chana Dal",
+      "variety": "oder gelbe Linsen"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Kokosöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": "daumengroßes Stück"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "grün, Serrano"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Koriander gemahlen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Garam Masala",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": "Kashmiri"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 680,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Kokosöl",
+      "variety": "für die Tarka"
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Curryblätter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Senfkörner",
+      "variety": "schwarz"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "ganze Samen"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange"
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Erdnüsse",
+      "variety": "geröstet, gehackt, optional"
+    }
+  ],
+  "steps": [
+    "Chana Dal 15 Minuten in kaltem Wasser einweichen, abgießen.",
+    "Sauté-Modus im Schnellkochtopf, Öl, Zwiebel und Prise Salz dazu, 3–4 Minuten glasig braten.",
+    "Knoblauch, Ingwer und Chili dazu, 60–90 Sekunden mitbraten. Kurkuma, Koriander, Garam Masala, Chilipulver und Salz dazu, 30 Sekunden kräftig rühren. Etwas Wasser einrühren.",
+    "Sauté aus, restliches Wasser dazu, dabei Röststoffe vom Boden lösen. Abgetropften Dal einrühren.",
+    "Deckel schließen, Ventil auf Sealing, 10 Minuten bei hohem Druck garen.",
+    "10 Minuten natürlich entlüften lassen, dann restlichen Druck ablassen.",
+    "Für die Tarka: Öl in kleiner Pfanne erhitzen, Senfkörner, Kreuzkümmel und Zimtstange dazu, sobald es zischt Curryblätter dazu, 60–90 Sekunden rühren bis stark aromatisch.",
+    "Dal bei Bedarf 2–3 Minuten offen köcheln lassen zum Andicken.",
+    "Tarka über den Dal gießen, verrühren. Zitronensaft und Koriander einrühren, abschmecken.",
+    "Mit gerösteten Erdnüssen bestreut servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/instant-pot-dal-tadka/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

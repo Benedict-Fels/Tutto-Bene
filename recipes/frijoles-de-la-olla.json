@@ -1,0 +1,76 @@
+{
+  "id": "frijoles-de-la-olla",
+  "title": "Frijoles de la Olla",
+  "summary": "Mexikanische Töpfchenbohnen — schwarze Bohnen langsam geköchelt mit Epazote und Guajillo-Chili.",
+  "image": "images/frijoles-de-la-olla.jpg",
+  "category": "Sonstige",
+  "cuisine": "Mexikanisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 80,
+  "restTime": 480,
+  "ingredients": [
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Schwarze Bohnen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "groß, ungeschält"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Epazote",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "getrocknet, Guajillo"
+    },
+    {
+      "amount": 0.5,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Bohnen mit Salz in reichlich Wasser über Nacht einweichen.",
+    "Abgießen, abspülen, mit frischem Wasser, der geschälten Zwiebel, den ungeschälten Knoblauchzehen, Epazote, Oregano und Chili aufkochen. Mit leicht geöffnetem Deckel 1 Stunde köcheln bis weich.",
+    "Restliches Salz dazu, 10 Minuten weiterköcheln.",
+    "Herd aus, Chili und Zwiebel rausnehmen. Knoblauch rausfischen, mit Gabel zerdrücken, zurück in den Topf geben. Umrühren, servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/frijoles-de-la-olla-mexican-slow-cooked-beans/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

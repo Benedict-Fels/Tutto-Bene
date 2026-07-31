@@ -1,0 +1,116 @@
+{
+  "id": "tofu-piccata",
+  "title": "Tofu-Piccata",
+  "summary": "Knusprig gebratener Tofu in cremiger Zitronen-Kapern-Sauce — italienisch angehaucht, schnell gemacht.",
+  "image": "images/tofu-piccata.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Tofu",
+      "variety": "extrafest"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 45,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Schalotte",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Kapern",
+      "variety": null
+    },
+    {
+      "amount": 240,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": "Hähnchen-Geschmack"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 0.75,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": "in Scheiben"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Petersilie",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Mehl auf einen Teller geben. Tofu in vier dünne Scheiben schneiden, beidseitig salzen und pfeffern, in Mehl wenden.",
+    "2 EL Butter und Olivenöl in großer Pfanne bei mittelhoher Hitze erhitzen bis es sprudelt.",
+    "Tofu je Seite 2,5–3 Minuten goldbraun braten. Rausnehmen, auf Küchenpapier legen.",
+    "Hitze runter, Schalotte 1 Minute andünsten, Knoblauch und Kapern dazu, 1 Minute mitbraten.",
+    "Brühe dazu, 2–3 Minuten köcheln.",
+    "Speisestärke mit etwas Wasser verrühren, in die Pfanne, 1–2 Minuten köcheln bis glänzend.",
+    "Hitze runter, restliche Butter, Zitronensaft, Zitronenscheiben und Salz einrühren.",
+    "Tofu zurück in die Pfanne, kurz erwärmen. Mit Petersilie bestreut servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/vegan-chicken-piccata/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

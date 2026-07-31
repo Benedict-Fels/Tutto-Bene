@@ -1,0 +1,65 @@
+{
+  "id": "hari-chutney",
+  "title": "Hari Chutney",
+  "summary": "Frisches grünes Chutney aus Koriander, Chili und Zitrone — würziger Begleiter zu indischen Gerichten.",
+  "image": "images/hari-chutney.jpg",
+  "category": "Sonstige",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "grün"
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 60,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Untere Stiele vom Koriander entfernen, Rest grob hacken. Chili und Knoblauch putzen.",
+    "Alles zusammen im Mixer zu dickem Chutney pürieren, dabei Wasser nach Bedarf anpassen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/hari-chutney-indian-coriander-chutney/"
+  },
+  "note": null
+}

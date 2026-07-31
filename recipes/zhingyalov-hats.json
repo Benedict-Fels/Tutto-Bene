@@ -1,0 +1,123 @@
+{
+  "id": "zhingyalov-hats",
+  "title": "Zhingyalov Hats",
+  "summary": "Armenisches Fladenbrot, gefüllt mit einer würzigen Mischung aus frischen Kräutern und Blattgemüse.",
+  "image": "images/zhingyalov-hats.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Armenisch",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 45,
+  "restTime": 10,
+  "ingredients": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 1.25,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 210,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Spinat",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Rucola",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Dill",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Minze",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": "für die Füllung"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Bestreichen"
+    }
+  ],
+  "steps": [
+    "Mehl, Salz und Wasser zu grobem Teig verkneten, 1–2 Minuten kneten bis elastisch. In acht Kugeln teilen, abdecken, mindestens 10 Minuten ruhen lassen.",
+    "Frühlingszwiebeln in Ringe schneiden. Restliche Kräuter und Blattgemüse waschen, trocknen, im Blitzhacker fein hacken. Mit Zwiebeln, Salz, Paprikapulver, Chiliflocken, Pfeffer, Zitronensaft und Öl vermengen.",
+    "Schwere Pfanne erhitzen. Teigkugel auf bemehlter Fläche dünn zu großem Kreis ausrollen.",
+    "Füllung in die Mitte geben, Ränder mit Wasser befeuchten, links und rechts zur Mitte falten, Naht zudrücken, Luft rausdrücken, oval flach drücken.",
+    "Etwa eine Minute backen bis goldene Flecken entstehen, wenden, nochmal backen, mit Öl bestreichen, nochmal wenden, fertig backen.",
+    "Mit Tuch abgedeckt warmhalten, restliche Teigkugeln genauso füllen und backen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/zhingyalov-hats-armenian-stuffed-flatbreads/"
+  },
+  "note": null
+}

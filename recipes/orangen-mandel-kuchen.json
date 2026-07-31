@@ -1,0 +1,93 @@
+{
+  "id": "orangen-mandel-kuchen",
+  "title": "Orangen-Mandel-Kuchen",
+  "summary": "Saftiger Kastenkuchen mit gemahlenen Mandeln und frischem Orangensaft — unkompliziert und immer gut.",
+  "image": "images/orangen-mandel-kuchen.jpg",
+  "category": "Dessert",
+  "cuisine": "Sonstige",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 50,
+  "restTime": 30,
+  "ingredients": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Mandeln",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Natron",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Backpulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 80,
+      "unit": "ml",
+      "name": "Pflanzenöl",
+      "variety": "Raps"
+    },
+    {
+      "amount": 150,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": "Mandel"
+    },
+    {
+      "amount": 175,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Orange",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Orange",
+      "variety": "nur Schale"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Essig",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Ofen auf 180°C, Kastenform fetten und mit Backpapier auslegen.",
+    "Öl, Zucker und Pflanzendrink verrühren, Orangensaft und -schale dazu.",
+    "Mehl, Backpulver, Natron, Mandeln und Salz in separater Schüssel mischen.",
+    "Trockene und feuchte Mischung vorsichtig glatt rühren.",
+    "In die Form füllen, glattstreichen, 40–60 Minuten auf mittlerer Schiene backen.",
+    "Komplett auskühlen lassen, bevor er aus der Form kommt."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/vegan-orange-almond-cake"
+  },
+  "note": null
+}

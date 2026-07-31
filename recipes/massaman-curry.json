@@ -1,0 +1,121 @@
+{
+  "id": "massaman-curry",
+  "title": "Massaman-Curry mit Kartoffeln und Tofu",
+  "summary": "Thailändisches Dump-and-Bake-Curry aus dem Ofen — Kartoffeln, Tofu und Erdnüsse in cremiger Kokos-Massaman-Sauce.",
+  "image": "images/massaman-curry.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 45,
+  "restTime": 5,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Knoblauch",
+      "variety": "gehackt"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Brauner Zucker",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Currypaste",
+      "variety": "Massaman"
+    },
+    {
+      "amount": 440,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 120,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 280,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Tofu",
+      "variety": "extrafest"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Erdnüsse",
+      "variety": "geröstet, ungesalzen"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Limette",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Jasmin, zum Servieren"
+    }
+  ],
+  "steps": [
+    "Ofen auf 215°C vorheizen, Auflaufform bereitstellen.",
+    "Knoblauch, Ingwer, Zucker, Currypaste, Sojasauce, Kokosmilch und Wasser in der Form verrühren, bis die Currypaste sich gleichmäßig verteilt hat.",
+    "Kartoffeln, Karotte und Zwiebel dazugeben, gut mischen.",
+    "Tofu und Erdnüsse gleichmäßig darüber verteilen, mit Deckel oder Alufolie abdecken.",
+    "Auf mittlerer Schiene 45–50 Minuten backen, bis die Kartoffeln mit der Gabel weich sind.",
+    "Aus dem Ofen nehmen, aufdecken, 5 Minuten ruhen lassen.",
+    "Mit Limette, Koriander und Reis servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/one-pan-vegan-massaman-curry/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

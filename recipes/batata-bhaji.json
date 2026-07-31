@@ -1,0 +1,34 @@
+{
+  "id": "batata-bhaji",
+  "title": "Batata Bhaji",
+  "summary": "Maharashtra-Kartoffelpfanne mit Senfkörnern, Curryblättern und Zitrone — Beilage zu Misal Pav.",
+  "image": "images/batata-bhaji.jpg",
+  "category": "Sonstige",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 500, "unit": "g", "name": "Kartoffel", "variety": "mehlig kochend" },
+    { "amount": 1, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Koriander", "variety": "frisch" },
+    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Senfkörner", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Kreuzkümmel", "variety": null },
+    { "amount": 1, "unit": "Handvoll", "name": "Curryblätter", "variety": null },
+    { "amount": 0.25, "unit": "TL", "name": "Asafoetida", "variety": null },
+    { "amount": 0.25, "unit": "TL", "name": "Kurkuma", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Zitrone", "variety": "Saft" }
+  ],
+  "steps": [
+    "Kartoffeln in Topf mit Wasser und Salz aufkochen, 20-30 Minuten köcheln bis messerweich. Abgießen, abkühlen lassen, schälen. Koriander hacken.",
+    "Öl erhitzen, Senfkörner und Kreuzkümmel dazu. Sobald sie kräftig zischen, Curryblätter rein bis knusprig.",
+    "Asafoetida, Kurkuma und restliches Salz dazu, kurz durchwärmen.",
+    "Kartoffeln direkt in der Pfanne mit den Händen grob zerdrücken. Koriander und Zitronensaft unterheben.",
+    "Warm servieren oder für Misal Pav beiseitestellen."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/batata-bhaji-maharashtrian-spiced-potatoes/" },
+  "note": null
+}

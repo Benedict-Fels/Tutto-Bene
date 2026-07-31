@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Rezept — Tutto Bene.</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="header-icon" aria-hidden="true">
+          <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 5.5 2 10a7 7 0 0 1-2 4.6"></path><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"></path></svg>
+        </span>
+        <div class="header-text">
+          <h1><a href="index.html">Tutto Bene<span class="pea">.</span></a></h1>
+          <p class="subtitle">vegan gut, alles gut</p>
+        </div>
+      </div>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Zu dunklem Design wechseln">
+        <svg class="icon-sun" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.2" y1="4.2" x2="5.6" y2="5.6"></line><line x1="18.4" y1="18.4" x2="19.8" y2="19.8"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.2" y1="19.8" x2="5.6" y2="18.4"></line><line x1="18.4" y1="5.6" x2="19.8" y2="4.2"></line></svg>
+        <svg class="icon-moon" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+      </button>
+    </div>
+    <svg class="header-wave" viewBox="0 0 1180 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0,20 C 200,45 400,0 590,18 C 780,36 980,0 1180,20 L1180,40 L0,40 Z"></path></svg>
+  </header>
+
+  <main class="detail" id="detail">
+    <a class="back" href="index.html">&larr; Zurück zur Übersicht</a>
+    <p id="loading">Rezept wird geladen &hellip;</p>
+  </main>
+
+  <script src="theme.js"></script>
+  <script>
+    const WHOLE_NUMBER_UNITS = ['g', 'ml'];
+    // alle übrigen Einheiten (kg, l, Stück, TL, EL, Prise, Bund, Zehe, Dose, Packung, Handvoll)
+    // werden auf 2 Nachkommastellen gerundet.
+
+    // Pluralform für Einheiten, die sich vom Singular unterscheiden.
+    // Fehlt eine Einheit hier, bleibt sie unverändert (TL, EL, Bund, Handvoll, g, kg, ml, l).
+    const UNIT_PLURALS = {
+      'Stück': 'Stücke',
+      'Zehe': 'Zehen',
+      'Dose': 'Dosen',
+      'Packung': 'Packungen',
+      'Prise': 'Prisen',
+    };
+
+    // Zutaten, bei denen die Einheit "Stück" in der Anzeige komplett wegfällt,
+    // weil der pluralisierte Zutatenname für sich allein steht ("4 Zwiebeln"
+    // statt "4 Stück Zwiebel"). Wert = Pluralform des Namens; ist der Name
+    // schon Plural oder unveränderlich (z. B. "Paprika"), steht dort derselbe Wert.
+    const COUNTABLE_INGREDIENTS = {
+      'Zwiebel': 'Zwiebeln',
+      'Karotte': 'Karotten',
+      'Lorbeerblatt': 'Lorbeerblätter',
+      'Frühlingszwiebel': 'Frühlingszwiebeln',
+      'Paprika': 'Paprika',
+      'Gewürzgurken': 'Gewürzgurken',
+    };
+
+    function displayUnit(unit, amount) {
+      return amount === 1 ? unit : (UNIT_PLURALS[unit] || unit);
+    }
+
+    function getIdParam() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('id');
+    }
+
+    function formatNumber(number) {
+      // deutsches Komma, keine überflüssigen Nachkommastellen
+      const rounded = Math.round(number * 100) / 100;
+      return rounded.toString().replace('.', ',');
+    }
+
+    function roundAmount(amount, unit, factor) {
+      const value = amount * factor;
+      if (WHOLE_NUMBER_UNITS.includes(unit)) {
+        return Math.round(value);
+      }
+      return Math.round(value * 100) / 100;
+    }
+
+    function toTasteText(factor) {
+      if (factor === 1) return 'nach Geschmack';
+      if (factor === 2) return 'nach Geschmack, doppelt';
+      if (factor === 0.5) return 'nach Geschmack, halb';
+      if (factor === 3) return 'nach Geschmack, dreifach';
+      return `nach Geschmack, ×${formatNumber(factor)}`;
+    }
+
+    function ingredientRow(ingredient, factor) {
+      let text;
+      if (ingredient.amount === null) {
+        text = `${ingredient.name} — ${toTasteText(factor)}`;
+      } else {
+        const amount = roundAmount(ingredient.amount, ingredient.unit, factor);
+        const pluralName = COUNTABLE_INGREDIENTS[ingredient.name];
+        if (ingredient.unit === 'Stück' && pluralName) {
+          const name = amount === 1 ? ingredient.name : pluralName;
+          text = `${formatNumber(amount)} ${name}`;
+        } else {
+          text = `${formatNumber(amount)} ${displayUnit(ingredient.unit, amount)} ${ingredient.name}`;
+        }
+      }
+      if (ingredient.variety) {
+        text += ` (${ingredient.variety})`;
+      }
+      return `<li><span class="ingredient-dot"></span>${text}</li>`;
+    }
+
+    function timesRow(recipe) {
+      const parts = [
+        `<span>Vorbereitung: ${recipe.prepTime} Min</span>`,
+        `<span>Kochzeit: ${recipe.cookTime} Min</span>`
+      ];
+      if (recipe.restTime && recipe.restTime > 0) {
+        parts.push(`<span>Ruhezeit: ${recipe.restTime} Min</span>`);
+      }
+      return parts.join('');
+    }
+
+    function sourceBlock(recipe) {
+      if (!recipe.source) return '';
+      return `
+        <p class="source">
+          Quelle: <a href="${recipe.source.url}" target="_blank" rel="noopener">${recipe.source.name} &nearr;</a>
+        </p>
+      `;
+    }
+
+    function renderIngredients(recipe, servings) {
+      const factor = servings / recipe.servings;
+      const list = recipe.ingredients.map(i => ingredientRow(i, factor)).join('');
+      document.getElementById('ingredients-list').innerHTML = list;
+    }
+
+    async function loadRecipe() {
+      const id = getIdParam();
+      const container = document.getElementById('detail');
+      if (!id) {
+        container.innerHTML = '<a class="back" href="index.html">&larr; Zurück zur Übersicht</a><p>Kein Rezept angegeben.</p>';
+        return;
+      }
+
+      let recipe;
+      try {
+        const response = await fetch(`recipes/${id}.json`);
+        if (!response.ok) throw new Error('nicht gefunden');
+        recipe = await response.json();
+      } catch (err) {
+        container.innerHTML = '<a class="back" href="index.html">&larr; Zurück zur Übersicht</a><p>Dieses Rezept gibt es nicht (mehr).</p>';
+        return;
+      }
+
+      document.title = `${recipe.title} — Tutto Bene.`;
+
+      const image = recipe.image
+        ? `<img class="detail-image" src="${recipe.image}" alt="">`
+        : `<div class="card-image-placeholder">kein Bild</div>`;
+
+      container.innerHTML = `
+        <a class="back" href="index.html">&larr; Zurück zur Übersicht</a>
+        ${image}
+        <h1>${recipe.title}</h1>
+        <div class="badges">
+          <span class="badge">${recipe.category}</span>
+          <span class="badge cuisine">${recipe.cuisine}</span>
+        </div>
+        <p class="times">${timesRow(recipe)}</p>
+
+        <div class="toolbar">
+          <div class="servings">
+            <button type="button" id="servings-minus" aria-label="weniger Portionen">&minus;</button>
+            <span><span id="servings-count">${recipe.servings}</span> Portionen</span>
+            <button type="button" id="servings-plus" aria-label="mehr Portionen">+</button>
+          </div>
+          <button type="button" class="cook-mode" id="cook-mode-toggle">Kochmodus: Display an</button>
+        </div>
+
+        <div class="content-grid">
+          <div class="ingredients">
+            <h3>Zutaten</h3>
+            <ul id="ingredients-list"></ul>
+          </div>
+          <div class="steps">
+            <h3>Zubereitung</h3>
+            <div class="steps-timeline">${recipe.steps.map((s, i) => `
+              <div class="step">
+                <span class="step-number">${i + 1}</span>
+                <p>${s}</p>
+              </div>
+            `).join('')}</div>
+          </div>
+        </div>
+
+        ${sourceBlock(recipe)}
+      `;
+
+      let servings = recipe.servings;
+      renderIngredients(recipe, servings);
+
+      document.getElementById('servings-minus').addEventListener('click', () => {
+        if (servings > 1) {
+          servings -= 1;
+          document.getElementById('servings-count').textContent = servings;
+          renderIngredients(recipe, servings);
+        }
+      });
+      document.getElementById('servings-plus').addEventListener('click', () => {
+        servings += 1;
+        document.getElementById('servings-count').textContent = servings;
+        renderIngredients(recipe, servings);
+      });
+
+      setupCookMode();
+    }
+
+    function setupCookMode() {
+      const toggle = document.getElementById('cook-mode-toggle');
+      let wakeLock = null;
+
+      if (!('wakeLock' in navigator)) {
+        toggle.disabled = true;
+        toggle.title = 'Dein Browser unterstützt das leider nicht.';
+        return;
+      }
+
+      toggle.addEventListener('click', async () => {
+        try {
+          if (!wakeLock) {
+            wakeLock = await navigator.wakeLock.request('screen');
+            toggle.dataset.active = 'true';
+            toggle.textContent = 'Kochmodus: Display an ✓';
+            wakeLock.addEventListener('release', () => {
+              toggle.dataset.active = 'false';
+              toggle.textContent = 'Kochmodus: Display an';
+              wakeLock = null;
+            });
+          } else {
+            await wakeLock.release();
+            wakeLock = null;
+          }
+        } catch (err) {
+          toggle.dataset.active = 'false';
+          toggle.textContent = 'Kochmodus: Display an';
+        }
+      });
+    }
+
+    loadRecipe();
+  </script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+{
+  "id": "rooibos-cappuccino",
+  "title": "Rooibos Cappuccino",
+  "summary": "Südafrikanischer Cappuccino ohne Koffein — starker Rooibos-Tee mit cremig aufgeschäumtem Pflanzendrink.",
+  "image": "images/rooibos-cappuccino.jpg",
+  "category": "Sonstige",
+  "cuisine": "Südafrikanisch",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 5,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 12,
+      "unit": "g",
+      "name": "Rooibostee",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": "Barista-Hafer"
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Zimt",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Rooibos stark aufbrühen (im Siebträger wie Espresso, oder als starken Tee ziehen lassen).",
+    "Pflanzendrink mit Dampfdüse oder Milchaufschäumer cremig aufschäumen.",
+    "Rooibos in Tasse geben, aufgeschäumten Pflanzendrink obendrauf.",
+    "Nach Belieben mit Zimt bestäuben."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/rooibos-cappuccino-south-african-red-cappuccino/"
+  },
+  "note": null
+}

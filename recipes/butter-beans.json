@@ -1,0 +1,89 @@
+{
+  "id": "butter-beans",
+  "title": "Butterbohnen",
+  "summary": "Cremige Butterbohnen in rauchig-zitroniger Brühe — zehn Zutaten, dreißig Minuten, viel Trost.",
+  "image": "images/butter-beans.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mediterran",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 17,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": "frisch"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 900,
+      "unit": "g",
+      "name": "Weiße Bohnen",
+      "variety": "Butterbohnen, aus der Dose"
+    },
+    {
+      "amount": 300,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Petersilie",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Öl im großen Topf erhitzen. Zitrone mit der Schnittfläche nach unten an eine Seite legen, Zwiebel daneben, 5–6 Minuten goldbraun braten. Zitrone rausnehmen, beiseitestellen.",
+    "Hitze runter, Knoblauch, Thymian, Paprikapulver und Pfeffer dazu, 1 Minute anschwitzen.",
+    "Bohnen und Brühe dazu, aufkochen, dann 10–12 Minuten bei mittlerer Hitze köcheln, gelegentlich umrühren.",
+    "Vom Herd, Saft der gebratenen Zitrone reinpressen, mit Salz und Pfeffer abschmecken.",
+    "Mit Petersilie bestreut und mit knusprigem Brot servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/easy-butter-beans-recipe/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

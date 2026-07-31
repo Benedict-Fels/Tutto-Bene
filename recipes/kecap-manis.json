@@ -1,0 +1,67 @@
+{
+  "id": "kecap-manis",
+  "title": "Kecap Manis",
+  "summary": "Süße indonesische Sojasauce mit Gewürzen — Grundzutat für Pfannengerichte, Marinaden und Gegrilltes.",
+  "image": "images/kecap-manis.jpg",
+  "category": "Sonstige",
+  "cuisine": "Indonesisch",
+  "servings": 10,
+  "prepTime": 25,
+  "cookTime": 15,
+  "restTime": 30,
+  "ingredients": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Palmzucker",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": "ganze Körner, optional"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange, optional"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Sternanis",
+      "variety": "optional"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Nelken",
+      "variety": "optional"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "optional"
+    }
+  ],
+  "steps": [
+    "Alle Zutaten in Topf aufkochen, dabei rühren bis der Zucker sich löst.",
+    "Hitze runter, 15 Minuten köcheln bis leicht sirupartig.",
+    "Vom Herd, komplett abkühlen lassen.",
+    "Gewürze und Knoblauch absieben, in Glas füllen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/kecap-manis-indonesian-sweet-soy-sauce/"
+  },
+  "note": null
+}

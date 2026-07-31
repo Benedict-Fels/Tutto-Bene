@@ -1,0 +1,132 @@
+{
+  "id": "kuerbis-kichererbsen-curry",
+  "title": "Kürbis-Kichererbsen-Curry",
+  "summary": "Thai-inspiriertes One-Pot-Curry mit Kürbis, Kichererbsen und Kokosmilch — in vierzig Minuten fertig.",
+  "image": "images/kuerbis-kichererbsen-curry.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Kokosöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Schalotte",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "Thai, optional"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": "daumengroßes Stück"
+    },
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": "ein Viertel Bund"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Currypaste",
+      "variety": "rot, Thai"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Palmzucker",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 120,
+      "unit": "g",
+      "name": "Kürbispüree",
+      "variety": null
+    },
+    {
+      "amount": 440,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 120,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Kürbis",
+      "variety": "gewürfelt"
+    },
+    {
+      "amount": 420,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Limette",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "zum Servieren"
+    }
+  ],
+  "steps": [
+    "Kokosöl in großer Pfanne oder Topf erhitzen. Schalotte, Chili, Knoblauch und Ingwer 3 Minuten andünsten bis leicht gebräunt. Currypaste und Korianderstiele dazu, 1–2 Minuten mitbraten.",
+    "Kürbispüree, Zucker, Salz, Kokosmilch und Wasser dazu, verrühren, aufkochen.",
+    "Kürbis, Paprika und Kichererbsen vorsichtig unterheben, mit Deckel aufkochen.",
+    "Deckel ab, 15–20 Minuten bei mittlerer Hitze köcheln, gelegentlich umrühren, bis der Kürbis mit der Gabel weich ist und die Sauce eindickt.",
+    "Limettensaft und Salz nach Geschmack einrühren.",
+    "Über Reis servieren, mit restlichem Koriander bestreut."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/one-pot-pumpkin-curry/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

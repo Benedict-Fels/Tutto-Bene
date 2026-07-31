@@ -1,0 +1,89 @@
+{
+  "id": "lokma",
+  "title": "Lokma",
+  "summary": "Türkische Hefeteig-Kugeln, knusprig frittiert und in Rosenwasser-Sirup getränkt.",
+  "image": "images/lokma.jpg",
+  "category": "Dessert",
+  "cuisine": "Türkisch",
+  "servings": 10,
+  "prepTime": 40,
+  "cookTime": 20,
+  "restTime": 40,
+  "ingredients": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": "für den Sirup"
+    },
+    {
+      "amount": 300,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "für den Sirup"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zitrone",
+      "variety": "ein paar Tropfen Saft"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Rosenwasser",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zucker",
+      "variety": "für den Teig"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Trockenhefe",
+      "variety": null
+    },
+    {
+      "amount": 375,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "lauwarm"
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Pflanzenöl",
+      "variety": "zum Frittieren"
+    }
+  ],
+  "steps": [
+    "Für den Sirup Zucker und Wasser aufkochen, 2-3 Minuten köcheln, Zitronensaft und Rosenwasser dazu, abkühlen lassen.",
+    "Mehl, Zucker und Salz mischen, Hefe reinbröseln, lauwarmes Wasser dazu, verrühren.",
+    "5 Minuten kräftig schlagen, mit feuchtem Tuch abdecken, 30-45 Minuten gehen lassen bis blubbernd.",
+    "Öl in schwerem Topf auf 180°C erhitzen.",
+    "Löffel einölen, walnussgroße Teigportionen zwischen Daumen und Zeigefinger abzwicken, mit dem Löffel ins heiße Öl geben.",
+    "In Portionen 6-8 Minuten frittieren, gelegentlich wenden, bis goldbraun.",
+    "Mit Schaumkelle direkt in den Sirup geben, 2-3 Minuten tränken, dann in flache Schale.",
+    "Mit restlichem Teig wiederholen, warm servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/lokma-turkish-fried-dough-balls-in-rose-water-syrup/"
+  },
+  "note": null
+}

@@ -1,0 +1,85 @@
+{
+  "id": "salatet-fellahin",
+  "title": "Salatet Fellahin",
+  "summary": "Libanesischer Bauernsalat mit Tomaten, Gurken und Radieschen, mit Sumach und Zitrone gewürzt.",
+  "image": "images/salatet-fellahin.jpg",
+  "category": "Sonstige",
+  "cuisine": "Libanesisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Salatgurke",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Radieschen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot, klein"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Minze",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Sumach",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Tomaten, Gurken und Radieschen würfeln. Zwiebel schälen, fein hacken. Petersilie von den unteren Stielen befreien, fein hacken.",
+    "Alles nach und nach in eine große Schüssel geben.",
+    "Minze, Sumach, Salz, Olivenöl und Zitronensaft dazu.",
+    "Gut vermischen, sofort servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/salatet-fellahin-lebanese-farmers-salad/"
+  },
+  "note": null
+}

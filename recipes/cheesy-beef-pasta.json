@@ -1,0 +1,95 @@
+{
+  "id": "cheesy-beef-pasta",
+  "title": "Cheesy-Beef-Pasta",
+  "summary": "One-Pot-Pasta mit veganem Hackfleisch in cremiger Cashew-Käse-Sauce — deftig, in unter dreißig Minuten fertig.",
+  "image": "images/cheesy-beef-pasta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 5,
+  "ingredients": [
+    {
+      "amount": 70,
+      "unit": "g",
+      "name": "Cashewkerne",
+      "variety": "über Nacht eingeweicht"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 0.75,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 890,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 350,
+      "unit": "g",
+      "name": "Veganes Hackfleisch",
+      "variety": "Tuscan-Style Skillet"
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Petersilie",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Cashews, Karotte, Paprika, Knoblauch, Hefeflocken, Salz, Pfeffer und Wasser fein pürieren.",
+    "Hackfleisch im großen Topf 3–5 Minuten anbraten bis gebräunt. Nudeln und Sauce dazu, gut mischen.",
+    "Aufkochen, dann Hitze auf mittel-niedrig, 12–14 Minuten köcheln, oft umrühren. Nach 8 Minuten auf Gare prüfen.",
+    "Herd aus, 3–5 Minuten ruhen lassen zum Andicken.",
+    "Mit Petersilie und Pfeffer bestreut servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/one-pot-cheesy-beef-pasta-vegan/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

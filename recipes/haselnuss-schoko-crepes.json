@@ -1,0 +1,61 @@
+{
+  "id": "haselnuss-schoko-crepes",
+  "title": "Schoko-Haselnuss-Crêpes",
+  "summary": "Hauchdünne Crêpes aus Kichererbsenwasser-Teig, gefüllt mit Nuss-Nougat-Creme und gerösteten Haselnüssen.",
+  "image": "images/haselnuss-schoko-crepes.jpg",
+  "category": "Dessert",
+  "cuisine": "Französisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 460,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Kichererbsenwasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Ahornsirup",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Nuss-Nougat-Creme",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Haselnüsse",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Mehl, Pflanzendrink, Kichererbsenwasser und Ahornsirup glattrühren.",
+    "Teig dünn in beschichteter Pfanne ausbreiten.",
+    "Auf beiden Seiten backen bis leicht kross am Rand.",
+    "Mit Nuss-Nougat-Creme bestreichen, Haselnüsse drüber, zusammenklappen."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/vegan-hazelnut-chocolate-crepes"
+  },
+  "note": null
+}

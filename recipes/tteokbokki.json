@@ -1,0 +1,107 @@
+{
+  "id": "tteokbokki",
+  "title": "Tteokbokki mit Gemüse",
+  "summary": "Koreanische Reiskuchen in scharf-süßer Gochujang-Sauce mit Chinakohl, Karotten und Pilzen.",
+  "image": "images/tteokbokki.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 590,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": "natriumarm"
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "Stück",
+      "name": "Chinakohl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Knoblauch",
+      "variety": "gehackt"
+    },
+    {
+      "amount": 2.5,
+      "unit": "EL",
+      "name": "Gochujang",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chiliflocken",
+      "variety": "koreanisch, Gochugaru, optional"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": "Tamari"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 115,
+      "unit": "g",
+      "name": "Shiitake-Pilze",
+      "variety": null
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Reiskuchen",
+      "variety": "koreanisch"
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Sesamöl",
+      "variety": "geröstet"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sesam",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Brühe in tiefer Pfanne bei hoher Hitze erwärmen. Chinakohl, weiße Teile der Frühlingszwiebel, Karotte und Knoblauch dazu, Hitze runter, 2–3 Minuten köcheln.",
+    "Gochujang, Chiliflocken, Sojasauce und Zucker einrühren. Pilze dazu, 1–2 Minuten weiterköcheln.",
+    "Reiskuchen dazu, 15–20 Minuten köcheln, gelegentlich umrühren, bis weich.",
+    "Herd aus, grüne Teile der Frühlingszwiebel und Sesamöl unterrühren.",
+    "Mit Sesam bestreut servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/vegan-tteokbokki/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

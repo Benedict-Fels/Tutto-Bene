@@ -1,0 +1,65 @@
+{
+  "id": "instant-pot-cilantro-lime-rice",
+  "title": "Instant-Pot-Koriander-Limetten-Reis",
+  "summary": "Fluffiger Reis aus dem Schnellkochtopf, mit Limettensaft und frischem Koriander abgeschmeckt.",
+  "image": "images/instant-pot-cilantro-lime-rice.jpg",
+  "category": "Sonstige",
+  "cuisine": "Mexikanisch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "restTime": 10,
+  "ingredients": [
+    {
+      "amount": 370,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Basmati, gewaschen"
+    },
+    {
+      "amount": 470,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Limette",
+      "variety": "Saft"
+    },
+    {
+      "amount": 0.25,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": "gehackt"
+    }
+  ],
+  "steps": [
+    "Reis, Wasser, Salz und Öl in den Schnellkochtopf geben.",
+    "Deckel schließen, Ventil auf Sealing, 3 Minuten bei hohem Druck garen.",
+    "10 Minuten natürlich entlüften lassen, dann restlichen Druck ablassen.",
+    "Reis mit einer Gabel auflockern.",
+    "Limettensaft und Koriander unterrühren, abschmecken und servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/instant-pot-cilantro-lime-rice/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

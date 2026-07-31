@@ -1,0 +1,32 @@
+{
+  "id": "idli",
+  "title": "Idli",
+  "summary": "Fluffig-gedämpfte südindische Reis-Linsen-Küchlein, fermentiert und klassisch zu Sambar serviert.",
+  "image": "images/idli.jpg",
+  "category": "Frühstück",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 15,
+  "restTime": 600,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Reis", "variety": "Idli-Reis" },
+    { "amount": 100, "unit": "g", "name": "Urad Dal", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Poha", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Bockshornklee", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Salz", "variety": null }
+  ],
+  "steps": [
+    "Reis waschen, mit Wasser bedecken, 3-4 Stunden einweichen.",
+    "Urad Dal, Poha und Bockshornklee einmal waschen, mit Wasser bedecken, 3-4 Stunden einweichen.",
+    "Reis abgießen (Einweichwasser aufheben), mit etwas davon zu feiner, leicht griffiger Paste mixen. In große Schüssel geben.",
+    "Dal-Mischung abgießen (Einweichwasser aufheben), zu ganz glatter Paste mixen. Zur Reispaste geben, von Hand gut vermengen.",
+    "Schüssel locker abdecken, 8-24 Stunden an warmem Ort fermentieren, bis der Teig aufgegangen ist und leicht säuerlich riecht.",
+    "Wasser im Topf unter dem Idli-Ständer zum Köcheln bringen.",
+    "Idli-Förmchen einölen, Salz unter den Teig rühren. Förmchen zu drei Vierteln füllen, in den Topf setzen, aufkochen.",
+    "Hitze auf mittel, Deckel drauf (leicht geöffnet), 10 Minuten dämpfen. Herd aus, 2 Minuten nachdämpfen bis ein Spieß sauber rauskommt.",
+    "Förmchen rausnehmen, 10 Minuten ruhen lassen. Idli mit feuchtem Messer vorsichtig aus den Förmchen lösen."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/idli-sambar-with-coconut-chutney/" },
+  "note": null
+}

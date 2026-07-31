@@ -1,0 +1,89 @@
+{
+  "id": "caraotas-negras",
+  "title": "Caraotas Negras",
+  "summary": "Venezolanische schwarze Bohnen, langsam geschmort bis die Brühe sämig wird.",
+  "image": "images/caraotas-negras.jpg",
+  "category": "Sonstige",
+  "cuisine": "Venezolanisch",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 75,
+  "restTime": 480,
+  "ingredients": [
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Schwarze Bohnen",
+      "variety": null
+    },
+    {
+      "amount": 1.75,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "grün"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Bohnen mit etwas Salz in reichlich Wasser über Nacht einweichen.",
+    "Abgießen, abspülen, mit Lorbeerblatt und frischem Wasser 1 Stunde köcheln bis weich (oder 10 Minuten im Schnellkochtopf). Kochwasser aufheben.",
+    "Öl erhitzen, Zwiebel goldbraun anbraten, Paprika dazu, kurz mitbraten.",
+    "Knoblauch dazu, kurz anbraten, dann Kreuzkümmel, Oregano, Pfeffer und restliches Salz einrühren.",
+    "Bohnen mit etwas Kochwasser dazugeben, aufkochen, 10 Minuten zugedeckt köcheln. 15 Minuten ziehen lassen zum Eindicken."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/caraotas-negras-venezuelan-black-beans/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

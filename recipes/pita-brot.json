@@ -1,0 +1,63 @@
+{
+  "id": "pita-brot",
+  "title": "Pita-Brot",
+  "summary": "Weiches, selbstgemachtes Pita-Brot mit luftiger Tasche — ideal zum Füllen oder Dippen.",
+  "image": "images/pita-brot.jpg",
+  "category": "Sonstige",
+  "cuisine": "Orientalisch",
+  "servings": 8,
+  "prepTime": 40,
+  "cookTime": 30,
+  "restTime": 90,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Packung",
+      "name": "Trockenhefe",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Einfetten"
+    },
+    {
+      "amount": 210,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "lauwarm"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Hefe, Zucker, Öl und Wasser verrühren bis aufgelöst. Mehl und Salz dazu, zu grobem Teig verkneten. Mit umgedrehter Schüssel 5 Minuten ruhen lassen, dann 10 Minuten glatt kneten.",
+    "Zu Kugel formen, in geölte Schüssel legen, abdecken, 30–60 Minuten gehen lassen bis verdoppelt.",
+    "In acht Stücke teilen, rund formen, glatt ziehen, wieder abdecken.",
+    "Zu Ovalen ausrollen, mit Tuch bedeckt 30 Minuten gehen lassen.",
+    "Ofen mit Blech auf höchste Stufe vorheizen. Zwei bis drei Pitas auf das heiße Blech legen, 5–6 Minuten backen bis aufgegangen und golden.",
+    "In Tuch gehüllt warmhalten, restliche Pitas genauso backen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/easy-homemade-pita-recipe-step-by-step/"
+  },
+  "note": null
+}

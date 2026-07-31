@@ -1,0 +1,54 @@
+{
+  "id": "kabak-tatlisi",
+  "title": "Kabak Tatlısı",
+  "summary": "Türkisches Kürbisdessert, mazeriert in Zucker und mit Tahini und Walnüssen serviert.",
+  "image": "images/kabak-tatlisi.jpg",
+  "category": "Dessert",
+  "cuisine": "Türkisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "restTime": 570,
+  "ingredients": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Kürbis",
+      "variety": "geputzt, z.B. Butternut"
+    },
+    {
+      "amount": 210,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Walnüsse",
+      "variety": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Tahini",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Kürbis putzen, entkernen, in 3-4 cm Stücke schneiden.",
+    "In Topf geben (möglichst in einer Schicht), Zucker drüberstreuen, zugedeckt 6 Stunden (oder über Nacht) mazerieren lassen, bis sich der Zucker größtenteils in Sirup verwandelt hat.",
+    "Topf erhitzen bis der Sirup kocht, dann zugedeckt bei mittlerer bis niedriger Hitze 15-20 Minuten köcheln bis der Kürbis messerweich ist.",
+    "Walnüsse im Zerkleinerer grob hacken.",
+    "Herd aus, Kürbis im Topf mit leicht geöffnetem Deckel 1-2 Stunden komplett auskühlen lassen.",
+    "Auf Schalen verteilen, mit Sirup und Tahini beträufeln, mit Walnüssen bestreuen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/kabak-tatlisi-pumpkin-tahini-dessert/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

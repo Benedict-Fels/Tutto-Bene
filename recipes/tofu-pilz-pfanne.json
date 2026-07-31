@@ -1,0 +1,120 @@
+{
+  "id": "tofu-pilz-pfanne",
+  "title": "Tofu-Pilz-Pfanne",
+  "summary": "Knuspriger Tofu und herzhafte Pilze in würziger Stir-Fry-Sauce — schnelles Alltagsgericht aus dem Wok.",
+  "image": "images/tofu-pilz-pfanne.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Chinesisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tofu",
+      "variety": "extrafest, gepresst"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": "Tamari"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Hoisin-Sauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Reisessig",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 240,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": "gemischte Pilze"
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Wein",
+      "variety": "Shaoxing, optional"
+    },
+    {
+      "amount": 170,
+      "unit": "g",
+      "name": "Brokkoli",
+      "variety": "optional"
+    }
+  ],
+  "steps": [
+    "Tofu in Würfel oder Dreiecke schneiden. Teller mit Küchenpapier auslegen. Sojasauce, Hoisin-Sauce, Essig, Pfeffer, Wasser und Speisestärke verquirlen, beiseitestellen.",
+    "Öl im Wok oder großer Pfanne erhitzen. Tofu je Seite 3–5 Minuten anbraten bis braun. Auf Küchenpapier legen, salzen.",
+    "Pilze in die Pfanne, 2 Minuten unberührt anbraten lassen, dann wenden, insgesamt 3–4 Minuten bis geschrumpft und gebräunt.",
+    "Weiße Teile der Frühlingszwiebel, Knoblauch und Ingwer dazu, 1–2 Minuten anbraten. Mit Wein ablöschen, falls verwendet.",
+    "Tofu zurück in die Pfanne, Brokkoli dazu, Sauce dazugießen, aufkochen, 3–5 Minuten köcheln bis Brokkoli gar ist.",
+    "Hitze aus, restliche Frühlingszwiebel unterrühren. Über Reis servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/tofu-mushroom-stir-fry/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

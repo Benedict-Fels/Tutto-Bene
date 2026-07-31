@@ -1,0 +1,82 @@
+{
+  "id": "chorizo-chili",
+  "title": "Chorizo-Chili",
+  "summary": "Dickes, würziges Chili mit veganer Chorizo, schwarzen Bohnen und Salsa — acht Zutaten, dreißig Minuten.",
+  "image": "images/chorizo-chili.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mexikanisch",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 340,
+      "unit": "g",
+      "name": "Chorizo",
+      "variety": "vegan"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 2.5,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Schwarze Bohnen",
+      "variety": "aus der Dose"
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Salsa",
+      "variety": "mild, medium oder scharf"
+    },
+    {
+      "amount": 794,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gewürfelt"
+    }
+  ],
+  "steps": [
+    "Chorizo, Zwiebel, Knoblauch und Korianderstiele im Topf bei mittelhoher Hitze 3–5 Minuten braten bis die Zwiebel glasig ist. Kreuzkümmel dazu, 1 Minute mitrösten.",
+    "Paprika, Bohnen, Salsa und Tomaten dazu. Salsaglas mit Wasser ausspülen, dazugießen. Aufkochen.",
+    "Hitze auf mittel-niedrig, 10–12 Minuten köcheln, gelegentlich umrühren.",
+    "In Schalen füllen, mit Korianderblättern bestreut und nach Belieben mit Tortilla-Chips servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/hearty-vegan-chorizo-chili/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

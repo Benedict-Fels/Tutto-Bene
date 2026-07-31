@@ -1,0 +1,27 @@
+{
+  "id": "salsa-de-tomate-verde",
+  "title": "Salsa de Tomate Verde",
+  "summary": "Frische mexikanische Salsa aus grünen Tomaten, Jalapeños, Koriander und Limette.",
+  "image": "images/salsa-de-tomate-verde.jpg",
+  "category": "Sonstige",
+  "cuisine": "Mexikanisch",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 0,
+  "restTime": 10,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Grüne Tomate", "variety": null },
+    { "amount": 5, "unit": "Stück", "name": "Jalapeño", "variety": null },
+    { "amount": 20, "unit": "g", "name": "Koriander", "variety": "frisch" },
+    { "amount": 2, "unit": "Zehe", "name": "Knoblauch", "variety": "groß" },
+    { "amount": 1, "unit": "Stück", "name": "Limette", "variety": "Saft, ca. 2 EL" },
+    { "amount": 0.75, "unit": "TL", "name": "Salz", "variety": null }
+  ],
+  "steps": [
+    "Grüne Tomaten, Jalapeños und Koriander grob hacken, Knoblauch schälen.",
+    "Alles mit Limettensaft und Salz im Mixer glatt pürieren.",
+    "10 Minuten ziehen lassen, dann zu Tortillas servieren."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/salsa-de-tomate-verde-mexican-green-tomato-salsa/" },
+  "note": null
+}

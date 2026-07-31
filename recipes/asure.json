@@ -1,0 +1,130 @@
+{
+  "id": "asure",
+  "title": "Aşure",
+  "summary": "Türkischer Weizenpudding mit Hülsenfrüchten, Trockenfrüchten und Nüssen — süß, würzig und reich verziert.",
+  "image": "images/asure.jpg",
+  "category": "Dessert",
+  "cuisine": "Türkisch",
+  "servings": 10,
+  "prepTime": 35,
+  "cookTime": 120,
+  "restTime": 600,
+  "ingredients": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Weizenkörner",
+      "variety": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Weiße Bohnen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 0.75,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Haselnüsse",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Mandeln",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange"
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Nelken",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Aprikosen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Feigen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Rosinen",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Orange",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Zimt",
+      "variety": "gemahlen, zum Garnieren"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Pistazien",
+      "variety": "zum Garnieren"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Granatapfelkerne",
+      "variety": "zum Garnieren"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Walnüsse",
+      "variety": "zum Garnieren"
+    }
+  ],
+  "steps": [
+    "Weizen, Kichererbsen und weiße Bohnen getrennt über Nacht in reichlich Wasser einweichen, dem Kichererbsenwasser etwas Salz zufügen.",
+    "Weizen gründlich abspülen bis das Wasser klar ist, mit Wasser aufsetzen, aufkochen, zugedeckt 1,5 Stunden köcheln bis weich, gelegentlich umrühren.",
+    "Kichererbsen abgießen, abspülen, 30 Minuten köcheln, weiße Bohnen dazu, 45 weitere Minuten köcheln, abgießen. Ofen auf 180°C, Haselnüsse und Mandeln 10 Minuten rösten.",
+    "Kichererbsen, Bohnen, Zimtstange und Nelken zum Weizen geben, zugedeckt 15 Minuten köcheln.",
+    "Aprikosen und Feigen klein schneiden, mit Haselnüssen, Mandeln, Rosinen, Zucker und Salz dazu, zugedeckt 10 Minuten köcheln.",
+    "Orangenzeste dazu, zugedeckt 5 weitere Minuten köcheln. Vom Herd, Gewürze entfernen, mit leicht geöffnetem Deckel 1,5-2 Stunden abkühlen lassen.",
+    "In Schalen füllen, nach Belieben mit Zimt, Pistazien, Granatapfelkernen und Walnüssen garnieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/asure-how-to-make-noahs-pudding/"
+  },
+  "note": null
+}

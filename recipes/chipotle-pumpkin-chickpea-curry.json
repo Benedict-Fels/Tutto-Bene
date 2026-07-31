@@ -1,0 +1,95 @@
+{
+  "id": "chipotle-pumpkin-chickpea-curry",
+  "title": "Chipotle-Kürbis-Kichererbsen-Curry",
+  "summary": "Rauchig-scharfes Curry mit Kürbis und Kichererbsen in cremiger Kokos-Tomaten-Sauce.",
+  "image": "images/chipotle-pumpkin-chickpea-curry.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mexikanisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chipotlepulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Kürbispüree",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gehackt, aus der Dose"
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Dose",
+      "name": "Kichererbsen",
+      "variety": "abgetropft"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": "gehackt"
+    }
+  ],
+  "steps": [
+    "Zwiebel und Knoblauch in einem großen Topf mit etwas Wasser oder Öl glasig dünsten.",
+    "Chipotlepulver, Kreuzkümmel und Paprikapulver dazugeben, 1 Minute mitrösten.",
+    "Kürbispüree, Tomaten und Kokosmilch einrühren, aufkochen.",
+    "Kichererbsen und Salz dazugeben, Hitze reduzieren und 15–20 Minuten köcheln lassen.",
+    "Mit Koriander bestreuen und servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/chipotle-pumpkin-chickpea-curry/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

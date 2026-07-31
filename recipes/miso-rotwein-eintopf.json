@@ -1,0 +1,150 @@
+{
+  "id": "miso-rotwein-eintopf",
+  "title": "Miso-Rotwein-Eintopf mit Pastinaken-Butterbohnen-Stampf",
+  "summary": "Herzhafter Rotwein-Eintopf mit Beluga-Linsen und Austernpilzen, dazu cremiger Pastinaken-Butterbohnen-Stampf mit Zitrone.",
+  "image": "images/miso-rotwein-eintopf.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 40,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Rosmarin",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Wein",
+      "variety": "Rotwein"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "dunkel"
+    },
+    {
+      "amount": 300,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Belugalinsen",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Stück",
+      "name": "Austernpilz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Pastinake",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Rosmarin",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Dose",
+      "name": "Limabohnen",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": "Soja"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Miso",
+      "variety": "weiß"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": "nur Schale"
+    }
+  ],
+  "steps": [
+    "Pilze in Pfanne flach auslegen, beschweren, goldbraun braten. Klein schneiden, beiseite.",
+    "Karotten und Zwiebeln in Öl anbraten bis goldbraun.",
+    "Tomatenmark kurz mitrösten. Mehl drüberstäuben, verrühren.",
+    "Mit Rotwein ablöschen, Bratenreste lösen, einkochen bis halbiert.",
+    "Linsen, Pilze, Rosmarin, Lorbeer, Miso dazu. Brühe angießen, aufkochen.",
+    "Zugedeckt 20 Minuten bei 180°C im Ofen ziehen lassen.",
+    "Pastinaken mit Öl und Rosmarin vermengen, 20 Minuten bei 180°C rösten.",
+    "Pastinaken mit Limabohnen, Zitronenschale, Miso, Hefeflocken im Mixer pürieren, Pflanzendrink dazu bis cremig.",
+    "Eintopf in Schalen, Stampf oben drauf, mit Rosmarin oder Zitronenschale garnieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/miso-infused-red-wine-stew-with-zesty-lemon-parsnip-butter-bean-mash"
+  },
+  "note": null
+}

@@ -1,0 +1,164 @@
+{
+  "id": "dal-tadka",
+  "title": "Dal Tadka",
+  "summary": "Cremiges indisches Linsencurry mit rauchigem Finish und knusprigem Kreuzkümmel-Tadka.",
+  "image": "images/dal-tadka.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 55,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Toor Dal",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "ganze Samen"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "grün"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 0.75,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Garam Masala",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Koriander gemahlen",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": "Kashmiri"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Bockshornklee",
+      "variety": "getrocknete Blätter, Kasuri Methi"
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "für die Tarka"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": "für die Tarka"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "ganze Samen, für die Tarka"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "getrocknet, für die Tarka"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": "Kashmiri, für die Tarka"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Asafoetida",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Toor Dal mehrmals waschen bis das Wasser fast klar bleibt. Mit Kurkuma und Wasser im Schnellkochtopf 4 Minuten unter Druck garen, natürlich entlüften lassen.",
+    "Öl erhitzen, Kreuzkümmel rösten, gewürfelte Zwiebel dazu, 8–10 Minuten goldbraun braten.",
+    "Knoblauch, Ingwer und Chili fein reiben bzw. schneiden, dazugeben, kurz mitbraten. Tomatenwürfel und Salz dazu, 1–2 Minuten köcheln. Garam Masala, gemahlenen Koriander und Chilipulver einrühren.",
+    "Gekochten Dal glattrühren, bei Bedarf mit heißem Wasser verdünnen. Mit den Aromaten verrühren, zugedeckt 5 Minuten köcheln.",
+    "Optional räuchern: heiße Kohle in kleinem Gefäß auf den Dal stellen, mit etwas Öl beträufeln, sofort zudecken, 3–4 Minuten ziehen lassen, Gefäß entfernen.",
+    "Zitronensaft, Bockshornklee und den Großteil des frischen Korianders unterrühren.",
+    "Für die Tarka: Öl erhitzen, Kreuzkümmel anrösten, geriebenen Knoblauch kurz mitbraten, getrocknete Chili kurz mitziehen lassen. Vom Herd, Chilipulver und Asafoetida einrühren.",
+    "Tarka über den Dal gießen, unterrühren, mit restlichem Koriander bestreut servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/dal-tadka-indian-restaurant-style-dal/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

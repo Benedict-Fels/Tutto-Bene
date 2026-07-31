@@ -1,0 +1,55 @@
+{
+  "id": "greek-frappe",
+  "title": "Griechischer Frappé",
+  "summary": "Schaumiger griechischer Eiskaffee — Instantkaffee mit Zucker aufgeschlagen, auf Eis serviert.",
+  "image": "images/greek-frappe.jpg",
+  "category": "Sonstige",
+  "cuisine": "Griechisch",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Instantkaffee",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Eiswürfel",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Instantkaffee, Zucker und Wasser in Shaker oder Glas mit Deckel geben.",
+    "Kräftig schütteln oder aufschäumen bis dicker Schaum entsteht.",
+    "In hohes Glas füllen, mit Eiswürfeln auffüllen.",
+    "Mit kaltem Wasser oder Pflanzendrink auffüllen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/greek-frappe-whipped-iced-coffee/"
+  },
+  "note": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tacos-de-hongos-guisados",
+  "title": "Tacos de Hongos Guisados",
+  "summary": "Mexikanische Tacos mit geschmorten Pilzen, grüner Tomatensalsa und eingelegten Zwiebeln.",
+  "image": "images/tacos-de-hongos-guisados.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mexikanisch",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": null },
+    { "amount": 5, "unit": "Zehe", "name": "Knoblauch", "variety": "groß" },
+    { "amount": 750, "unit": "g", "name": "Champignons", "variety": "braun, klein (Kastanienchampignons)" },
+    { "amount": 1, "unit": "EL", "name": "Epazote", "variety": "getrocknet" },
+    { "amount": 0.75, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "klein" },
+    { "amount": 16, "unit": "Stück", "name": "Tortilla", "variety": null },
+    { "amount": 2, "unit": "Stück", "name": "Limette", "variety": "in Spalten" }
+  ],
+  "steps": [
+    "Zwiebel in Öl 10-12 Minuten goldbraun anschwitzen. Knoblauch fein reiben, Champignons in Scheiben schneiden.",
+    "Knoblauch dazu, 1 Minute mitbraten. Champignons, Epazote und Salz rein. Deckel drauf, 15 Minuten köcheln, zwischendurch rühren.",
+    "Deckel ab, Hitze hoch, 5-10 Minuten weiter köcheln bis die Flüssigkeit weg ist. Beiseitestellen.",
+    "Kleine Zwiebel in dünne Scheiben schneiden, in eiskaltem Wasser 10 Minuten einweichen, abgießen, kühl stellen.",
+    "Vor dem Servieren die Pilze portionsweise in etwas Öl nochmal goldbraun erhitzen.",
+    "Auf frischen Tortillas mit grüner Tomatensalsa (separates Rezept) und den eingeweichten Zwiebeln servieren, Limettenspalten dazu, optional mit Bohnen."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/tacos-de-hongos-guisados-mexican-stewed-mushroom-tacos/" },
+  "note": null
+}

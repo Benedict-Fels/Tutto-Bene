@@ -1,0 +1,161 @@
+{
+  "id": "chickn-reis",
+  "title": "Orangen-Kardamom-Reis mit veganem Hähnchen",
+  "summary": "One-Pot-Reis mit veganem Hähnchen, Orange und Kardamom, getoppt mit Kokosjoghurt und frischer Minze.",
+  "image": "images/chickn-reis.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "restTime": 5,
+  "ingredients": [
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Kardamom",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Koriandersamen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Agavensirup",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Orange",
+      "variety": "Saft und Schale"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 180,
+      "unit": "g",
+      "name": "Veganes Hähnchen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Tomate",
+      "variety": "Kirschtomaten"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 270,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Basmati"
+    },
+    {
+      "amount": 600,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Brühwürfel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Kokosjoghurt",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Minze",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Petersilie",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Kardamom, Koriandersamen, Kümmel und Kreuzkümmel im Mörser zerstoßen.",
+    "Hälfte der Gewürze mit Agavensirup, Orangensaft und -schale, Paprikapulver und Öl verrühren.",
+    "Veganes Hähnchen darin wenden, in Pfanne anbraten, herausnehmen.",
+    "Restliche Gewürze mit Zwiebel und Knoblauch im selben Topf anschwitzen.",
+    "Tomaten, Reis, Wasser, Koriander, Brühwürfel, Orangenschale und Zitronensaft dazu, salzen und pfeffern.",
+    "Hähnchen obenauf, aufkochen, Hitze runter, zudecken.",
+    "10 Minuten köcheln, dann 5 Minuten zugedeckt ruhen lassen.",
+    "Mit Kokosjoghurt, Minze und Petersilie servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/g9rvzdfyxkeczq57q8fk8jf6swo94a"
+  },
+  "note": null
+}

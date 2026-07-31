@@ -1,0 +1,82 @@
+{
+  "id": "dosa",
+  "title": "Dosa",
+  "summary": "Knusprige südindische Pfannkuchen aus fermentiertem Reis und Linsen — der Klassiker zum Frühstück.",
+  "image": "images/dosa.jpg",
+  "category": "Frühstück",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 50,
+  "cookTime": 20,
+  "restTime": 1170,
+  "ingredients": [
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Idli-Reis"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Sona Masoori"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Urad Dal",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Chana Dal",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Poha",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Bockshornklee",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "klein, zum Einölen der Pfanne"
+    }
+  ],
+  "steps": [
+    "Beide Reissorten und Dal mit Bockshornklee getrennt 3–4 Stunden einweichen.",
+    "Reis mit etwas Einweichwasser fein bis grobkörnig mahlen.",
+    "Dal-Mischung fein mahlen, bis die Paste in Wasser schwimmt.",
+    "Beides mischen, zugedeckt 8–24 Stunden an warmem Ort fermentieren lassen.",
+    "Salz unterrühren, mit Wasser auf gießfähige Konsistenz bringen.",
+    "Pfanne mit angeschnittener Zwiebel einölen, Teig dünn ausstreichen.",
+    "Bei mittlerer Hitze knusprig goldbraun backen, mit Chutney oder Sambar servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/dosa-south-indian-fermented-rice-lentil-pancakes/"
+  },
+  "note": null
+}

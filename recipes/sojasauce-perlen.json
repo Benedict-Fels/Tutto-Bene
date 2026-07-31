@@ -1,0 +1,43 @@
+{
+  "id": "sojasauce-perlen",
+  "title": "Sojasauce-Perlen",
+  "summary": "Kleine Kaviar-artige Perlen aus Sojasauce und Agar Agar — raffinierte Garnitur mit Food-Science-Trick.",
+  "image": "images/sojasauce-perlen.jpg",
+  "category": "Sonstige",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "restTime": 30,
+  "ingredients": [
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "g",
+      "name": "Agar Agar",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Öl in Glas 30 Minuten einfrieren.",
+    "Sojasauce und Agar Agar in Topf verrühren, aufkochen, eine Minute unter Rühren köcheln, vom Herd nehmen.",
+    "Öl aus dem Gefrierfach holen. Mit Pipette (oder Gabel) Tropfen der heißen Mischung ins kalte Öl geben, sie formen sich sofort zu Perlen.",
+    "Perlen durch feines Sieb abgießen, kurz unter fließendem Wasser abspülen, sofort servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/soy-sauce-pearls-easy-food-science-hack/"
+  },
+  "note": null
+}

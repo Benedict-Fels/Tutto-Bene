@@ -1,0 +1,89 @@
+{
+  "id": "rote-linsen-curry",
+  "title": "Rote-Linsen-Curry mit Kokosmilch",
+  "summary": "Cremiges Curry aus acht Zutaten, in dreißig Minuten fertig — rote Linsen und Kokosmilch machen die Arbeit.",
+  "image": "images/rote-linsen-curry.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 7,
+  "cookTime": 23,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Currypulver",
+      "variety": "salzfrei"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": "Cayenne, optional"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Rote Linsen",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 470,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": "natriumarm"
+    },
+    {
+      "amount": 470,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Zwiebel im großen Topf 3–5 Minuten glasig dünsten.",
+    "Knoblauch, Ingwer, Korianderstiele, Currypulver und Chilipulver dazu, 2–3 Minuten anschwitzen.",
+    "Linsen, Kokosmilch, Brühe und Wasser dazu, aufkochen.",
+    "Hitze auf mittel-niedrig, 18–20 Minuten köcheln, gelegentlich umrühren, bis die Linsen weich sind.",
+    "Warm servieren, mit Korianderblättern bestreut, dazu Reis, Naan oder Roti."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/coconut-red-lentil-curry/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

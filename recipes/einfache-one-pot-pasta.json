@@ -1,0 +1,100 @@
+{
+  "id": "einfache-one-pot-pasta",
+  "title": "Einfache One-Pot-Pasta",
+  "summary": "Nudeln, Gemüse und Sauce kochen zusammen im selben Topf — zwanzig Minuten bis zum Feierabendessen.",
+  "image": "images/einfache-one-pot-pasta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "Cherry, halbiert"
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zucchini",
+      "variety": null
+    },
+    {
+      "amount": 85,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": "Cremini"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": "italienische Kräutermischung, salzfrei"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": "optional"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "ml",
+      "name": "Passata",
+      "variety": null
+    },
+    {
+      "amount": 590,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 85,
+      "unit": "g",
+      "name": "Spinat",
+      "variety": "frisch"
+    }
+  ],
+  "steps": [
+    "Alle Zutaten außer Spinat in einen großen Topf geben, gut vermischen. Aufkochen.",
+    "Hitze auf mittel-niedrig, 10–14 Minuten köcheln bis al dente, alle 2 Minuten umrühren.",
+    "Herd aus, Spinat unterheben bis zusammengefallen.",
+    "In Schalen aufteilen und nach Belieben servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/easy-one-pot-pasta/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

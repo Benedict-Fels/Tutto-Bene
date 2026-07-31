@@ -1,0 +1,119 @@
+{
+  "id": "soko-khinkali",
+  "title": "Soko Khinkali",
+  "summary": "Georgische Teigtaschen mit Pilzfüllung, Knoblauch und frischen Kräutern.",
+  "image": "images/soko-khinkali.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Georgisch",
+  "servings": 4,
+  "prepTime": 100,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 550,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": "für den Teig"
+    },
+    {
+      "amount": 260,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    },
+    {
+      "amount": 750,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": "für die Füllung"
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 25,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 25,
+      "unit": "g",
+      "name": "Dill",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Mehl, Salz und Wasser verkneten, 4-5 Minuten bis elastisch. Zur Kugel formen, ölen, abdecken, ruhen lassen während die Füllung vorbereitet wird.",
+    "Zwiebel würfeln, in etwas Öl goldbraun braten, 8-10 Minuten. Champignons im Mixer fein pulsen.",
+    "Pilze portionsweise auf hoher Hitze mit Salz braten bis die Flüssigkeit verdampft und sie karamellisieren, je Portion etwa 10 Minuten. Knoblauch und Kräuter fein hacken.",
+    "Knoblauch kurz mitbraten, dann Kreuzkümmel, Thymian, Pfeffer und Chiliflocken einrühren. Alles zur Zwiebel geben, komplett abkühlen lassen.",
+    "Gewürztes Wasser mit Lorbeerblatt aufkochen. Teig in 20 Stücke teilen, zu Kugeln formen, abdecken, jede zu einem 14 cm-Kreis ausrollen, bemehlen, stapeln, abdecken.",
+    "Kräuter und etwas Wasser in die Füllung rühren. Füllung mittig auf jeden Kreis geben, Rand in Falten zusammenziehen, oben verdrehen, überschüssigen Teig abschneiden.",
+    "6-7 Teigtaschen ins kochende Wasser geben, vorsichtig rühren. Sobald sie oben schwimmen, 6 Minuten weiterkochen, mit Schaumkelle rausheben. Mit den restlichen wiederholen.",
+    "Heiß mit frisch gemahlenem Pfeffer servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/soko-khinkali-georgian-mushroom-dumplings/"
+  },
+  "note": null
+}

@@ -1,0 +1,108 @@
+{
+  "id": "jalapeno-mac-and-cheese",
+  "title": "Jalapeño Mac and Cheese",
+  "summary": "Cremiger One-Pot-Mac-and-Cheese mit Jalapeños und knusprigen Knoblauch-Brotbröseln obendrauf.",
+  "image": "images/jalapeno-mac-and-cheese.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 20,
+  "restTime": 3,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 35,
+      "unit": "g",
+      "name": "Paniermehl",
+      "variety": "Panko"
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "für die Pasta"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "für die Pasta"
+    },
+    {
+      "amount": 120,
+      "unit": "g",
+      "name": "Jalapeño",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen, optional"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 830,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": "mit Knoblauch"
+    },
+    {
+      "amount": 110,
+      "unit": "g",
+      "name": "Veganer Mozzarella",
+      "variety": "gerieben"
+    }
+  ],
+  "steps": [
+    "Öl in kleiner Pfanne erhitzen, Knoblauch 30 Sekunden anschwitzen. Paniermehl und Salz dazu, 4–5 Minuten rösten bis golden. Beiseitestellen.",
+    "Öl im großen Topf erhitzen, Zwiebel 2–3 Minuten glasig dünsten. Knoblauch, Jalapeños, Hefeflocken und Kreuzkümmel dazu, 1 Minute mitrösten.",
+    "Nudeln und Brühe dazu, gut mischen, aufkochen.",
+    "Hitze runter, köcheln bis Nudeln al dente, gelegentlich umrühren.",
+    "Hitze auf niedrig, Mozzarella einrühren bis geschmolzen. Herd aus, 3 Minuten ruhen lassen zum Andicken.",
+    "In Schalen füllen, mit Knoblauch-Bröseln bestreut servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/one-pot-vegan-jalapeno-mac-cheese/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

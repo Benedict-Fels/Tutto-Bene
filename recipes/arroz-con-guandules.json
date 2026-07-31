@@ -1,0 +1,150 @@
+{
+  "id": "arroz-con-guandules",
+  "title": "Arroz con Guandules",
+  "summary": "Puerto-ricanischer Reis mit Straucherbsen in Kokosmilch — cremig und würzig mit Sazon und Kapern.",
+  "image": "images/arroz-con-guandules.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Karibisch",
+  "servings": 7,
+  "prepTime": 10,
+  "cookTime": 35,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 0.25,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "gelb"
+    },
+    {
+      "amount": 0.25,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "grün"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Brühwürfel",
+      "variety": "Hähnchen-Geschmack, vegan"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Kapern",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": "salzfreie Kräutermischung"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Sazon-Gewürz",
+      "variety": "Sazon Tropical"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Sazon-Gewürz",
+      "variety": "con Azafran"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": "Tamari"
+    },
+    {
+      "amount": 439,
+      "unit": "g",
+      "name": "Straucherbsen",
+      "variety": "getrocknet, mit Einweichflüssigkeit, aus der Dose"
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "weiß"
+    },
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Öl im mittleren Topf erhitzen, Zwiebel, Paprika, die Hälfte des Korianders, Lorbeerblatt und Knoblauch 3–5 Minuten glasig dünsten.",
+    "Brühwürfel und Tomatenmark einrühren, in das Gemüse mit dem Holzlöffel einarbeiten, 2–3 Minuten weiterbraten.",
+    "Kapern, Straucherbsen mit Flüssigkeit, Sojasauce, Kreuzkümmel und Sazon con Azafran dazu, 3 Minuten braten bis aromatisch.",
+    "Restlichen Koriander, Kokosmilch, Oregano und Sazon Tropical dazu, aufkochen.",
+    "Reis kalt abspülen, sofort in die köchelnde Mischung geben. Sobald die Körner obenauf schwimmen, restlichen Koriander dazu, gut mischen, zudecken.",
+    "Hitze auf niedrig, 20 Minuten köcheln. Mit der Gabel auflockern und servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/vegan-arroz-con-guandules/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

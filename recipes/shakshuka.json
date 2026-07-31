@@ -1,0 +1,111 @@
+{
+  "id": "shakshuka",
+  "title": "Shakshuka",
+  "summary": "Vereinfachte vegane Shakshuka mit Rosenharissa, Butterbohnen und Tomaten — deftig genug für jede Tageszeit.",
+  "image": "images/shakshuka.jpg",
+  "category": "Frühstück",
+  "cuisine": "Orientalisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Harissa",
+      "variety": "Rose"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "süß, geräuchert"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 2,
+      "unit": "Dose",
+      "name": "Limabohnen",
+      "variety": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gehackt, aus der Dose"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Minze",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzlicher Joghurt",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Avocado",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Brot",
+      "variety": "Sauerteig mit Oliven"
+    }
+  ],
+  "steps": [
+    "Zwiebel und Knoblauch dünn schneiden, mit Paprika anbraten.",
+    "Harissa und Paprikapulver dazu.",
+    "Butterbohnen und Tomaten unterrühren.",
+    "15 Minuten köcheln lassen.",
+    "Mit Petersilie, Joghurt, Minze, Chiliflocken, Öl und Zitronensaft toppen.",
+    "Mit Avocado und Brot servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/blog-post-title-one-dtlpk"
+  },
+  "note": null
+}

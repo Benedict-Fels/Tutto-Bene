@@ -1,0 +1,106 @@
+{
+  "id": "bean-tempe-orek",
+  "title": "Bean Tempe Orek",
+  "summary": "Geröstetes Tempeh mit grünen Bohnen in süß-saurer Tamarinde-Kecap-Manis-Sauce — würzig und herzhaft.",
+  "image": "images/bean-tempe-orek.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indonesisch",
+  "servings": 4,
+  "prepTime": 40,
+  "cookTime": 40,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Tamarinde",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tempeh",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Schalotte",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 8,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "rot, klein"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Grüne Bohnen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitronengras",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Limettenblätter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Kecap Manis",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "EL",
+      "name": "Palmzucker",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Ofen auf 220°C vorheizen. Tamarinde in kochendem Wasser 15 Minuten einweichen, Fruchtfleisch lösen, durch Sieb streichen.",
+    "Tempeh in Streifen schneiden, mit etwas Öl vermengen, auf Blech verteilen, 15 Minuten rösten bis golden.",
+    "Schalotten, Knoblauch und Chili klein schneiden, Bohnen putzen, Zitronengras andrücken.",
+    "Restliches Öl erhitzen, Schalotten, Knoblauch, Chili und Limettenblätter 1–2 Minuten anbraten bis der Knoblauch golden ist.",
+    "Bohnen, Zitronengras und Salz dazu, kurz braten, etwas Wasser dazu, köcheln bis das Wasser verdampft ist.",
+    "Tamarindenwasser, Kecap Manis, Palmzucker und Pfeffer dazu, köcheln bis der Zucker sich löst und es leicht andickt.",
+    "Geröstetes Tempeh unterheben, gut mit der Sauce ummanteln. Zitronengras und Limettenblätter entfernen, servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/bean-tempe-orek-indonesian-stir-fried-tempeh-with-beans/"
+  },
+  "note": null
+}

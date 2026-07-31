@@ -1,0 +1,70 @@
+{
+  "id": "weiche-fladenbrote",
+  "title": "Weiche Fladenbrote",
+  "summary": "Schnelles Fladenbrot aus der Pfanne — weich, fluffig, mit wenig Knetarbeit.",
+  "image": "images/weiche-fladenbrote.jpg",
+  "category": "Sonstige",
+  "cuisine": "Griechisch",
+  "servings": 6,
+  "prepTime": 40,
+  "cookTime": 12,
+  "restTime": 45,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Packung",
+      "name": "Trockenhefe",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Bestreichen"
+    },
+    {
+      "amount": 230,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "lauwarm"
+    },
+    {
+      "amount": 350,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Vollkornmehl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Hefe, Zucker, Öl und Wasser in Schüssel verrühren bis aufgelöst. Mehl und Salz dazu, zu grobem Teig verkneten.",
+    "Auf Arbeitsfläche kippen, mit umgedrehter Schüssel 5 Minuten ruhen lassen, dann 3–4 Minuten glatt kneten.",
+    "Zu Kugel formen, in geölte Schüssel legen, abdecken, gehen lassen bis verdoppelt.",
+    "Schwere Pfanne erhitzen. Teig in sechs Stücke teilen, rund formen, glatt ziehen.",
+    "Auf bemehlter Fläche zu Kreisen ausrollen, mit Tuch bedeckt zwischenlagern.",
+    "Erstes Fladenbrot etwa eine Minute backen bis goldene Flecken erscheinen. Wenden, wieder backen, mit Öl bestreichen, nochmal wenden, kurz fertig backen.",
+    "Auf Teller legen, mit Tuch abdecken, restliche Fladenbrote genauso backen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/easy-soft-vegan-flatbreads-minimal-kneading/"
+  },
+  "note": null
+}

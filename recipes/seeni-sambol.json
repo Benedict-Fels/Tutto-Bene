@@ -1,0 +1,36 @@
+{
+  "id": "seeni-sambol",
+  "title": "Seeni Sambol",
+  "summary": "Sri-lankisches Zwiebel-Relish, langsam karamellisiert mit Tamarinde, Zimt und Kardamom.",
+  "image": "images/seeni-sambol.jpg",
+  "category": "Sonstige",
+  "cuisine": "Sri-Lankisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 30, "unit": "g", "name": "Tamarinde", "variety": "entkernt" },
+    { "amount": 500, "unit": "g", "name": "Zwiebel", "variety": "rote Zwiebeln oder Bombay-Zwiebeln" },
+    { "amount": 2, "unit": "EL", "name": "Kokosöl", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Senfkörner", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zimt", "variety": "Stange" },
+    { "amount": 5, "unit": "Stück", "name": "Kardamom", "variety": "Kapseln" },
+    { "amount": 1, "unit": "Handvoll", "name": "Curryblätter", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Pandanblatt", "variety": "klein, optional" },
+    { "amount": 1, "unit": "TL", "name": "Chilipulver", "variety": "Kashmiri" },
+    { "amount": 0.125, "unit": "TL", "name": "Nelken", "variety": "gemahlen" },
+    { "amount": 1, "unit": "TL", "name": "Zucker", "variety": "dunkelbraun" },
+    { "amount": 1, "unit": "TL", "name": "Salz", "variety": null }
+  ],
+  "steps": [
+    "Tamarinde in hitzebeständige Schüssel geben, mit kochendem Wasser übergießen, beiseitestellen.",
+    "Zwiebeln schälen, fein schneiden. Kokosöl in breiter Pfanne erhitzen, Senfkörner dazu.",
+    "Sobald sie kräftig zischen, Zimtstange, Kardamom, Curryblätter und Pandanblatt dazu, 1-2 Minuten köcheln bis aromatisch.",
+    "Zwiebeln dazu, bei mittlerer Hitze unter gelegentlichem Rühren 10-12 Minuten köcheln bis weich und gleichmäßig karamellisiert. Tamarinde inzwischen abkühlen lassen, Fruchtfleisch von den Fasern lösen, Flüssigkeit absieben.",
+    "Chilipulver und Nelken einstreuen, Tamarindenflüssigkeit, Zucker und Salz einrühren. Hitze reduzieren, 10-15 Minuten weiterköcheln bis die Zwiebeln dunkelbraun und glänzend sind.",
+    "Warm oder zimmerwarm servieren, am besten mit Hoppers."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/seeni-sambol-sri-lankan-caramelised-onion-relish/" },
+  "note": null
+}

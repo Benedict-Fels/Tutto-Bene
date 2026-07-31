@@ -1,0 +1,128 @@
+{
+  "id": "auberginen-walnuss-ragu",
+  "title": "Geräuchertes Auberginen-Walnuss-Ragù",
+  "summary": "Rauchige Aubergine vom offenen Feuer, mit gerösteten Walnüssen und roten Linsen in Rotwein-Tomatensauce — Pastasauce für kalte Tage.",
+  "image": "images/auberginen-walnuss-ragu.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 40,
+  "cookTime": 40,
+  "restTime": 480,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Walnüsse",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Aubergine",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Sellerie",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Wein",
+      "variety": "Rotwein"
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Passata",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Rote Linsen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "braun"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Auberginen mit Gabel einstechen, über offener Flamme rundum schwärzen bis komplett weich.",
+    "In abgedeckter Schüssel abkühlen lassen, Haut löst sich.",
+    "Fruchtfleisch auslösen, fein zu Paste hacken.",
+    "Walnüsse über Nacht einweichen, abgießen, 30 Minuten bis 2 Stunden köcheln, grob zerkleinern.",
+    "Zwiebel, Sellerie, Karotte in Öl anbraten bis braun.",
+    "Knoblauch und Lorbeer dazu.",
+    "Mit Rotwein ablöschen, um die Hälfte einkochen.",
+    "Tomatenmark, geräucherte Aubergine, Walnüsse, Passata dazu, salzen und pfeffern.",
+    "Linsen, Brühe und Miso unterrühren.",
+    "Zugedeckt 20–40 Minuten köcheln bis Linsen weich.",
+    "Mit Pasta, Kräutern, Olivenöl und Hefeflocken servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/smoked-aubergine-amp-walnut-ragu"
+  },
+  "note": null
+}

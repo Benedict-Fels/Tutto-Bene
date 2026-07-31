@@ -1,0 +1,29 @@
+{
+  "id": "lal-lasun-chutney",
+  "title": "Lal Lasun Chutney",
+  "summary": "Scharf-würzige indische Chutney aus gerösteten Chilis und Knoblauch, mit Zitrone und Jaggery.",
+  "image": "images/lal-lasun-chutney.jpg",
+  "category": "Sonstige",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "restTime": 20,
+  "ingredients": [
+    { "amount": 12, "unit": "Stück", "name": "Chili", "variety": "getrocknet, Kashmiri" },
+    { "amount": 6, "unit": "Zehe", "name": "Knoblauch", "variety": "groß" },
+    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Kreuzkümmel", "variety": "gemahlen" },
+    { "amount": 0.5, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Jaggery", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Zitrone", "variety": "Saft" },
+    { "amount": 50, "unit": "ml", "name": "Wasser", "variety": null }
+  ],
+  "steps": [
+    "Wasser kochen. Chilis putzen und entkernen, in Schüssel geben, mit dem kochenden Wasser übergießen, 20 Minuten einweichen. Abgießen. Knoblauch schälen.",
+    "Eingeweichte Chilis mit Knoblauch und restlichen Zutaten im Mixer glatt pürieren, bei Bedarf etwas Wasser dazugeben. Sollte dick und löffelbar sein, nicht flüssig.",
+    "In ein Glas füllen, nach Bedarf verwenden."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/lal-lasun-chutney-red-garlic-chutney/" },
+  "note": null
+}

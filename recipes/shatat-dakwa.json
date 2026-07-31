@@ -1,0 +1,35 @@
+{
+  "id": "shatat-dakwa",
+  "title": "Shatat Dakwa",
+  "summary": "Sudanesischer Erdnuss-Chili-Dip mit Tomatenmark und Limette — scharf, cremig, schnell gemacht.",
+  "image": "images/shatat-dakwa.jpg",
+  "category": "Sonstige",
+  "cuisine": "Sudanesisch",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 10,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 100, "unit": "g", "name": "Chili", "variety": "gemischt rot und grün" },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "klein" },
+    { "amount": 5, "unit": "Zehe", "name": "Knoblauch", "variety": "groß" },
+    { "amount": 3, "unit": "EL", "name": "Limette", "variety": "Saft" },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Tomatenmark", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Pfeffer", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 100, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Erdnussbutter", "variety": "glatt" },
+    { "amount": 1, "unit": "TL", "name": "Sesamöl", "variety": "geröstet, zum Servieren" }
+  ],
+  "steps": [
+    "Chilis grob hacken, Zwiebel vierteln, Knoblauch schälen, Limette auspressen. Alles im Zerkleinerer zu grober Paste verarbeiten.",
+    "Öl im Topf erhitzen, Tomatenmark einrühren, kurz anbraten.",
+    "Paste, Pfeffer und Salz dazu, etwa 1 Minute aromatisch kochen.",
+    "Wasser eingießen, aufkochen, Hitze reduzieren, zugedeckt 10 Minuten köcheln bis Öl an der Oberfläche sichtbar wird.",
+    "Erdnussbutter einrühren, offen 2-3 Minuten köcheln, oft umrühren, bis eine dicke Paste entsteht.",
+    "In eine Schüssel füllen, mit Sesamöl beträufeln."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/shatat-dakwa-peanut-chilli-dip/" },
+  "note": null
+}

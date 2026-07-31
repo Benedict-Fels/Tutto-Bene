@@ -1,0 +1,150 @@
+{
+  "id": "red-red",
+  "title": "Red Red mit geräucherter Aubergine",
+  "summary": "Ghanaischer Klassiker aus Augenbohnen in würziger Tomatensauce, mit rauchiger Aubergine und süßer Kochbanane.",
+  "image": "images/red-red.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Ghanaisch",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 60,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Aubergine",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Augenbohnen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Palmöl",
+      "variety": "rot"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "Scotch Bonnet"
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Miso",
+      "variety": "braun"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Currypulver",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Koriandersamen",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Bockshornklee",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Garri",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Kochbanane",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Auberginen auf Grillpfanne bei mittlerer bis hoher Hitze rundum schwärzen, 20 Minuten.",
+    "Abkühlen lassen, schälen, Fruchtfleisch zerdrücken.",
+    "Augenbohnen in Salzwasser weich kochen, 10–20 Minuten im Schnellkochtopf oder bis zu 1 Stunde auf dem Herd, abgießen.",
+    "Koriandersamen und Bockshornklee kurz rösten, mahlen.",
+    "Tomaten, Chili, Knoblauch, Ingwer und Zwiebel im Mixer glatt pürieren.",
+    "Palmöl erhitzen, Gewürze, Miso und Tomatenmark 5 Minuten mitrösten.",
+    "Tomatenmischung dazu, 20 Minuten köcheln bis eingedickt.",
+    "Bohnen und geräucherte Aubergine unterrühren, salzen und pfeffern.",
+    "Mit gebratener Kochbanane, Garri, Koriander und Zitrone servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/blog-post-title-two-fw7cf"
+  },
+  "note": null
+}

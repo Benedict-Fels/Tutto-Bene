@@ -1,0 +1,110 @@
+{
+  "id": "gochujang-ramen-casserole",
+  "title": "Gochujang-Ramen-Auflauf",
+  "summary": "Instant-Ramen aus dem Ofen in scharfer Gochujang-Miso-Brühe mit Tofu, Pilzen und Kimchi.",
+  "image": "images/gochujang-ramen-casserole.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 890,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Gochujang",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "hell"
+    },
+    {
+      "amount": 5,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": "koreanisch, Gochugaru"
+    },
+    {
+      "amount": 4,
+      "unit": "Packung",
+      "name": "Nudeln",
+      "variety": "Ramen, Würzmischung nicht verwendet"
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Tofu",
+      "variety": "extrafest, fein gewürfelt"
+    },
+    {
+      "amount": 115,
+      "unit": "g",
+      "name": "Shiitake-Pilze",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Enoki-Pilze",
+      "variety": null
+    },
+    {
+      "amount": 240,
+      "unit": "g",
+      "name": "Kimchi",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Veganer Mozzarella",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Ofen auf 190°C vorheizen, Auflaufform bereitstellen.",
+    "Wasser, Gochujang, Miso, Knoblauch, Zucker und Chiliflocken verrühren, kräftig durchrühren bis Gochujang und Miso sich auflösen.",
+    "Trockene Ramen-Nudeln in die Form legen, Tofu darüberstreuen, Pilze und Kimchi verteilen.",
+    "Brühe darübergießen, mit Mozzarella bestreuen.",
+    "20 Minuten ohne Deckel auf mittlerer Schiene backen.",
+    "Rausnehmen, mit einer Zange die Nudelblöcke aufbrechen und mit dem Rest vermischen.",
+    "Nochmal 10–15 Minuten auf oberer Schiene backen.",
+    "Mit Frühlingszwiebeln bestreut servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/gochujang-ramen-casserole/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "til-chikki",
+  "title": "Til Chikki",
+  "summary": "Indischer Sesam-Brittle mit Jaggery und Kardamom — knackig-süßer Snack aus der Winterzeit.",
+  "image": "images/til-chikki.jpg",
+  "category": "Dessert",
+  "cuisine": "Indisch",
+  "servings": 16,
+  "prepTime": 30,
+  "cookTime": 10,
+  "restTime": 15,
+  "ingredients": [
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Sesam",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Jaggery",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kardamom",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": "zum Einölen"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Sesam in trockener Pfanne bei mittlerer Hitze rösten bis goldig, 8–10 Minuten. Beiseite.",
+    "Kardamom und Salz untermischen.",
+    "Jaggery mit Wasser im sauberen Topf aufkochen, öfter rühren.",
+    "Hitze runter, 5–10 Minuten weiterkochen bis dunkler. Fädenprobe: Tropfen in Wasser wird sofort hart.",
+    "Herd aus, Sesam zügig untermischen bis alles bedeckt ist.",
+    "Auf geöltes Backpapier, mit geöltem Nudelholz auf ca. 5 mm flachdrücken.",
+    "Noch warm mit geöltem Messer in Rauten schneiden.",
+    "Komplett auskühlen lassen, erst dann brechen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/til-chikki-indian-sesame-seed-brittle/"
+  },
+  "note": null
+}

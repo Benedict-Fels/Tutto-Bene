@@ -1,0 +1,54 @@
+{
+  "id": "apfelmus",
+  "title": "Apfelmus",
+  "summary": "Hausgemachtes Apfelmus mit Zimt und Zitrone — der perfekte Begleiter zu Kartoffelpuffer.",
+  "image": "images/apfelmus.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Apfel",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange"
+    }
+  ],
+  "steps": [
+    "Äpfel schälen, entkernen, würfeln. Mit Wasser, Zucker, Zitronensaft und Zimtstange in einen Topf, gut verrühren.",
+    "Aufkochen, dann zugedeckt bei niedriger Hitze 20 Minuten köcheln bis die Äpfel ganz weich sind. Zimtstange rausnehmen.",
+    "Mit dem Stabmixer glatt pürieren. Warm oder abgekühlt servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/apfelmus-german-apple-sauce/"
+  },
+  "note": null
+}

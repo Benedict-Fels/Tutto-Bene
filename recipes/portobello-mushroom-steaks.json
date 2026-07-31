@@ -1,0 +1,176 @@
+{
+  "id": "portobello-mushroom-steaks",
+  "title": "Balsamico-Portobello-Steaks",
+  "summary": "Geröstete Portobello-Pilze in Balsamico-Marinade, mit cremigem Kürbis-Butterbohnen-Stampf und Miso-Bratensoße.",
+  "image": "images/portobello-mushroom-steaks.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 6,
+      "unit": "Stück",
+      "name": "Portobello-Pilz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Balsamico-Essig",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Agavensirup",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Kürbis",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Dose",
+      "name": "Limabohnen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "weiß"
+    },
+    {
+      "amount": 50,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": "Soja"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": "nur Schale"
+    },
+    {
+      "amount": 60,
+      "unit": "ml",
+      "name": "Balsamico-Essig",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "braun"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Agavensirup",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Rosmarin",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Balsamico, Olivenöl, Sojasauce, Agavensirup, Salz, Pfeffer verrühren.",
+    "Portobellos rundum mit Marinade bestreichen, auf Blech legen.",
+    "Ofen auf 180°C, 10 Minuten rösten, wenden, weitere 15 Minuten bis weich und karamellisiert.",
+    "Kürbis mit Öl, Salz, Thymian vermengen, auf Blech verteilen.",
+    "30 Minuten bei 180°C rösten bis weich und karamellisiert.",
+    "Kürbis mit Limabohnen, Miso, Pflanzendrink, Hefeflocken, Zitronenschale im Mixer glatt pürieren, salzen.",
+    "Balsamico und Agavensirup im Topf erhitzen, verrühren.",
+    "Miso und Brühe dazu, glattrühren. Salzen, pfeffern, köcheln lassen.",
+    "Speisestärke mit Wasser anrühren, unter Rühren zur Soße geben, andicken.",
+    "Mit Rosmarin ziehen lassen.",
+    "Stampf auf Teller, Pilz-Steak drauf, Soße drüber, mit Zitronenschale und Kräutern garnieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/umami-packed-balsamic-glazed-portobello-mushroom-steaks"
+  },
+  "note": null
+}

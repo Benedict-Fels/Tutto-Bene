@@ -1,0 +1,148 @@
+{
+  "id": "knusper-blumenkohl",
+  "title": "Knusper-Blumenkohl in süß-scharfer Sauce",
+  "summary": "Knusprig ausgebackener Blumenkohl in klebrig-süßer Chili-Ingwer-Sauce — Take-away-Feeling für zuhause.",
+  "image": "images/knusper-blumenkohl.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Blumenkohl",
+      "variety": null
+    },
+    {
+      "amount": 240,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": null
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Knoblauchgranulat",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Paniermehl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Ahornsirup",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Brauner Zucker",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 3.5,
+      "unit": "EL",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Reisessig",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Pflanzendrink, Mehl, Speisestärke, Salz, Pfeffer und Knoblauchgranulat zu glattem Teig verrühren.",
+    "Blumenkohlröschen darin wenden, nach Belieben in Paniermehl wälzen.",
+    "In heißem Öl knusprig backen oder frittieren.",
+    "Knoblauch und Ingwer anbraten.",
+    "Ahornsirup, Zucker, Sojasauce, Wasser, Tomatenmark, Essig und Chiliflocken dazu, aufkochen.",
+    "Speisestärke mit Wasser anrühren, unter Rühren zur Sauce geben, andicken.",
+    "Blumenkohl in der Sauce schwenken, sofort servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/crispy-sticky-cauliflower"
+  },
+  "note": null
+}

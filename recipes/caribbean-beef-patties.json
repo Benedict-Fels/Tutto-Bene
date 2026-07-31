@@ -1,0 +1,174 @@
+{
+  "id": "caribbean-beef-patties",
+  "title": "Karibische Patties",
+  "summary": "Jamaikanisch inspirierte Blätterteigtaschen mit rauchig-scharfer Füllung aus Austernpilzen, Walnüssen und Beluga-Linsen, mit Jerk-Gewürz.",
+  "image": "images/caribbean-beef-patties.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Karibisch",
+  "servings": 6,
+  "prepTime": 60,
+  "cookTime": 18,
+  "restTime": 120,
+  "ingredients": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Currypulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Austernpilz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Jerk-Gewürz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "Scotch Bonnet"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Walnüsse",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Belugalinsen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Brot",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": "dunkel"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Melasse",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Rotweinessig",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Mehl, Salz, Zucker, Currypulver, Kurkuma mischen. Butter reiben, 30 Minuten einfrieren.",
+    "Hälfte der gefrorenen Butter unter das Mehl reiben, bis es krümelig ist.",
+    "Kaltes Wasser nach und nach einarbeiten, fester Teig.",
+    "Zur Kugel formen, einwickeln, mindestens 1 Stunde kühlen.",
+    "Ausrollen zu Rechteck, restliche gefrorene Butter über zwei Drittel streuen.",
+    "Ungebuttertes Drittel drüberfalten, dann die andere Seite drauf.",
+    "Rollen und falten, zwei- bis dreimal wiederholen für Blätterteig-Schichten.",
+    "Einwickeln, mindestens 30 Minuten kühlen.",
+    "Pilze anbraten bis goldbraun, Flüssigkeit verkocht.",
+    "Zwiebeln dazu, weich braten. Knoblauch, Ingwer, Chili unterrühren.",
+    "Jerk-Gewürz und Thymian dazu, kurz mitrösten.",
+    "Walnüsse, Linsen, Sojasauce, Melasse, Essig unterrühren, salzen.",
+    "Brot mit etwas Wasser zu Paste mixen, unterrühren.",
+    "10 Minuten köcheln, komplett abkühlen lassen, am besten im Kühlschrank.",
+    "Teig in 6 Stücke teilen, zu Kreisen ausrollen.",
+    "Füllung in die Mitte, zu Halbmond falten.",
+    "Mit Schüssel oder Deckel zurechtschneiden, Rand mit Gabel andrücken.",
+    "Gefüllte Taschen kühlen.",
+    "Ofen auf 180°C vorheizen.",
+    "Auf Backblech mit Papier, einmal mit Gabel einstechen.",
+    "15–20 Minuten backen bis goldbraun und knusprig."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/vegan-caribbean-beef-patties"
+  },
+  "note": null
+}

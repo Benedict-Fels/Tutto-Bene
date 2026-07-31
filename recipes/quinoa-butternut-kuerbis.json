@@ -1,0 +1,84 @@
+{
+  "id": "quinoa-butternut-kuerbis",
+  "title": "Quinoa mit Butternut-Kürbis",
+  "summary": "Nur sieben Zutaten: Quinoa und Kichererbsen ziehen mit Butternut-Kürbis und Rosmarin in einem Topf gar.",
+  "image": "images/quinoa-butternut-kuerbis.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 25,
+  "restTime": 5,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Rosmarin",
+      "variety": "Zweig"
+    },
+    {
+      "amount": 2.5,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 380,
+      "unit": "g",
+      "name": "Kürbis",
+      "variety": "Butternut, gewürfelt"
+    },
+    {
+      "amount": 185,
+      "unit": "g",
+      "name": "Quinoa",
+      "variety": null
+    },
+    {
+      "amount": 470,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 880,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Öl im großen Topf erhitzen, Rosmarin und Knoblauch etwa 1 Minute anschwitzen bis aromatisch.",
+    "Kürbis dazu, 2–3 Minuten mitbraten.",
+    "Quinoa und Brühe dazu, gut verrühren. Kichererbsen obendrauf streuen.",
+    "Aufkochen, dann Hitze auf mittel-niedrig, zugedeckt 20–23 Minuten köcheln.",
+    "Herd aus, 5 Minuten ruhen lassen, dann mit der Gabel auflockern.",
+    "Mit Tahini-Dressing oder Blattgemüse servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/one-pot-quinoa-butternut-squash/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

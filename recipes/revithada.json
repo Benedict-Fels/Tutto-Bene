@@ -1,0 +1,84 @@
+{
+  "id": "revithada",
+  "title": "Revithada",
+  "summary": "Griechischer Kichererbsen-Eintopf von der Insel Sifnos, stundenlang im Ofen geschmort bis cremig.",
+  "image": "images/revithada.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Griechisch",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 100,
+  "restTime": 480,
+  "ingredients": [
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Servieren"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot, groß"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Kichererbsen mit etwas Salz über Nacht in Wasser einweichen (mind. 8 Stunden).",
+    "Ofen auf 160°C vorheizen. Öl im Bräter erhitzen, Zwiebeln schälen, klein schneiden, 10-12 Minuten karamellisieren.",
+    "Kichererbsen abgießen, abspülen, mit Wasser, Knoblauch, Thymian, Lorbeerblatt, Pfeffer und Zitronenzeste dazugeben. Aufkochen, zugedeckt in den Ofen, 1,5 Stunden.",
+    "Aus dem Ofen, Lorbeerblatt entfernen. Ein paar Löffel Kichererbsen mit dem Knoblauch und etwas Kochflüssigkeit glattpürieren, zurück in den Bräter geben.",
+    "Zitronensaft und restliches Salz dazu, umrühren, aufkochen, zugedeckt 10 weitere Minuten in den Ofen.",
+    "Herausnehmen, 5 Minuten ruhen lassen, nochmal umrühren. Mit Olivenöl beträufelt und Brot servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/revithada-greek-chickpea-stew-easy-vegan-nistisima-classic/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

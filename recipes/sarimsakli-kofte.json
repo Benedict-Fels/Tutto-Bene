@@ -1,0 +1,114 @@
+{
+  "id": "sarimsakli-kofte",
+  "title": "Sarımsaklı Köfte",
+  "summary": "Türkische Bulgurbällchen in würziger Knoblauch-Tomaten-Sauce mit Paprikapaste.",
+  "image": "images/sarimsakli-kofte.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Türkisch",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Bulgur",
+      "variety": null
+    },
+    {
+      "amount": 160,
+      "unit": "g",
+      "name": "Grieß",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Paprikapaste",
+      "variety": "mild"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 6,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Paprikapaste",
+      "variety": "mild, für die Sauce"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": "für die Sauce"
+    }
+  ],
+  "steps": [
+    "Bulgur mit kochendem Wasser übergießen, zugedeckt 15 Minuten quellen lassen.",
+    "Grieß, Mehl, Tomatenmark, Paprikapaste, Kreuzkümmel und Salz dazu, 4–5 Minuten kneten bis der Teig formbar ist.",
+    "Reichlich Salzwasser aufkochen. Aus dem Teig traubengroße Bällchen formen, mit dem Finger eindrücken, bemehlen.",
+    "Bällchen ins kochende Wasser geben, sobald es wieder kocht 10 Minuten köcheln lassen, während die Sauce entsteht.",
+    "Petersilie hacken, kühl stellen. Tomaten fein reiben, Knoblauch reiben.",
+    "Öl erhitzen, Knoblauch andünsten, Paprikapaste dazu, kurz mitrühren.",
+    "Geriebene Tomaten, Chiliflocken und Salz dazu, 4–5 Minuten köcheln bis eingedickt.",
+    "Bällchen mit Schaumkelle und Petersilie in die Sauce heben, vorsichtig schwenken, bei Bedarf etwas Wasser dazu.",
+    "In Schüsseln anrichten, mit restlicher Petersilie und Olivenöl abschließen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/sarimsakli-kofte-turkish-bulgur-balls-in-a-garlicky-tomato-and-pepper-paste-sauce/"
+  },
+  "note": null
+}

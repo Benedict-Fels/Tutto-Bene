@@ -1,0 +1,88 @@
+{
+  "id": "gomen-wat",
+  "title": "Gomen Wat",
+  "summary": "Äthiopisches Grünkohlgericht, langsam geschmort mit Knoblauch, Ingwer und Gewürzen.",
+  "image": "images/gomen-wat.jpg",
+  "category": "Sonstige",
+  "cuisine": "Äthiopisch",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Grünkohl",
+      "variety": "oder Rippenkohl"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Nelken",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 0.125,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": null
+    },
+    {
+      "amount": 0.75,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kardamom",
+      "variety": "oder Korarima"
+    }
+  ],
+  "steps": [
+    "Zwiebel klein schneiden, in Öl bei niedriger Hitze glasig braten, 8-10 Minuten. Grünkohl putzen: Rippen entfernen, Blätter von den Stielen zupfen, Stiele fein schneiden, Blätter in Streifen schneiden.",
+    "Knoblauch und Ingwer mit etwas Wasser fein pürieren, mit Zwiebel und Stielen anbraten bis die Flüssigkeit verdampft und der rohe Geruch weg ist.",
+    "Kreuzkümmel, Nelken und Chilipulver unterrühren. Grünkohl portionsweise mit Salz und etwas Wasser dazu, zugedeckt 25 Minuten köcheln bis weich.",
+    "Kardamom unterrühren, 5 Minuten offen köcheln bis überschüssige Flüssigkeit verdampft ist. Mit Injera oder Reis servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/gomen-wat-collard-greens/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

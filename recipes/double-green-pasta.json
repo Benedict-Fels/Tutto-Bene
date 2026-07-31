@@ -1,0 +1,112 @@
+{
+  "id": "double-green-pasta",
+  "title": "Doppelgrüne Pasta",
+  "summary": "Cavolo-Nero-Pasta mit Estragon-Oliven-Pesto — grün, frisch und mit ordentlich Zitrone.",
+  "image": "images/double-green-pasta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Estragon",
+      "variety": null
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Basilikum",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Oliven",
+      "variety": "grün"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": "nur Schale"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Essig",
+      "variety": "Weißwein"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Stück",
+      "name": "Grünkohl",
+      "variety": "Cavolo Nero"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Estragon, Basilikum, Petersilie, Knoblauch, Oliven, Zitronenschale und -saft, Essig grob pürieren.",
+    "Öl zum Schluss unterrühren, salzen und pfeffern.",
+    "Grünkohlstiele von den Blättern trennen.",
+    "Stiele in heißem Wasser weich kochen.",
+    "Mit den Blättern, etwas Nudelwasser, Zitronensaft und Hefeflocken glatt pürieren, salzen und pfeffern.",
+    "Sauce mit gekochter Pasta vermischen.",
+    "Pesto und Zitronenschale obendrauf servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/wk0fguyi8wu9x57am9rcklhasgp0v3"
+  },
+  "note": null
+}

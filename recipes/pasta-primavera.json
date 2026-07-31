@@ -1,0 +1,126 @@
+{
+  "id": "pasta-primavera",
+  "title": "Pasta Primavera",
+  "summary": "One-Pot-Pasta mit buntem Frühlingsgemüse in cremiger Kokos-Sauce — schnell, leicht, viel Gemüse.",
+  "image": "images/pasta-primavera.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 5,
+  "ingredients": [
+    {
+      "amount": 380,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": "light"
+    },
+    {
+      "amount": 475,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": "italienische Kräutermischung"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zucchini",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zucchini",
+      "variety": "gelb"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "gelb oder rot"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Schalotte",
+      "variety": null
+    },
+    {
+      "amount": 85,
+      "unit": "g",
+      "name": "Brokkoli",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Erbsen",
+      "variety": "tiefgekühlt, aufgetaut"
+    },
+    {
+      "amount": 190,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "Cherry, halbiert"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Kokosmilch, Wasser, Oregano, Hefeflocken und Salz im großen Topf bei hoher Hitze verrühren.",
+    "Nudeln, Karotte, Zucchini, Paprika und Schalotte dazu, gut mischen, aufkochen.",
+    "Hitze auf mittel, 5–8 Minuten köcheln bis die Nudeln fast al dente sind, gelegentlich umrühren.",
+    "Brokkoli, Erbsen und Tomaten unterrühren, 3–5 Minuten weiterköcheln bis die gewünschte Konsistenz erreicht ist.",
+    "Herd aus, Zitronensaft, Salz und Pfeffer einrühren.",
+    "5 Minuten ruhen lassen zum Andicken, dann servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/vegan-one-pot-pasta-primavera/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

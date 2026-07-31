@@ -1,0 +1,317 @@
+{
+  "id": "karibisches-festtagsmenue",
+  "title": "Karibisches Festtagsmenü",
+  "summary": "Vier Komponenten für ein karibisches Festessen: Jerk-Linsen, Cashew-Mac-and-Cheese, geschmorter Grünkohl und Channa.",
+  "image": "images/karibisches-festtagsmenue.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Karibisch",
+  "servings": 6,
+  "prepTime": 45,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Ahornsirup",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Jerk-Gewürz",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gehackt, aus der Dose"
+    },
+    {
+      "amount": 600,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 350,
+      "unit": "g",
+      "name": "Grüne Linsen",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Cashewkerne",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Senf",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Knoblauchgranulat",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Zwiebelgranulat",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 80,
+      "unit": "ml",
+      "name": "Pflanzenöl",
+      "variety": "Raps"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Grünkohl",
+      "variety": "Grünkohl und Callaloo"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Currypulver",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Piment",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gehackt, aus der Dose"
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Petersilie",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Jerk-Linsen: Zwiebel, Frühlingszwiebel, Knoblauch, Ingwer anschwitzen.",
+    "Jerk-Gewürz und Thymian dazu, kurz mitrösten.",
+    "Tomaten, Ahornsirup und Brühe dazu, Linsen einrühren.",
+    "Zugedeckt köcheln bis die Linsen weich sind, salzen und pfeffern.",
+    "Mac and Cheese: Cashewkerne mit Wasser, Tomatenmark, Miso, Senf, Knoblauch- und Zwiebelgranulat, Zitronensaft, Öl, Kurkuma, Paprikapulver und Hefeflocken fein pürieren.",
+    "Nudeln kochen, mit der Cashewsauce vermischen, salzen und pfeffern.",
+    "Grünzeug: Zwiebel, Paprika und Knoblauch anbraten.",
+    "Tomaten und Thymian dazu, kurz schmoren.",
+    "Grünkohl und Callaloo mit Sojasauce zugeben, zusammenfallen lassen.",
+    "Channa: Zwiebel, Frühlingszwiebel, Knoblauch, Ingwer anschwitzen.",
+    "Gewürze dazu, kurz mitrösten.",
+    "Kichererbsen, Tomaten und Kokosmilch dazu, köcheln bis eingedickt.",
+    "Mit Petersilie bestreuen.",
+    "Alle vier Komponenten zusammen mit Roti und Kochbanane servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/vegan-caribbean-feast"
+  },
+  "note": null
+}

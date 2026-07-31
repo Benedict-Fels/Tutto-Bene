@@ -1,0 +1,32 @@
+{
+  "id": "hoppers",
+  "title": "Hoppers",
+  "summary": "Sri-lankische fermentierte Reis-Kokos-Pfannkuchen mit knusprigem Rand — klassisch zu Seeni Sambol.",
+  "image": "images/hoppers.jpg",
+  "category": "Sonstige",
+  "cuisine": "Sri-Lankisch",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 20,
+  "restTime": 990,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Reismehl", "variety": null },
+    { "amount": 1, "unit": "Prise", "name": "Trockenhefe", "variety": null },
+    { "amount": 300, "unit": "ml", "name": "Kokoswasser", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Kokosmilch", "variety": null },
+    { "amount": 50, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 7, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": "zum Einfetten" }
+  ],
+  "steps": [
+    "Reismehl und Hefe in großer Schüssel mischen. Kokoswasser dazu, 5 Minuten von Hand verrühren bis glatt und dickflüssig.",
+    "Locker abgedeckt 16 Stunden fermentieren lassen, bis der Teig blasig ist und sich verdoppelt hat.",
+    "Kokosmilch, Wasser und Salz unterrühren. Weitere 30 Minuten fermentieren bis cremige Konsistenz erreicht ist.",
+    "Hopper-Pfanne oder kleinen Wok auf mittlerer Hitze erhitzen, leicht einfetten. Eine Kelle Teig eingießen, schwenken, sodass die Ränder dünn und die Mitte etwas dicker sind.",
+    "Zugedeckt 3-4 Minuten braten, bis die Ränder knusprig-golden und die Mitte fest ist.",
+    "Vorsichtig mit Spatel lösen und rausnehmen. Mit restlichem Teig wiederholen, Pfanne jedes Mal neu einfetten.",
+    "Warm mit Seeni Sambol servieren."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/hoppers-sri-lankan-fermented-rice-and-coconut-pancakes/" },
+  "note": null
+}

@@ -1,0 +1,99 @@
+{
+  "id": "curry-linsen-paprika",
+  "title": "Gefüllte Paprika mit Curry-Linsen",
+  "summary": "Paprikaschoten gefüllt mit Curry-Linsen-Reis-Mix und gerösteten Cashews — aus dem Schnellkochtopf.",
+  "image": "images/curry-linsen-paprika.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "grün, groß"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": "Cremini"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Braune Linsen",
+      "variety": null
+    },
+    {
+      "amount": 180,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Vollkorn"
+    },
+    {
+      "amount": 700,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Currypulver",
+      "variety": "salzfrei"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Knoblauchgranulat",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 90,
+      "unit": "g",
+      "name": "Cashewkerne",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": "Tamari"
+    }
+  ],
+  "steps": [
+    "Paprika waschen, Deckel abschneiden und fein würfeln, Kerngehäuse entfernen.",
+    "Zwiebel, Champignons, Linsen, Reis, Brühe, Currypulver, Knoblauchgranulat und Ingwer im Schnellkochtopf verrühren.",
+    "Deckel schließen, Ventil auf Sealing, 15 Minuten bei hohem Druck garen.",
+    "10 Minuten natürlich entlüften lassen, dann restlichen Druck ablassen.",
+    "Sojasauce und den Großteil der Cashews einrühren, restliche Cashews zum Bestreuen zurückhalten.",
+    "Paprikahälften gleichmäßig mit der Mischung füllen, mit restlichen Cashews bestreuen.",
+    "Topf ausspülen, Paprika in den Gareinsatz setzen, zurück in den Topf.",
+    "15 Minuten bei 180°C backen (Crisping-Deckel oder Ofen).",
+    "Sofort servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/curried-lentil-stuffed-peppers/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

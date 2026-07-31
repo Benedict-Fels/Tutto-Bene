@@ -1,0 +1,85 @@
+{
+  "id": "imli-khajoor-chutney",
+  "title": "Imli Khajoor Chutney",
+  "summary": "Süß-saures indisches Chutney aus Tamarinde und Datteln — Klassiker für Dabeli und Pani Puri.",
+  "image": "images/imli-khajoor-chutney.jpg",
+  "category": "Sonstige",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Tamarinde",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Datteln",
+      "variety": "entkernt"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Jaggery",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Ingwer",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Koriandersamen",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": "Kashmiri"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kala Namak",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Tamarinde zerpflücken, mit Datteln und einem Teil des Wassers 10 Minuten köcheln bis die Datteln weich sind. 15 Minuten abkühlen lassen.",
+    "Pürieren, durch ein Sieb streichen, Fruchtfleisch wegwerfen.",
+    "Jaggery und Gewürze mit restlichem Wasser dazu, aufkochen, 15 Minuten köcheln bis eingedickt.",
+    "Vollständig abkühlen lassen vor dem Servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/imli-khajoor-chutney-tamarind-date-chutney/"
+  },
+  "note": null
+}

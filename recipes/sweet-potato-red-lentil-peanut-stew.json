@@ -1,0 +1,114 @@
+{
+  "id": "sweet-potato-red-lentil-peanut-stew",
+  "title": "Süßkartoffel-Linsen-Erdnuss-Eintopf",
+  "summary": "Herzhafter Eintopf mit Süßkartoffel und roten Linsen, cremig durch Erdnussbutter.",
+  "image": "images/sweet-potato-red-lentil-peanut-stew.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": "daumengroßes Stück"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Süßkartoffel",
+      "variety": "gewürfelt"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Rote Linsen",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gehackt, aus der Dose"
+    },
+    {
+      "amount": 1000,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 130,
+      "unit": "g",
+      "name": "Erdnussbutter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Erdnüsse",
+      "variety": "geröstet, gehackt, zum Servieren"
+    },
+    {
+      "amount": 0.25,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": "zum Servieren"
+    }
+  ],
+  "steps": [
+    "Zwiebel, Knoblauch und Ingwer in einem großen Topf mit etwas Wasser oder Öl glasig dünsten.",
+    "Kreuzkümmel, Kurkuma und Chiliflocken dazugeben, kurz mitrösten.",
+    "Süßkartoffel, Linsen, Tomaten und Brühe dazugeben, aufkochen.",
+    "Hitze reduzieren und 20–25 Minuten köcheln, bis Süßkartoffel und Linsen weich sind.",
+    "Erdnussbutter und Salz einrühren, glattrühren.",
+    "Mit gerösteten Erdnüssen und Koriander bestreut servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/sweet-potato-peanut-stew/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

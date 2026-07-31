@@ -1,0 +1,105 @@
+{
+  "id": "patatas-bravas",
+  "title": "Patatas Bravas",
+  "summary": "Knusprig frittierte Kartoffeln mit rauchig-scharfer Paprikasauce — spanischer Tapas-Klassiker.",
+  "image": "images/patatas-bravas.jpg",
+  "category": "Sonstige",
+  "cuisine": "Spanisch",
+  "servings": 4,
+  "prepTime": 45,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "kg",
+      "name": "Kartoffel",
+      "variety": null
+    },
+    {
+      "amount": 350,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": "zum Frittieren"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "für die Sauce"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Paprikapulver",
+      "variety": "mild"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Paprikapulver",
+      "variety": "scharf, geräuchert"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Essig",
+      "variety": "Sherry"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": "für die Sauce"
+    }
+  ],
+  "steps": [
+    "Zwiebel und Knoblauch fein hacken, mit Lorbeerblatt in Öl bei mittlerer Hitze goldbraun dünsten.",
+    "Beide Paprikapulver einrühren, Mehl dazu, kurz mitrösten. Brühe, Essig und Salz dazu, aufkochen, 15 Minuten köcheln bis eingedickt.",
+    "Kartoffeln schälen, in Stücke schneiden, in Wasser legen.",
+    "Lorbeerblatt aus Sauce fischen, Sauce fein pürieren.",
+    "Öl in Pfanne erhitzen. Kartoffeln trocken tupfen, salzen, portionsweise darin knusprig und gar frittieren, etwa 15–20 Minuten.",
+    "Kartoffeln auf Küchenpapier abtropfen, salzen, mit Sauce beträufeln, mit Paprikapulver bestäuben."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/patatas-bravas-spanish-potatoes-with-smoky-paprika-sauce/"
+  },
+  "note": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "tikil-gomen",
+  "title": "Tikil Gomen",
+  "summary": "Äthiopisches Gemüsegericht aus Kohl, Kartoffeln und Karotten mit Kurkuma.",
+  "image": "images/tikil-gomen.jpg",
+  "category": "Sonstige",
+  "cuisine": "Äthiopisch",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": "groß"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Kartoffel",
+      "variety": "mittelgroß"
+    },
+    {
+      "amount": 6,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Weißkohl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kardamom",
+      "variety": "oder Korarima"
+    }
+  ],
+  "steps": [
+    "Zwiebel in Scheiben schneiden, in Öl bei niedriger Hitze 15 Minuten goldbraun braten. Karotten schräg in Scheiben, Kartoffeln in Stifte schneiden.",
+    "Knoblauch fein hacken, mit der Zwiebel anbraten bis es duftet.",
+    "Karotten, Kartoffeln, Kurkuma und Pfeffer dazu, gut vermischen.",
+    "1 Minute anbraten, etwas Wasser dazu, zugedeckt 10 Minuten köcheln. Kohl fein schneiden.",
+    "Kohl und Salz dazu, gut vermischen, zugedeckt 15 Minuten köcheln, dabei einmal umrühren.",
+    "Kardamom unterrühren, zugedeckt 5 weitere Minuten köcheln bis alles weich ist.",
+    "Mit Injera oder Reis servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/tikil-gomen-spiced-cabbage-potato-carrots/"
+  },
+  "note": null
+}

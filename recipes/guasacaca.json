@@ -1,0 +1,90 @@
+{
+  "id": "guasacaca",
+  "title": "Guasacaca",
+  "summary": "Venezolanische Avocado-Sauce mit Limette und Essig — cremiger und würziger als Guacamole.",
+  "image": "images/guasacaca.jpg",
+  "category": "Sonstige",
+  "cuisine": "Venezolanisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Avocado",
+      "variety": "klein"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "klein"
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "grün"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Jalapeño",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Limette",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Essig",
+      "variety": "weiß"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Avocado schälen und entkernen. Zwiebel vierteln, Knoblauch schälen, Paprika und Jalapeño grob hacken (Jalapeño halbieren, entkernen). Koriander mit Stielen hacken.",
+    "Alles zusammen mit Limettensaft, Essig, Öl, Wasser und Salz in den Mixer geben, fast glatt pürieren, bei Bedarf mehr Wasser.",
+    "In eine Schüssel füllen, zu Arepas oder anderen Gerichten servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/guasacaca-vibrant-venezuelan-avocado-sauce/"
+  },
+  "note": null
+}

@@ -1,0 +1,89 @@
+{
+  "id": "one-pot-asparagus-mushroom-quinoa",
+  "title": "One-Pot-Spargel-Pilz-Quinoa",
+  "summary": "Leichtes Frühlingsgericht: Quinoa mit Spargel und Champignons, alles in einem Topf gegart.",
+  "image": "images/one-pot-asparagus-mushroom-quinoa.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": "in Scheiben"
+    },
+    {
+      "amount": 185,
+      "unit": "g",
+      "name": "Quinoa",
+      "variety": null
+    },
+    {
+      "amount": 470,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Spargel",
+      "variety": "grün, in Stücken"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    }
+  ],
+  "steps": [
+    "Zwiebel, Knoblauch und Champignons in einem großen Topf mit etwas Öl anbraten, bis die Pilze Farbe nehmen.",
+    "Quinoa und Brühe dazugeben, aufkochen.",
+    "Zugedeckt 12 Minuten köcheln lassen.",
+    "Spargel, Thymian, Salz und Pfeffer dazugeben, weitere 5–8 Minuten köcheln bis der Spargel gar und die Flüssigkeit aufgesogen ist.",
+    "Zitronensaft einrühren, abschmecken und servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/one-pot-asparagus-mushroom-quinoa/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

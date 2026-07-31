@@ -1,0 +1,58 @@
+{
+  "id": "mujadara-hamra",
+  "title": "Mujadara Hamra",
+  "summary": "Libanesische braune Linsen mit Bulgur und tief karamellisierten Zwiebeln — schlicht und herzhaft.",
+  "image": "images/mujadara-hamra.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Libanesisch",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 10,
+  "restTime": 10,
+  "ingredients": [
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Zwiebel",
+      "variety": "4 große Zwiebeln"
+    },
+    {
+      "amount": 130,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Braune Linsen",
+      "variety": null
+    },
+    {
+      "amount": 240,
+      "unit": "g",
+      "name": "Bulgur",
+      "variety": "grob"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Zwiebeln fein hacken, mit Olivenöl bei mittelniedriger Hitze 40-45 Minuten unter häufigem Rühren tief golden karamellisieren.",
+    "Linsen waschen, mit Wasser 20 Minuten köcheln bis gerade weich. Abgießen, Kochwasser aufheben.",
+    "Kochflüssigkeit mit Wasser auffüllen, zu den Zwiebeln geben, Linsen, Bulgur und Salz dazu. Aufkochen, zugedeckt 12 Minuten köcheln bis der Bulgur weich ist.",
+    "Vom Herd, 10 Minuten zugedeckt dampfen lassen. Vorsichtig umrühren, auf Platte anrichten."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/mujadara-hamra-lebanese-lentils-bulgur/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

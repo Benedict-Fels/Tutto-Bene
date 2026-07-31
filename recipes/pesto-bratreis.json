@@ -1,0 +1,90 @@
+{
+  "id": "pesto-bratreis",
+  "title": "Pesto-Bratreis",
+  "summary": "Bratreis mit Sommergemüse und würzigem Basilikumpesto — italienisch-asiatische Fusion aus einer Pfanne.",
+  "image": "images/pesto-bratreis.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "gekocht, vom Vortag"
+    },
+    {
+      "amount": 115,
+      "unit": "g",
+      "name": "Pesto",
+      "variety": "nussfrei"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 280,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "Cherry, halbiert"
+    },
+    {
+      "amount": 10,
+      "unit": "Stück",
+      "name": "Oliven",
+      "variety": "Kalamata, optional"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zucchini",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 145,
+      "unit": "g",
+      "name": "Erbsen",
+      "variety": "tiefgekühlt, aufgetaut"
+    },
+    {
+      "amount": 55,
+      "unit": "g",
+      "name": "Spinat",
+      "variety": "Baby"
+    }
+  ],
+  "steps": [
+    "Reis in Öl bei hoher Hitze 8–9 Minuten anrösten, alle 2–3 Minuten wenden, bis golden. Salzen, beiseitestellen.",
+    "Hitze auf mittelhoch, restliches Öl, Pesto und Knoblauch dazu, 45–60 Sekunden anschwitzen bis leuchtend grün.",
+    "Tomaten dazu, 3 Minuten braten. Zucchini, Oliven und Salz dazu, 5–6 Minuten braten bis die Flüssigkeit verdampft ist.",
+    "Reis mit Erbsen und restlichem Pesto zurück in die Pfanne, gut vermischen.",
+    "Hitze runter, Spinat unterheben bis zusammengefallen, abschmecken.",
+    "Warm servieren, nach Belieben mit Pinienkernen, Basilikum oder Chiliflocken."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/pesto-fried-rice-vegan/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

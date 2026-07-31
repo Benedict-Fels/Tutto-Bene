@@ -1,0 +1,108 @@
+{
+  "id": "lemongrass-tofu",
+  "title": "Zitronengras-Tofu",
+  "summary": "Vietnamesisch angehauchter knuspriger Tofu mit Zitronengras, Chili und einer würzigen Pfannensauce.",
+  "image": "images/lemongrass-tofu.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Vietnamesisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Zitronengras",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Schalotte",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tofu",
+      "variety": "extrafest, gepresst"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": "Avocadoöl"
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "Thai, rot"
+    },
+    {
+      "amount": 120,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Glutamat",
+      "variety": "optional"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Limette",
+      "variety": "zum Servieren"
+    }
+  ],
+  "steps": [
+    "Teller mit Küchenpapier auslegen. Dunkle Enden und Spitzen des Zitronengrases entfernen, fein hacken.",
+    "Wasser, Zucker, Sojasauce, Glutamat und Speisestärke in einem Glas verrühren, beiseitestellen.",
+    "Tofu in Würfel oder Dreiecke schneiden. Öl in Wok oder Pfanne erhitzen, Tofu je Seite 3–5 Minuten scharf anbraten, bis braun. Auf Küchenpapier abtropfen, salzen.",
+    "Bei Bedarf mehr Öl in die Pfanne, Schalotte glasig andünsten, 3–5 Minuten. Zitronengras, Chili und Knoblauch dazu, 2–3 Minuten mitbraten.",
+    "Tofu zurück in die Pfanne, Sauce darübergießen, 5–10 Minuten köcheln bis die Sauce eindickt.",
+    "Auf einer Platte anrichten, mit Limette beträufeln. Mit Reis, Nudeln oder in Wraps servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/lemongrass-tofu-vegan/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

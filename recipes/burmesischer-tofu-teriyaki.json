@@ -1,0 +1,115 @@
+{
+  "id": "burmesischer-tofu-teriyaki",
+  "title": "Burmesischer Tofu in Teriyaki-Sauce",
+  "summary": "Sojafreier Tofu aus Kichererbsenmehl, knusprig gebraten und in klebriger Teriyaki-Sauce geschwenkt.",
+  "image": "images/burmesischer-tofu-teriyaki.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Burmesisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "restTime": 1440,
+  "ingredients": [
+    {
+      "amount": 750,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 130,
+      "unit": "g",
+      "name": "Kichererbsenmehl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 120,
+      "unit": "ml",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Ahornsirup",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Reisessig",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sesam",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Chiliflocken",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "250ml Wasser mit Kichererbsenmehl glattrühren, 5-10 Minuten quellen lassen.",
+    "In beschichtetem Topf bei niedriger Hitze mit Salz, Kurkuma und restlichem Wasser 10-15 Minuten dick rühren.",
+    "In gefettete Form gießen, 1-2 Tage kühlen, mindestens 24 Stunden.",
+    "In Würfel schneiden, mit Speisestärke bestäuben.",
+    "In heißem Öl goldbraun und knusprig braten.",
+    "Herausnehmen, auf Küchenpapier abtropfen.",
+    "Speisestärke mit Wasser glattrühren.",
+    "Sojasauce, Ahornsirup, Essig, Knoblauch und Ingwer verrühren, erhitzen.",
+    "Stärke-Wasser-Mix dazu, unter Rühren andicken.",
+    "Knusprigen Tofu unterheben, mit Sesam und Chiliflocken servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/sticky-teriyaki-burmese-tofu"
+  },
+  "note": null
+}

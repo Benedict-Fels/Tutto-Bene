@@ -1,0 +1,109 @@
+{
+  "id": "bordatino-alla-pisana",
+  "title": "Bordatino alla Pisana",
+  "summary": "Herzhafte toskanische Suppe aus weißen Bohnen, Grünkohl und Polenta — einfache Cucina Povera.",
+  "image": "images/bordatino-alla-pisana.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 50,
+  "cookTime": 120,
+  "restTime": 720,
+  "ingredients": [
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Weiße Bohnen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 2.25,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Bund",
+      "name": "Salbei",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Servieren"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Sellerie",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Grünkohl",
+      "variety": "Cavolo Nero"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Polenta",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Bohnen mit etwas Salz über Nacht in reichlich Wasser einweichen.",
+    "Bohnen abgießen, abspülen, mit Knoblauchzehen und Salbei in Topf mit Wasser aufkochen, abschäumen, zugedeckt eine Stunde köcheln bis weich. Salbei entfernen, Bohnen und Knoblauch abgießen, Kochwasser aufheben.",
+    "Öl in Topf erhitzen, Zwiebel, Karotte und Sellerie klein würfeln, nacheinander andünsten. Grünkohlstiele würfeln, mit Chiliflocken, Pfeffer und restlichem Salz dazugeben, 10–15 Minuten dünsten.",
+    "Grünkohlblätter in Streifen schneiden. Viertel der Bohnen mit gekochtem Knoblauch und etwas Kochwasser fein pürieren.",
+    "Tomatenmark einrühren. Grünkohlblätter, pürierte Bohnenmasse, restliche Bohnen und Kochwasser dazugeben, aufkochen, zugedeckt 20 Minuten köcheln.",
+    "Polenta langsam einrieseln lassen, dabei ständig rühren. Offen 1–2 Minuten köcheln, dann zugedeckt 5 Minuten quellen lassen.",
+    "In Schüsseln füllen, mit Olivenöl und Pfeffer abschließen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/bordatino-alla-pisana-tuscan-bean-cornmeal-soup/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

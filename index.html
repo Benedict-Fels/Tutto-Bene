@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Tutto Bene.</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header header-home">
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="header-icon" aria-hidden="true">
+          <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 5.5 2 10a7 7 0 0 1-2 4.6"></path><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"></path></svg>
+        </span>
+        <div class="header-text">
+          <h1><a href="index.html">Tutto Bene<span class="pea">.</span></a></h1>
+          <p class="subtitle">vegan gut, alles gut</p>
+        </div>
+      </div>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Zu dunklem Design wechseln">
+        <svg class="icon-sun" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.2" y1="4.2" x2="5.6" y2="5.6"></line><line x1="18.4" y1="18.4" x2="19.8" y2="19.8"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.2" y1="19.8" x2="5.6" y2="18.4"></line><line x1="18.4" y1="5.6" x2="19.8" y2="4.2"></line></svg>
+        <svg class="icon-moon" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+      </button>
+    </div>
+    <div class="hero">
+      <h2 class="hero-title">Von Freunden für Freunde</h2>
+      <p class="hero-subtitle">Lieblingsgerichte entdecken, nachkochen, genießen</p>
+    </div>
+    <img class="hero-image" src="images/header-hero.png" alt="" aria-hidden="true">
+    <svg class="header-wave" viewBox="0 0 1180 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0,20 C 200,45 400,0 590,18 C 780,36 980,0 1180,20 L1180,40 L0,40 Z"></path></svg>
+  </header>
+
+  <main id="content">
+    <div class="page-layout" id="page-layout" hidden>
+      <div class="search-card">
+        <p class="search-card-label">Wonach hast du Appetit?</p>
+        <div class="search-row">
+          <label class="search-input">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input type="text" id="text-search" placeholder="Gericht, Zutat oder Stimmung suchen">
+          </label>
+          <button type="button" class="ingredient-toggle" id="ingredient-toggle">+ Zutaten filtern</button>
+        </div>
+
+        <div class="ingredient-filters" id="ingredient-filters" hidden>
+          <div class="filter-group">
+            <h3>Zutaten — muss enthalten</h3>
+            <div class="autocomplete">
+              <input type="text" id="include-input" autocomplete="off" placeholder="Zutat eintippen">
+              <div class="autocomplete-menu" id="include-menu" hidden></div>
+            </div>
+            <div class="chip-row" id="include-chips"></div>
+          </div>
+
+          <div class="filter-group">
+            <h3>Zutaten — enthält nicht</h3>
+            <div class="autocomplete">
+              <input type="text" id="exclude-input" autocomplete="off" placeholder="Zutat eintippen">
+              <div class="autocomplete-menu" id="exclude-menu" hidden></div>
+            </div>
+            <div class="chip-row" id="exclude-chips"></div>
+          </div>
+        </div>
+
+        <div class="category-row">
+          <span class="category-label">Kategorie</span>
+          <div class="category-list" id="category-list"></div>
+          <button type="button" class="reset-button" id="reset-button" hidden>Alles zurücksetzen</button>
+        </div>
+      </div>
+
+      <div class="results">
+        <p class="results-bar">
+          <span id="results-bar"></span>
+          <span class="tagline">Für deine Küche ausgewählt</span>
+        </p>
+        <div class="grid" id="grid"></div>
+        <div class="load-more-sentinel" id="load-more-sentinel" hidden></div>
+        <div class="empty-state" id="empty-state" hidden></div>
+      </div>
+    </div>
+    <p class="empty" id="empty" hidden>Noch nichts zum Kochen da.</p>
+  </main>
+
+  <script src="theme.js"></script>
+  <script>
+    const state = {
+      include: [],
+      exclude: [],
+      categories: [],
+      tags: [],
+      quick: false,
+      text: '',
+    };
+
+    const QUICK_MAX_MINUTES = 30;
+    const PAGE_SIZE = 24;
+
+    let allRecipes = [];
+    let allCategories = [];
+    let visibleCount = PAGE_SIZE;
+    let loadMoreObserver = null;
+
+    function normalize(text) {
+      return (text || '').toLocaleLowerCase('de');
+    }
+
+    function readStateFromUrl() {
+      const params = new URLSearchParams(window.location.search);
+      state.include = (params.get('inc') || '').split(',').filter(Boolean);
+      state.exclude = (params.get('exc') || '').split(',').filter(Boolean);
+      state.categories = (params.get('cat') || '').split(',').filter(Boolean);
+      state.tags = (params.get('tag') || '').split(',').filter(Boolean);
+      state.quick = params.get('quick') === '1';
+      state.text = params.get('q') || '';
+    }
+
+    function writeStateToUrl() {
+      const params = new URLSearchParams();
+      if (state.include.length) params.set('inc', state.include.join(','));
+      if (state.exclude.length) params.set('exc', state.exclude.join(','));
+      if (state.categories.length) params.set('cat', state.categories.join(','));
+      if (state.tags.length) params.set('tag', state.tags.join(','));
+      if (state.quick) params.set('quick', '1');
+      if (state.text) params.set('q', state.text);
+      const query = params.toString();
+      const url = window.location.pathname + (query ? `?${query}` : '');
+      window.history.replaceState(null, '', url);
+    }
+
+    function ingredientFrequency(recipes) {
+      const counts = new Map();
+      recipes.forEach(r => {
+        (r.ingredients || []).forEach(name => {
+          counts.set(name, (counts.get(name) || 0) + 1);
+        });
+      });
+      return counts;
+    }
+
+    function matchesFilters(recipe, overrideState) {
+      const s = overrideState || state;
+
+      for (const excluded of s.exclude) {
+        if (recipe.ingredients.includes(excluded)) return false;
+      }
+      for (const required of s.include) {
+        if (!recipe.ingredients.includes(required)) return false;
+      }
+      if (s.categories.length && !s.categories.includes(recipe.category)) return false;
+
+      if (s.tags.length) {
+        const recipeTags = recipe.tags || [];
+        if (!s.tags.some(tag => recipeTags.includes(tag))) return false;
+      }
+
+      if (s.quick) {
+        const totalTime = (recipe.prepTime || 0) + (recipe.cookTime || 0);
+        if (totalTime >= QUICK_MAX_MINUTES) return false;
+      }
+
+      if (s.text) {
+        const needle = normalize(s.text);
+        const haystack = normalize(recipe.title) + ' ' + normalize(recipe.summary);
+        if (!haystack.includes(needle)) return false;
+      }
+
+      return true;
+    }
+
+    function filteredRecipes() {
+      return allRecipes.filter(r => matchesFilters(r));
+    }
+
+    function emptyStateSuggestions() {
+      if (state.include.length === 0) return [];
+      const suggestions = [];
+      for (const ingredient of state.include) {
+        const trialState = { ...state, include: state.include.filter(i => i !== ingredient) };
+        const count = allRecipes.filter(r => matchesFilters(r, trialState)).length;
+        if (count > 0) suggestions.push({ ingredient, count });
+      }
+      suggestions.sort((a, b) => b.count - a.count);
+      return suggestions;
+    }
+
+    function renderEmptyState() {
+      const suggestions = emptyStateSuggestions();
+      const container = document.getElementById('empty-state');
+      if (suggestions.length === 0) {
+        container.innerHTML = `<h2>Tutto male.</h2><p>Keine passenden Rezepte. Vielleicht einen Filter entfernen?</p>`;
+      } else {
+        const rows = suggestions.map(s => `
+          <p class="suggestion">
+            Ohne <strong>${s.ingredient}</strong> wären es ${s.count} Rezept${s.count === 1 ? '' : 'e'}.
+            <button type="button" data-remove-ingredient="${encodeURIComponent(s.ingredient)}">${s.ingredient} entfernen</button>
+          </p>
+        `).join('');
+        container.innerHTML = `<h2>Tutto male.</h2>${rows}`;
+      }
+      container.querySelectorAll('[data-remove-ingredient]').forEach(button => {
+        button.addEventListener('click', () => {
+          const ingredient = decodeURIComponent(button.dataset.removeIngredient);
+          state.include = state.include.filter(i => i !== ingredient);
+          renderAll();
+        });
+      });
+    }
+
+    const UTENSILS_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 5.5 2 10a7 7 0 0 1-2 4.6"></path><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"></path></svg>';
+
+    function badgeVariant(category) {
+      let sum = 0;
+      for (let i = 0; i < category.length; i++) sum += category.charCodeAt(i);
+      return sum % 2 === 0 ? 'variant-accent' : 'variant-accent2';
+    }
+
+    function recipeCard(recipe) {
+      const badge = `<span class="badge-icon ${badgeVariant(recipe.category)}" aria-hidden="true">${UTENSILS_ICON}</span>`;
+      const image = recipe.image
+        ? `<img class="card-image" src="${recipe.image}" alt="" loading="lazy">`
+        : `<div class="card-image-placeholder">kein Bild</div>`;
+      return `
+        <a class="card" href="recipe.html?id=${encodeURIComponent(recipe.id)}">
+          <div class="card-image-wrap">${image}${badge}</div>
+          <div class="card-content">
+            <span class="badge">${recipe.category}</span>
+            <h2>${recipe.title}</h2>
+            <p>${recipe.summary}</p>
+          </div>
+        </a>
+      `;
+    }
+
+    function renderChips() {
+      const includeChips = document.getElementById('include-chips');
+      includeChips.innerHTML = state.include.map(i => `
+        <span class="chip selected" data-remove-include="${encodeURIComponent(i)}">${i} <span class="chip-remove">×</span></span>
+      `).join('');
+      includeChips.querySelectorAll('[data-remove-include]').forEach(chip => {
+        chip.addEventListener('click', () => {
+          const ingredient = decodeURIComponent(chip.dataset.removeInclude);
+          state.include = state.include.filter(i => i !== ingredient);
+          renderAll();
+        });
+      });
+
+      const excludeChips = document.getElementById('exclude-chips');
+      excludeChips.innerHTML = state.exclude.map(i => `
+        <span class="chip exclude selected" data-remove-exclude="${encodeURIComponent(i)}">${i} <span class="chip-remove">×</span></span>
+      `).join('');
+      excludeChips.querySelectorAll('[data-remove-exclude]').forEach(chip => {
+        chip.addEventListener('click', () => {
+          const ingredient = decodeURIComponent(chip.dataset.removeExclude);
+          state.exclude = state.exclude.filter(i => i !== ingredient);
+          renderAll();
+        });
+      });
+    }
+
+    function hasQuickRecipe(recipes) {
+      return recipes.some(r => ((r.prepTime || 0) + (r.cookTime || 0)) < QUICK_MAX_MINUTES);
+    }
+
+    function tagsInUse(recipes) {
+      const tags = new Set();
+      recipes.forEach(r => (r.tags || []).forEach(tag => tags.add(tag)));
+      return [...tags];
+    }
+
+    function renderCategoryPills(categories) {
+      const container = document.getElementById('category-list');
+      const allActive = state.categories.length === 0;
+      const pills = [`<button type="button" class="category-pill ${allActive ? 'active' : ''}" data-category="">${allActive ? '✓ ' : ''}Alle</button>`]
+        .concat(categories.map(value => {
+          const active = state.categories.includes(value);
+          return `<button type="button" class="category-pill ${active ? 'active' : ''}" data-category="${value}">${value}</button>`;
+        }));
+
+      tagsInUse(allRecipes).forEach(tag => {
+        const active = state.tags.includes(tag);
+        pills.push(`<button type="button" class="category-pill ${active ? 'active' : ''}" data-tag="${tag}">${tag}</button>`);
+      });
+
+      if (hasQuickRecipe(allRecipes)) {
+        pills.push(`<button type="button" class="category-pill ${state.quick ? 'active' : ''}" data-quick="1">Schnell</button>`);
+      }
+
+      container.innerHTML = pills.join('');
+
+      container.querySelectorAll('[data-category]').forEach(pill => {
+        pill.addEventListener('click', () => {
+          const value = pill.dataset.category;
+          if (!value) {
+            state.categories = [];
+          } else if (state.categories.includes(value)) {
+            state.categories = state.categories.filter(v => v !== value);
+          } else {
+            state.categories = [...state.categories, value];
+          }
+          renderAll();
+        });
+      });
+
+      container.querySelectorAll('[data-tag]').forEach(pill => {
+        pill.addEventListener('click', () => {
+          const value = pill.dataset.tag;
+          if (state.tags.includes(value)) {
+            state.tags = state.tags.filter(v => v !== value);
+          } else {
+            state.tags = [...state.tags, value];
+          }
+          renderAll();
+        });
+      });
+
+      container.querySelectorAll('[data-quick]').forEach(pill => {
+        pill.addEventListener('click', () => {
+          state.quick = !state.quick;
+          renderAll();
+        });
+      });
+    }
+
+    function hasActiveFilters() {
+      return state.include.length || state.exclude.length || state.categories.length || state.tags.length || state.quick || state.text;
+    }
+
+    function activeFilterCount() {
+      return state.include.length + state.exclude.length + state.categories.length + state.tags.length + (state.quick ? 1 : 0) + (state.text ? 1 : 0);
+    }
+
+    function setupLoadMoreObserver() {
+      const sentinel = document.getElementById('load-more-sentinel');
+      if (loadMoreObserver) {
+        loadMoreObserver.disconnect();
+      }
+      loadMoreObserver = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting) {
+          visibleCount += PAGE_SIZE;
+          renderAll(true);
+        }
+      });
+      loadMoreObserver.observe(sentinel);
+    }
+
+    function renderAll(keepScroll) {
+      writeStateToUrl();
+
+      const results = filteredRecipes();
+      const grid = document.getElementById('grid');
+      const emptyState = document.getElementById('empty-state');
+      const resultsBar = document.getElementById('results-bar');
+      const sentinel = document.getElementById('load-more-sentinel');
+
+      if (!keepScroll) {
+        visibleCount = PAGE_SIZE;
+      }
+
+      resultsBar.textContent = `${results.length} Rezept${results.length === 1 ? '' : 'e'}`;
+
+      if (results.length === 0) {
+        grid.hidden = true;
+        sentinel.hidden = true;
+        emptyState.hidden = false;
+        renderEmptyState();
+      } else {
+        grid.hidden = false;
+        emptyState.hidden = true;
+        const sorted = [...results].sort((a, b) => a.title.localeCompare(b.title, 'de'));
+        const visible = sorted.slice(0, visibleCount);
+        grid.innerHTML = visible.map(recipeCard).join('');
+
+        if (visible.length < sorted.length) {
+          sentinel.hidden = false;
+          setupLoadMoreObserver();
+        } else {
+          sentinel.hidden = true;
+          if (loadMoreObserver) loadMoreObserver.disconnect();
+        }
+      }
+
+      document.getElementById('reset-button').hidden = !hasActiveFilters();
+
+      renderChips();
+      renderCategoryPills(allCategories);
+      document.getElementById('text-search').value = state.text;
+    }
+
+    function setupStaticControls(categories) {
+      renderCategoryPills(categories);
+
+      document.getElementById('text-search').addEventListener('input', (event) => {
+        state.text = event.target.value;
+        renderAll();
+      });
+
+      function addIngredient(field, value) {
+        const trimmed = value.trim();
+        if (!trimmed) return;
+        const match = [...ingredientFrequency(allRecipes).keys()].find(
+          name => normalize(name) === normalize(trimmed)
+        );
+        const finalValue = match || trimmed;
+        if (!state[field].includes(finalValue)) {
+          state[field] = [...state[field], finalValue];
+        }
+        renderAll();
+      }
+
+      function setupAutocomplete(inputId, menuId, field) {
+        const input = document.getElementById(inputId);
+        const menu = document.getElementById(menuId);
+        let activeIndex = -1;
+        const allIngredients = [...ingredientFrequency(allRecipes).keys()].sort((a, b) => a.localeCompare(b, 'de'));
+
+        function closeMenu() {
+          menu.hidden = true;
+          menu.innerHTML = '';
+          activeIndex = -1;
+        }
+
+        function currentMatches() {
+          const needle = normalize(input.value.trim());
+          return allIngredients
+            .filter(name => !state[field].includes(name))
+            .filter(name => !needle || normalize(name).includes(needle))
+            .slice(0, 8);
+        }
+
+        function renderMenu() {
+          const matches = currentMatches();
+          if (matches.length === 0) {
+            closeMenu();
+            return;
+          }
+          activeIndex = -1;
+          menu.innerHTML = matches.map(name => `
+            <button type="button" data-value="${encodeURIComponent(name)}">${name}</button>
+          `).join('');
+          menu.hidden = false;
+          menu.querySelectorAll('button').forEach(button => {
+            button.addEventListener('mousedown', (event) => {
+              event.preventDefault();
+              addIngredient(field, decodeURIComponent(button.dataset.value));
+              input.value = '';
+              closeMenu();
+            });
+          });
+        }
+
+        function setActive(index) {
+          const buttons = [...menu.querySelectorAll('button')];
+          buttons.forEach(b => b.classList.remove('active'));
+          if (buttons[index]) {
+            buttons[index].classList.add('active');
+            buttons[index].scrollIntoView({ block: 'nearest' });
+          }
+        }
+
+        input.addEventListener('input', renderMenu);
+        input.addEventListener('focus', renderMenu);
+
+        input.addEventListener('keydown', (event) => {
+          const buttons = [...menu.querySelectorAll('button')];
+          if (event.key === 'ArrowDown' && buttons.length) {
+            event.preventDefault();
+            activeIndex = (activeIndex + 1) % buttons.length;
+            setActive(activeIndex);
+          } else if (event.key === 'ArrowUp' && buttons.length) {
+            event.preventDefault();
+            activeIndex = (activeIndex - 1 + buttons.length) % buttons.length;
+            setActive(activeIndex);
+          } else if (event.key === 'Enter') {
+            event.preventDefault();
+            const value = activeIndex >= 0 && buttons[activeIndex]
+              ? decodeURIComponent(buttons[activeIndex].dataset.value)
+              : input.value;
+            addIngredient(field, value);
+            input.value = '';
+            closeMenu();
+          } else if (event.key === 'Escape') {
+            closeMenu();
+          }
+        });
+
+        input.addEventListener('blur', () => {
+          setTimeout(closeMenu, 100);
+        });
+      }
+
+      setupAutocomplete('include-input', 'include-menu', 'include');
+      setupAutocomplete('exclude-input', 'exclude-menu', 'exclude');
+
+      document.getElementById('ingredient-toggle').addEventListener('click', () => {
+        const panel = document.getElementById('ingredient-filters');
+        const open = panel.hidden;
+        panel.hidden = !open;
+        document.getElementById('ingredient-toggle').textContent = open ? '- Zutaten filtern' : '+ Zutaten filtern';
+      });
+
+      document.getElementById('reset-button').addEventListener('click', () => {
+        state.include = [];
+        state.categories = [];
+        state.tags = [];
+        state.quick = false;
+        state.text = '';
+        // state.exclude bleibt bewusst erhalten
+        renderAll();
+        setupStaticControls(categories);
+      });
+    }
+
+    async function init() {
+      const layout = document.getElementById('page-layout');
+      const empty = document.getElementById('empty');
+      let data;
+      try {
+        const response = await fetch('recipes.json');
+        data = await response.json();
+      } catch (err) {
+        data = { recipes: [] };
+      }
+
+      allRecipes = data.recipes || [];
+
+      if (allRecipes.length === 0) {
+        empty.hidden = false;
+        return;
+      }
+
+      layout.hidden = false;
+
+      const categories = [...new Set(allRecipes.map(r => r.category))].sort((a, b) => a.localeCompare(b, 'de'));
+      allCategories = categories;
+
+      readStateFromUrl();
+      setupStaticControls(categories);
+      renderAll();
+    }
+
+    init();
+  </script>
+</body>
+</html>

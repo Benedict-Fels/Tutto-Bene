@@ -1,0 +1,56 @@
+{
+  "id": "sehriyeli-pilav",
+  "title": "Şehriyeli Pilav",
+  "summary": "Türkischer Reis mit gerösteten Fadennudeln — nussig, fluffig, klassische Beilage.",
+  "image": "images/sehriyeli-pilav.jpg",
+  "category": "Sonstige",
+  "cuisine": "Türkisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 260,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Rundkorn"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": "Orzo"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 460,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Reis in reichlich Wasser waschen, mehrmals abgießen bis es fast klar bleibt.",
+    "Öl erhitzen, Nudeln goldbraun anrösten, ständig rühren.",
+    "Reis, Salz und Wasser dazu, aufkochen, dann auf kleinster Stufe zugedeckt 12 Minuten köcheln, nicht rühren.",
+    "Herd aus, weitere 10 Minuten zugedeckt dampfen lassen.",
+    "In Schüssel füllen, andrücken, kurz stehen lassen, dann stürzen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/sehriyeli-pilav-turkish-rice-with-orzo/"
+  },
+  "note": null
+}

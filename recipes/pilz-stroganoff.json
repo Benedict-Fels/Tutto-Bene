@@ -1,0 +1,95 @@
+{
+  "id": "pilz-stroganoff",
+  "title": "Pilz-Stroganoff",
+  "summary": "Cremiges One-Pot-Stroganoff mit Champignons und Nudeln in einer Cashewbutter-Sauce — zwanzig Minuten, ein Topf.",
+  "image": "images/pilz-stroganoff.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 280,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": "Cremini"
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": "Rotini"
+    },
+    {
+      "amount": 950,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": "Beef-Geschmack"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Cashewbutter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Petersilie",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Öl im großen Topf erhitzen, Zwiebel darin 3–5 Minuten glasig dünsten.",
+    "Nudeln, Champignons, Brühe, Hefeflocken und Pfeffer dazu, aufkochen.",
+    "Hitze auf mittel-niedrig, 10–15 Minuten köcheln, gelegentlich umrühren, bis die Nudeln al dente sind.",
+    "Vom Herd, Cashewbutter und Zitronensaft einrühren bis glatt.",
+    "Mit Salz abschmecken, mit Petersilie und Pfeffer bestreut servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/one-pot-mushroom-stroganoff/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

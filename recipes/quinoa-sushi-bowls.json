@@ -1,0 +1,113 @@
+{
+  "id": "quinoa-sushi-bowls",
+  "title": "Quinoa-Sushi-Bowls mit Orange-Miso-Dressing",
+  "summary": "Sushi-Aromen als Bowl: Quinoa, knackiges Gemüse und Avocado mit süß-salzigem Orange-Miso-Dressing.",
+  "image": "images/quinoa-sushi-bowls.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Japanisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 185,
+      "unit": "g",
+      "name": "Quinoa",
+      "variety": null
+    },
+    {
+      "amount": 375,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": "in Streifen"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Salatgurke",
+      "variety": "in Streifen"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Avocado",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Edamame",
+      "variety": "geschält"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Nori",
+      "variety": "Blatt, in Streifen geschnitten"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sesam",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "weiß"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Orange",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Reisessig",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Ahornsirup",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Sesamöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Ingwer",
+      "variety": "gerieben"
+    }
+  ],
+  "steps": [
+    "Quinoa und Wasser aufkochen, zugedeckt 15 Minuten köcheln bis das Wasser aufgesogen ist.",
+    "Für das Dressing Miso, Orangensaft, Reisessig, Ahornsirup, Sesamöl und Ingwer glatt rühren.",
+    "Karotte, Gurke, Avocado und Edamame vorbereiten.",
+    "Quinoa auf Schalen verteilen, Gemüse und Avocado darauf anrichten.",
+    "Mit Nori-Streifen und Sesam bestreuen, Dressing darüberträufeln und servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/quinoa-sushi-bowls/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

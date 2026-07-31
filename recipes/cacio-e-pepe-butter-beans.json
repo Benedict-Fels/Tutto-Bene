@@ -1,0 +1,70 @@
+{
+  "id": "cacio-e-pepe-butter-beans",
+  "title": "Cacio e Pepe Butterbohnen",
+  "summary": "Cremige Butterbohnen im Cacio-e-Pepe-Stil — viel schwarzer Pfeffer, veganer Parmesan, ein Topf.",
+  "image": "images/cacio-e-pepe-butter-beans.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 850,
+      "unit": "g",
+      "name": "Weiße Bohnen",
+      "variety": "Butterbohnen, aus der Dose"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": "grob gemahlen"
+    },
+    {
+      "amount": 240,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 55,
+      "unit": "g",
+      "name": "Veganer Parmesan",
+      "variety": "gerieben"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Petersilie",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Butter im großen Topf schmelzen. Pfeffer und Hefeflocken dazu, 45–60 Sekunden anrösten.",
+    "Bohnen und Brühe dazu, gut verrühren, 7–9 Minuten köcheln, gelegentlich umrühren, bis die Flüssigkeit auf die Hälfte reduziert ist.",
+    "Hitze runter, Parmesan einrühren bis geschmolzen und die Sauce dickt, 1–2 Minuten. Bei Bedarf mit Wasser verdünnen.",
+    "Mit Salz und Pfeffer abschmecken, mit Petersilie bestreut warm servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/cacio-e-pepe-butter-beans/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

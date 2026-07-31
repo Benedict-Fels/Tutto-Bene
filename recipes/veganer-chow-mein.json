@@ -1,0 +1,146 @@
+{
+  "id": "veganer-chow-mein",
+  "title": "Chow Mein",
+  "summary": "Asiatische Pfannennudeln mit veganem Hähnchen, Gemüse und würziger Sojasauce — schnell und besser als Take-away.",
+  "image": "images/veganer-chow-mein.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 3,
+  "prepTime": 20,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 45,
+      "unit": "ml",
+      "name": "Sojasauce",
+      "variety": "dunkel"
+    },
+    {
+      "amount": 30,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "ml",
+      "name": "Sesamöl",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Brühwürfel",
+      "variety": "Gemüse"
+    },
+    {
+      "amount": 5,
+      "unit": "g",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 10,
+      "unit": "ml",
+      "name": "Agavensirup",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "ml",
+      "name": "Sriracha",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "ml",
+      "name": "Reisessig",
+      "variety": null
+    },
+    {
+      "amount": 23,
+      "unit": "ml",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 170,
+      "unit": "g",
+      "name": "Veganes Hähnchen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Chow-Mein-Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Chinakohl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 350,
+      "unit": "g",
+      "name": "Pak Choi",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chili-Crunch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sesam",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Saucenzutaten verrühren.",
+    "Öl erhitzen, veganes Hähnchen goldbraun braten, beiseitestellen.",
+    "Mehr Öl dazu, Zwiebel und Knoblauch braten bis der Knoblauch goldbraun ist.",
+    "Chinakohl, Karotten, weiße Pak-Choi-Stiele dazu, ein paar Minuten braten.",
+    "Nudeln nach Packungsanleitung kochen, abtropfen, kalt abspülen.",
+    "Hähnchen und Pak-Choi-Blätter zurück in die Pfanne, durchwärmen.",
+    "Nudeln dazu, Sauce drüber, vermischen. Kurz köcheln bis die Sauce andickt.",
+    "Mit Frühlingszwiebeln und Sesam servieren."
+  ],
+  "source": {
+    "name": "Pick Up Limes",
+    "url": "https://www.pickuplimes.com/recipe/the-best-vegan-chow-mein-800"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

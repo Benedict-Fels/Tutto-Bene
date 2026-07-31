@@ -1,0 +1,49 @@
+{
+  "id": "iced-matcha-latte",
+  "title": "Iced Matcha Latte",
+  "summary": "Erfrischender Matcha-Latte auf Eis mit Pflanzendrink — japanisch inspiriert, ganz ohne Kaffee.",
+  "image": "images/iced-matcha-latte.jpg",
+  "category": "Sonstige",
+  "cuisine": "Japanisch",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Matcha",
+      "variety": "zeremoniell"
+    },
+    {
+      "amount": 50,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Eiswürfel",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Wasser auf 80°C erhitzen (oder aufkochen und 5–10 Minuten abkühlen lassen).",
+    "Matcha sieben, mit heißem Wasser übergießen, aufschäumen bis schaumig.",
+    "Glas mit Eiswürfeln und kaltem Pflanzendrink füllen.",
+    "Aufgeschäumten Matcha obendrauf gießen, kurz verrühren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/iced-matcha-latte-with-or-without-whisk/"
+  },
+  "note": null
+}

@@ -1,0 +1,142 @@
+{
+  "id": "sogan-dolmasi",
+  "title": "Soğan Dolması",
+  "summary": "Türkische mit Gewürzreis gefüllte Zwiebelringe, in Olivenöl und Granatapfelmelasse geschmort.",
+  "image": "images/sogan-dolmasi.jpg",
+  "category": "Sonstige",
+  "cuisine": "Türkisch",
+  "servings": 4,
+  "prepTime": 70,
+  "cookTime": 60,
+  "restTime": 10,
+  "ingredients": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "rundkörnig"
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Granatapfelmelasse",
+      "variety": null
+    },
+    {
+      "amount": 25,
+      "unit": "g",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 25,
+      "unit": "g",
+      "name": "Paprikapaste",
+      "variety": null
+    },
+    {
+      "amount": 45,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Baharat",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sumach",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chiliflocken",
+      "variety": "Pul Biber"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Minze",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 1.6,
+      "unit": "kg",
+      "name": "Zwiebel",
+      "variety": "8-9 große Zwiebeln"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Granatapfelmelasse",
+      "variety": "für die Sauce"
+    },
+    {
+      "amount": 25,
+      "unit": "g",
+      "name": "Tomatenmark",
+      "variety": "für die Sauce"
+    },
+    {
+      "amount": 25,
+      "unit": "g",
+      "name": "Paprikapaste",
+      "variety": "für die Sauce"
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": "für die Sauce"
+    },
+    {
+      "amount": 700,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "kochend, für die Sauce"
+    },
+    {
+      "amount": 21,
+      "unit": "g",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Reis waschen, 20 Minuten in kochendem Wasser einweichen, abgießen.",
+    "Wasser mit halbierter Zitrone aufkochen. Zwiebeln oben und unten kappen, schälen, senkrecht bis zum Kern einschneiden, 15 Minuten köcheln bis leicht weich. In kaltes Wasser legen.",
+    "Petersilie hacken (etwas beiseite für die Garnitur), Knoblauch zerdrücken. Alle Füllungszutaten außer Reis und Zwiebelkernen in einer Schüssel bereitstellen, noch nicht mischen.",
+    "Ofen auf 200°C vorheizen. Zwiebelschichten vorsichtig trennen, dünne Häutchen wegwerfen. 3-4 Zwiebelkerne fein hacken, mit Reis und restlicher Füllung von Hand mischen.",
+    "Je 1 gehäuften Esslöffel Füllung ans innere Ende jeder Zwiebelschicht legen, nach außen aufrollen. In eine große Auflaufform in einer Schicht legen.",
+    "Sauce verquirlen, über die Zwiebeln gießen. Mit angefeuchtetem Backpapier abdecken, 30 Minuten backen, Papier abnehmen, 20-30 Minuten weiterbacken bis golden.",
+    "10 Minuten ruhen lassen. Mit reservierter Petersilie garniert servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/sogan-dolmasi-zeytinyagli-turkish-stuffed-onions/"
+  },
+  "note": null
+}

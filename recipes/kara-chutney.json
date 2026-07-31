@@ -1,0 +1,111 @@
+{
+  "id": "kara-chutney",
+  "title": "Kara Chutney",
+  "summary": "Feurig-rote südindische Chutney aus Knoblauch, Zwiebel und Tomate — klassisch zu Dosa oder Idli.",
+  "image": "images/kara-chutney.jpg",
+  "category": "Sonstige",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 40,
+  "cookTime": 15,
+  "restTime": 15,
+  "ingredients": [
+    {
+      "amount": 6,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "getrocknet, Kashmiri"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chana Dal",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Urad Dal",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Schalotte",
+      "variety": null
+    },
+    {
+      "amount": 6,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Tamarinde",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 140,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": "zum Anrösten der Tempermischung"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Senfkörner",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Asafoetida",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Curryblätter",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Chilis putzen. Etwas Öl erhitzen, Chana Dal und Chilis goldbraun anrösten, 3–4 Minuten. Urad Dal dazu, 1–2 Minuten weiterrösten. Beiseitestellen.",
+    "Schalotten in Scheiben, Knoblauch schälen. Restliches Öl erhitzen, Schalotten und Knoblauch weich andünsten, 4–5 Minuten.",
+    "Tomate würfeln, mit Tamarinde und Salz dazu, 4–5 Minuten weich köcheln. 15 Minuten abkühlen lassen.",
+    "Abgekühlte Mischung mit gerösteten Dal, Chilis und kaltem Wasser fein pürieren, in Schüssel füllen.",
+    "Öl für die Temperierung erhitzen, Senfkörner rein, wenn sie kräftig zischen Curryblätter und Asafoetida dazu, kurz knusprig werden lassen.",
+    "Über die Chutney gießen und unterrühren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/kara-chutney-spicy-indian-garlic-onion-and-tomato-chutney/"
+  },
+  "note": null
+}

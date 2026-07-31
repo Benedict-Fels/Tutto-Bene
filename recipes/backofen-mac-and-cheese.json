@@ -1,0 +1,115 @@
+{
+  "id": "backofen-mac-and-cheese",
+  "title": "Backofen-Mac-and-Cheese ohne Vorkochen",
+  "summary": "Nudeln kommen roh in die Form — Sauce aus Kartoffel, Karotte und Cashews macht den Rest. Mit knuspriger Bröselkruste.",
+  "image": "images/backofen-mac-and-cheese.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 7,
+  "prepTime": 10,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 230,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": "gewürfelt"
+    },
+    {
+      "amount": 129,
+      "unit": "g",
+      "name": "Karotte",
+      "variety": "in Scheiben"
+    },
+    {
+      "amount": 70,
+      "unit": "g",
+      "name": "Cashewkerne",
+      "variety": "eingeweicht"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 590,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": null
+    },
+    {
+      "amount": 475,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": "Makkaroni"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Veganer Mozzarella",
+      "variety": "Cheddar-Art, optional"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Vegane Butter",
+      "variety": "geschmolzen"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Paniermehl",
+      "variety": "Panko"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": "für die Brösel"
+    }
+  ],
+  "steps": [
+    "Ofen auf 230°C vorheizen, Auflaufform einfetten. Cashews mindestens 20 Minuten in heißem Wasser einweichen.",
+    "Kartoffel, Karotte, Cashews, Knoblauch, Hefeflocken, Zitronensaft, Salz, Pflanzendrink und Wasser fein pürieren.",
+    "Rohe Nudeln in die Form geben, Sauce darübergießen, veganen Käse untermischen, gut verrühren.",
+    "Zugedeckt 40 Minuten auf mittlerer Schiene backen, nach der Hälfte einmal umrühren.",
+    "Paniermehl mit geschmolzener Butter und Salz mit der Gabel vermischen.",
+    "Nudeln mit den Bröseln bestreuen, 2–5 Minuten unter dem Grill goldbraun bräunen, dabei im Blick behalten.",
+    "Warm servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/no-boil-vegan-mac-cheese/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

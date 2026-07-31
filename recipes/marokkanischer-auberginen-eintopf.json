@@ -1,0 +1,133 @@
+{
+  "id": "marokkanischer-auberginen-eintopf",
+  "title": "Marokkanischer Auberginen-Walnuss-Eintopf",
+  "summary": "Würziger Eintopf mit gebratener Aubergine, Beluga-Linsen und Walnüssen in Tomatensauce, mit Datteln leicht süß abgerundet.",
+  "image": "images/marokkanischer-auberginen-eintopf.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Marokkanisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Aubergine",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Walnüsse",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Datteln",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Belugalinsen",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "Kirschtomaten aus der Dose"
+    },
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzliche Sahne",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Reis",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Auberginenscheiben in Öl goldbraun braten, beiseite.",
+    "Zwiebel, Paprikapulver, Kreuzkümmel, Oregano, Zitronenscheiben dazu, 4 Minuten anschwitzen.",
+    "Tomatenmark unterrühren, 2 Minuten mitrösten.",
+    "Tomaten, Linsen, Datteln, Brühe dazu.",
+    "Walnüsse fein zerkleinern, unterrühren, salzen.",
+    "Zugedeckt 15 Minuten köcheln.",
+    "Kurz abkühlen lassen, über Reis servieren, mit Sahne-Alternative und Koriander toppen."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/moroccan-spiced-aubergine-amp-walnut-stew"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

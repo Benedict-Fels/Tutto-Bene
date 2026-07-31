@@ -1,0 +1,76 @@
+{
+  "id": "skordalia",
+  "title": "Skordalia",
+  "summary": "Griechischer Dip aus Kartoffeln, Mandeln und reichlich Knoblauch — kräftig und cremig.",
+  "image": "images/skordalia.jpg",
+  "category": "Sonstige",
+  "cuisine": "Griechisch",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 10,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Mandeln",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": "mehligkochend"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 7,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Essig",
+      "variety": "Weißwein"
+    },
+    {
+      "amount": 170,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Beträufeln"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Oliven",
+      "variety": "schwarz, zum Garnieren"
+    }
+  ],
+  "steps": [
+    "Mandeln über Nacht in Wasser einweichen (oder 15 Minuten in kochendem Wasser, wenn's schnell gehen muss).",
+    "Kartoffeln schälen, würfeln, mit Salz kochen bis weich, etwa 15 Minuten.",
+    "Eingeweichte Mandeln zu Paste pürieren, geriebenen Knoblauch, Zitronensaft, Essig, Salz und einen Teil des Olivenöls dazu.",
+    "Kartoffeln abgießen (Kochwasser aufheben), mit der Mandelmasse und etwas Wasser in der Küchenmaschine glatt pürieren.",
+    "Restliches Olivenöl kurz untermixen.",
+    "In eine Schüssel füllen, bei Bedarf 1-2 Stunden kühlen.",
+    "Mit Olivenöl beträufeln und Oliven garnieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/skordalia-greek-potato-almond-garlic-dip/"
+  },
+  "note": null
+}

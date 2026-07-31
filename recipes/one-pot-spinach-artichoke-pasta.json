@@ -1,0 +1,101 @@
+{
+  "id": "one-pot-spinach-artichoke-pasta",
+  "title": "One-Pot-Spinat-Artischocken-Pasta",
+  "summary": "Cremige Pasta mit Spinat und Artischocken, alles in einem Topf gegart — inspiriert vom klassischen Dip.",
+  "image": "images/one-pot-spinach-artichoke-pasta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 340,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": "kurz, z.B. Penne"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Artischocken",
+      "variety": "aus dem Glas, geviertelt"
+    },
+    {
+      "amount": 750,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 240,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": "ungesüßt"
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Muskatnuss",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Spinat",
+      "variety": "frisch"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Veganer Frischkäse",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Zwiebel und Knoblauch in einem großen Topf mit etwas Brühe glasig dünsten.",
+    "Nudeln, Artischocken, restliche Brühe, Pflanzendrink, Hefeflocken, Salz, Pfeffer und Muskatnuss dazugeben, aufkochen.",
+    "Hitze reduzieren, offen 12–15 Minuten köcheln bis die Nudeln gar sind, gelegentlich umrühren.",
+    "Spinat und Frischkäse unterrühren, bis der Frischkäse geschmolzen und der Spinat zusammengefallen ist.",
+    "Abschmecken und servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/one-pot-spinach-artichoke-pasta/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

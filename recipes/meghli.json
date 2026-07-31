@@ -1,0 +1,34 @@
+{
+  "id": "meghli",
+  "title": "Meghli",
+  "summary": "Libanesischer Reismehl-Pudding mit Zimt, Anis und Kümmel — zu Weihnachten mit Nüssen garniert.",
+  "image": "images/meghli.jpg",
+  "category": "Dessert",
+  "cuisine": "Libanesisch",
+  "servings": 8,
+  "prepTime": 25,
+  "cookTime": 15,
+  "restTime": 570,
+  "ingredients": [
+    { "amount": 100, "unit": "g", "name": "Reismehl", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Kümmel", "variety": "gemahlen" },
+    { "amount": 1, "unit": "EL", "name": "Zimt", "variety": "gemahlen" },
+    { "amount": 1, "unit": "TL", "name": "Anis", "variety": "gemahlen" },
+    { "amount": 0.25, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 1.4, "unit": "l", "name": "Wasser", "variety": null },
+    { "amount": 1, "unit": "Handvoll", "name": "Walnüsse", "variety": "eingeweicht" },
+    { "amount": 30, "unit": "g", "name": "Mandeln", "variety": "blanchiert, eingeweicht" },
+    { "amount": 20, "unit": "g", "name": "Kokosraspeln", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Pistazien", "variety": "geschält, zerkleinert" }
+  ],
+  "steps": [
+    "Mandeln und Walnüsse getrennt über Nacht in reichlich Wasser einweichen (oder so lange wie möglich in warmem Wasser).",
+    "Reismehl, Zucker, Kümmel, Zimt, Anis und Salz im Topf mit dem Schneebesen vermischen. Wasser dazu, glattrühren bis klumpenfrei.",
+    "Unter häufigem Rühren aufkochen, dann bei niedriger Hitze 15 Minuten weiterköcheln bis glänzend-glatte Puddingkonsistenz erreicht ist.",
+    "In kleine Schälchen oder Gläser verteilen, ca. 30 Minuten bei Zimmertemperatur abkühlen lassen, dann mindestens 1 Stunde kalt stellen.",
+    "Vor dem Servieren mit den eingeweichten Nüssen, Kokosraspeln und Pistazien garnieren."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/meghli-lebanese-christmas-rice-pudding/" },
+  "note": null
+}

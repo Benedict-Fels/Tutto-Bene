@@ -1,0 +1,75 @@
+{
+  "id": "mutabal",
+  "title": "Mutabal",
+  "summary": "Libanesischer Auberginen-Tahini-Dip — rauchig gegrillt, cremig püriert, mit Zitrone und Knoblauch.",
+  "image": "images/mutabal.jpg",
+  "category": "Sonstige",
+  "cuisine": "Libanesisch",
+  "servings": 4,
+  "prepTime": 50,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Aubergine",
+      "variety": null
+    },
+    {
+      "amount": 70,
+      "unit": "g",
+      "name": "Tahini",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Petersilie",
+      "variety": "gehackt"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "zum Garnieren"
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Sumach",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Auberginen über Gasflamme 20 Minuten rundum schwärzen (alle 5 Minuten drehen), oder unterm Grill 40–45 Minuten bis komplett schwarz.",
+    "In geschlossenem Behälter 15 Minuten dämpfen.",
+    "Abkühlen, Haut abziehen, halbieren, Kernfäden rausnehmen.",
+    "10 Minuten durch Sieb abtropfen lassen, überschüssige Flüssigkeit loswerden.",
+    "Fleisch klein hacken, mit geriebenem Knoblauch, Tahini, Zitronensaft und Salz vermengen.",
+    "Auf Teller verteilen, mit Öl beträufeln, mit Sumach und Petersilie garnieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/mutabal-middle-eastern-smoky-eggplant-and-tahini-dip/"
+  },
+  "note": null
+}

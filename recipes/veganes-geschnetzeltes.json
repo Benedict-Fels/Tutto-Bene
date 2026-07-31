@@ -1,0 +1,144 @@
+{
+  "id": "veganes-geschnetzeltes",
+  "title": "Geschnetzeltes",
+  "summary": "Sojageschnetzeltes in cremiger Pilzrahmsoße nach Zürcher Art — schnell, herzhaft, in unter 30 Minuten fertig.",
+  "image": "images/veganes-geschnetzeltes.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Sojaschnetzel",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 3.5,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 120,
+      "unit": "ml",
+      "name": "Wein",
+      "variety": "Weiß"
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Pflanzliche Sahne",
+      "variety": null
+    },
+    {
+      "amount": 80,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Brühepulver",
+      "variety": "Gemüse"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Chiliflocken",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Sojaschnetzel mit Lorbeerblättern in heißer Gemüsebrühe einweichen, ausdrücken.",
+    "In Öl knusprig anbraten, mit Sojasauce und Paprikapulver würzen, beiseitestellen.",
+    "Zwiebel glasig anbraten, Champignons dazu, mehrere Minuten braten. Knoblauch kurz mitrösten.",
+    "Mehl darüberstreuen, kurz anrösten, mit Weißwein ablöschen.",
+    "Pflanzliche Sahne, Wasser, Brühepulver, Paprikapulver, Sojasauce dazu. Lorbeerblätter rein, 3 Minuten köcheln.",
+    "Sojaschnetzel unterrühren, abschmecken. Mit Petersilie und Chiliflocken servieren."
+  ],
+  "source": {
+    "name": "Bianca Zapatka",
+    "url": "https://biancazapatka.com/de/veganes-geschnetzeltes/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

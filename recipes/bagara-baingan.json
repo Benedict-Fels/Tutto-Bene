@@ -1,0 +1,153 @@
+{
+  "id": "bagara-baingan",
+  "title": "Bagara Baingan",
+  "summary": "Hyderabadi-Curry aus ganzen Auberginen in würziger Erdnuss-Sesam-Kokos-Soße mit Tamarinde.",
+  "image": "images/bagara-baingan.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 45,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Tamarinde",
+      "variety": "entkernt"
+    },
+    {
+      "amount": 150,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 900,
+      "unit": "g",
+      "name": "Aubergine",
+      "variety": "klein, ganz (Baby-Auberginen)"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Erdnüsse",
+      "variety": "blanchiert"
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Sesam",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Kokosraspeln",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Senfkörner",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Curryblätter",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "groß"
+    },
+    {
+      "amount": 50,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chilipulver",
+      "variety": "Kashmiri"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Koriander",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 600,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Tamarinde in kochendem Wasser einweichen, beiseitestellen.",
+    "Auberginen ganz in etwas Öl 20-25 Minuten weich braten.",
+    "Erdnüsse goldbraun rösten, Sesam dazu (3-4 Minuten), dann Kokosraspeln bis golden.",
+    "Restliches Öl erhitzen, Senfkörner und Kreuzkümmel anbraten bis sie zischen, Zwiebel und Curryblätter dazu, 10-12 Minuten goldbraun braten.",
+    "Ingwer und Knoblauch mit etwas Wasser zu Paste verarbeiten, geröstete Nüsse und Kokos grob mahlen.",
+    "Ingwer-Knoblauch-Paste 1 Minute mitbraten, dann die Nussmischung 1-2 Minuten. Chilipulver, Koriander und Kurkuma einrühren.",
+    "Wasser und Salz dazu, Tamarindensaft absieben und einrühren, zugedeckt 15 Minuten köcheln.",
+    "Auberginen dazu, mit der Soße bedecken, zugedeckt 15 Minuten köcheln.",
+    "Warm mit gedämpftem Reis servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/bagara-baingan-hyderabadi-aubergine-and-peanut-curry/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "kao-fu",
+  "title": "Kao Fu",
+  "summary": "Chinesische Weizengluten-Basis — das Original vor Seitan, schwammig und vielseitig einsetzbar.",
+  "image": "images/kao-fu.jpg",
+  "category": "Sonstige",
+  "cuisine": "Chinesisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 30,
+  "restTime": 40,
+  "ingredients": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 290,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Mehl und Wasser zu grobem Teig verkneten, 5 Minuten glattkneten.",
+    "Zugedeckt 10 Minuten ruhen, kurz nachkneten, nochmal 30 Minuten ruhen.",
+    "Teig in reichlich Wasser waschen und drücken, Wasser abgießen, 4–5 Mal wiederholen bis nur noch leicht trüb.",
+    "Im Dämpfer 30 Minuten dämpfen (oder Alufolie-Kugeln als Gitter in Topf mit kochendem Wasser, zugedeckt).",
+    "Auskühlen, in mundgerechte Stücke schneiden."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/chinese-wheat-gluten-kao-fu-the-original-seitan/"
+  },
+  "note": null
+}

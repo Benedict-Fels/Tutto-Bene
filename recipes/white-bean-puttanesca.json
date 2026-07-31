@@ -1,0 +1,95 @@
+{
+  "id": "white-bean-puttanesca",
+  "title": "Weiße-Bohnen-Puttanesca",
+  "summary": "One-Pot-Puttanesca mit weißen Bohnen statt Pasta — Tomaten, Oliven, Kapern und Knoblauch, herzhaft und schnell.",
+  "image": "images/white-bean-puttanesca.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "geschält, aus der Dose"
+    },
+    {
+      "amount": 60,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Oliven",
+      "variety": "Kalamata"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Kapern",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Miso",
+      "variety": "hell"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": "frisch"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 1300,
+      "unit": "g",
+      "name": "Weiße Bohnen",
+      "variety": "Cannellini, aus der Dose"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Tomaten abtropfen lassen, Flüssigkeit wegschütten. Mit der Gabel grob zerdrücken.",
+    "Olivenöl in großer Pfanne erhitzen, Knoblauch 3–5 Minuten anbraten bis die Ränder golden sind.",
+    "Oliven, Kapern, Miso, Thymian und Chiliflocken dazu, 1–2 Minuten mitbraten, Miso dabei verrühren.",
+    "Bohnen und zerdrückte Tomaten dazu, 10–15 Minuten köcheln, gelegentlich umrühren.",
+    "Mit Salz und Pfeffer abschmecken, warm servieren, etwa über Reis, Polenta oder mit Brot."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/white-bean-puttanesca/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

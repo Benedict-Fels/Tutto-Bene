@@ -1,0 +1,101 @@
+{
+  "id": "shiro-wat",
+  "title": "Shiro Wat",
+  "summary": "Äthiopischer Eintopf aus Kichererbsenmehl mit Berbere — samig und würzig.",
+  "image": "images/shiro-wat.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Äthiopisch",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 30,
+  "restTime": 10,
+  "ingredients": [
+    {
+      "amount": 70,
+      "unit": "ml",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Kichererbsenmehl",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Berbere",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kardamom",
+      "variety": "oder Korarima"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 0.75,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Zwiebel klein schneiden, in Öl bei niedriger Hitze glasig braten, 8-10 Minuten.",
+    "Kichererbsenmehl sieben, mit den Gewürzen verrühren. Tomate pürieren.",
+    "Knoblauch zerdrücken, kurz mit der Zwiebel anbraten, Tomatenpüree dazu, 3-4 Minuten köcheln.",
+    "Wasser dazu, aufkochen. Gewürztes Mehl und Salz einrühren, 15 Minuten köcheln, alle 5 Minuten umrühren.",
+    "10 Minuten vom Herd ziehen lassen. Mit Injera oder Reis servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/shiro-wat-chickpea-flour-stew/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

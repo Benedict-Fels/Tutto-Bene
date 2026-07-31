@@ -1,0 +1,137 @@
+{
+  "id": "pasuts-tolma",
+  "title": "Pasuts Tolma",
+  "summary": "Armenische Kohlrouladen, gefüllt mit Linsen, Kichererbsen, Bulgur und Kräutern — traditionell zu Neujahr.",
+  "image": "images/pasuts-tolma.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Armenisch",
+  "servings": 6,
+  "prepTime": 70,
+  "cookTime": 45,
+  "restTime": 90,
+  "ingredients": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Grüne Linsen",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Kidneybohnen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 3,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "kg",
+      "name": "Weißkohl",
+      "variety": "eingelegte Blätter"
+    },
+    {
+      "amount": 5,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Paprikapaste",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Dill",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Bulgur",
+      "variety": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Reis",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 0.75,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Basilikum",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Bohnenkraut",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 8,
+      "unit": "Stück",
+      "name": "Backpflaume",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Linsen, Kichererbsen und Bohnen getrennt über Nacht in Wasser einweichen.",
+    "Linsen abgießen. Kichererbsen 30 Minuten kochen, Bohnen dazugeben, 60 Minuten weiterköcheln bis weich. Abgießen.",
+    "Zwiebeln fein würfeln, in Öl goldbraun dünsten. Tomatenmark und Paprikapaste einrühren, kurz mitziehen lassen, vom Herd nehmen.",
+    "Petersilie und Dill hacken, mit Bulgur, Reis, gekochten Hülsenfrüchten, Gewürzen, restlichem Salz und den Zwiebeln vermengen.",
+    "Kohlblätter auslegen, Füllung hineingeben, Ränder einschlagen, fest aufrollen.",
+    "Rouladen eng in Auflaufform schichten, Backpflaumen dazwischenstecken, mit Teller beschweren, Wasser bis knapp unter Teller auffüllen.",
+    "Aufkochen, zugedeckt 45 Minuten köcheln lassen.",
+    "Vom Herd, Teller entfernen, zugedeckt 1–2 Stunden oder über Nacht abkühlen lassen. Mit Backpflaumen anrichten."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/pasuts-tolma-armenian-new-years-stuffed-cabbage-rolls/"
+  },
+  "note": null
+}

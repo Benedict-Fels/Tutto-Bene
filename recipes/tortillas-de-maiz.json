@@ -1,0 +1,26 @@
+{
+  "id": "tortillas-de-maiz",
+  "title": "Tortillas de Maíz",
+  "summary": "Klassische mexikanische Maistortillas aus nur drei Zutaten — Grundlage für Tacos und Gorditas.",
+  "image": "images/tortillas-de-maiz.jpg",
+  "category": "Sonstige",
+  "cuisine": "Mexikanisch",
+  "servings": 16,
+  "prepTime": 20,
+  "cookTime": 15,
+  "restTime": 15,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Masa Harina", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 310, "unit": "ml", "name": "Wasser", "variety": "warm" }
+  ],
+  "steps": [
+    "Masa Harina und Salz mischen, warmes Wasser einarbeiten, zu Teig verkneten. Abgedeckt 15 Minuten ruhen lassen.",
+    "Backpapier zuschneiden, Schüssel mit Küchentuch auslegen. Pfanne auf mittlerer Hitze erhitzen.",
+    "Teig in Portionen (ca. 30 g) teilen, zu Kugeln formen, zwischen Backpapier in der Tortilla-Presse zu 12 cm großen Scheiben pressen.",
+    "Jede Scheibe 20-30 Sekunden braten bis sie sich leicht löst, aber noch nicht golden ist. Wenden, 40-60 Sekunden auf der anderen Seite, nochmal wenden.",
+    "Warm servieren, z.B. mit Hongos Guisados und grüner Tomatensalsa."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/tortillas-de-maiz-mexican-corn-tortillas/" },
+  "note": null
+}

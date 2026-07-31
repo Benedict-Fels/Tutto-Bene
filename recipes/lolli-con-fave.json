@@ -1,0 +1,121 @@
+{
+  "id": "lolli-con-fave",
+  "title": "Lolli con Fave",
+  "summary": "Sizilianischer Eintopf aus dicken Bohnen mit selbstgemachten Grieß-Nudeln — herzhafte Cucina Povera.",
+  "image": "images/lolli-con-fave.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 75,
+  "restTime": 720,
+  "ingredients": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Dicke Bohnen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Natron",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Kartoffel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Sellerie",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Grieß",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": "für den Teig"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "für den Teig"
+    },
+    {
+      "amount": 150,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "lauwarm, für den Teig"
+    }
+  ],
+  "steps": [
+    "Bohnen mit Natron über Nacht in Wasser einweichen, abgießen, abspülen.",
+    "Zwiebel und Kartoffel grob schneiden, Karotte und Sellerie klein schneiden. Mit Bohnen, Lorbeerblatt, Tomatenmark und Wasser in Topf geben, aufkochen, zugedeckt 90 Minuten köcheln bis Bohnen weich und Kartoffel zerfallen ist.",
+    "Grieß auf Arbeitsfläche häufen, Mulde formen. Salz und Öl hineingeben, Wasser nach und nach einarbeiten, zu Teig verkneten, etwa 5 Minuten kneten bis glatt.",
+    "Teig in Scheiben schneiden, zu Schnüren rollen, in Stücke teilen, mit drei Fingern über die Arbeitsfläche ziehen um die typische Lolli-Form zu formen.",
+    "Eintopf mit Salz und großzügig Olivenöl abschmecken, 10 Minuten köcheln lassen.",
+    "Lolli direkt in den Topf geben, mit kochendem Wasser knapp bedecken, etwa 10 Minuten köcheln bis die Nudeln bissfest sind und die Flüssigkeit sämig wird.",
+    "In Teller füllen, mit Olivenöl und Chiliflocken abschließen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/lolli-con-fave-pasta-with-fava-beans/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

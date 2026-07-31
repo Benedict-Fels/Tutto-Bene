@@ -1,0 +1,125 @@
+{
+  "id": "chana-masala",
+  "title": "Chana Masala",
+  "summary": "Würziges Kichererbsencurry mit Tomaten und indischen Gewürzen — schnell und in unter 30 Minuten fertig.",
+  "image": "images/chana-masala.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "restTime": 5,
+  "ingredients": [
+    {
+      "amount": 80,
+      "unit": "ml",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "klein"
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 15,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Koriander",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Garam Masala",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
+      "variety": "frisch"
+    }
+  ],
+  "steps": [
+    "Zwiebeln, Knoblauch, Ingwer zu Paste verarbeiten oder fein hacken.",
+    "Öl erhitzen, Paste darin anschwitzen.",
+    "Gewürze einrühren, kurz mitbraten. Tomaten dazu, ablöschen und anbraten.",
+    "Wasser und Lorbeerblatt dazu, aufkochen. Salzen, pfeffern, mit Deckel köcheln.",
+    "Kichererbsen unterrühren, kurz köcheln. Mit frischem Koriander servieren."
+  ],
+  "source": {
+    "name": "Shiba's Kitchen",
+    "url": "https://shibaskitchen.de/chana-masala-kichererbsen-curry/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

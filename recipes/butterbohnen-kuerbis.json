@@ -1,0 +1,106 @@
+{
+  "id": "butterbohnen-kuerbis",
+  "title": "Butterbohnen in Miso-Brühe mit geröstetem Kürbis",
+  "summary": "Cremige Butterbohnen in würziger Miso-Brühe, mit karamellisiertem Kürbis, Pistazien und frischem Koriander.",
+  "image": "images/butterbohnen-kuerbis.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Dose",
+      "name": "Limabohnen",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Veganer Frischkäse",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": "nur Schale"
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Pistazien",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Chiliflocken",
+      "variety": null
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Kürbis",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Ofen auf 180°C. Kürbis in Spalten schneiden, mit Öl und Salz beträufeln.",
+    "30 Minuten rösten bis goldbraun und weich.",
+    "Öl erhitzen, Knoblauch kurz anschwitzen.",
+    "Bohnen und Brühe dazu. Miso und Frischkäse einrühren.",
+    "Ein Viertel der Bohnen mit etwas Brühe pürieren, zurück in den Topf für sämige Konsistenz.",
+    "In Schalen anrichten, Kürbis obendrauf.",
+    "Mit Pistazien, Koriander, Zitronenschale und Chiliflocken bestreuen."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/brothy-beans-amp-roast-pumpkin"
+  },
+  "note": null
+}

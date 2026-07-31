@@ -1,0 +1,104 @@
+{
+  "id": "pasta-e-ceci",
+  "title": "Pasta e Ceci",
+  "summary": "Cremiger italienischer Eintopf aus Kichererbsen und kurzer Pasta mit Soffritto und Rosmarin.",
+  "image": "images/pasta-e-ceci.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 105,
+  "restTime": 725,
+  "ingredients": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Sellerie",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "extra vergine"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Rosmarin",
+      "variety": "großer Zweig"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "rot"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "groß"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": "kurze Pasta, z.B. Ditalini"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Kichererbsen mit etwas Salz in reichlich Wasser über Nacht einweichen.",
+    "Abgießen, abspülen, mit frischem Wasser aufkochen, Schaum abschöpfen. Mit leicht geöffnetem Deckel 1,5 Stunden köcheln bis weich. Kochwasser aufheben.",
+    "Zwiebel und Sellerie fein würfeln. Rosmarin fein hacken, holzigen Stiel mit in den Kichererbsentopf geben. Chili anstechen.",
+    "Rosmarin und Chili in Olivenöl anrösten, Zwiebel, Sellerie und restliches Salz dazu, goldbraun anschwitzen.",
+    "Knoblauch dazu, kurz mitbraten, Tomatenmark unterrühren.",
+    "Ein Viertel der Kichererbsen mit etwas Kochwasser beiseite pürieren. Restliche Kichererbsen mit Kochwasser (auf 1 Liter aufgefüllt) zum Soffritto geben, aufkochen, 10 Minuten köcheln.",
+    "Pürierte Kichererbsen und Pasta unterrühren, offen kochen bis al dente.",
+    "Chili rausfischen, 5 Minuten ziehen lassen. Mit Olivenöl und Pfeffer servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/pasta-e-ceci-italian-pasta-and-chickpea-stew/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "tempeh-schmorbraten",
+  "title": "Tempeh-Schmorbraten aus dem Slow Cooker",
+  "summary": "Gebratener Tempeh schmort stundenlang mit Kartoffeln, Karotten und Pilzen zu einem herzhaften Sonntagsessen.",
+  "image": "images/tempeh-schmorbraten.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 420,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 355,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": "Beef-Geschmack"
+    },
+    {
+      "amount": 120,
+      "unit": "ml",
+      "name": "Wein",
+      "variety": "Rotwein, trocken"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": "Zweige, frisch"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Speisestärke",
+      "variety": "Pfeilwurzstärke, für die Sauce"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": "Avocadoöl, optional"
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Tempeh",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Sellerie",
+      "variety": "Stangen"
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 900,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": "kleine, halbiert"
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": "Cremini"
+    }
+  ],
+  "steps": [
+    "Brühe, Wein, Paprikapulver und Pfeffer verrühren, beiseitestellen.",
+    "Tempeh in Dreiecke schneiden, mehrfach mit der Gabel einstechen.",
+    "Öl im Slow-Cooker-Topf oder großer Pfanne erhitzen, Tempeh je Seite 2 Minuten goldbraun anbraten, salzen und pfeffern. Beiseitestellen.",
+    "Zwiebel, Knoblauch, Sellerie, Karotte, Kartoffeln und Champignons in den Slow Cooker geben, mischen.",
+    "Thymianzweige und Tempeh obendrauf legen, Brühe-Marinade darübergießen.",
+    "Zugedeckt auf niedriger Stufe 7–8 Stunden garen bis das Gemüse weich ist.",
+    "Optional Sauce: Kochflüssigkeit in einen Topf geben. Etwas Flüssigkeit mit Speisestärke verrühren, zurück in den Topf, 3–5 Minuten köcheln bis glänzend und angedickt."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/slow-cooker-tempeh-pot-roast/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

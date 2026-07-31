@@ -1,0 +1,115 @@
+{
+  "id": "kuerbis-chili",
+  "title": "Kürbis-Chili",
+  "summary": "Rauchiges Chili mit Kürbispüree, Pilzen und Pintobohnen — cremig, herzhaft, schnell gemacht.",
+  "image": "images/kuerbis-chili.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": "Cremini"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": "Avocadoöl, optional"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 0.75,
+      "unit": "TL",
+      "name": "Chipotlepulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": "frisch"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 410,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gewürfelt"
+    },
+    {
+      "amount": 425,
+      "unit": "g",
+      "name": "Kürbispüree",
+      "variety": null
+    },
+    {
+      "amount": 900,
+      "unit": "g",
+      "name": "Pinto-Bohnen",
+      "variety": "aus der Dose"
+    },
+    {
+      "amount": 350,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Champignons im Mixer fein zerkleinern, beiseitestellen.",
+    "Öl im großen Topf erhitzen, Zwiebel und Paprika 3–5 Minuten glasig dünsten.",
+    "Champignons, Knoblauch, Kreuzkümmel, Chipotlepulver, Thymian, Paprikapulver und Salz dazu, 3–5 Minuten anschwitzen.",
+    "Tomaten, Kürbispüree, Bohnen und Brühe dazu, gut verrühren.",
+    "Zugedeckt aufkochen, dann Hitze auf mittel-niedrig, 10–12 Minuten köcheln.",
+    "Nach Belieben ein Viertel der Masse mit dem Pürierstab cremiger mixen.",
+    "Warm servieren, mit Toppings nach Wahl."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/vegan-pumpkin-chili/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "timatim",
+  "title": "Timatim",
+  "summary": "Äthiopischer Tomatensalat mit roter Zwiebel, Jalapeño und Limette — frisch und leicht scharf.",
+  "image": "images/timatim.jpg",
+  "category": "Sonstige",
+  "cuisine": "Äthiopisch",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 0,
+  "restTime": 30,
+  "ingredients": [
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot, klein"
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Jalapeño",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Berbere",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Tomaten würfeln, Zwiebel schälen und fein hacken, Knoblauch fein reiben, Jalapeños entkernen und fein hacken.",
+    "Alles in einer großen Schüssel gut vermischen.",
+    "Mindestens 30 Minuten kühlen, gekühlt zu Injera oder Reis servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/timatim-tomato-salad/"
+  },
+  "note": null
+}

@@ -1,0 +1,85 @@
+{
+  "id": "lablabi",
+  "title": "Lablabi",
+  "summary": "Tunesische Kichererbsensuppe mit Knoblauch, Zitrone und Harissa, über geröstetem Brot serviert.",
+  "image": "images/lablabi.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Tunesisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 125,
+  "restTime": 480,
+  "ingredients": [
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Harissa",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Brot",
+      "variety": "altbacken"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Kapern",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Kichererbsen mit etwas Salz über Nacht oder mindestens 8 Stunden in Wasser einweichen.",
+    "Abgießen, abspülen, mit Wasser aufkochen, abschäumen, zugedeckt eineinhalb Stunden köcheln bis weich. Kreuzkümmel und restliches Salz dazu, 10 Minuten weiterköcheln.",
+    "Etwa ein Viertel der Kichererbsen mit etwas Kochwasser pürieren, zurück in den Topf geben für cremigere Konsistenz.",
+    "Knoblauch reiben, mit Harissa, Öl und Zitronensaft verrühren.",
+    "Brot in Stücke reißen, auf Schüsseln verteilen.",
+    "Harissa-Paste unter die Suppe rühren. Kichererbsen samt Brühe über das Brot geben, mit extra Harissa, Kapern und Öl toppen.",
+    "Vor dem Essen gut durchmischen, damit das Brot die Brühe aufsaugt."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/lablabi-tunisian-spiced-chickpea-soup/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

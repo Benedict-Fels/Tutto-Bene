@@ -1,0 +1,171 @@
+{
+  "id": "go-to-dal",
+  "title": "Mein Lieblings-Dal",
+  "summary": "Cremiges Dal aus gelben Erbsen und roten Linsen mit reichlich Ingwer und Chili — der Klassiker für kühlere Tage.",
+  "image": "images/go-to-dal.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Gelbe Erbsen",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Rote Linsen",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 800,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Koriandersamen",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Nelken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Garam Masala",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Bockshornklee",
+      "variety": "Blätter, gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Curryblätter",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    }
+  ],
+  "steps": [
+    "Erbsen und Linsen waschen bis Wasser klar bleibt.",
+    "Mit Wasser, Salz und Kurkuma weich kochen, im Schnellkochtopf 15 Minuten, sonst bis zu 1 Stunde.",
+    "Kreuzkümmel in Öl anrösten bis er duftet.",
+    "Zwiebel, Knoblauch, Ingwer dazu.",
+    "Restliche Gewürze, dann Tomaten dazu, einige Minuten weich schmoren.",
+    "Gekochte Linsen und Erbsen unterrühren.",
+    "Mit Wasser auf gewünschte Konsistenz bringen.",
+    "Butter oder Öl mit Kreuzkümmel und Chilipulver kurz erhitzen, über das Dal geben.",
+    "Mit Koriander und Zitronensaft servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/my-go-to-dal-recipe"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

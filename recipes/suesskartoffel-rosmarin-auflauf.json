@@ -1,0 +1,88 @@
+{
+  "id": "suesskartoffel-rosmarin-auflauf",
+  "title": "Süßkartoffel-Rosmarin-Auflauf",
+  "summary": "Alles in die Form, Ofen an: Süßkartoffel, Kichererbsen und Reis ziehen die Brühe auf und werden von selbst cremig.",
+  "image": "images/suesskartoffel-rosmarin-auflauf.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 60,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 470,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Rosmarin",
+      "variety": "frisch"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": "frisch"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 510,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": null
+    },
+    {
+      "amount": 340,
+      "unit": "g",
+      "name": "Süßkartoffel",
+      "variety": "gewürfelt"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 180,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Vollkorn"
+    }
+  ],
+  "steps": [
+    "Ofen auf 200°C vorheizen. Brühe, Rosmarin, Thymian, Paprikapulver und Pfeffer in einem Topf verquirlen, aufkochen.",
+    "Kichererbsen, Süßkartoffel, Zwiebel und Knoblauch gleichmäßig in einer Auflaufform verteilen, mischen. Reis darüberstreuen.",
+    "Brühe gleichmäßig darübergießen. Mit Alufolie abdecken, 60 Minuten auf mittlerer Schiene backen.",
+    "Aus dem Ofen nehmen, mit Tahini-Dressing oder nach Belieben servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/sweet-potato-rosemary-casserole/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "gelo-di-mandarino",
+  "title": "Gelo di Mandarino",
+  "summary": "Sizilianisches Dessert aus Mandarinensaft — kühl, fruchtig, mit Pistazien und dunkler Schokolade.",
+  "image": "images/gelo-di-mandarino.jpg",
+  "category": "Dessert",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "restTime": 75,
+  "ingredients": [
+    { "amount": 500, "unit": "ml", "name": "Mandarinensaft", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Speisestärke", "variety": null },
+    { "amount": 1, "unit": "Handvoll", "name": "Pistazien", "variety": null },
+    { "amount": 1.5, "unit": "Stück", "name": "Schokolade", "variety": "zartbitter" }
+  ],
+  "steps": [
+    "Topf, etwas Mandarinensaft, Zucker, Stärke, mixen. Restlicher Saft, leicht kochen.",
+    "Rühren bis dick. Hitze runter, 3–4 Minuten weiter rühren.",
+    "In Förmchen füllen. 15 Minuten abkühlen, dann mindestens 1 Stunde Kühlschrank.",
+    "Pistazien und Schokolade grob hacken.",
+    "Stürzen, drüberstreuen, fertig."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/gelo-di-mandarino-italian-mandarin-jelly/"
+  },
+  "note": null
+}

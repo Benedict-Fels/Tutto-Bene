@@ -1,0 +1,94 @@
+{
+  "id": "gevrek",
+  "title": "Gevrek",
+  "summary": "Türkische Sesamringe, in Traubenmelasse getaucht und knusprig gebacken — Izmirs Antwort auf Simit.",
+  "image": "images/gevrek.jpg",
+  "category": "Sonstige",
+  "cuisine": "Türkisch",
+  "servings": 6,
+  "prepTime": 50,
+  "cookTime": 20,
+  "restTime": 30,
+  "ingredients": [
+    {
+      "amount": 7,
+      "unit": "g",
+      "name": "Trockenhefe",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 220,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": "Brotmehl"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "zum Einfetten"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Sesam",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Traubenmelasse",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "für den Traubenmelasse-Sud"
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Tahini",
+      "variety": "für den Dip"
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Traubenmelasse",
+      "variety": "für den Dip"
+    }
+  ],
+  "steps": [
+    "Hefe, Zucker und Wasser verrühren. Mehl und Salz unterkneten bis ein grober Teig entsteht, dann 4-5 Minuten glatt und elastisch kneten.",
+    "Zu einer Kugel formen, in geölter Schüssel abgedeckt gehen lassen bis fast verdoppelt, 30-45 Minuten. Sesam in einer Pfanne leicht golden rösten, abkühlen lassen.",
+    "Ofen auf 250°C vorheizen. Traubenmelasse mit Wasser aufkochen, in flache Schale geben. Bleche mit Backpapier auslegen, Sesam auf einen Teller streuen.",
+    "Teig kurz durchkneten, in 6 Stücke teilen, zu Kugeln formen. Jede Kugel zu einer 60 cm langen Rolle ausrollen, Enden zum Ring verbinden, fest verreiben.",
+    "Ring in der warmen Melasse wenden, dann in Sesam drücken. In Dreiergruppen arbeiten, damit der Sesam nicht durchweicht.",
+    "20 Minuten backen bis tief golden und knusprig. Auf einem Gitter etwas abkühlen lassen.",
+    "Für den Dip Tahini und Traubenmelasse verrühren, dazu servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/gevrek-sesame-crusted-bread-rings/"
+  },
+  "note": null
+}

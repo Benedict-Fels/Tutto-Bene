@@ -1,0 +1,151 @@
+{
+  "id": "veganes-gulasch",
+  "title": "Gulasch",
+  "summary": "Ungarisch inspiriertes Gulasch mit Sojaschnetzeln, Paprika und Rotwein — deftig, würzig, mit Gewürzgurken.",
+  "image": "images/veganes-gulasch.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 35,
+  "restTime": 5,
+  "ingredients": [
+    {
+      "amount": 170,
+      "unit": "g",
+      "name": "Sojaschnetzel",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Paprika",
+      "variety": "rot"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Ajvar",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "ml",
+      "name": "Wein",
+      "variety": "Rot"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gestückelt"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "passiert"
+    },
+    {
+      "amount": 2.5,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": "Kokosblüte"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Chilipulver",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Stück",
+      "name": "Gewürzgurken",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Sojaschnetzel in heißer Gemüsebrühe einweichen, abgießen, gut ausdrücken.",
+    "Zwiebeln, Champignons, Karotte, Paprika, Knoblauch vorbereiten. Sojaschnetzel scharf anbraten.",
+    "Gemüse dazu, ein paar Minuten mitbraten.",
+    "Tomatenmark und Ajvar einrühren. Mit Rotwein und Sojasauce ablöschen.",
+    "Tomaten, Brühe, Lorbeerblätter dazu, aufkochen.",
+    "Sojaschnetzel wieder rein, 20 Minuten bei niedriger Hitze köcheln.",
+    "Mit Zucker, Salz, Pfeffer, Chili abschmecken. Gurken unterrühren, kurz ziehen lassen."
+  ],
+  "source": {
+    "name": "Bianca Zapatka",
+    "url": "https://biancazapatka.com/de/veganes-gulasch/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

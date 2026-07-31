@@ -1,0 +1,36 @@
+{
+  "id": "churros",
+  "title": "Churros",
+  "summary": "Knusprig-fluffiges Spritzgebäck in Zimtzucker, mit heißer Schokolade zum Dippen.",
+  "image": "images/churros.jpg",
+  "category": "Sonstige",
+  "cuisine": "Mexikanisch",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 15,
+  "restTime": 5,
+  "ingredients": [
+    { "amount": 900, "unit": "ml", "name": "Pflanzenöl", "variety": "zum Frittieren" },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 230, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Zucker", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 125, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Zimt", "variety": "gemahlen, optional" },
+    { "amount": 100, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 500, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 45, "unit": "g", "name": "Schokolade", "variety": "mexikanisch (mit Zimt)" }
+  ],
+  "steps": [
+    "Öl in breiter Pfanne langsam erhitzen.",
+    "Wasser, etwas Öl, Zucker und Salz im Topf aufkochen. Mehl durchsieben. Zimt mit Zucker für die Panade mischen.",
+    "Topf vom Herd, Mehl unterrühren bis glatter Teig entsteht, der sich von der Pfanne löst (ca. 1 Minute).",
+    "Teig 5 Minuten abkühlen lassen, in Spritzbeutel mit Sternaufsatz füllen.",
+    "Für die heiße Schokolade Wasser köcheln, Schokolade unterrühren bis geschmolzen.",
+    "Öl auf 200°C bringen. Teig auf Backpapier spritzen, Streifen abschneiden. In Chargen ca. 6 Minuten frittieren, wenden.",
+    "Rausheben, abtropfen lassen, 4-5 Minuten abkühlen, in Zimtzucker wälzen.",
+    "Warm mit der heißen Schokolade servieren."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/churros-fried-pastries-with-cinnamon-sugar/" },
+  "note": null
+}

@@ -1,0 +1,109 @@
+{
+  "id": "buffalo-ranch-pasta",
+  "title": "Buffalo-Ranch-Pasta",
+  "summary": "One-Pot-Pasta mit veganem Hähnchen, Buffalo-Sauce und cremiger Ranch-Würze — alles in einem Topf.",
+  "image": "images/buffalo-ranch-pasta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Veganes Hähnchen",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Petersilie",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Dill",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Zwiebelgranulat",
+      "variety": null
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 770,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 60,
+      "unit": "ml",
+      "name": "Buffalo-Sauce",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Veganer Frischkäse",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Etwas vegane Butter im Topf schmelzen, Hähnchen darin nach Packungsanweisung braun braten. Rausnehmen, beiseitestellen.",
+    "Restliche Butter im Topf schmelzen, Knoblauch 1–2 Minuten andünsten. Hefeflocken, Petersilie, Dill und Zwiebelgranulat kurz mitrösten.",
+    "Nudeln, Wasser und Buffalo-Sauce dazu, aufkochen.",
+    "Hitze reduzieren, köcheln bis Nudeln gar sind, gelegentlich umrühren.",
+    "Speisestärke in wenig Wasser auflösen, einrühren, kurz eindicken lassen. Hitze runter, Frischkäse einrühren bis glatt.",
+    "Hähnchen zurück in den Topf, unterrühren, mit Salz oder mehr Sauce abschmecken.",
+    "Warm servieren, nach Belieben mit frischen Kräutern."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/vegan-buffalo-ranch-pasta-one-pot/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

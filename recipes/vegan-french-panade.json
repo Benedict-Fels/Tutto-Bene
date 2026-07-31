@@ -1,0 +1,88 @@
+{
+  "id": "vegan-french-panade",
+  "title": "French Panade",
+  "summary": "Französischer Brotauflauf mit Limabohnen, Radicchio und knusprigem Salbei.",
+  "image": "images/vegan-french-panade.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mediterran",
+  "servings": 4,
+  "prepTime": 45,
+  "cookTime": 135,
+  "restTime": 480,
+  "ingredients": [
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Limabohnen",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot, groß"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Radicchio",
+      "variety": null
+    },
+    {
+      "amount": 15,
+      "unit": "g",
+      "name": "Salbei",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Essig",
+      "variety": "Rotwein"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": "plus etwas zum Servieren"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Brot",
+      "variety": "Sauerteig, altbacken"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Senf",
+      "variety": "Dijon"
+    }
+  ],
+  "steps": [
+    "Bohnen mit etwas Salz über Nacht in Wasser einweichen.",
+    "Abgießen, in frischem Wasser 1 Stunde köcheln bis weich. Kochwasser aufheben.",
+    "Ofen auf 180°C vorheizen. Zwiebeln und Radicchio in Spalten schneiden, mit Salbeistielen, Essig, etwas Öl und Salz in Auflaufform, mit angefeuchtetem Backpapier abdecken, 30 Minuten backen.",
+    "Papier abnehmen, Bohnen mit Salz und Zitronenzeste dazu, Brotstücke dazwischenstecken.",
+    "Bohnenwasser mit Senf verquirlen, darübergießen, offen 30 Minuten backen.",
+    "Salbeiblätter mit restlichem Öl und Salz vermengen, obendrauf verteilen, 10 Minuten rösten bis knusprig.",
+    "Mit Zitronensaft und Olivenöl beträufelt servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/vegan-french-panade-with-radicchio-butter-beans-crispy-sage/"
+  },
+  "note": null
+}

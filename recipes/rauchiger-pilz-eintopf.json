@@ -1,0 +1,166 @@
+{
+  "id": "rauchiger-pilz-eintopf",
+  "title": "Rauchiger Pilz-Eintopf",
+  "summary": "Herzhafter Rotwein-Eintopf mit Kartoffeln, Karotten und rauchig marinierten Austernpilzen — schmeckt am zweiten Tag noch besser.",
+  "image": "images/rauchiger-pilz-eintopf.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Stück",
+      "name": "Schalotte",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Sellerie",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Rosmarin",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Vegane Worcestersauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "ml",
+      "name": "Wein",
+      "variety": "Rotwein"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 375,
+      "unit": "g",
+      "name": "Austernpilz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Flüssigrauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Ahornsirup",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Karotten, Schalotten, Sellerie und Knoblauch in Öl anbraten.",
+    "Rosmarin und Lorbeer dazu.",
+    "Tomaten, Tomatenmark und Mehl unterrühren.",
+    "Mit Rotwein ablöschen, Brühe angießen.",
+    "Kartoffeln und Worcestersauce dazu, salzen und pfeffern.",
+    "Zugedeckt köcheln lassen, je länger desto besser.",
+    "Pilze mit Flüssigrauch, Paprikapulver, Sojasauce und Ahornsirup marinieren.",
+    "In Öl anbraten bis rauchig-aromatisch.",
+    "Zum Eintopf geben, kurz mitziehen lassen.",
+    "Mit Petersilie bestreut servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/2018/9/16/beef-less-vegan-stew"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

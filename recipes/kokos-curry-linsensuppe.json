@@ -1,0 +1,120 @@
+{
+  "id": "kokos-curry-linsensuppe",
+  "title": "Kokos-Curry-Linsensuppe mit Grünkohl",
+  "summary": "Wärmende Linsensuppe mit Süßkartoffel, Kokosmilch und Currygewürzen — cremig und herzhaft.",
+  "image": "images/kokos-curry-linsensuppe.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 35,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 115,
+      "unit": "g",
+      "name": "Shiitake-Pilze",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": "daumengroßes Stück"
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Currypulver",
+      "variety": "salzfrei"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange, optional"
+    },
+    {
+      "amount": 330,
+      "unit": "g",
+      "name": "Süßkartoffel",
+      "variety": "gewürfelt"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Braune Linsen",
+      "variety": null
+    },
+    {
+      "amount": 1200,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": "natriumarm"
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Grünkohl",
+      "variety": "Lacinato"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Öl im großen Topf erhitzen, Zwiebel 3 Minuten glasig dünsten. Pilze dazu, 2–3 Minuten mitbraten bis sie welk sind.",
+    "Ingwer, Knoblauch, Currypulver und Zimtstange dazu, 1 Minute anrösten.",
+    "Süßkartoffel, Linsen, Brühe und Kokosmilch dazu, gut mischen, aufkochen.",
+    "Hitze auf mittel bis mittel-niedrig, 20–25 Minuten köcheln bis die Linsen weich sind.",
+    "Vom Herd, Grünkohl und Zitronensaft unterrühren, mit Salz und Pfeffer abschmecken.",
+    "Warm servieren."
+  ],
+  "source": {
+    "name": "From My Bowl",
+    "url": "https://frommybowl.com/coconut-curry-lentil-soup-vegan/"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

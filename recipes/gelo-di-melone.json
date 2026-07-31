@@ -1,0 +1,74 @@
+{
+  "id": "gelo-di-melone",
+  "title": "Gelo di Melone",
+  "summary": "Sizilianischer Wassermelonenpudding mit Zimt, Pistazien und Schokolade — kühl und fruchtig.",
+  "image": "images/gelo-di-melone.jpg",
+  "category": "Dessert",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 30,
+  "restTime": 75,
+  "ingredients": [
+    {
+      "amount": 700,
+      "unit": "g",
+      "name": "Wassermelone",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange, optional"
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Minze",
+      "variety": "als Garnitur"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Pistazien",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "Stück",
+      "name": "Schokolade",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Wassermelonenfleisch pürieren, durch ein Sieb streichen, 500ml Saft abmessen.",
+    "Etwas Saft mit Zucker und Speisestärke glattrühren, restlichen Saft, Zitronensaft und Zimtstange dazu. Langsam unter Rühren aufkochen.",
+    "Köcheln bis eingedickt, Hitze runter, 3-4 Minuten weiterrühren. Zimtstange rausnehmen.",
+    "In Förmchen füllen, 10-15 Minuten abkühlen, dann mindestens 1 Stunde kalt stellen zum Festwerden.",
+    "Stürzen, mit gehackten Pistazien, Schokolade und Minze bestreuen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/gelo-di-melone-sicilian-watermelon-jelly/"
+  },
+  "note": null
+}

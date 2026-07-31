@@ -1,0 +1,54 @@
+{
+  "id": "injera",
+  "title": "Injera",
+  "summary": "Äthiopisches fermentiertes Teff-Fladenbrot mit charakteristischen \"Augen\" — Basis für viele äthiopische Gerichte.",
+  "image": "images/injera.jpg",
+  "category": "Sonstige",
+  "cuisine": "Äthiopisch",
+  "servings": 6,
+  "prepTime": 55,
+  "cookTime": 70,
+  "restTime": 5850,
+  "ingredients": [
+    {
+      "amount": 680,
+      "unit": "g",
+      "name": "Teffmehl",
+      "variety": null
+    },
+    {
+      "amount": 950,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Teffmehl und einen Teil des Wassers verrühren, in ein Glas füllen, luftdicht verschließen, 2-3 Tage fermentieren bis blubbernd mit abgesetztem Wasser.",
+    "Überschüssiges Wasser abgießen, Starter verrühren.",
+    "Starter mit restlichem Mehl und Wasser zu einem dicken Teig verrühren, 5 Minuten kneten bis glatt und cremig.",
+    "In ein großes Glas füllen, mit einer Wasserschicht abdecken, locker verschließen, 1-2 Tage fermentieren bis verdoppelt und blubbernd.",
+    "Etwas Wasser aufkochen, überschüssiges Wasser vom Teig abgießen.",
+    "Einen Teil des Teigs unter Rühren ins kochende Wasser geben bis eingedickt, kurz köcheln.",
+    "Vom Herd, kaltes Wasser einrühren bis klumpenfrei, abkühlen lassen.",
+    "Zurück in den restlichen Teig rühren, mit etwas Wasser auf Pfannkuchenteig-Konsistenz bringen.",
+    "Abdecken, 1-2 Stunden fermentieren bis Blasen an der Oberfläche.",
+    "Große beschichtete Pfanne erhitzen, Salz vorsichtig unterrühren ohne den Teig zu entgasen.",
+    "Teig in einen Krug füllen, von außen nach innen kreisförmig in die Pfanne gießen, den Boden bedecken.",
+    "50-60 Sekunden backen bis Blasen entstehen und die Farbe dunkelbraun wird.",
+    "Mit Deckel 1 Minute dämpfen, dann Deckel ab, 1 weitere Minute bis die Feuchtigkeit verdampft ist und die Ränder sich lösen.",
+    "Mit Spachtel auf einen Teller heben, mit restlichem Teig wiederholen.",
+    "Mit traditionellen äthiopischen Beilagen servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/injera-a-guide-to-ethiopias-national-dish/"
+  },
+  "note": null
+}

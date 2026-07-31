@@ -1,0 +1,54 @@
+{
+  "id": "eingelegte-rote-zwiebeln",
+  "title": "Eingelegte Rote Zwiebeln",
+  "summary": "Schnell eingelegte rote Zwiebeln — säuerlich-knackig, der perfekte Begleiter zu Fladenbrot, Tacos und Currys.",
+  "image": "images/eingelegte-rote-zwiebeln.jpg",
+  "category": "Sonstige",
+  "cuisine": "Sonstige",
+  "servings": 20,
+  "prepTime": 10,
+  "cookTime": 10,
+  "restTime": 60,
+  "ingredients": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Essig",
+      "variety": "Weißwein"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Zwiebeln schälen, dünn hobeln, in Glas füllen.",
+    "Restliche Zutaten in Topf erhitzen bis Zucker aufgelöst und Flüssigkeit köchelt. Über Zwiebeln gießen, bei Bedarf mit heißem Wasser auffüllen.",
+    "Deckel drauf, komplett abkühlen lassen, dann kühl stellen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/vibrant-pickled-red-onions-recipe/"
+  },
+  "note": null
+}

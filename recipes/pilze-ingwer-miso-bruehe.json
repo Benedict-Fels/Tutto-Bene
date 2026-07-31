@@ -1,0 +1,122 @@
+{
+  "id": "pilze-ingwer-miso-bruehe",
+  "title": "Geröstete Pilze in Ingwer-Miso-Brühe",
+  "summary": "Kross gebratene Kräuterseitlinge und knuspriges Tempeh in würziger Ingwer-Miso-Brühe, mit Fünf-Gewürz-Pulver.",
+  "image": "images/pilze-ingwer-miso-bruehe.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Kombu",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Limette",
+      "variety": "Saft"
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Kräuterseitling",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Fünf-Gewürz-Pulver",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Tempeh",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Agavensirup",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "Jasmin"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Ingwer und Knoblauch in Öl anbraten. Brühe angießen, Miso einrühren bis glatt.",
+    "Mit Salz und Limettensaft abschmecken, warmhalten.",
+    "Pilze flach in heiße Pfanne, mit kleinerer Pfanne beschweren, Flüssigkeit rausdrücken.",
+    "Mit Öl, Fünf-Gewürz-Pulver, Salz bestreuen, goldbraun braten.",
+    "Tempeh zerbröseln, mit Sojasauce, Agavensirup, Salz vermengen.",
+    "In Öl knusprig braten.",
+    "Reis oder Nudeln in Schalen, Brühe drüber, mit Pilzen und Tempeh toppen.",
+    "Mit Koriander und Limettensaft garnieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/spiced-mushrooms-on-a-ginger-miso-broth"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

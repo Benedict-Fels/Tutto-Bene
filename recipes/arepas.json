@@ -1,0 +1,28 @@
+{
+  "id": "arepas",
+  "title": "Arepas",
+  "summary": "Venezolanische Maisfladen mit knuspriger Kruste und weichem Kern — Grundlage für herzhafte Füllungen.",
+  "image": "images/arepas.jpg",
+  "category": "Sonstige",
+  "cuisine": "Venezolanisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "restTime": 5,
+  "ingredients": [
+    { "amount": 700, "unit": "ml", "name": "Wasser", "variety": "warm" },
+    { "amount": 0.75, "unit": "EL", "name": "Salz", "variety": null },
+    { "amount": 400, "unit": "g", "name": "Maismehl", "variety": "vorgekocht (Masarepa)" },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": "zum Braten" }
+  ],
+  "steps": [
+    "Warmes Wasser und Salz in großer Schüssel verrühren. Maismehl nach und nach unter ständigem Rühren mit den Händen einarbeiten, damit keine Klumpen entstehen. 5 Minuten ruhen lassen zum Quellen.",
+    "Teig kurz in der Schüssel durchkneten, um Klumpen zu beseitigen — er sollte weich und geschmeidig sein, ohne zu reißen oder zu kleben. Bei Bedarf Wasser oder Maismehl nachjustieren.",
+    "Teig in 8 Portionen teilen (ca. 130 g), zu flachen Scheiben (ca. 1 cm dick) formen.",
+    "Pfanne mit wenig Öl erhitzen, Arepas 5-6 Minuten pro Seite braten bis tief golden mit leichten Röststellen.",
+    "Auf ein Blech legen, 5 Minuten dämpfen (oder im Ofen bei 100°C warmhalten).",
+    "Einschnitt in jede Arepa machen, mit Guasacaca bestreichen und mit Caraotas Negras füllen (beide separate Rezepte)."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/arepas-venezuelan-cornmeal-flatbreads/" },
+  "note": null
+}

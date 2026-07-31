@@ -1,0 +1,178 @@
+{
+  "id": "pho",
+  "title": "Pho",
+  "summary": "Vietnamesisch inspirierte Nudelsuppe mit langsam gezogener Sternanis-Zimt-Brühe, Reisnudeln und frischen Kräutern.",
+  "image": "images/pho.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Vietnamesisch",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 65,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Sellerie",
+      "variety": null
+    },
+    {
+      "amount": 6,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Stück",
+      "name": "Sternanis",
+      "variety": null
+    },
+    {
+      "amount": 6,
+      "unit": "Stück",
+      "name": "Nelken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Koriandersamen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Fenchelsamen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Shiitake-Pilze",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Ahornsirup",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": null
+    },
+    {
+      "amount": 60,
+      "unit": "ml",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Nori",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "l",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "Thai"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Limette",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Sojasprossen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Pak Choi",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Reisnudeln",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sriracha",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Zwiebeln und Ingwer unter dem Grill rundum bräunen.",
+    "Koriandersamen, Fenchelsamen, Nelken, Zimt und Sternanis in Pfanne bei niedriger Hitze rösten bis duftend.",
+    "Geröstete Gewürze in ein Teesieb oder Säckchen geben.",
+    "Knoblauch, Sellerie und Karotten in großem Topf anschwitzen bis der Knoblauch weich ist.",
+    "Wasser, Sojasauce, Miso, Ahornsirup und Algenblatt dazu, salzen.",
+    "Gebräunte Zwiebeln, Ingwer und getrocknete Pilze dazugeben.",
+    "Gewürzsieb obenauf legen.",
+    "Mindestens 1 Stunde köcheln, abschmecken.",
+    "Reisnudeln nach Packungsangabe zubereiten.",
+    "Sojasprossen 1-2 Minuten blanchieren.",
+    "Pak Choi kurz vor dem Servieren 1-2 Minuten mitgaren.",
+    "Nudeln in Schalen, Brühe darüber gießen, dabei große Gemüsestücke weglassen.",
+    "Mit Pilzen, Sprossen, Kräutern, Chili, Pak Choi, Frühlingszwiebel, Limette und Sriracha toppen."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/fwva9odmiv9142322opppba9asu6cu"
+  },
+  "note": null
+}

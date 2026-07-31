@@ -1,0 +1,60 @@
+{
+  "id": "knoblauchconfit-pasta",
+  "title": "Knoblauchconfit-Pasta mit eingelegter Zitrone",
+  "summary": "Cremige One-Pot-Pasta mit confiertem Knoblauch und eingelegter Zitrone — für alle, die von Knoblauch nie genug bekommen.",
+  "image": "images/knoblauchconfit-pasta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mediterran",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 40,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Eingelegte Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Knoblauchzehen komplett mit Öl bedecken, bei niedriger Hitze 15 Minuten weich köcheln lassen.",
+    "Herausnehmen, restliches Öl für später aufbewahren.",
+    "Knoblauch mit eingelegter Zitrone und Salz glatt pürieren.",
+    "Zurück in den Topf mit Nudeln, mit Wasser bedecken.",
+    "Köcheln bis Wasser reduziert und Sauce eindickt, überschüssiges Wasser abgießen.",
+    "Servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/one-pot-garlic-confit-amp-preserved-lemon-pasta"
+  },
+  "note": null,
+  "tags": [
+    "One-Pot"
+  ]
+}

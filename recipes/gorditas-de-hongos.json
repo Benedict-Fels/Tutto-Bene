@@ -1,0 +1,35 @@
+{
+  "id": "gorditas-de-hongos",
+  "title": "Gorditas de Hongos",
+  "summary": "Mexikanische Maisfladen aus Mexico City, gefüllt mit geschmorten Pilzen und scharfer grüner Tomatensalsa.",
+  "image": "images/gorditas-de-hongos.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mexikanisch",
+  "servings": 4,
+  "prepTime": 55,
+  "cookTime": 30,
+  "restTime": 5,
+  "ingredients": [
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "groß" },
+    { "amount": 5, "unit": "Zehe", "name": "Knoblauch", "variety": "groß" },
+    { "amount": 750, "unit": "g", "name": "Champignons", "variety": "braun, klein (Kastanienchampignons)" },
+    { "amount": 1, "unit": "EL", "name": "Epazote", "variety": "getrocknet" },
+    { "amount": 0.75, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 300, "unit": "g", "name": "Masa Harina", "variety": null },
+    { "amount": 0.75, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 510, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "klein" }
+  ],
+  "steps": [
+    "Zwiebel in Öl goldbraun anschwitzen, Knoblauch dazu, kurz mitbraten.",
+    "Champignons, Epazote, Salz rein. Deckel drauf, 15 Minuten köcheln, zwischendurch rühren.",
+    "Deckel ab, 5-10 Minuten weiter köcheln bis die Flüssigkeit weg ist. Beiseitestellen.",
+    "Masa Harina und Salz mischen, warmes Wasser einarbeiten, zu Teig verkneten. 5 Minuten ruhen lassen.",
+    "Teigportionen zwischen Backpapier zu Fladen pressen (12-13 cm Durchmesser).",
+    "Fladen in heißer Pfanne beidseitig braten, bis dunkelgolden mit leichten Röststellen (4-5 Minuten insgesamt).",
+    "Pilzfüllung nochmal in Öl erhitzen. Fladen aufschneiden, mit Pilzen, grüner Tomatensalsa (siehe eigenes Rezept) und gewürfelter Zwiebel füllen."
+  ],
+  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/gorditas-de-hongos-mexican-corn-flatbreads-with-mushrooms/" },
+  "note": null
+}

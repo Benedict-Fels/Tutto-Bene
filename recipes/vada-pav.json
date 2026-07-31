@@ -1,0 +1,210 @@
+{
+  "id": "vada-pav",
+  "title": "Vada Pav",
+  "summary": "Mumbais liebstes Street Food — würzige Kartoffel-Vada im Brötchen, mit Chutneys und knusprigem Chura.",
+  "image": "images/vada-pav.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 120,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": "mehlig kochend"
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "grün, scharf"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Curryblätter",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": "frisch"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Senfkörner",
+      "variety": "braun"
+    },
+    {
+      "amount": 0.33,
+      "unit": "TL",
+      "name": "Asafoetida",
+      "variety": null
+    },
+    {
+      "amount": 0.33,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Pflanzenöl",
+      "variety": "zum Frittieren"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Tamarinde",
+      "variety": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Jaggery",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Ingwer",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 6,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Erdnüsse",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Kokosraspeln",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": "Kashmiri, gehäuft"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Kichererbsenmehl",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Asafoetida",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 8,
+      "unit": "Stück",
+      "name": "Brötchen",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Kartoffeln in Salzwasser weich kochen, 30–40 Minuten. Abgießen, pellen, zerstampfen.",
+    "Ingwer, 2 Knoblauchzehen und Chili im Mörser zu Paste zerstoßen. Curryblätter und Koriander hacken.",
+    "Öl erhitzen, Senfkörner reinwerfen, dann Curryblätter und etwas Asafoetida dazu.",
+    "Ingwer-Paste rein, kurz anbraten. Kurkuma unterrühren.",
+    "Kartoffelstampf, Zitronensaft, Koriander und Salz untermischen. Abkühlen lassen, zu Kugeln formen und flachdrücken.",
+    "Tamarinde in kochendem Wasser 15 Minuten einweichen, Fasern von Hand lösen.",
+    "Durch Sieb streichen, mit etwas Wasser nachspülen, nochmal durchstreichen.",
+    "Jaggery, Kreuzkümmel, gemahlenen Ingwer, Chilipulver und Salz dazu, 20 Minuten köcheln bis eingedickt.",
+    "Restlichen Knoblauch und Erdnüsse in Pfanne rösten bis goldig, Kokosraspeln dazu, weiterrösten.",
+    "Mit Kashmiri-Chilipulver und Salz im Zerkleinerer fein pulsen.",
+    "Kichererbsenmehl, restliche Kurkuma, restliches Asafoetida, Salz und Wasser zu Teig verquirlen.",
+    "Öl auf 170°C erhitzen, Kartoffel-Patties im Teig wenden, knusprig goldbraun frittieren, auf Küchenpapier abtropfen.",
+    "Etwas Teig ins heiße Öl träufeln für knusprige Chura-Krümel.",
+    "Brötchen aufschneiden, mit Hari Chutney und Tamarinden-Chutney bestreichen, Knoblauch-Chutney drüberstreuen.",
+    "Vada und Chura obendrauf, zuklappen, sofort servieren."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/vada-pav/"
+  },
+  "note": "Als Korianderchutney eignet sich die bereits vorhandene Hari Chutney."
+}

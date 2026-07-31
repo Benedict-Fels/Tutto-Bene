@@ -1,0 +1,137 @@
+{
+  "id": "gruene-bohnen-kokosflocken",
+  "title": "Grüne Bohnen mit Knoblauch und rauchigen Kokosflocken",
+  "summary": "Angeschmorte grüne Bohnen und Grünkohl mit Knoblauch, getoppt mit rauchig-süßen gerösteten Kokosflocken.",
+  "image": "images/gruene-bohnen-kokosflocken.jpg",
+  "category": "Sonstige",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Kokosflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Ahornsirup",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Flüssigrauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": null,
+      "unit": null,
+      "name": "Pfeffer",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Grüne Bohnen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Grünkohl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Kokosflocken mit Öl, Sojasauce, Paprikapulver, Ahornsirup, Flüssigrauch und Salz vermengen.",
+    "Auf Blech verteilen, bei 180°C rösten bis knusprig, dabei im Auge behalten.",
+    "Zwiebel in Öl mit Salz und Pfeffer 5–10 Minuten karamellisieren.",
+    "Knoblauch dazu, 1 Minute mitbraten.",
+    "Grüne Bohnen dazu, zugedeckt etwa 5 Minuten dünsten.",
+    "Deckel ab, vegane Butter, Salz und Pfeffer unterrühren.",
+    "Grünkohl, Hefeflocken und Zitronensaft kurz vor Schluss dazu.",
+    "Vom Herd, sobald das Grün zusammenfällt, mit Kokosflocken servieren."
+  ],
+  "source": {
+    "name": "Rachel Ama",
+    "url": "https://www.rachelama.com/recipes/garlic-green-beans-with-smokey-coconut-flakes"
+  },
+  "note": null
+}

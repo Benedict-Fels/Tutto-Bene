@@ -1,0 +1,98 @@
+{
+  "id": "liang-ban-qie-zi",
+  "title": "Liang Ban Qie Zi",
+  "summary": "Gedämpfte chinesische Aubergine, zerzupft und mit knoblauchiger Soja-Essig-Sauce übergossen — kalt serviert.",
+  "image": "images/liang-ban-qie-zi.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Chinesisch",
+  "servings": 2,
+  "prepTime": 30,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Aubergine",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Frühlingszwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "rot, lang"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Essig",
+      "variety": "schwarz, Chinkiang"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Sesamöl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Auberginen in Stücke schneiden, in Salzwasser legen, beschwert 10 Minuten ziehen lassen.",
+    "Dampfaufsatz vorbereiten. Auberginen abgießen, aufschichten, zugedeckt dämpfen bis messerweich, abkühlen lassen.",
+    "Knoblauch und Ingwer fein hacken, Frühlingszwiebel und Chili in Ringe schneiden, in Schüssel geben.",
+    "Öl stark erhitzen bis es raucht, über die Aromaten gießen. Sojasauce, Essig, Sesamöl und Zucker unterrühren.",
+    "Koriander grob hacken. Auberginen in Streifen zupfen, auf Platte anrichten, Sauce darüber, mit Koriander bestreuen."
+  ],
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/liang-ban-qie-zi-chinese-steamed-eggplant-salad/"
+  },
+  "note": null
+}
