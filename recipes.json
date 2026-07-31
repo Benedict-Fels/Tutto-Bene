@@ -324,6 +324,9 @@
         "Knoblauch",
         "Limette",
         "Salz"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -616,6 +619,9 @@
         "Jaggery",
         "Zitrone",
         "Wasser"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -640,6 +646,9 @@
         "Wasser",
         "Erdnussbutter",
         "Sesamöl"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -833,6 +842,9 @@
         "Pfeffer",
         "Kala Namak",
         "Wasser"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -857,6 +869,9 @@
         "Pflanzenöl",
         "Wasser",
         "Salz"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -904,6 +919,9 @@
         "Essig",
         "Olivenöl",
         "Oliven"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -1559,6 +1577,9 @@
         "Zitrone",
         "Wasser",
         "Salz"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -1615,6 +1636,9 @@
         "Ingwer",
         "Chili",
         "Salz"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -2162,6 +2186,9 @@
         "Petersilie",
         "Olivenöl",
         "Sumach"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -2179,6 +2206,9 @@
         "Wasser",
         "Eiswürfel",
         "Pflanzendrink"
+      ],
+      "tags": [
+        "getraenk"
       ]
     },
     {
@@ -2195,6 +2225,9 @@
         "Rooibostee",
         "Pflanzendrink",
         "Zimt"
+      ],
+      "tags": [
+        "getraenk"
       ]
     },
     {
@@ -2213,6 +2246,9 @@
         "Wasser",
         "Eiswürfel",
         "Pflanzendrink"
+      ],
+      "tags": [
+        "getraenk"
       ]
     },
     {
@@ -2282,6 +2318,9 @@
         "Senfkörner",
         "Asafoetida",
         "Curryblätter"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {
@@ -2432,6 +2471,9 @@
         "Olivenöl",
         "Salz",
         "Pfeffer"
+      ],
+      "tags": [
+        "dip"
       ]
     },
     {

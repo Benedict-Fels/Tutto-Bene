@@ -89,6 +89,7 @@
     const state = {
       include: [],
       exclude: [],
+      excludeGroups: [],
       categories: [],
       tags: [],
       quick: false,
@@ -96,7 +97,49 @@
     };
 
     const QUICK_MAX_MINUTES = 30;
+    const QUICK_EXCLUDED_TAGS = ['dip', 'getraenk'];
     const PAGE_SIZE = 24;
+    const AUTOCOMPLETE_LIMIT = 30;
+
+    // Kurzliste bei leerem "muss enthalten"-Feld: verderbliche Zutaten, die man eher spontan verplanen möchte
+    const QUICK_PICK_INCLUDE = [
+      'Zitrone', 'Koriander', 'Tomate', 'Ingwer', 'Chili', 'Petersilie', 'Karotte', 'Kartoffel',
+      'Thymian', 'Frühlingszwiebel', 'Champignons', 'Minze', 'Limette', 'Schalotte', 'Aubergine',
+      'Oregano', 'Rosmarin', 'Sellerie', 'Grünkohl', 'Tofu', 'Zucchini', 'Dill', 'Kürbis', 'Orange',
+      'Spinat', 'Avocado', 'Shiitake-Pilze', 'Salatgurke', 'Erbsen', 'Austernpilz',
+    ];
+
+    // Kurzliste bei leerem "enthält nicht"-Feld: gängige Allergene / unbeliebte Zutaten
+    const QUICK_PICK_EXCLUDE = [
+      'Koriander', 'Karotte', 'Erdnüsse', 'Cashewkerne', 'Walnüsse', 'Sesam', 'Sojasauce',
+      'Champignons', 'Sellerie', 'Senfkörner',
+    ];
+
+    // Zutaten-Gruppen für "enthält nicht": schließen mehrere verwandte Zutaten auf einmal aus
+    const EXCLUDE_GROUPS = {
+      gluten: {
+        label: 'Glutenfrei',
+        ingredients: [
+          'Brot', 'Brötchen', 'Bulgur', 'Chow-Mein-Nudeln', 'Fladenbrot', 'Grieß', 'Liang-Pi-Nudeln',
+          'Mehl', 'Nudeln', 'Paniermehl', 'Seitan', 'Tortilla', 'Weizenkörner', 'Weizenstärke',
+        ],
+      },
+      nuesse: {
+        label: 'Ohne Nüsse',
+        ingredients: [
+          'Cashewbutter', 'Cashewkerne', 'Erdnussbutter', 'Erdnüsse', 'Mandeln', 'Nuss-Nougat-Creme',
+          'Pistazien', 'Walnüsse',
+        ],
+      },
+      soja: {
+        label: 'Ohne Soja',
+        ingredients: ['Edamame', 'Miso', 'Sojasauce', 'Sojaschnetzel', 'Sojasprossen', 'Tempeh', 'Tofu'],
+      },
+      soja_ohne_sojasauce: {
+        label: 'Ohne Soja (außer Sojasauce)',
+        ingredients: ['Edamame', 'Miso', 'Sojaschnetzel', 'Sojasprossen', 'Tempeh', 'Tofu'],
+      },
+    };
 
     let allRecipes = [];
     let allCategories = [];
@@ -111,6 +154,7 @@
       const params = new URLSearchParams(window.location.search);
       state.include = (params.get('inc') || '').split(',').filter(Boolean);
       state.exclude = (params.get('exc') || '').split(',').filter(Boolean);
+      state.excludeGroups = (params.get('excg') || '').split(',').filter(Boolean).filter(g => EXCLUDE_GROUPS[g]);
       state.categories = (params.get('cat') || '').split(',').filter(Boolean);
       state.tags = (params.get('tag') || '').split(',').filter(Boolean);
       state.quick = params.get('quick') === '1';
@@ -121,6 +165,7 @@
       const params = new URLSearchParams();
       if (state.include.length) params.set('inc', state.include.join(','));
       if (state.exclude.length) params.set('exc', state.exclude.join(','));
+      if (state.excludeGroups.length) params.set('excg', state.excludeGroups.join(','));
       if (state.categories.length) params.set('cat', state.categories.join(','));
       if (state.tags.length) params.set('tag', state.tags.join(','));
       if (state.quick) params.set('quick', '1');
@@ -128,6 +173,15 @@
       const query = params.toString();
       const url = window.location.pathname + (query ? `?${query}` : '');
       window.history.replaceState(null, '', url);
+    }
+
+    function excludedIngredientsFromGroups(groupIds) {
+      const set = new Set();
+      groupIds.forEach(id => {
+        const group = EXCLUDE_GROUPS[id];
+        if (group) group.ingredients.forEach(name => set.add(name));
+      });
+      return set;
     }
 
     function ingredientFrequency(recipes) {
@@ -146,6 +200,10 @@
       for (const excluded of s.exclude) {
         if (recipe.ingredients.includes(excluded)) return false;
       }
+      if (s.excludeGroups.length) {
+        const groupIngredients = excludedIngredientsFromGroups(s.excludeGroups);
+        if (recipe.ingredients.some(name => groupIngredients.has(name))) return false;
+      }
       for (const required of s.include) {
         if (!recipe.ingredients.includes(required)) return false;
       }
@@ -159,6 +217,8 @@
       if (s.quick) {
         const totalTime = (recipe.prepTime || 0) + (recipe.cookTime || 0);
         if (totalTime >= QUICK_MAX_MINUTES) return false;
+        const recipeTags = recipe.tags || [];
+        if (QUICK_EXCLUDED_TAGS.some(tag => recipeTags.includes(tag))) return false;
       }
 
       if (s.text) {
@@ -248,9 +308,13 @@
       });
 
       const excludeChips = document.getElementById('exclude-chips');
-      excludeChips.innerHTML = state.exclude.map(i => `
+      const groupChipsHtml = state.excludeGroups.map(id => `
+        <span class="chip exclude selected" data-remove-exclude-group="${encodeURIComponent(id)}">${EXCLUDE_GROUPS[id].label} <span class="chip-remove">×</span></span>
+      `).join('');
+      const ingredientChipsHtml = state.exclude.map(i => `
         <span class="chip exclude selected" data-remove-exclude="${encodeURIComponent(i)}">${i} <span class="chip-remove">×</span></span>
       `).join('');
+      excludeChips.innerHTML = groupChipsHtml + ingredientChipsHtml;
       excludeChips.querySelectorAll('[data-remove-exclude]').forEach(chip => {
         chip.addEventListener('click', () => {
           const ingredient = decodeURIComponent(chip.dataset.removeExclude);
@@ -258,15 +322,28 @@
           renderAll();
         });
       });
+      excludeChips.querySelectorAll('[data-remove-exclude-group]').forEach(chip => {
+        chip.addEventListener('click', () => {
+          const id = decodeURIComponent(chip.dataset.removeExcludeGroup);
+          state.excludeGroups = state.excludeGroups.filter(g => g !== id);
+          renderAll();
+        });
+      });
     }
 
     function hasQuickRecipe(recipes) {
-      return recipes.some(r => ((r.prepTime || 0) + (r.cookTime || 0)) < QUICK_MAX_MINUTES);
+      return recipes.some(r => {
+        const totalTime = (r.prepTime || 0) + (r.cookTime || 0);
+        const recipeTags = r.tags || [];
+        return totalTime < QUICK_MAX_MINUTES && !QUICK_EXCLUDED_TAGS.some(tag => recipeTags.includes(tag));
+      });
     }
 
     function tagsInUse(recipes) {
       const tags = new Set();
-      recipes.forEach(r => (r.tags || []).forEach(tag => tags.add(tag)));
+      recipes.forEach(r => (r.tags || []).forEach(tag => {
+        if (!QUICK_EXCLUDED_TAGS.includes(tag)) tags.add(tag);
+      }));
       return [...tags];
     }
 
@@ -325,11 +402,11 @@
     }
 
     function hasActiveFilters() {
-      return state.include.length || state.exclude.length || state.categories.length || state.tags.length || state.quick || state.text;
+      return state.include.length || state.exclude.length || state.excludeGroups.length || state.categories.length || state.tags.length || state.quick || state.text;
     }
 
     function activeFilterCount() {
-      return state.include.length + state.exclude.length + state.categories.length + state.tags.length + (state.quick ? 1 : 0) + (state.text ? 1 : 0);
+      return state.include.length + state.exclude.length + state.excludeGroups.length + state.categories.length + state.tags.length + (state.quick ? 1 : 0) + (state.text ? 1 : 0);
     }
 
     function setupLoadMoreObserver() {
@@ -410,11 +487,13 @@
         renderAll();
       }
 
-      function setupAutocomplete(inputId, menuId, field) {
+      function setupAutocomplete(inputId, menuId, field, options) {
+        const { quickPicks = [], groups = null } = options || {};
         const input = document.getElementById(inputId);
         const menu = document.getElementById(menuId);
         let activeIndex = -1;
         const allIngredients = [...ingredientFrequency(allRecipes).keys()].sort((a, b) => a.localeCompare(b, 'de'));
+        const quickPickSet = new Set(quickPicks.filter(name => allIngredients.includes(name)));
 
         function closeMenu() {
           menu.hidden = true;
@@ -424,29 +503,61 @@
 
         function currentMatches() {
           const needle = normalize(input.value.trim());
+          if (!needle && quickPickSet.size) {
+            // Bei leerem Suchfeld nur die Kurzliste zeigen, sortiert wie die Kurzliste selbst
+            return quickPicks
+              .filter(name => quickPickSet.has(name))
+              .filter(name => !state[field].includes(name));
+          }
           return allIngredients
             .filter(name => !state[field].includes(name))
             .filter(name => !needle || normalize(name).includes(needle))
-            .slice(0, 8);
+            .slice(0, AUTOCOMPLETE_LIMIT);
+        }
+
+        function currentGroupMatches() {
+          if (!groups) return [];
+          const needle = normalize(input.value.trim());
+          return Object.entries(groups)
+            .filter(([id]) => !state.excludeGroups.includes(id))
+            .filter(([, group]) => !needle || normalize(group.label).includes(needle))
+            .map(([id, group]) => ({ id, label: group.label }));
         }
 
         function renderMenu() {
+          const groupMatches = currentGroupMatches();
           const matches = currentMatches();
-          if (matches.length === 0) {
+          if (matches.length === 0 && groupMatches.length === 0) {
             closeMenu();
             return;
           }
           activeIndex = -1;
-          menu.innerHTML = matches.map(name => `
+          const groupButtons = groupMatches.map(g => `
+            <button type="button" class="autocomplete-group" data-group-value="${encodeURIComponent(g.id)}">${g.label}</button>
+          `).join('');
+          const ingredientButtons = matches.map(name => `
             <button type="button" data-value="${encodeURIComponent(name)}">${name}</button>
           `).join('');
+          menu.innerHTML = groupButtons + ingredientButtons;
           menu.hidden = false;
-          menu.querySelectorAll('button').forEach(button => {
+          menu.querySelectorAll('[data-value]').forEach(button => {
             button.addEventListener('mousedown', (event) => {
               event.preventDefault();
               addIngredient(field, decodeURIComponent(button.dataset.value));
               input.value = '';
               closeMenu();
+            });
+          });
+          menu.querySelectorAll('[data-group-value]').forEach(button => {
+            button.addEventListener('mousedown', (event) => {
+              event.preventDefault();
+              const id = decodeURIComponent(button.dataset.groupValue);
+              if (!state.excludeGroups.includes(id)) {
+                state.excludeGroups = [...state.excludeGroups, id];
+              }
+              input.value = '';
+              closeMenu();
+              renderAll();
             });
           });
         }
@@ -475,12 +586,13 @@
             setActive(activeIndex);
           } else if (event.key === 'Enter') {
             event.preventDefault();
-            const value = activeIndex >= 0 && buttons[activeIndex]
-              ? decodeURIComponent(buttons[activeIndex].dataset.value)
-              : input.value;
-            addIngredient(field, value);
-            input.value = '';
-            closeMenu();
+            if (activeIndex >= 0 && buttons[activeIndex]) {
+              buttons[activeIndex].dispatchEvent(new MouseEvent('mousedown'));
+            } else {
+              addIngredient(field, input.value);
+              input.value = '';
+              closeMenu();
+            }
           } else if (event.key === 'Escape') {
             closeMenu();
           }
@@ -491,8 +603,8 @@
         });
       }
 
-      setupAutocomplete('include-input', 'include-menu', 'include');
-      setupAutocomplete('exclude-input', 'exclude-menu', 'exclude');
+      setupAutocomplete('include-input', 'include-menu', 'include', { quickPicks: QUICK_PICK_INCLUDE });
+      setupAutocomplete('exclude-input', 'exclude-menu', 'exclude', { quickPicks: QUICK_PICK_EXCLUDE, groups: EXCLUDE_GROUPS });
 
       document.getElementById('ingredient-toggle').addEventListener('click', () => {
         const panel = document.getElementById('ingredient-filters');
@@ -507,7 +619,7 @@
         state.tags = [];
         state.quick = false;
         state.text = '';
-        // state.exclude bleibt bewusst erhalten
+        // state.exclude und state.excludeGroups bleiben bewusst erhalten
         renderAll();
         setupStaticControls(categories);
       });
