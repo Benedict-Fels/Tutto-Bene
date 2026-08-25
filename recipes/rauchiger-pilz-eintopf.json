@@ -35,12 +35,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Rosmarin",
-      "variety": null
-    },
-    {
       "amount": 250,
       "unit": "g",
       "name": "Tomate",
@@ -66,12 +60,6 @@
     },
     {
       "amount": 1,
-      "unit": "TL",
-      "name": "Vegane Worcestersauce",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "EL",
       "name": "Tomatenmark",
       "variety": null
@@ -83,39 +71,41 @@
       "variety": "Rotwein"
     },
     {
-      "amount": 1,
-      "unit": "Handvoll",
-      "name": "Petersilie",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Mehl",
       "variety": null
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
+      "amount": 375,
+      "unit": "g",
+      "name": "Austernpilz",
       "variety": null
     },
     {
       "amount": 1,
       "unit": "EL",
-      "name": "Olivenöl",
+      "name": "Ahornsirup",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Rosmarin",
       "variety": null
     },
     {
-      "amount": 375,
-      "unit": "g",
-      "name": "Austernpilz",
+      "amount": 1,
+      "unit": "TL",
+      "name": "Vegane Worcestersauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Petersilie",
       "variety": null
     },
     {
@@ -134,12 +124,6 @@
       "amount": 2,
       "unit": "EL",
       "name": "Sojasauce",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Ahornsirup",
       "variety": null
     }
   ],

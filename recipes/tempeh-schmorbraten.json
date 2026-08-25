@@ -23,45 +23,15 @@
       "variety": "Rotwein, trocken"
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": "geräuchert"
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 4,
-      "unit": "Stück",
-      "name": "Thymian",
-      "variety": "Zweige, frisch"
-    },
-    {
       "amount": 60,
       "unit": "g",
       "name": "Speisestärke",
       "variety": "Pfeilwurzstärke, für die Sauce"
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": "Avocadoöl, optional"
-    },
-    {
       "amount": 450,
       "unit": "g",
       "name": "Tempeh",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
       "variety": null
     },
     {
@@ -99,6 +69,20 @@
       "unit": "g",
       "name": "Champignons",
       "variety": "Cremini"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": "Zweige, frisch"
     }
   ],
   "steps": [

@@ -59,6 +59,14 @@
       "variety": null
     },
     {
+      "amount": 60,
+      "unit": "g",
+      "name": "Veganer Mozzarella",
+      "variety": "gerieben, optional"
+    }
+  ],
+  "spices": [
+    {
       "amount": 1,
       "unit": "TL",
       "name": "Senf",
@@ -69,24 +77,6 @@
       "unit": "TL",
       "name": "Paprikapulver",
       "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 60,
-      "unit": "g",
-      "name": "Veganer Mozzarella",
-      "variety": "gerieben, optional"
     }
   ],
   "steps": [

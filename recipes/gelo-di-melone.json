@@ -35,18 +35,6 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "Stück",
-      "name": "Zimt",
-      "variety": "Stange, optional"
-    },
-    {
-      "amount": 1,
-      "unit": "Prise",
-      "name": "Minze",
-      "variety": "als Garnitur"
-    },
-    {
       "amount": 1,
       "unit": "Handvoll",
       "name": "Pistazien",
@@ -57,6 +45,20 @@
       "unit": "Stück",
       "name": "Schokolade",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange, optional"
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Minze",
+      "variety": "als Garnitur"
     }
   ],
   "steps": [

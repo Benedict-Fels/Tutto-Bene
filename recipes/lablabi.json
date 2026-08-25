@@ -17,33 +17,9 @@
       "variety": "getrocknet"
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Kreuzkümmel",
-      "variety": null
-    },
-    {
       "amount": 4,
       "unit": "Zehe",
       "name": "Knoblauch",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Harissa",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Olivenöl",
       "variety": null
     },
     {
@@ -62,6 +38,20 @@
       "amount": 2,
       "unit": "EL",
       "name": "Kapern",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Harissa",
       "variety": null
     }
   ],

@@ -11,6 +11,50 @@
   "restTime": 0,
   "ingredients": [
     {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Sojasprossen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sesam",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 80,
+      "unit": "g",
+      "name": "Salatgurke",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Liang-Pi-Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Seitan",
+      "variety": "in Scheiben"
+    }
+  ],
+  "spices": [
+    {
       "amount": 4,
       "unit": "EL",
       "name": "Chiliöl",
@@ -41,58 +85,10 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Zucker",
-      "variety": null
-    },
-    {
-      "amount": 100,
-      "unit": "g",
-      "name": "Sojasprossen",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sesam",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Zehe",
-      "name": "Knoblauch",
-      "variety": null
-    },
-    {
-      "amount": 0.25,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 20,
       "unit": "g",
       "name": "Koriander",
       "variety": null
-    },
-    {
-      "amount": 80,
-      "unit": "g",
-      "name": "Salatgurke",
-      "variety": null
-    },
-    {
-      "amount": 400,
-      "unit": "g",
-      "name": "Liang-Pi-Nudeln",
-      "variety": null
-    },
-    {
-      "amount": 100,
-      "unit": "g",
-      "name": "Seitan",
-      "variety": "in Scheiben"
     }
   ],
   "steps": [

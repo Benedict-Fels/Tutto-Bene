@@ -36,6 +36,74 @@
     },
     {
       "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Pflanzenöl",
+      "variety": "zum Frittieren"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Tamarinde",
+      "variety": null
+    },
+    {
+      "amount": 75,
+      "unit": "g",
+      "name": "Jaggery",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Ingwer",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 6,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Erdnüsse",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Kokosraspeln",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Kichererbsenmehl",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 8,
+      "unit": "Stück",
+      "name": "Brötchen",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
       "unit": "Handvoll",
       "name": "Curryblätter",
       "variety": null
@@ -66,44 +134,8 @@
     },
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Zitrone",
-      "variety": "Saft"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "l",
-      "name": "Pflanzenöl",
-      "variety": "zum Frittieren"
-    },
-    {
-      "amount": 100,
-      "unit": "g",
-      "name": "Tamarinde",
-      "variety": null
-    },
-    {
-      "amount": 75,
-      "unit": "g",
-      "name": "Jaggery",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "TL",
       "name": "Kreuzkümmel",
-      "variety": "gemahlen"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Ingwer",
       "variety": "gemahlen"
     },
     {
@@ -113,46 +145,10 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 6,
-      "unit": "Zehe",
-      "name": "Knoblauch",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Erdnüsse",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Kokosraspeln",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "TL",
       "name": "Chilipulver",
       "variety": "Kashmiri, gehäuft"
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 100,
-      "unit": "g",
-      "name": "Kichererbsenmehl",
-      "variety": null
     },
     {
       "amount": 0.25,
@@ -164,24 +160,6 @@
       "amount": 0.25,
       "unit": "TL",
       "name": "Asafoetida",
-      "variety": null
-    },
-    {
-      "amount": 100,
-      "unit": "ml",
-      "name": "Wasser",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 8,
-      "unit": "Stück",
-      "name": "Brötchen",
       "variety": null
     }
   ],

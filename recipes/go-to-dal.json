@@ -23,18 +23,6 @@
       "variety": null
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kurkuma",
-      "variety": null
-    },
-    {
       "amount": 800,
       "unit": "ml",
       "name": "Wasser",
@@ -62,6 +50,26 @@
       "amount": 2,
       "unit": "Stück",
       "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
       "variety": null
     },
     {
@@ -113,18 +121,6 @@
       "variety": null
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Vegane Butter",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "TL",
       "name": "Kreuzkümmel",
@@ -141,12 +137,6 @@
       "unit": "Handvoll",
       "name": "Koriander",
       "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Zitrone",
-      "variety": "Saft"
     }
   ],
   "steps": [

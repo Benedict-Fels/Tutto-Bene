@@ -17,18 +17,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": "oder vegane Ghee"
-    },
-    {
       "amount": 150,
       "unit": "ml",
       "name": "Wasser",
@@ -45,7 +33,9 @@
       "unit": "Zehe",
       "name": "Knoblauch",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "TL",
@@ -62,12 +52,6 @@
       "amount": 1,
       "unit": "Handvoll",
       "name": "Koriander",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
       "variety": null
     }
   ],

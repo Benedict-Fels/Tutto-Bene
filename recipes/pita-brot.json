@@ -23,12 +23,6 @@
       "variety": null
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "plus etwas zum Einfetten"
-    },
-    {
       "amount": 210,
       "unit": "ml",
       "name": "Wasser",
@@ -38,12 +32,6 @@
       "amount": 400,
       "unit": "g",
       "name": "Mehl",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
       "variety": null
     }
   ],

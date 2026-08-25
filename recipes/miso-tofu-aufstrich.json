@@ -17,18 +17,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Miso",
-      "variety": "weiß"
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Pflanzlicher Joghurt",
@@ -51,24 +39,14 @@
       "unit": "Stück",
       "name": "Zucchini",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
+      "unit": "TL",
+      "name": "Miso",
+      "variety": "weiß"
     }
   ],
   "steps": [

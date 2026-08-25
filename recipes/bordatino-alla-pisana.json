@@ -17,28 +17,10 @@
       "variety": "getrocknet"
     },
     {
-      "amount": 2.25,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 4,
       "unit": "Zehe",
       "name": "Knoblauch",
       "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "Bund",
-      "name": "Salbei",
-      "variety": null
-    },
-    {
-      "amount": 4,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "plus etwas zum Servieren"
     },
     {
       "amount": 1,
@@ -65,18 +47,6 @@
       "variety": "Cavolo Nero"
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Chiliflocken",
-      "variety": null
-    },
-    {
-      "amount": 0.25,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Tomatenmark",
@@ -86,6 +56,20 @@
       "amount": 150,
       "unit": "g",
       "name": "Polenta",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2,
+      "unit": "Bund",
+      "name": "Salbei",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chiliflocken",
       "variety": null
     }
   ],

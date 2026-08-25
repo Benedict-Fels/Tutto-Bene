@@ -29,22 +29,10 @@
       "variety": "getrocknet"
     },
     {
-      "amount": 3,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 1.5,
       "unit": "kg",
       "name": "Weißkohl",
       "variety": "eingelegte Blätter"
-    },
-    {
-      "amount": 5,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
     },
     {
       "amount": 2,
@@ -65,18 +53,6 @@
       "variety": null
     },
     {
-      "amount": 30,
-      "unit": "g",
-      "name": "Petersilie",
-      "variety": null
-    },
-    {
-      "amount": 30,
-      "unit": "g",
-      "name": "Dill",
-      "variety": null
-    },
-    {
       "amount": 100,
       "unit": "g",
       "name": "Bulgur",
@@ -89,9 +65,23 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
+      "amount": 8,
+      "unit": "Stück",
+      "name": "Backpflaume",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Dill",
       "variety": null
     },
     {
@@ -111,12 +101,6 @@
       "unit": "TL",
       "name": "Bohnenkraut",
       "variety": "getrocknet"
-    },
-    {
-      "amount": 8,
-      "unit": "Stück",
-      "name": "Backpflaume",
-      "variety": null
     }
   ],
   "steps": [

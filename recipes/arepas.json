@@ -10,10 +10,18 @@
   "cookTime": 15,
   "restTime": 5,
   "ingredients": [
-    { "amount": 700, "unit": "ml", "name": "Wasser", "variety": "warm" },
-    { "amount": 0.75, "unit": "EL", "name": "Salz", "variety": null },
-    { "amount": 400, "unit": "g", "name": "Maismehl", "variety": "vorgekocht (Masarepa)" },
-    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": "zum Braten" }
+    {
+      "amount": 700,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "warm"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Maismehl",
+      "variety": "vorgekocht (Masarepa)"
+    }
   ],
   "steps": [
     "Warmes Wasser und Salz in großer Schüssel verrühren. Maismehl nach und nach unter ständigem Rühren mit den Händen einarbeiten, damit keine Klumpen entstehen. 5 Minuten ruhen lassen zum Quellen.",
@@ -23,6 +31,9 @@
     "Auf ein Blech legen, 5 Minuten dämpfen (oder im Ofen bei 100°C warmhalten).",
     "Einschnitt in jede Arepa machen, mit Guasacaca bestreichen und mit Caraotas Negras füllen (beide separate Rezepte)."
   ],
-  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/arepas-venezuelan-cornmeal-flatbreads/" },
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/arepas-venezuelan-cornmeal-flatbreads/"
+  },
   "note": null
 }

@@ -11,12 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 500,
       "unit": "g",
       "name": "Reis",
@@ -50,12 +44,6 @@
       "amount": 1,
       "unit": "Stück",
       "name": "Zucchini",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
       "variety": null
     },
     {

@@ -59,46 +59,24 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Prise",
-      "name": "Chiliflocken",
-      "variety": null
-    },
-    {
       "amount": 300,
       "unit": "g",
       "name": "Grieß",
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": "für den Teig"
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "für den Teig"
-    },
-    {
       "amount": 150,
       "unit": "ml",
       "name": "Wasser",
       "variety": "lauwarm, für den Teig"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Chiliflocken",
+      "variety": null
     }
   ],
   "steps": [

@@ -47,12 +47,6 @@
       "variety": "für den Teig"
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 20,
       "unit": "g",
       "name": "Trockenhefe",

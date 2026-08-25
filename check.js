@@ -78,6 +78,7 @@ function main() {
   const units = new Set(lists.units || []);
   const tags = new Set(lists.tags || []);
   const ingredientNames = new Set(lists.ingredients || []);
+  const spiceNames = new Set(lists.spices || []);
 
   if (!Array.isArray(db.recipes)) {
     error('recipes.json', 'Feld "recipes" fehlt oder ist keine Liste.');
@@ -212,6 +213,51 @@ function main() {
       error(where, 'ingredients muss eine Liste sein.');
     }
 
+    // --- Gewürze (spices) -----------------------------------------------------
+    if (recipe.spices !== undefined && recipe.spices !== null) {
+      if (Array.isArray(recipe.spices)) {
+        for (const ing of recipe.spices) {
+          const label = ing && ing.name ? `Gewürz "${ing.name}"` : 'Ein Gewürz';
+
+          if (!ing || typeof ing !== 'object') {
+            error(where, 'Ein Eintrag in spices ist kein Objekt.');
+            continue;
+          }
+
+          if (!ing.name) {
+            error(where, 'Ein Eintrag in spices hat kein Feld "name".');
+          } else if (!spiceNames.has(ing.name)) {
+            error(where, `${label} steht nicht in der Gewürzliste (data/lists.json, Schlüssel "spices").`);
+          }
+
+          if (ing.unit !== null && ing.unit !== undefined && !units.has(ing.unit)) {
+            error(where, `Einheit "${ing.unit}" bei ${label} steht nicht in der Einheitenliste.`);
+          }
+
+          const hasAmount = ing.amount !== null && ing.amount !== undefined;
+          const hasUnit = ing.unit !== null && ing.unit !== undefined;
+          if (hasAmount && typeof ing.amount !== 'number') {
+            error(where, `amount bei ${label} muss eine Zahl sein.`);
+          }
+          if (hasAmount && !hasUnit) {
+            error(where, `${label} hat eine Menge, aber keine Einheit.`);
+          }
+          if (!hasAmount && hasUnit) {
+            error(where, `${label} hat eine Einheit, aber keine Menge — "nach Geschmack" braucht beides auf null.`);
+          }
+
+          if (ing.variety && spiceNames.has(ing.variety)) {
+            error(
+              where,
+              `variety "${ing.variety}" bei ${label} steht zugleich als eigener Eintrag in der Gewürzliste. Entweder filterbar oder Vorliebe — nicht beides.`
+            );
+          }
+        }
+      } else {
+        error(where, 'spices muss eine Liste sein.');
+      }
+    }
+
     // --- Schritte ------------------------------------------------------------
     if (Array.isArray(recipe.steps)) {
       if (recipe.steps.length === 0) {
@@ -296,6 +342,18 @@ function main() {
       error(
         'recipes.json',
         `"${recipe.id}": Zutatenliste weicht ab — recipes.json hat ${JSON.stringify(entry.ingredients)}, recipes/${file} hat ${JSON.stringify(namesFromRecipe)}.`
+      );
+    }
+
+    // Gewürznamen (spices) müssen ebenso in gleicher Reihenfolge übereinstimmen
+    const spiceNamesFromRecipe = Array.isArray(recipe.spices)
+      ? recipe.spices.map((i) => i && i.name)
+      : [];
+    const spiceNamesFromDb = Array.isArray(entry.spices) ? entry.spices : [];
+    if (JSON.stringify(spiceNamesFromDb) !== JSON.stringify(spiceNamesFromRecipe)) {
+      error(
+        'recipes.json',
+        `"${recipe.id}": Gewürzliste (spices) weicht ab — recipes.json hat ${JSON.stringify(spiceNamesFromDb)}, recipes/${file} hat ${JSON.stringify(spiceNamesFromRecipe)}.`
       );
     }
 

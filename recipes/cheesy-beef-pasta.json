@@ -41,18 +41,6 @@
       "variety": null
     },
     {
-      "amount": 0.75,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 890,
       "unit": "ml",
       "name": "Wasser",
@@ -69,7 +57,9 @@
       "unit": "g",
       "name": "Nudeln",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 2,
       "unit": "EL",

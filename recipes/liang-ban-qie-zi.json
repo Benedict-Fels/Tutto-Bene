@@ -17,12 +17,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "Zehe",
       "name": "Knoblauch",
@@ -47,11 +41,13 @@
       "variety": "rot, lang"
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Pflanzenöl",
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zucker",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 2,
       "unit": "EL",
@@ -68,12 +64,6 @@
       "amount": 1,
       "unit": "TL",
       "name": "Sesamöl",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Zucker",
       "variety": null
     },
     {

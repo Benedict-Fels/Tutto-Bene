@@ -41,27 +41,9 @@
       "variety": null
     },
     {
-      "amount": 50,
-      "unit": "g",
-      "name": "Koriander",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Limette",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Essig",
-      "variety": "weiß"
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Pflanzenöl",
       "variety": null
     },
     {
@@ -69,12 +51,20 @@
       "unit": "ml",
       "name": "Wasser",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
+      "amount": 1,
+      "unit": "EL",
+      "name": "Essig",
+      "variety": "weiß"
     }
   ],
   "steps": [

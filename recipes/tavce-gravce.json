@@ -18,12 +18,6 @@
     },
     {
       "amount": 2,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 2,
       "unit": "Stück",
       "name": "Zwiebel",
       "variety": null
@@ -47,28 +41,10 @@
       "variety": "getrocknet, lang"
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Paprikapulver",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "EL",
       "name": "Tomatenmark",
       "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Minze",
-      "variety": "getrocknet"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": "schwarz, frisch gemahlen"
     },
     {
       "amount": 2,
@@ -77,16 +53,24 @@
       "variety": "rot, lang"
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "plus etwas zum Beträufeln"
-    },
-    {
       "amount": 1,
       "unit": "TL",
       "name": "Mehl",
       "variety": "gehäuft"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Minze",
+      "variety": "getrocknet"
     }
   ],
   "steps": [

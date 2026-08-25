@@ -23,12 +23,6 @@
       "variety": null
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 900,
       "unit": "g",
       "name": "Aubergine",
@@ -59,11 +53,31 @@
       "variety": "groß"
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Pflanzenöl",
+      "amount": 30,
+      "unit": "g",
+      "name": "Ingwer",
       "variety": null
     },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "groß"
+    },
+    {
+      "amount": 50,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 600,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "TL",
@@ -83,24 +97,6 @@
       "variety": null
     },
     {
-      "amount": 30,
-      "unit": "g",
-      "name": "Ingwer",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "Zehe",
-      "name": "Knoblauch",
-      "variety": "groß"
-    },
-    {
-      "amount": 50,
-      "unit": "ml",
-      "name": "Wasser",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "EL",
       "name": "Chilipulver",
@@ -116,18 +112,6 @@
       "amount": 0.5,
       "unit": "TL",
       "name": "Kurkuma",
-      "variety": null
-    },
-    {
-      "amount": 600,
-      "unit": "ml",
-      "name": "Wasser",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Salz",
       "variety": null
     }
   ],

@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title>Rezept — Tutto Bene.</title>
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -33,7 +34,11 @@
   </main>
 
   <script src="theme.js"></script>
+  <script src="ratings.js"></script>
   <script>
+    // gleiches Pfannen-Icon wie auf der Übersichtskarte, hier als Favoriten-Umschalter
+    const UTENSILS_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 5.5 2 10a7 7 0 0 1-2 4.6"></path><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"></path></svg>';
+
     const WHOLE_NUMBER_UNITS = ['g', 'ml'];
     // alle übrigen Einheiten (kg, l, Stück, TL, EL, Prise, Bund, Zehe, Dose, Packung, Handvoll)
     // werden auf 2 Nachkommastellen gerundet.
@@ -136,6 +141,207 @@
       const factor = servings / recipe.servings;
       const list = recipe.ingredients.map(i => ingredientRow(i, factor)).join('');
       document.getElementById('ingredients-list').innerHTML = list;
+
+      const spices = Array.isArray(recipe.spices) ? recipe.spices : [];
+      const spicesSection = document.getElementById('spices-section');
+      if (spices.length > 0) {
+        const spicesList = spices.map(i => ingredientRow(i, factor)).join('');
+        document.getElementById('spices-list').innerHTML = spicesList;
+        spicesSection.hidden = false;
+      } else {
+        spicesSection.hidden = true;
+      }
+    }
+
+    function starsDisplay(average) {
+      const percent = Math.max(0, Math.min(100, (average / 5) * 100));
+      return `
+        <span class="stars-empty" aria-hidden="true">☆☆☆☆☆</span>
+        <span class="stars-filled" aria-hidden="true" style="width: ${percent}%">★★★★★</span>
+      `;
+    }
+
+    function formatDecimal(number) {
+      const rounded = Math.round(number * 10) / 10;
+      return rounded.toString().replace('.', ',');
+    }
+
+    function relativeStars(clientX, starsEl) {
+      // errechnet aus einer Klickposition innerhalb der Sterne-Reihe einen
+      // Wert von 0,5 bis 5,0 in 0,5-Schritten (halbe Sterne, siehe Spec E9)
+      const rect = starsEl.getBoundingClientRect();
+      const ratio = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+      const raw = ratio * 5;
+      return Math.max(0.5, Math.round(raw * 2) / 2);
+    }
+
+    function ownRatingRow(ratings) {
+      const identity = Ratings.getIdentity();
+      if (!identity) return null;
+      return ratings.find(r => r.user_email === identity.email) || null;
+    }
+
+    function renderRatingBadge(count, average) {
+      const badge = document.getElementById('rating-badge');
+      if (!count) {
+        badge.hidden = true;
+        badge.innerHTML = '';
+        return;
+      }
+      badge.hidden = false;
+      badge.innerHTML = `
+        <span class="stars small">${starsDisplay(average)}</span>
+        <span class="rating-badge-value">${formatDecimal(average)}</span>
+      `;
+    }
+
+    async function renderRatingSection(recipe) {
+      const container = document.getElementById('rating-section');
+      let ratings = [];
+      try {
+        ratings = await Ratings.ratingsForRecipe(recipe.id);
+      } catch (err) {
+        ratings = [];
+      }
+
+      const count = ratings.length;
+      const average = count ? ratings.reduce((sum, r) => sum + Number(r.stars), 0) / count : 0;
+      const own = ownRatingRow(ratings);
+
+      renderRatingBadge(count, average);
+
+      const summaryHtml = count
+        ? `<span class="stars">${starsDisplay(average)}</span> ${formatDecimal(average)} (${count} Bewertung${count === 1 ? '' : 'en'})`
+        : `<span class="rating-empty">Noch keine Bewertungen.</span>`;
+
+      const listHtml = ratings.map(r => {
+        const isOwn = own && r.user_email === own.user_email;
+        const commentHtml = r.comment ? `<p class="rating-comment">${escapeHtml(r.comment)}</p>` : '';
+        return `
+          <li class="rating-entry ${isOwn ? 'own' : ''}">
+            <p class="rating-entry-head">
+              <strong>${escapeHtml(r.display_name)}</strong>
+              <span class="stars small">${starsDisplay(Number(r.stars))}</span>
+              <span class="rating-value">${formatDecimal(Number(r.stars))}</span>
+            </p>
+            ${commentHtml}
+          </li>
+        `;
+      }).join('');
+
+      container.innerHTML = `
+        <p class="rating-summary">${summaryHtml}
+          ${count ? '<button type="button" class="rating-toggle" id="rating-toggle">Bewertungen anzeigen ▾</button>' : ''}
+        </p>
+        <ul class="rating-list" id="rating-list" hidden>${listHtml}</ul>
+
+        <div class="own-rating">
+          <p class="own-rating-label">Deine Bewertung:</p>
+          <div class="stars-input" id="stars-input" role="slider" aria-label="Bewertung in Sternen" tabindex="0">
+            <span class="stars-empty" aria-hidden="true">☆☆☆☆☆</span>
+            <span class="stars-filled" aria-hidden="true" id="own-stars-filled" style="width: ${own ? (Number(own.stars) / 5) * 100 : 0}%">★★★★★</span>
+          </div>
+          <textarea id="rating-comment" placeholder="Kurzer Kommentar (optional)" maxlength="500">${own && own.comment ? escapeHtml(own.comment) : ''}</textarea>
+          <button type="button" class="rating-submit" id="rating-submit">${own ? 'Bewertung ändern' : 'Bewerten'}</button>
+        </div>
+      `;
+
+      if (count) {
+        document.getElementById('rating-toggle').addEventListener('click', () => {
+          const list = document.getElementById('rating-list');
+          const toggle = document.getElementById('rating-toggle');
+          const open = list.hidden;
+          list.hidden = !open;
+          toggle.textContent = open ? 'Bewertungen ausblenden ▴' : 'Bewertungen anzeigen ▾';
+        });
+      }
+
+      let pendingStars = own ? Number(own.stars) : 0;
+      const starsInput = document.getElementById('stars-input');
+      const filledSpan = document.getElementById('own-stars-filled');
+
+      function updateFilled(stars) {
+        filledSpan.style.width = `${(stars / 5) * 100}%`;
+      }
+
+      starsInput.addEventListener('click', (event) => {
+        pendingStars = relativeStars(event.clientX, starsInput);
+        updateFilled(pendingStars);
+      });
+      starsInput.addEventListener('keydown', (event) => {
+        if (event.key === 'ArrowRight') { pendingStars = Math.min(5, (pendingStars || 0) + 0.5); updateFilled(pendingStars); }
+        if (event.key === 'ArrowLeft') { pendingStars = Math.max(0.5, (pendingStars || 0) - 0.5); updateFilled(pendingStars); }
+      });
+
+      document.getElementById('rating-submit').addEventListener('click', async () => {
+        if (!pendingStars) {
+          alert('Bitte eine Sternebewertung antippen.');
+          return;
+        }
+        const identity = await Ratings.ensureIdentityDialog();
+        if (!identity) return;
+        const comment = document.getElementById('rating-comment').value.trim();
+        try {
+          await Ratings.submitRating(recipe.id, pendingStars, comment);
+          renderRatingSection(recipe);
+        } catch (err) {
+          alert('Bewertung konnte nicht gespeichert werden. Bitte später erneut versuchen.');
+        }
+      });
+    }
+
+    function overviewUrlWithFilters() {
+      let query = '';
+      try {
+        query = sessionStorage.getItem('tuttobene-overview-query') || '';
+      } catch (err) {
+        query = '';
+      }
+      return query ? `index.html?${query}` : 'index.html';
+    }
+
+    function wireBackLinks() {
+      const url = overviewUrlWithFilters();
+      document.querySelectorAll('a.back').forEach((link) => {
+        link.setAttribute('href', url);
+      });
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    async function setupFavoriteToggle(recipe) {
+      const button = document.getElementById('favorite-toggle');
+      let ownFavorites = new Set();
+      try {
+        ownFavorites = await Ratings.ownFavorites();
+      } catch (err) {
+        ownFavorites = new Set();
+      }
+      let active = ownFavorites.has(recipe.id);
+
+      function render() {
+        button.classList.toggle('active', active);
+        button.setAttribute('aria-pressed', active);
+        button.setAttribute('aria-label', active ? 'Favorit entfernen' : 'Als Favorit markieren');
+      }
+      render();
+
+      button.addEventListener('click', async () => {
+        const identity = await Ratings.ensureIdentityDialog();
+        if (!identity) return;
+        const nowActive = !active;
+        try {
+          await Ratings.setFavorite(recipe.id, nowActive);
+          active = nowActive;
+          render();
+        } catch (err) {
+          alert('Favorit konnte nicht gespeichert werden. Bitte später erneut versuchen.');
+        }
+      });
     }
 
     async function loadRecipe() {
@@ -143,6 +349,7 @@
       const container = document.getElementById('detail');
       if (!id) {
         container.innerHTML = '<a class="back" href="index.html">&larr; Zurück zur Übersicht</a><p>Kein Rezept angegeben.</p>';
+        wireBackLinks();
         return;
       }
 
@@ -153,6 +360,7 @@
         recipe = await response.json();
       } catch (err) {
         container.innerHTML = '<a class="back" href="index.html">&larr; Zurück zur Übersicht</a><p>Dieses Rezept gibt es nicht (mehr).</p>';
+        wireBackLinks();
         return;
       }
 
@@ -164,7 +372,11 @@
 
       container.innerHTML = `
         <a class="back" href="index.html">&larr; Zurück zur Übersicht</a>
-        ${image}
+        <div class="detail-image-wrap">
+          ${image}
+          <button type="button" class="badge-icon favorite-toggle detail-favorite" id="favorite-toggle" aria-label="Als Favorit markieren" aria-pressed="false">${UTENSILS_ICON}</button>
+          <div class="rating-badge" id="rating-badge" hidden></div>
+        </div>
         <h1>${recipe.title}</h1>
         <div class="badges">
           <span class="badge">${recipe.category}</span>
@@ -185,6 +397,10 @@
           <div class="ingredients">
             <h3>Zutaten</h3>
             <ul id="ingredients-list"></ul>
+            <div class="spices" id="spices-section" hidden>
+              <h4>Gewürze</h4>
+              <ul id="spices-list"></ul>
+            </div>
           </div>
           <div class="steps">
             <h3>Zubereitung</h3>
@@ -196,6 +412,8 @@
             `).join('')}</div>
           </div>
         </div>
+
+        <div class="rating-section" id="rating-section"></div>
 
         ${sourceBlock(recipe)}
       `;
@@ -217,6 +435,9 @@
       });
 
       setupCookMode();
+      renderRatingSection(recipe);
+      setupFavoriteToggle(recipe);
+      wireBackLinks();
     }
 
     function setupCookMode() {
@@ -251,6 +472,7 @@
       });
     }
 
+    wireBackLinks();
     loadRecipe();
   </script>
 </body>

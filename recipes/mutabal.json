@@ -17,12 +17,6 @@
       "variety": null
     },
     {
-      "amount": 70,
-      "unit": "g",
-      "name": "Tahini",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Zitrone",
@@ -33,11 +27,13 @@
       "unit": "Zehe",
       "name": "Knoblauch",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
+      "amount": 70,
+      "unit": "g",
+      "name": "Tahini",
       "variety": null
     },
     {
@@ -45,12 +41,6 @@
       "unit": "EL",
       "name": "Petersilie",
       "variety": "gehackt"
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "zum Garnieren"
     },
     {
       "amount": 1,

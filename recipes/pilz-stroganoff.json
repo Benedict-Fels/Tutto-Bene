@@ -12,12 +12,6 @@
   "ingredients": [
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
       "variety": null
@@ -47,12 +41,6 @@
       "variety": null
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 80,
       "unit": "g",
       "name": "Cashewbutter",
@@ -63,13 +51,9 @@
       "unit": "EL",
       "name": "Zitrone",
       "variety": "Saft"
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 2,
       "unit": "EL",

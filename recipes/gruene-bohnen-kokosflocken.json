@@ -19,43 +19,7 @@
     {
       "amount": 1,
       "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": "geräuchert"
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
       "name": "Ahornsirup",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Flüssigrauch",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Prise",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
       "variety": null
     },
     {
@@ -63,18 +27,6 @@
       "unit": "Stück",
       "name": "Zwiebel",
       "variety": "rot"
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
     },
     {
       "amount": 4,
@@ -111,6 +63,26 @@
       "unit": "EL",
       "name": "Zitrone",
       "variety": "Saft"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Flüssigrauch",
+      "variety": null
     },
     {
       "amount": 1,

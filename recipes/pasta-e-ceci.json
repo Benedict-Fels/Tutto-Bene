@@ -18,12 +18,6 @@
     },
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
       "variety": "groß"
@@ -33,18 +27,6 @@
       "unit": "Stück",
       "name": "Sellerie",
       "variety": null
-    },
-    {
-      "amount": 4,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "extra vergine"
-    },
-    {
-      "amount": 1,
-      "unit": "Stück",
-      "name": "Rosmarin",
-      "variety": "großer Zweig"
     },
     {
       "amount": 1,
@@ -69,18 +51,14 @@
       "unit": "g",
       "name": "Nudeln",
       "variety": "kurze Pasta, z.B. Ditalini"
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
+      "unit": "Stück",
+      "name": "Rosmarin",
+      "variety": "großer Zweig"
     }
   ],
   "steps": [

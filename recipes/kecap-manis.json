@@ -11,22 +11,24 @@
   "restTime": 30,
   "ingredients": [
     {
-      "amount": 250,
-      "unit": "g",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
       "amount": 200,
       "unit": "g",
       "name": "Palmzucker",
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": "ganze Körner, optional"
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "optional"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Sojasauce",
+      "variety": null
     },
     {
       "amount": 1,
@@ -44,12 +46,6 @@
       "amount": 2,
       "unit": "Stück",
       "name": "Nelken",
-      "variety": "optional"
-    },
-    {
-      "amount": 3,
-      "unit": "Zehe",
-      "name": "Knoblauch",
       "variety": "optional"
     }
   ],

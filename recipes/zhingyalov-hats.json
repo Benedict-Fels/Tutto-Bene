@@ -17,12 +17,6 @@
       "variety": null
     },
     {
-      "amount": 1.25,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 210,
       "unit": "ml",
       "name": "Wasser",
@@ -46,6 +40,14 @@
       "name": "Rucola",
       "variety": null
     },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    }
+  ],
+  "spices": [
     {
       "amount": 100,
       "unit": "g",
@@ -71,12 +73,6 @@
       "variety": null
     },
     {
-      "amount": 1.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": "für die Füllung"
-    },
-    {
       "amount": 1,
       "unit": "EL",
       "name": "Paprikapulver",
@@ -87,24 +83,6 @@
       "unit": "TL",
       "name": "Chiliflocken",
       "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Zitrone",
-      "variety": "Saft"
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "plus etwas zum Bestreichen"
     }
   ],
   "steps": [

@@ -11,12 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 4,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
@@ -39,7 +33,9 @@
       "unit": "g",
       "name": "Ingwer",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "TL",
@@ -56,12 +52,6 @@
       "amount": 0.125,
       "unit": "TL",
       "name": "Chilipulver",
-      "variety": null
-    },
-    {
-      "amount": 0.75,
-      "unit": "EL",
-      "name": "Salz",
       "variety": null
     },
     {

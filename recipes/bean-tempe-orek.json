@@ -23,12 +23,6 @@
       "variety": null
     },
     {
-      "amount": 5,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 4,
       "unit": "Stück",
       "name": "Schalotte",
@@ -53,6 +47,14 @@
       "variety": null
     },
     {
+      "amount": 0.5,
+      "unit": "EL",
+      "name": "Palmzucker",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
       "amount": 1,
       "unit": "Stück",
       "name": "Zitronengras",
@@ -65,27 +67,9 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 4,
       "unit": "EL",
       "name": "Kecap Manis",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "EL",
-      "name": "Palmzucker",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
       "variety": null
     }
   ],

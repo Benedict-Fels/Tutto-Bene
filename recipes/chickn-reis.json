@@ -11,30 +11,6 @@
   "restTime": 5,
   "ingredients": [
     {
-      "amount": 3,
-      "unit": "Stück",
-      "name": "Kardamom",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Koriandersamen",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kümmel",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kreuzkümmel",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "TL",
       "name": "Agavensirup",
@@ -45,18 +21,6 @@
       "unit": "Stück",
       "name": "Orange",
       "variety": "Saft und Schale"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": "geräuchert"
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
     },
     {
       "amount": 180,
@@ -83,12 +47,6 @@
       "variety": "Kirschtomaten"
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Koriander",
-      "variety": null
-    },
-    {
       "amount": 270,
       "unit": "g",
       "name": "Reis",
@@ -113,21 +71,47 @@
       "variety": "Saft"
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Kokosjoghurt",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Kardamom",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Koriandersamen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Koriander",
       "variety": null
     },
     {

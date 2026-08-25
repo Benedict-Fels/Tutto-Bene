@@ -31,14 +31,22 @@
     {
       "amount": 0.5,
       "unit": "TL",
-      "name": "Kreuzkümmel",
-      "variety": null
+      "name": "Ingwer",
+      "variety": "gemahlen"
     },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "spices": [
     {
       "amount": 0.5,
       "unit": "TL",
-      "name": "Ingwer",
-      "variety": "gemahlen"
+      "name": "Kreuzkümmel",
+      "variety": null
     },
     {
       "amount": 0.25,
@@ -53,21 +61,9 @@
       "variety": "Kashmiri"
     },
     {
-      "amount": 0.25,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 0.5,
       "unit": "TL",
       "name": "Kala Namak",
-      "variety": null
-    },
-    {
-      "amount": 400,
-      "unit": "ml",
-      "name": "Wasser",
       "variety": null
     }
   ],

@@ -35,6 +35,32 @@
       "variety": null
     },
     {
+      "amount": 225,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": null
+    },
+    {
+      "amount": 770,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Veganer Frischkäse",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Speisestärke",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
       "amount": 2,
       "unit": "TL",
       "name": "Petersilie",
@@ -53,39 +79,9 @@
       "variety": null
     },
     {
-      "amount": 225,
-      "unit": "g",
-      "name": "Nudeln",
-      "variety": null
-    },
-    {
-      "amount": 770,
-      "unit": "ml",
-      "name": "Wasser",
-      "variety": null
-    },
-    {
       "amount": 60,
       "unit": "ml",
       "name": "Buffalo-Sauce",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Veganer Frischkäse",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "TL",
-      "name": "Speisestärke",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
       "variety": null
     }
   ],

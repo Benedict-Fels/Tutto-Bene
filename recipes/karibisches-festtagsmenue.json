@@ -23,12 +23,6 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "Stück",
-      "name": "Thymian",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "Stück",
       "name": "Frühlingszwiebel",
@@ -47,12 +41,6 @@
       "variety": null
     },
     {
-      "amount": 1.5,
-      "unit": "EL",
-      "name": "Jerk-Gewürz",
-      "variety": null
-    },
-    {
       "amount": 400,
       "unit": "g",
       "name": "Tomate",
@@ -68,18 +56,6 @@
       "amount": 350,
       "unit": "g",
       "name": "Grüne Linsen",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
       "variety": null
     },
     {
@@ -107,30 +83,6 @@
       "variety": null
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Miso",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Senf",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Knoblauchgranulat",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Zwiebelgranulat",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "EL",
       "name": "Zitrone",
@@ -143,33 +95,9 @@
       "variety": "Raps"
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Kurkuma",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": null
-    },
-    {
       "amount": 40,
       "unit": "g",
       "name": "Hefeflocken",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
       "variety": null
     },
     {
@@ -194,18 +122,6 @@
       "amount": 4,
       "unit": "Zehe",
       "name": "Knoblauch",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "Stück",
-      "name": "Thymian",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sojasauce",
       "variety": null
     },
     {
@@ -239,33 +155,9 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Kurkuma",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kreuzkümmel",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "TL",
       "name": "Currypulver",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Piment",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Paprikapulver",
       "variety": null
     },
     {
@@ -284,6 +176,92 @@
       "amount": 200,
       "unit": "ml",
       "name": "Kokosmilch",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Jerk-Gewürz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Senf",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Knoblauchgranulat",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Zwiebelgranulat",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Piment",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Paprikapulver",
       "variety": null
     },
     {

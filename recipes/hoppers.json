@@ -10,13 +10,36 @@
   "cookTime": 20,
   "restTime": 990,
   "ingredients": [
-    { "amount": 300, "unit": "g", "name": "Reismehl", "variety": null },
-    { "amount": 1, "unit": "Prise", "name": "Trockenhefe", "variety": null },
-    { "amount": 300, "unit": "ml", "name": "Kokoswasser", "variety": null },
-    { "amount": 200, "unit": "g", "name": "Kokosmilch", "variety": null },
-    { "amount": 50, "unit": "ml", "name": "Wasser", "variety": null },
-    { "amount": 7, "unit": "g", "name": "Salz", "variety": null },
-    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": "zum Einfetten" }
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Reismehl",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Trockenhefe",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "ml",
+      "name": "Kokoswasser",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    }
   ],
   "steps": [
     "Reismehl und Hefe in großer Schüssel mischen. Kokoswasser dazu, 5 Minuten von Hand verrühren bis glatt und dickflüssig.",
@@ -27,6 +50,9 @@
     "Vorsichtig mit Spatel lösen und rausnehmen. Mit restlichem Teig wiederholen, Pfanne jedes Mal neu einfetten.",
     "Warm mit Seeni Sambol servieren."
   ],
-  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/hoppers-sri-lankan-fermented-rice-and-coconut-pancakes/" },
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/hoppers-sri-lankan-fermented-rice-and-coconut-pancakes/"
+  },
   "note": null
 }

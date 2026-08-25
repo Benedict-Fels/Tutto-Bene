@@ -17,12 +17,6 @@
       "variety": "rundkörnig"
     },
     {
-      "amount": 50,
-      "unit": "g",
-      "name": "Petersilie",
-      "variety": null
-    },
-    {
       "amount": 5,
       "unit": "Zehe",
       "name": "Knoblauch",
@@ -45,36 +39,6 @@
       "unit": "g",
       "name": "Paprikapaste",
       "variety": null
-    },
-    {
-      "amount": 45,
-      "unit": "ml",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": 20,
-      "unit": "g",
-      "name": "Baharat",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sumach",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Chiliflocken",
-      "variety": "Pul Biber"
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Minze",
-      "variety": "getrocknet"
     },
     {
       "amount": 1,
@@ -117,12 +81,38 @@
       "unit": "ml",
       "name": "Wasser",
       "variety": "kochend, für die Sauce"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
     },
     {
-      "amount": 21,
+      "amount": 20,
       "unit": "g",
-      "name": "Salz",
+      "name": "Baharat",
       "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sumach",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chiliflocken",
+      "variety": "Pul Biber"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Minze",
+      "variety": "getrocknet"
     }
   ],
   "steps": [

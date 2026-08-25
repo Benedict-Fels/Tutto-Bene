@@ -23,21 +23,9 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Oregano",
-      "variety": "italienische Kräutermischung"
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Hefeflocken",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
       "variety": null
     },
     {
@@ -99,12 +87,14 @@
       "unit": "EL",
       "name": "Zitrone",
       "variety": "Saft"
-    },
+    }
+  ],
+  "spices": [
     {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
+      "amount": 1,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": "italienische Kräutermischung"
     }
   ],
   "steps": [

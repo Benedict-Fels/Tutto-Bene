@@ -17,18 +17,6 @@
       "variety": "extrafest"
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 45,
       "unit": "g",
       "name": "Mehl",
@@ -38,12 +26,6 @@
       "amount": 4,
       "unit": "EL",
       "name": "Vegane Butter",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
       "variety": null
     },
     {
@@ -87,7 +69,9 @@
       "unit": "Stück",
       "name": "Zitrone",
       "variety": "in Scheiben"
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "EL",

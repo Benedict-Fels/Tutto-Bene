@@ -23,18 +23,6 @@
       "variety": "zum Frittieren"
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 4,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "für die Sauce"
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
@@ -55,6 +43,20 @@
     {
       "amount": 1,
       "unit": "EL",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
       "name": "Paprikapulver",
       "variety": "mild"
     },
@@ -67,26 +69,8 @@
     {
       "amount": 1,
       "unit": "EL",
-      "name": "Mehl",
-      "variety": null
-    },
-    {
-      "amount": 400,
-      "unit": "ml",
-      "name": "Gemüsebrühe",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
       "name": "Essig",
       "variety": "Sherry"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": "für die Sauce"
     }
   ],
   "steps": [

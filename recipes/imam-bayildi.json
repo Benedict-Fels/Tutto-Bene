@@ -17,12 +17,6 @@
       "variety": "klein"
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 9,
       "unit": "EL",
       "name": "Olivenöl",
@@ -57,7 +51,9 @@
       "unit": "g",
       "name": "Tomate",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "TL",

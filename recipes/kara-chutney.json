@@ -17,12 +17,6 @@
       "variety": "getrocknet, Kashmiri"
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "TL",
       "name": "Chana Dal",
@@ -59,23 +53,13 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 140,
       "unit": "ml",
       "name": "Wasser",
       "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": "zum Anrösten der Tempermischung"
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "TL",

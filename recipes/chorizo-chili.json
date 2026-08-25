@@ -35,18 +35,6 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "Bund",
-      "name": "Koriander",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "TL",
-      "name": "Kreuzkümmel",
-      "variety": "gemahlen"
-    },
-    {
       "amount": 425,
       "unit": "g",
       "name": "Schwarze Bohnen",
@@ -63,6 +51,20 @@
       "unit": "g",
       "name": "Tomate",
       "variety": "gewürfelt"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 0.5,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
     }
   ],
   "steps": [

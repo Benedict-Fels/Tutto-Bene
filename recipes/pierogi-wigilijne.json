@@ -10,21 +10,62 @@
   "cookTime": 30,
   "restTime": 30,
   "ingredients": [
-    { "amount": 60, "unit": "g", "name": "Steinpilze", "variety": "getrocknet" },
-    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "groß" },
-    { "amount": 300, "unit": "g", "name": "Sauerkraut", "variety": "abgetropft" },
-    { "amount": 1, "unit": "Stück", "name": "Lorbeerblatt", "variety": null },
-    { "amount": 0.5, "unit": "TL", "name": "Piment", "variety": "gemahlen" },
-    { "amount": 0.5, "unit": "TL", "name": "Pfeffer", "variety": null },
-    { "amount": 0.75, "unit": "TL", "name": "Salz", "variety": null },
-    { "amount": 300, "unit": "g", "name": "Mehl", "variety": "Type 00 oder Weizenmehl" },
-    { "amount": 1, "unit": "TL", "name": "Salz", "variety": null },
-    { "amount": 160, "unit": "ml", "name": "Wasser", "variety": "sehr heiß" },
-    { "amount": 4, "unit": "EL", "name": "Pflanzenöl", "variety": null },
-    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "groß" },
-    { "amount": 10, "unit": "g", "name": "Petersilie", "variety": "frisch" }
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Steinpilze",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Sauerkraut",
+      "variety": "abgetropft"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": "Type 00 oder Weizenmehl"
+    },
+    {
+      "amount": 160,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": "sehr heiß"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Piment",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": "frisch"
+    }
   ],
   "steps": [
     "Getrocknete Pilze in hitzebeständige Schüssel geben, mit kochendem Wasser übergießen, einweichen lassen.",
@@ -41,6 +82,9 @@
     "Petersilie hacken. Pierogi portionsweise in heißem Öl beidseitig goldbraun braten.",
     "Mit den karamellisierten Zwiebeln und Petersilie servieren."
   ],
-  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/pierogi-wigilijne-polish-christmas-dumplings-with-sauerkraut-mushrooms/" },
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/pierogi-wigilijne-polish-christmas-dumplings-with-sauerkraut-mushrooms/"
+  },
   "note": null
 }

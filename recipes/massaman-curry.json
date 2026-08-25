@@ -29,12 +29,6 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Currypaste",
-      "variety": "Massaman"
-    },
-    {
       "amount": 440,
       "unit": "ml",
       "name": "Kokosmilch",
@@ -44,12 +38,6 @@
       "amount": 120,
       "unit": "ml",
       "name": "Wasser",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Sojasauce",
       "variety": null
     },
     {
@@ -89,16 +77,30 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "Handvoll",
-      "name": "Koriander",
-      "variety": null
-    },
-    {
       "amount": 300,
       "unit": "g",
       "name": "Reis",
       "variety": "Jasmin, zum Servieren"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Currypaste",
+      "variety": "Massaman"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
+      "variety": null
     }
   ],
   "steps": [

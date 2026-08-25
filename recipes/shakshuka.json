@@ -11,18 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Harissa",
-      "variety": "Rose"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": "süß, geräuchert"
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Paprika",
@@ -47,33 +35,9 @@
       "variety": "gehackt, aus der Dose"
     },
     {
-      "amount": 1,
-      "unit": "Handvoll",
-      "name": "Petersilie",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Handvoll",
-      "name": "Minze",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Prise",
-      "name": "Chiliflocken",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Pflanzlicher Joghurt",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
       "variety": null
     },
     {
@@ -93,6 +57,38 @@
       "unit": "Stück",
       "name": "Brot",
       "variety": "Sauerteig mit Oliven"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Harissa",
+      "variety": "Rose"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "süß, geräuchert"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Minze",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Chiliflocken",
+      "variety": null
     }
   ],
   "steps": [

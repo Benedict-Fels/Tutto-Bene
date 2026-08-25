@@ -10,17 +10,68 @@
   "cookTime": 15,
   "restTime": 570,
   "ingredients": [
-    { "amount": 100, "unit": "g", "name": "Reismehl", "variety": null },
-    { "amount": 150, "unit": "g", "name": "Zucker", "variety": null },
-    { "amount": 1, "unit": "EL", "name": "Kümmel", "variety": "gemahlen" },
-    { "amount": 1, "unit": "EL", "name": "Zimt", "variety": "gemahlen" },
-    { "amount": 1, "unit": "TL", "name": "Anis", "variety": "gemahlen" },
-    { "amount": 0.25, "unit": "TL", "name": "Salz", "variety": null },
-    { "amount": 1.4, "unit": "l", "name": "Wasser", "variety": null },
-    { "amount": 1, "unit": "Handvoll", "name": "Walnüsse", "variety": "eingeweicht" },
-    { "amount": 30, "unit": "g", "name": "Mandeln", "variety": "blanchiert, eingeweicht" },
-    { "amount": 20, "unit": "g", "name": "Kokosraspeln", "variety": null },
-    { "amount": 30, "unit": "g", "name": "Pistazien", "variety": "geschält, zerkleinert" }
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Reismehl",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 1.4,
+      "unit": "l",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Walnüsse",
+      "variety": "eingeweicht"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Mandeln",
+      "variety": "blanchiert, eingeweicht"
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Kokosraspeln",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Pistazien",
+      "variety": "geschält, zerkleinert"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Kümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Zimt",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Anis",
+      "variety": "gemahlen"
+    }
   ],
   "steps": [
     "Mandeln und Walnüsse getrennt über Nacht in reichlich Wasser einweichen (oder so lange wie möglich in warmem Wasser).",
@@ -29,6 +80,9 @@
     "In kleine Schälchen oder Gläser verteilen, ca. 30 Minuten bei Zimmertemperatur abkühlen lassen, dann mindestens 1 Stunde kalt stellen.",
     "Vor dem Servieren mit den eingeweichten Nüssen, Kokosraspeln und Pistazien garnieren."
   ],
-  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/meghli-lebanese-christmas-rice-pudding/" },
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/meghli-lebanese-christmas-rice-pudding/"
+  },
   "note": null
 }

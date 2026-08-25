@@ -10,15 +10,50 @@
   "cookTime": 20,
   "restTime": 0,
   "ingredients": [
-    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": null },
-    { "amount": 5, "unit": "Zehe", "name": "Knoblauch", "variety": "groß" },
-    { "amount": 750, "unit": "g", "name": "Champignons", "variety": "braun, klein (Kastanienchampignons)" },
-    { "amount": 1, "unit": "EL", "name": "Epazote", "variety": "getrocknet" },
-    { "amount": 0.75, "unit": "TL", "name": "Salz", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "klein" },
-    { "amount": 16, "unit": "Stück", "name": "Tortilla", "variety": null },
-    { "amount": 2, "unit": "Stück", "name": "Limette", "variety": "in Spalten" }
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 5,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "groß"
+    },
+    {
+      "amount": 750,
+      "unit": "g",
+      "name": "Champignons",
+      "variety": "braun, klein (Kastanienchampignons)"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "klein"
+    },
+    {
+      "amount": 16,
+      "unit": "Stück",
+      "name": "Tortilla",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Limette",
+      "variety": "in Spalten"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Epazote",
+      "variety": "getrocknet"
+    }
   ],
   "steps": [
     "Zwiebel in Öl 10-12 Minuten goldbraun anschwitzen. Knoblauch fein reiben, Champignons in Scheiben schneiden.",
@@ -28,6 +63,9 @@
     "Vor dem Servieren die Pilze portionsweise in etwas Öl nochmal goldbraun erhitzen.",
     "Auf frischen Tortillas mit grüner Tomatensalsa (separates Rezept) und den eingeweichten Zwiebeln servieren, Limettenspalten dazu, optional mit Bohnen."
   ],
-  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/tacos-de-hongos-guisados-mexican-stewed-mushroom-tacos/" },
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/tacos-de-hongos-guisados-mexican-stewed-mushroom-tacos/"
+  },
   "note": null
 }

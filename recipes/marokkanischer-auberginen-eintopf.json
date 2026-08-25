@@ -11,12 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Aubergine",
@@ -32,24 +26,6 @@
       "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kreuzkümmel",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Oregano",
       "variety": null
     },
     {
@@ -89,18 +65,6 @@
       "variety": null
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Handvoll",
-      "name": "Koriander",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Pflanzliche Sahne",
@@ -110,6 +74,32 @@
       "amount": 200,
       "unit": "g",
       "name": "Reis",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
       "variety": null
     }
   ],

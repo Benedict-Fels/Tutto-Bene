@@ -21,7 +21,9 @@
       "unit": "ml",
       "name": "Pflanzendrink",
       "variety": "Barista-Hafer"
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "Prise",

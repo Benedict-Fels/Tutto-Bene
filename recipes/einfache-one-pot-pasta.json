@@ -47,24 +47,6 @@
       "variety": "Cremini"
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Oregano",
-      "variety": "italienische Kräutermischung, salzfrei"
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Chiliflocken",
-      "variety": "optional"
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 300,
       "unit": "ml",
       "name": "Passata",
@@ -81,6 +63,20 @@
       "unit": "g",
       "name": "Spinat",
       "variety": "frisch"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": "italienische Kräutermischung, salzfrei"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": "optional"
     }
   ],
   "steps": [

@@ -17,39 +17,9 @@
       "variety": null
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Balsamico-Essig",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "TL",
       "name": "Agavensirup",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
       "variety": null
     },
     {
@@ -59,28 +29,10 @@
       "variety": null
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "Stück",
-      "name": "Thymian",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Dose",
       "name": "Limabohnen",
       "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Miso",
-      "variety": "weiß"
     },
     {
       "amount": 50,
@@ -95,22 +47,10 @@
       "variety": null
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Zitrone",
       "variety": "nur Schale"
-    },
-    {
-      "amount": 60,
-      "unit": "ml",
-      "name": "Balsamico-Essig",
-      "variety": null
     },
     {
       "amount": 500,
@@ -119,21 +59,9 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Miso",
-      "variety": "braun"
-    },
-    {
       "amount": 2,
       "unit": "TL",
       "name": "Agavensirup",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
       "variety": null
     },
     {
@@ -147,6 +75,44 @@
       "unit": "EL",
       "name": "Wasser",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Balsamico-Essig",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "weiß"
+    },
+    {
+      "amount": 60,
+      "unit": "ml",
+      "name": "Balsamico-Essig",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "braun"
     },
     {
       "amount": 1,

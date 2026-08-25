@@ -24,12 +24,6 @@
     },
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Palmöl",
-      "variety": "rot"
-    },
-    {
-      "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
       "variety": "rot"
@@ -65,6 +59,32 @@
       "variety": null
     },
     {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Currypulver",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Garri",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Kochbanane",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
       "amount": 0.5,
       "unit": "TL",
       "name": "Thymian",
@@ -75,12 +95,6 @@
       "unit": "TL",
       "name": "Miso",
       "variety": "braun"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Currypulver",
-      "variety": null
     },
     {
       "amount": 0.5,
@@ -95,39 +109,9 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Tomatenmark",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Handvoll",
       "name": "Koriander",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Garri",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Stück",
-      "name": "Kochbanane",
       "variety": null
     }
   ],

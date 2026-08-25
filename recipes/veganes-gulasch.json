@@ -23,12 +23,6 @@
       "variety": null
     },
     {
-      "amount": 4,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "Stück",
       "name": "Zwiebel",
@@ -65,18 +59,6 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Ajvar",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
       "amount": 200,
       "unit": "ml",
       "name": "Wein",
@@ -107,27 +89,29 @@
       "variety": "Kokosblüte"
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
+      "amount": 5,
+      "unit": "Stück",
+      "name": "Gewürzgurken",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Ajvar",
       "variety": null
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
       "variety": null
     },
     {
       "amount": 1,
       "unit": "Prise",
       "name": "Chilipulver",
-      "variety": null
-    },
-    {
-      "amount": 5,
-      "unit": "Stück",
-      "name": "Gewürzgurken",
       "variety": null
     }
   ],

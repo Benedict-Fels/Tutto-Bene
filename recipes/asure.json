@@ -29,12 +29,6 @@
       "variety": "getrocknet"
     },
     {
-      "amount": 0.75,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 50,
       "unit": "g",
       "name": "Haselnüsse",
@@ -44,18 +38,6 @@
       "amount": 50,
       "unit": "g",
       "name": "Mandeln",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Stück",
-      "name": "Zimt",
-      "variety": "Stange"
-    },
-    {
-      "amount": 4,
-      "unit": "Stück",
-      "name": "Nelken",
       "variety": null
     },
     {
@@ -90,12 +72,6 @@
     },
     {
       "amount": 1,
-      "unit": "Prise",
-      "name": "Zimt",
-      "variety": "gemahlen, zum Garnieren"
-    },
-    {
-      "amount": 1,
       "unit": "Handvoll",
       "name": "Pistazien",
       "variety": "zum Garnieren"
@@ -111,6 +87,26 @@
       "unit": "Handvoll",
       "name": "Walnüsse",
       "variety": "zum Garnieren"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange"
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Nelken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Zimt",
+      "variety": "gemahlen, zum Garnieren"
     }
   ],
   "steps": [

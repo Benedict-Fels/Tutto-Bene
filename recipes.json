@@ -31,27 +31,26 @@
       "ingredients": [
         "Sojaschnetzel",
         "Gemüsebrühe",
-        "Pflanzenöl",
         "Zwiebel",
         "Champignons",
         "Karotte",
         "Paprika",
         "Knoblauch",
         "Tomatenmark",
-        "Ajvar",
-        "Sojasauce",
         "Wein",
         "Tomate",
         "Tomate",
         "Lorbeerblatt",
         "Zucker",
-        "Salz",
-        "Pfeffer",
-        "Chilipulver",
         "Gewürzgurken"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Ajvar",
+        "Sojasauce",
+        "Chilipulver"
       ]
     },
     {
@@ -72,18 +71,18 @@
         "Tomate",
         "Kichererbsen",
         "Wasser",
-        "Lorbeerblatt",
+        "Lorbeerblatt"
+      ],
+      "tags": [
+        "One-Pot"
+      ],
+      "spices": [
         "Kurkuma",
         "Chilipulver",
         "Koriander",
         "Paprikapulver",
         "Garam Masala",
-        "Salz",
-        "Pfeffer",
         "Koriander"
-      ],
-      "tags": [
-        "One-Pot"
       ]
     },
     {
@@ -100,9 +99,6 @@
         "Sojaschnetzel",
         "Gemüsebrühe",
         "Lorbeerblatt",
-        "Pflanzenöl",
-        "Sojasauce",
-        "Sojasauce",
         "Zwiebel",
         "Champignons",
         "Knoblauch",
@@ -110,15 +106,17 @@
         "Wein",
         "Pflanzliche Sahne",
         "Wasser",
-        "Brühepulver",
-        "Paprikapulver",
-        "Salz",
-        "Pfeffer",
-        "Petersilie",
-        "Chiliflocken"
+        "Brühepulver"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Sojasauce",
+        "Sojasauce",
+        "Paprikapulver",
+        "Petersilie",
+        "Chiliflocken"
       ]
     },
     {
@@ -132,15 +130,10 @@
       "cookTime": 15,
       "restTime": 0,
       "ingredients": [
-        "Sojasauce",
         "Wasser",
-        "Sesamöl",
         "Brühwürfel",
         "Speisestärke",
         "Agavensirup",
-        "Sriracha",
-        "Reisessig",
-        "Pflanzenöl",
         "Veganes Hähnchen",
         "Zwiebel",
         "Knoblauch",
@@ -148,12 +141,18 @@
         "Chinakohl",
         "Karotte",
         "Pak Choi",
-        "Chili-Crunch",
         "Sesam",
         "Frühlingszwiebel"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Sojasauce",
+        "Sesamöl",
+        "Sriracha",
+        "Reisessig",
+        "Chili-Crunch"
       ]
     },
     {
@@ -167,16 +166,15 @@
       "cookTime": 30,
       "restTime": 5,
       "ingredients": [
-        "Pflanzenöl",
         "Zwiebel",
         "Knoblauch",
         "Champignons",
-        "Epazote",
-        "Salz",
         "Masa Harina",
-        "Salz",
         "Wasser",
         "Zwiebel"
+      ],
+      "spices": [
+        "Epazote"
       ]
     },
     {
@@ -190,23 +188,22 @@
       "cookTime": 20,
       "restTime": 5,
       "ingredients": [
-        "Olivenöl",
         "Zwiebel",
-        "Koriander",
         "Chili",
         "Paprika",
         "Paprika",
         "Tomate",
         "Knoblauch",
-        "Salz",
         "Kochbanane",
         "Kokosmilch",
         "Wasser",
-        "Limette",
-        "Palmöl"
+        "Limette"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Koriander"
       ]
     },
     {
@@ -221,15 +218,15 @@
       "restTime": 5,
       "ingredients": [
         "Pflanzenöl",
-        "Pflanzenöl",
         "Wasser",
         "Zucker",
-        "Salz",
         "Mehl",
-        "Zimt",
         "Zucker",
         "Wasser",
         "Schokolade"
+      ],
+      "spices": [
+        "Zimt"
       ]
     },
     {
@@ -254,29 +251,28 @@
         "Okra",
         "Kartoffel",
         "Aubergine",
-        "Koriander",
-        "Kurkuma",
         "Wasser",
         "Chili",
-        "Koriandersamen",
-        "Kreuzkümmel",
-        "Bockshornklee",
-        "Pfeffer",
-        "Curryblätter",
         "Chana Dal",
         "Urad Dal",
-        "Kurkuma",
-        "Asafoetida",
-        "Pflanzenöl",
-        "Senfkörner",
-        "Bockshornklee",
-        "Chili",
-        "Curryblätter",
-        "Asafoetida",
-        "Salz"
+        "Chili"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Koriander",
+        "Kurkuma",
+        "Koriandersamen",
+        "Kreuzkümmel",
+        "Bockshornklee",
+        "Curryblätter",
+        "Kurkuma",
+        "Asafoetida",
+        "Senfkörner",
+        "Bockshornklee",
+        "Curryblätter",
+        "Asafoetida"
       ]
     },
     {
@@ -291,20 +287,18 @@
       "restTime": 725,
       "ingredients": [
         "Kichererbsen",
-        "Salz",
         "Zwiebel",
         "Sellerie",
-        "Olivenöl",
-        "Rosmarin",
         "Chili",
         "Knoblauch",
         "Tomatenmark",
-        "Nudeln",
-        "Salz",
-        "Pfeffer"
+        "Nudeln"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Rosmarin"
       ]
     },
     {
@@ -320,13 +314,14 @@
       "ingredients": [
         "Grüne Tomate",
         "Jalapeño",
-        "Koriander",
         "Knoblauch",
-        "Limette",
-        "Salz"
+        "Limette"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Koriander"
       ]
     },
     {
@@ -341,35 +336,28 @@
       "restTime": 480,
       "ingredients": [
         "Weiße Erbsen",
-        "Salz",
-        "Kurkuma",
-        "Pflanzenöl",
-        "Chaat Masala",
-        "Asafoetida",
-        "Salz",
         "Kartoffel",
-        "Salz",
-        "Koriander",
-        "Minze",
         "Mehl",
-        "Salz",
-        "Pflanzenöl",
-        "Pflanzenöl",
         "Erbsen",
-        "Curryblätter",
         "Chili",
         "Ingwer",
-        "Pflanzenöl",
-        "Kreuzkümmel",
-        "Salz",
-        "Garam Masala",
         "Zwiebel",
         "Zitrone",
-        "Chutney",
-        "Chutney",
-        "Chutney",
-        "Chaat Masala",
         "Sev"
+      ],
+      "spices": [
+        "Kurkuma",
+        "Chaat Masala",
+        "Asafoetida",
+        "Koriander",
+        "Minze",
+        "Curryblätter",
+        "Kreuzkümmel",
+        "Garam Masala",
+        "Chutney",
+        "Chutney",
+        "Chutney",
+        "Chaat Masala"
       ]
     },
     {
@@ -384,33 +372,29 @@
       "restTime": 0,
       "ingredients": [
         "Kartoffel",
-        "Salz",
-        "Pflanzenöl",
         "Wasser",
-        "Chutney",
-        "Salz",
         "Chili",
+        "Lorbeerblatt",
+        "Erdnüsse",
+        "Zwiebel",
+        "Brötchen",
+        "Granatapfelkerne",
+        "Sev"
+      ],
+      "spices": [
+        "Chutney",
         "Koriandersamen",
         "Kreuzkümmel",
         "Fenchelsamen",
-        "Pfeffer",
         "Sternanis",
         "Kardamom",
-        "Lorbeerblatt",
         "Nelken",
         "Zimt",
         "Amchoor",
         "Kurkuma",
-        "Erdnüsse",
-        "Pflanzenöl",
         "Kurkuma",
-        "Salz",
-        "Zwiebel",
         "Koriander",
-        "Brötchen",
-        "Chutney",
-        "Granatapfelkerne",
-        "Sev"
+        "Chutney"
       ]
     },
     {
@@ -429,24 +413,21 @@
         "Urad Dal",
         "Chana Dal",
         "Poha",
-        "Bockshornklee",
-        "Salz",
         "Zwiebel",
-        "Pflanzenöl",
         "Kartoffel",
-        "Salz",
         "Zwiebel",
         "Ingwer",
         "Chili",
+        "Chana Dal",
+        "Zucker"
+      ],
+      "spices": [
+        "Bockshornklee",
         "Curryblätter",
         "Koriander",
-        "Pflanzenöl",
-        "Chana Dal",
         "Senfkörner",
         "Asafoetida",
-        "Kurkuma",
-        "Zucker",
-        "Salz"
+        "Kurkuma"
       ]
     },
     {
@@ -460,15 +441,15 @@
       "cookTime": 20,
       "restTime": 0,
       "ingredients": [
-        "Pflanzenöl",
         "Zwiebel",
         "Knoblauch",
         "Champignons",
-        "Epazote",
-        "Salz",
         "Zwiebel",
         "Tortilla",
         "Limette"
+      ],
+      "spices": [
+        "Epazote"
       ]
     },
     {
@@ -483,7 +464,6 @@
       "restTime": 15,
       "ingredients": [
         "Masa Harina",
-        "Salz",
         "Wasser"
       ]
     },
@@ -499,16 +479,16 @@
       "restTime": 480,
       "ingredients": [
         "Schwarze Bohnen",
-        "Salz",
         "Zwiebel",
         "Knoblauch",
-        "Epazote",
-        "Oregano",
-        "Chili",
-        "Salz"
+        "Chili"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Epazote",
+        "Oregano"
       ]
     },
     {
@@ -524,9 +504,10 @@
       "ingredients": [
         "Reis",
         "Urad Dal",
-        "Poha",
-        "Bockshornklee",
-        "Salz"
+        "Poha"
+      ],
+      "spices": [
+        "Bockshornklee"
       ]
     },
     {
@@ -542,38 +523,36 @@
       "ingredients": [
         "Sesam",
         "Kokosraspeln",
-        "Pflanzenöl",
         "Zwiebel",
         "Knoblauch",
         "Chili",
-        "Koriandersamen",
         "Steinblume",
+        "Moth Beans",
+        "Wasser",
+        "Tamarinde",
+        "Zwiebel",
+        "Knoblauch",
+        "Ingwer",
+        "Jaggery",
+        "Zwiebel",
+        "Farsan",
+        "Zitrone",
+        "Brötchen"
+      ],
+      "spices": [
+        "Koriandersamen",
         "Kreuzkümmel",
-        "Pfeffer",
         "Nelken",
         "Kardamom",
         "Kardamom",
         "Sternanis",
         "Zimt",
-        "Moth Beans",
-        "Wasser",
-        "Tamarinde",
-        "Pflanzenöl",
-        "Zwiebel",
         "Senfkörner",
         "Curryblätter",
-        "Knoblauch",
-        "Ingwer",
         "Chilipulver",
         "Kurkuma",
         "Asafoetida",
-        "Salz",
-        "Jaggery",
-        "Zwiebel",
-        "Koriander",
-        "Farsan",
-        "Zitrone",
-        "Brötchen"
+        "Koriander"
       ]
     },
     {
@@ -588,16 +567,15 @@
       "restTime": 0,
       "ingredients": [
         "Kartoffel",
-        "Salz",
+        "Zitrone"
+      ],
+      "spices": [
         "Koriander",
-        "Pflanzenöl",
         "Senfkörner",
         "Kreuzkümmel",
         "Curryblätter",
         "Asafoetida",
-        "Kurkuma",
-        "Salz",
-        "Zitrone"
+        "Kurkuma"
       ]
     },
     {
@@ -613,15 +591,15 @@
       "ingredients": [
         "Chili",
         "Knoblauch",
-        "Pflanzenöl",
-        "Kreuzkümmel",
-        "Salz",
         "Jaggery",
         "Zitrone",
         "Wasser"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Kreuzkümmel"
       ]
     },
     {
@@ -639,16 +617,15 @@
         "Zwiebel",
         "Knoblauch",
         "Limette",
-        "Pflanzenöl",
         "Tomatenmark",
-        "Pfeffer",
-        "Salz",
         "Wasser",
-        "Erdnussbutter",
-        "Sesamöl"
+        "Erdnussbutter"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Sesamöl"
       ]
     },
     {
@@ -664,15 +641,16 @@
       "ingredients": [
         "Reismehl",
         "Zucker",
-        "Kümmel",
-        "Zimt",
-        "Anis",
-        "Salz",
         "Wasser",
         "Walnüsse",
         "Mandeln",
         "Kokosraspeln",
         "Pistazien"
+      ],
+      "spices": [
+        "Kümmel",
+        "Zimt",
+        "Anis"
       ]
     },
     {
@@ -687,19 +665,15 @@
       "restTime": 30,
       "ingredients": [
         "Steinpilze",
-        "Pflanzenöl",
         "Zwiebel",
         "Sauerkraut",
         "Lorbeerblatt",
-        "Piment",
-        "Pfeffer",
-        "Salz",
         "Mehl",
-        "Salz",
         "Wasser",
-        "Pflanzenöl",
-        "Pflanzenöl",
-        "Zwiebel",
+        "Zwiebel"
+      ],
+      "spices": [
+        "Piment",
         "Petersilie"
       ]
     },
@@ -718,9 +692,7 @@
         "Trockenhefe",
         "Kokoswasser",
         "Kokosmilch",
-        "Wasser",
-        "Salz",
-        "Pflanzenöl"
+        "Wasser"
       ]
     },
     {
@@ -736,16 +708,16 @@
       "ingredients": [
         "Tamarinde",
         "Zwiebel",
-        "Kokosöl",
+        "Zucker"
+      ],
+      "spices": [
         "Senfkörner",
         "Zimt",
         "Kardamom",
         "Curryblätter",
         "Pandanblatt",
         "Chilipulver",
-        "Nelken",
-        "Zucker",
-        "Salz"
+        "Nelken"
       ]
     },
     {
@@ -761,11 +733,13 @@
       "ingredients": [
         "Kürbis",
         "Zucker",
-        "Walnüsse",
-        "Tahini"
+        "Walnüsse"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Tahini"
       ]
     },
     {
@@ -781,27 +755,26 @@
       "ingredients": [
         "Tamarinde",
         "Wasser",
-        "Pflanzenöl",
         "Aubergine",
         "Erdnüsse",
         "Sesam",
         "Kokosraspeln",
         "Zwiebel",
-        "Pflanzenöl",
-        "Senfkörner",
-        "Kreuzkümmel",
-        "Curryblätter",
         "Ingwer",
         "Knoblauch",
         "Wasser",
-        "Chilipulver",
-        "Koriander",
-        "Kurkuma",
-        "Wasser",
-        "Salz"
+        "Wasser"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Senfkörner",
+        "Kreuzkümmel",
+        "Curryblätter",
+        "Chilipulver",
+        "Koriander",
+        "Kurkuma"
       ]
     },
     {
@@ -816,9 +789,7 @@
       "restTime": 5,
       "ingredients": [
         "Wasser",
-        "Salz",
-        "Maismehl",
-        "Pflanzenöl"
+        "Maismehl"
       ]
     },
     {
@@ -835,16 +806,17 @@
         "Tamarinde",
         "Datteln",
         "Jaggery",
-        "Kreuzkümmel",
         "Ingwer",
-        "Koriandersamen",
-        "Chilipulver",
-        "Pfeffer",
-        "Kala Namak",
         "Wasser"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Kreuzkümmel",
+        "Koriandersamen",
+        "Chilipulver",
+        "Kala Namak"
       ]
     },
     {
@@ -863,15 +835,15 @@
         "Knoblauch",
         "Paprika",
         "Jalapeño",
-        "Koriander",
         "Limette",
-        "Essig",
-        "Pflanzenöl",
-        "Wasser",
-        "Salz"
+        "Wasser"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Koriander",
+        "Essig"
       ]
     },
     {
@@ -886,18 +858,17 @@
       "restTime": 480,
       "ingredients": [
         "Schwarze Bohnen",
-        "Salz",
         "Lorbeerblatt",
-        "Pflanzenöl",
         "Zwiebel",
         "Paprika",
-        "Knoblauch",
-        "Kreuzkümmel",
-        "Oregano",
-        "Pfeffer"
+        "Knoblauch"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Kreuzkümmel",
+        "Oregano"
       ]
     },
     {
@@ -913,15 +884,16 @@
       "ingredients": [
         "Mandeln",
         "Kartoffel",
-        "Salz",
         "Knoblauch",
         "Zitrone",
-        "Essig",
         "Olivenöl",
         "Oliven"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Essig"
       ]
     },
     {
@@ -939,13 +911,13 @@
         "Zucker",
         "Wasser",
         "Mehl",
-        "Salz",
-        "Olivenöl",
         "Sesam",
         "Traubenmelasse",
         "Wasser",
-        "Tahini",
         "Traubenmelasse"
+      ],
+      "spices": [
+        "Tahini"
       ]
     },
     {
@@ -960,20 +932,18 @@
       "restTime": 0,
       "ingredients": [
         "Mehl",
-        "Salz",
         "Wasser",
-        "Pflanzenöl",
         "Zwiebel",
         "Champignons",
-        "Salz",
         "Knoblauch",
+        "Lorbeerblatt"
+      ],
+      "spices": [
         "Koriander",
         "Dill",
         "Kreuzkümmel",
         "Thymian",
-        "Pfeffer",
-        "Chiliflocken",
-        "Lorbeerblatt"
+        "Chiliflocken"
       ]
     },
     {
@@ -988,9 +958,7 @@
       "restTime": 0,
       "ingredients": [
         "Kartoffel",
-        "Zwiebel",
-        "Salz",
-        "Pflanzenöl"
+        "Zwiebel"
       ]
     },
     {
@@ -1007,7 +975,9 @@
         "Apfel",
         "Wasser",
         "Zucker",
-        "Zitrone",
+        "Zitrone"
+      ],
+      "spices": [
         "Zimt"
       ]
     },
@@ -1023,8 +993,7 @@
       "restTime": 5850,
       "ingredients": [
         "Teffmehl",
-        "Wasser",
-        "Salz"
+        "Wasser"
       ]
     },
     {
@@ -1042,10 +1011,10 @@
         "Zwiebel",
         "Knoblauch",
         "Jalapeño",
-        "Pflanzenöl",
-        "Zitrone",
-        "Berbere",
-        "Salz"
+        "Zitrone"
+      ],
+      "spices": [
+        "Berbere"
       ]
     },
     {
@@ -1059,15 +1028,14 @@
       "cookTime": 20,
       "restTime": 0,
       "ingredients": [
-        "Pflanzenöl",
         "Zwiebel",
         "Karotte",
         "Kartoffel",
         "Knoblauch",
+        "Weißkohl"
+      ],
+      "spices": [
         "Kurkuma",
-        "Pfeffer",
-        "Weißkohl",
-        "Salz",
         "Kardamom"
       ]
     },
@@ -1082,19 +1050,19 @@
       "cookTime": 25,
       "restTime": 0,
       "ingredients": [
-        "Pflanzenöl",
         "Zwiebel",
         "Grünkohl",
         "Knoblauch",
-        "Ingwer",
-        "Kreuzkümmel",
-        "Nelken",
-        "Chilipulver",
-        "Salz",
-        "Kardamom"
+        "Ingwer"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Kreuzkümmel",
+        "Nelken",
+        "Chilipulver",
+        "Kardamom"
       ]
     },
     {
@@ -1108,21 +1076,20 @@
       "cookTime": 30,
       "restTime": 10,
       "ingredients": [
-        "Pflanzenöl",
         "Zwiebel",
         "Kichererbsenmehl",
-        "Berbere",
-        "Paprikapulver",
-        "Kardamom",
-        "Pfeffer",
-        "Kurkuma",
         "Tomate",
         "Knoblauch",
-        "Salz",
         "Wasser"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Berbere",
+        "Paprikapulver",
+        "Kardamom",
+        "Kurkuma"
       ]
     },
     {
@@ -1136,19 +1103,19 @@
       "cookTime": 30,
       "restTime": 10,
       "ingredients": [
-        "Pflanzenöl",
         "Zwiebel",
         "Knoblauch",
         "Ingwer",
         "Tomate",
         "Rote Linsen",
         "Tomatenmark",
-        "Berbere",
-        "Salz",
         "Wasser"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Berbere"
       ]
     },
     {
@@ -1168,7 +1135,6 @@
         "Rosenwasser",
         "Mehl",
         "Zucker",
-        "Salz",
         "Trockenhefe",
         "Wasser",
         "Pflanzenöl"
@@ -1187,16 +1153,16 @@
       "ingredients": [
         "Tomatenmark",
         "Passata",
-        "Salz",
-        "Olivenöl",
         "Knoblauch",
         "Chili",
-        "Chiliflocken",
         "Nudeln",
         "Wasser"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Chiliflocken"
       ]
     },
     {
@@ -1214,10 +1180,12 @@
         "Zucker",
         "Speisestärke",
         "Zitrone",
-        "Zimt",
-        "Minze",
         "Pistazien",
         "Schokolade"
+      ],
+      "spices": [
+        "Zimt",
+        "Minze"
       ]
     },
     {
@@ -1231,15 +1199,15 @@
       "cookTime": 20,
       "restTime": 0,
       "ingredients": [
-        "Salz",
         "Kohlrabi",
-        "Olivenöl",
         "Knoblauch",
         "Passata",
         "Zucker",
-        "Basilikum",
-        "Chiliflocken",
         "Nudeln"
+      ],
+      "spices": [
+        "Basilikum",
+        "Chiliflocken"
       ]
     },
     {
@@ -1254,14 +1222,14 @@
       "restTime": 480,
       "ingredients": [
         "Limabohnen",
-        "Salz",
         "Zwiebel",
         "Radicchio",
+        "Brot",
+        "Zitrone"
+      ],
+      "spices": [
         "Salbei",
         "Essig",
-        "Olivenöl",
-        "Brot",
-        "Zitrone",
         "Senf"
       ]
     },
@@ -1277,24 +1245,24 @@
       "restTime": 10,
       "ingredients": [
         "Reis",
-        "Petersilie",
         "Knoblauch",
         "Granatapfelmelasse",
         "Tomatenmark",
         "Paprikapaste",
-        "Olivenöl",
-        "Baharat",
-        "Sumach",
-        "Chiliflocken",
-        "Minze",
         "Zitrone",
         "Zwiebel",
         "Granatapfelmelasse",
         "Tomatenmark",
         "Paprikapaste",
         "Olivenöl",
-        "Wasser",
-        "Salz"
+        "Wasser"
+      ],
+      "spices": [
+        "Petersilie",
+        "Baharat",
+        "Sumach",
+        "Chiliflocken",
+        "Minze"
       ]
     },
     {
@@ -1309,17 +1277,17 @@
       "restTime": 480,
       "ingredients": [
         "Kichererbsen",
-        "Salz",
         "Olivenöl",
         "Zwiebel",
         "Knoblauch",
-        "Thymian",
         "Lorbeerblatt",
-        "Pfeffer",
         "Zitrone"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Thymian"
       ]
     },
     {
@@ -1336,20 +1304,21 @@
         "Weizenkörner",
         "Kichererbsen",
         "Weiße Bohnen",
-        "Salz",
         "Haselnüsse",
         "Mandeln",
-        "Zimt",
-        "Nelken",
         "Aprikosen",
         "Feigen",
         "Rosinen",
         "Zucker",
         "Orange",
-        "Zimt",
         "Pistazien",
         "Granatapfelkerne",
         "Walnüsse"
+      ],
+      "spices": [
+        "Zimt",
+        "Nelken",
+        "Zimt"
       ]
     },
     {
@@ -1363,21 +1332,19 @@
       "cookTime": 20,
       "restTime": 0,
       "ingredients": [
-        "Olivenöl",
         "Zwiebel",
         "Karotte",
         "Knoblauch",
-        "Kreuzkümmel",
-        "Minze",
-        "Pfeffer",
-        "Chiliflocken",
         "Paprikapaste",
         "Tomatenmark",
         "Rote Linsen",
-        "Salz",
+        "Zitrone"
+      ],
+      "spices": [
+        "Kreuzkümmel",
+        "Minze",
+        "Chiliflocken",
         "Petersilie",
-        "Zitrone",
-        "Olivenöl",
         "Chiliflocken"
       ]
     },
@@ -1396,18 +1363,18 @@
         "Artischocken",
         "Dicke Bohnen",
         "Erbsen",
-        "Olivenöl",
         "Knoblauch",
         "Frühlingszwiebel",
         "Chili",
         "Wein",
-        "Salz",
         "Romana-Salat",
-        "Minze",
         "Nudeln"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Minze"
       ]
     },
     {
@@ -1425,12 +1392,12 @@
         "Salatgurke",
         "Radieschen",
         "Zwiebel",
+        "Zitrone"
+      ],
+      "spices": [
         "Petersilie",
         "Minze",
-        "Sumach",
-        "Salz",
-        "Olivenöl",
-        "Zitrone"
+        "Sumach"
       ]
     },
     {
@@ -1447,8 +1414,7 @@
         "Zwiebel",
         "Olivenöl",
         "Braune Linsen",
-        "Bulgur",
-        "Salz"
+        "Bulgur"
       ],
       "tags": [
         "One-Pot"
@@ -1469,30 +1435,27 @@
         "Olivenöl",
         "Zitrone",
         "Ahornsirup",
+        "Kartoffel",
+        "Salatgurke",
+        "Tomate",
+        "Radieschen",
+        "Knoblauch",
+        "Zitrone",
+        "Zitrone",
+        "Fladenbrot",
+        "Zwiebel",
+        "Peperoni"
+      ],
+      "spices": [
         "Harissa",
         "Paprikapulver",
         "Kreuzkümmel",
         "Koriander gemahlen",
         "Zimt",
         "Kardamom",
-        "Pfeffer",
-        "Salz",
-        "Kartoffel",
-        "Salatgurke",
-        "Tomate",
-        "Radieschen",
         "Minze",
         "Petersilie",
-        "Knoblauch",
-        "Olivenöl",
-        "Zitrone",
-        "Salz",
-        "Tahini",
-        "Zitrone",
-        "Salz",
-        "Fladenbrot",
-        "Zwiebel",
-        "Peperoni"
+        "Tahini"
       ]
     },
     {
@@ -1508,9 +1471,10 @@
       "ingredients": [
         "Zwiebel",
         "Wasser",
-        "Essig",
-        "Zucker",
-        "Salz"
+        "Zucker"
+      ],
+      "spices": [
+        "Essig"
       ]
     },
     {
@@ -1526,11 +1490,9 @@
       "ingredients": [
         "Trockenhefe",
         "Zucker",
-        "Olivenöl",
         "Wasser",
         "Mehl",
-        "Vollkornmehl",
-        "Salz"
+        "Vollkornmehl"
       ]
     },
     {
@@ -1546,17 +1508,16 @@
       "ingredients": [
         "Kartoffel",
         "Olivenöl",
-        "Salz",
-        "Olivenöl",
         "Zwiebel",
         "Knoblauch",
         "Lorbeerblatt",
-        "Paprikapulver",
-        "Paprikapulver",
         "Mehl",
-        "Gemüsebrühe",
-        "Essig",
-        "Salz"
+        "Gemüsebrühe"
+      ],
+      "spices": [
+        "Paprikapulver",
+        "Paprikapulver",
+        "Essig"
       ]
     },
     {
@@ -1570,16 +1531,17 @@
       "cookTime": 0,
       "restTime": 0,
       "ingredients": [
-        "Koriander",
         "Chili",
         "Knoblauch",
-        "Kreuzkümmel",
         "Zitrone",
-        "Wasser",
-        "Salz"
+        "Wasser"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Koriander",
+        "Kreuzkümmel"
       ]
     },
     {
@@ -1596,21 +1558,19 @@
         "Ingwer",
         "Chili",
         "Kichererbsenmehl",
-        "Salz",
         "Zucker",
         "Zitrone",
-        "Pflanzenöl",
         "Natron",
         "Wasser",
         "Chili",
-        "Koriander",
-        "Pflanzenöl",
-        "Senfkörner",
-        "Curryblätter",
         "Wasser",
         "Zucker",
-        "Salz",
         "Kokosraspeln"
+      ],
+      "spices": [
+        "Koriander",
+        "Senfkörner",
+        "Curryblätter"
       ]
     },
     {
@@ -1624,21 +1584,22 @@
       "cookTime": 30,
       "restTime": 45,
       "ingredients": [
-        "Sternanis",
-        "Nelken",
         "Lorbeerblatt",
-        "Kardamom",
-        "Zimt",
-        "Sichuan-Pfeffer",
         "Pflanzenöl",
         "Schalotte",
         "Knoblauch",
         "Ingwer",
-        "Chili",
-        "Salz"
+        "Chili"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Sternanis",
+        "Nelken",
+        "Kardamom",
+        "Zimt",
+        "Sichuan-Pfeffer"
       ]
     },
     {
@@ -1655,10 +1616,11 @@
         "Lauch",
         "Karotte",
         "Olivenöl",
-        "Salz",
         "Zucker",
         "Reis",
-        "Zitrone",
+        "Zitrone"
+      ],
+      "spices": [
         "Dill"
       ]
     },
@@ -1674,21 +1636,19 @@
       "restTime": 10,
       "ingredients": [
         "Mehl",
-        "Salz",
         "Wasser",
         "Frühlingszwiebel",
         "Spinat",
         "Rucola",
+        "Zitrone"
+      ],
+      "spices": [
         "Dill",
         "Koriander",
         "Petersilie",
         "Minze",
-        "Salz",
         "Paprikapulver",
-        "Chiliflocken",
-        "Pfeffer",
-        "Zitrone",
-        "Olivenöl"
+        "Chiliflocken"
       ]
     },
     {
@@ -1703,21 +1663,20 @@
       "restTime": 720,
       "ingredients": [
         "Weiße Bohnen",
-        "Salz",
         "Knoblauch",
-        "Salbei",
-        "Olivenöl",
         "Zwiebel",
         "Karotte",
         "Sellerie",
         "Grünkohl",
-        "Chiliflocken",
-        "Pfeffer",
         "Tomatenmark",
         "Polenta"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Salbei",
+        "Chiliflocken"
       ]
     },
     {
@@ -1732,8 +1691,10 @@
       "restTime": 30,
       "ingredients": [
         "Olivenöl",
-        "Sojasauce",
         "Agar Agar"
+      ],
+      "spices": [
+        "Sojasauce"
       ]
     },
     {
@@ -1748,17 +1709,17 @@
       "restTime": 480,
       "ingredients": [
         "Kichererbsen",
-        "Salz",
-        "Kreuzkümmel",
         "Knoblauch",
-        "Harissa",
-        "Olivenöl",
         "Zitrone",
         "Brot",
         "Kapern"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Kreuzkümmel",
+        "Harissa"
       ]
     },
     {
@@ -1773,16 +1734,16 @@
       "restTime": 0,
       "ingredients": [
         "Aubergine",
-        "Salz",
         "Knoblauch",
         "Ingwer",
         "Frühlingszwiebel",
         "Chili",
-        "Pflanzenöl",
+        "Zucker"
+      ],
+      "spices": [
         "Sojasauce",
         "Essig",
         "Sesamöl",
-        "Zucker",
         "Koriander"
       ]
     },
@@ -1800,21 +1761,20 @@
         "Grüne Linsen",
         "Kichererbsen",
         "Kidneybohnen",
-        "Salz",
         "Weißkohl",
-        "Pflanzenöl",
         "Zwiebel",
         "Tomatenmark",
         "Paprikapaste",
-        "Petersilie",
-        "Dill",
         "Bulgur",
         "Reis",
-        "Pfeffer",
+        "Backpflaume"
+      ],
+      "spices": [
+        "Petersilie",
+        "Dill",
         "Chilipulver",
         "Basilikum",
-        "Bohnenkraut",
-        "Backpflaume"
+        "Bohnenkraut"
       ]
     },
     {
@@ -1828,13 +1788,14 @@
       "cookTime": 15,
       "restTime": 30,
       "ingredients": [
-        "Sojasauce",
         "Palmzucker",
-        "Pfeffer",
+        "Knoblauch"
+      ],
+      "spices": [
+        "Sojasauce",
         "Zimt",
         "Sternanis",
-        "Nelken",
-        "Knoblauch"
+        "Nelken"
       ]
     },
     {
@@ -1850,17 +1811,16 @@
       "ingredients": [
         "Tamarinde",
         "Tempeh",
-        "Pflanzenöl",
         "Schalotte",
         "Knoblauch",
         "Chili",
         "Grüne Bohnen",
+        "Palmzucker"
+      ],
+      "spices": [
         "Zitronengras",
         "Limettenblätter",
-        "Salz",
-        "Kecap Manis",
-        "Palmzucker",
-        "Pfeffer"
+        "Kecap Manis"
       ]
     },
     {
@@ -1876,8 +1836,7 @@
       "ingredients": [
         "Schokolade",
         "Wasser",
-        "Eiswürfel",
-        "Salz"
+        "Eiswürfel"
       ]
     },
     {
@@ -1891,17 +1850,18 @@
       "cookTime": 20,
       "restTime": 30,
       "ingredients": [
-        "Anis",
-        "Zimt",
-        "Muskatnuss",
         "Zucker",
         "Wasser",
         "Walnüsse",
         "Kandierte Früchte",
         "Mehl",
         "Backpulver",
-        "Salz",
         "Wein"
+      ],
+      "spices": [
+        "Anis",
+        "Zimt",
+        "Muskatnuss"
       ]
     },
     {
@@ -1916,30 +1876,29 @@
       "restTime": 0,
       "ingredients": [
         "Toor Dal",
-        "Kurkuma",
-        "Pflanzenöl",
         "Zwiebel",
-        "Kreuzkümmel",
         "Knoblauch",
         "Ingwer",
         "Chili",
         "Tomate",
-        "Salz",
+        "Zitrone",
+        "Knoblauch",
+        "Chili"
+      ],
+      "tags": [
+        "One-Pot"
+      ],
+      "spices": [
+        "Kurkuma",
+        "Kreuzkümmel",
         "Garam Masala",
         "Koriander gemahlen",
         "Chilipulver",
         "Koriander",
-        "Zitrone",
         "Bockshornklee",
-        "Knoblauch",
-        "Pflanzenöl",
         "Kreuzkümmel",
-        "Chili",
         "Chilipulver",
         "Asafoetida"
-      ],
-      "tags": [
-        "One-Pot"
       ]
     },
     {
@@ -1958,15 +1917,14 @@
         "Mehl",
         "Tomatenmark",
         "Paprikapaste",
-        "Kreuzkümmel",
-        "Salz",
-        "Petersilie",
         "Tomate",
         "Knoblauch",
-        "Olivenöl",
-        "Paprikapaste",
-        "Chiliflocken",
-        "Salz"
+        "Paprikapaste"
+      ],
+      "spices": [
+        "Kreuzkümmel",
+        "Petersilie",
+        "Chiliflocken"
       ]
     },
     {
@@ -1980,20 +1938,21 @@
       "cookTime": 20,
       "restTime": 0,
       "ingredients": [
+        "Zucker",
+        "Sojasprossen",
+        "Sesam",
+        "Knoblauch",
+        "Salatgurke",
+        "Liang-Pi-Nudeln",
+        "Seitan"
+      ],
+      "spices": [
         "Chiliöl",
         "Chiliflocken",
         "Essig",
         "Sojasauce",
         "Sesamöl",
-        "Zucker",
-        "Sojasprossen",
-        "Sesam",
-        "Knoblauch",
-        "Salz",
-        "Koriander",
-        "Salatgurke",
-        "Liang-Pi-Nudeln",
-        "Seitan"
+        "Koriander"
       ]
     },
     {
@@ -2008,9 +1967,7 @@
       "restTime": 360,
       "ingredients": [
         "Weizenstärke",
-        "Wasser",
-        "Salz",
-        "Pflanzenöl"
+        "Wasser"
       ]
     },
     {
@@ -2032,16 +1989,14 @@
         "Sellerie",
         "Lorbeerblatt",
         "Tomatenmark",
-        "Salz",
-        "Olivenöl",
-        "Chiliflocken",
         "Grieß",
-        "Salz",
-        "Olivenöl",
         "Wasser"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Chiliflocken"
       ]
     },
     {
@@ -2057,10 +2012,8 @@
       "ingredients": [
         "Trockenhefe",
         "Zucker",
-        "Olivenöl",
         "Wasser",
-        "Mehl",
-        "Salz"
+        "Mehl"
       ]
     },
     {
@@ -2076,10 +2029,10 @@
       "ingredients": [
         "Sesam",
         "Jaggery",
-        "Kardamom",
-        "Salz",
-        "Pflanzenöl",
         "Wasser"
+      ],
+      "spices": [
+        "Kardamom"
       ]
     },
     {
@@ -2109,21 +2062,20 @@
       "restTime": 735,
       "ingredients": [
         "Weiße Bohnen",
-        "Salz",
         "Zwiebel",
         "Knoblauch",
         "Lorbeerblatt",
         "Chili",
-        "Paprikapulver",
         "Tomatenmark",
-        "Minze",
-        "Pfeffer",
         "Paprika",
-        "Olivenöl",
         "Mehl"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Paprikapulver",
+        "Minze"
       ]
     },
     {
@@ -2138,13 +2090,14 @@
       "restTime": 20,
       "ingredients": [
         "Aubergine",
-        "Salz",
         "Olivenöl",
         "Zwiebel",
         "Knoblauch",
         "Paprika",
         "Paprika",
-        "Tomate",
+        "Tomate"
+      ],
+      "spices": [
         "Chiliflocken",
         "Petersilie"
       ]
@@ -2161,9 +2114,7 @@
       "restTime": 0,
       "ingredients": [
         "Reis",
-        "Olivenöl",
         "Nudeln",
-        "Salz",
         "Wasser"
       ]
     },
@@ -2179,16 +2130,16 @@
       "restTime": 0,
       "ingredients": [
         "Aubergine",
-        "Tahini",
         "Zitrone",
-        "Knoblauch",
-        "Salz",
-        "Petersilie",
-        "Olivenöl",
-        "Sumach"
+        "Knoblauch"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Tahini",
+        "Petersilie",
+        "Sumach"
       ]
     },
     {
@@ -2223,11 +2174,13 @@
       "restTime": 0,
       "ingredients": [
         "Rooibostee",
-        "Pflanzendrink",
-        "Zimt"
+        "Pflanzendrink"
       ],
       "tags": [
         "getraenk"
+      ],
+      "spices": [
+        "Zimt"
       ]
     },
     {
@@ -2266,31 +2219,29 @@
         "Ingwer",
         "Knoblauch",
         "Chili",
+        "Zitrone",
+        "Pflanzenöl",
+        "Tamarinde",
+        "Jaggery",
+        "Ingwer",
+        "Knoblauch",
+        "Erdnüsse",
+        "Kokosraspeln",
+        "Kichererbsenmehl",
+        "Wasser",
+        "Brötchen"
+      ],
+      "spices": [
         "Curryblätter",
         "Koriander",
         "Senfkörner",
         "Asafoetida",
         "Kurkuma",
-        "Zitrone",
-        "Salz",
-        "Pflanzenöl",
-        "Tamarinde",
-        "Jaggery",
         "Kreuzkümmel",
-        "Ingwer",
         "Chilipulver",
-        "Salz",
-        "Knoblauch",
-        "Erdnüsse",
-        "Kokosraspeln",
         "Chilipulver",
-        "Salz",
-        "Kichererbsenmehl",
         "Kurkuma",
-        "Asafoetida",
-        "Wasser",
-        "Salz",
-        "Brötchen"
+        "Asafoetida"
       ]
     },
     {
@@ -2305,22 +2256,21 @@
       "restTime": 15,
       "ingredients": [
         "Chili",
-        "Pflanzenöl",
         "Chana Dal",
         "Urad Dal",
         "Schalotte",
         "Knoblauch",
         "Tomate",
         "Tamarinde",
-        "Salz",
-        "Wasser",
-        "Pflanzenöl",
-        "Senfkörner",
-        "Asafoetida",
-        "Curryblätter"
+        "Wasser"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Senfkörner",
+        "Asafoetida",
+        "Curryblätter"
       ]
     },
     {
@@ -2339,10 +2289,10 @@
         "Urad Dal",
         "Chana Dal",
         "Poha",
-        "Bockshornklee",
-        "Salz",
-        "Pflanzenöl",
         "Zwiebel"
+      ],
+      "spices": [
+        "Bockshornklee"
       ]
     },
     {
@@ -2358,9 +2308,7 @@
       "ingredients": [
         "Mehl",
         "Vegane Butter",
-        "Salz",
         "Currypulver",
-        "Kurkuma",
         "Wasser",
         "Zucker",
         "Austernpilz",
@@ -2368,16 +2316,18 @@
         "Frühlingszwiebel",
         "Knoblauch",
         "Ingwer",
-        "Jerk-Gewürz",
-        "Thymian",
         "Chili",
         "Walnüsse",
         "Belugalinsen",
         "Brot",
+        "Melasse"
+      ],
+      "spices": [
+        "Kurkuma",
+        "Jerk-Gewürz",
+        "Thymian",
         "Sojasauce",
-        "Melasse",
-        "Rotweinessig",
-        "Salz"
+        "Rotweinessig"
       ]
     },
     {
@@ -2392,28 +2342,24 @@
       "restTime": 0,
       "ingredients": [
         "Portobello-Pilz",
-        "Balsamico-Essig",
-        "Olivenöl",
-        "Sojasauce",
         "Agavensirup",
-        "Salz",
-        "Pfeffer",
         "Kürbis",
-        "Olivenöl",
-        "Thymian",
         "Limabohnen",
-        "Miso",
         "Pflanzendrink",
         "Hefeflocken",
-        "Salz",
         "Zitrone",
-        "Balsamico-Essig",
         "Gemüsebrühe",
-        "Miso",
         "Agavensirup",
-        "Olivenöl",
         "Speisestärke",
-        "Wasser",
+        "Wasser"
+      ],
+      "spices": [
+        "Balsamico-Essig",
+        "Sojasauce",
+        "Thymian",
+        "Miso",
+        "Balsamico-Essig",
+        "Miso",
         "Rosmarin"
       ]
     },
@@ -2430,24 +2376,25 @@
       "ingredients": [
         "Karotte",
         "Zwiebel",
-        "Rosmarin",
         "Lorbeerblatt",
         "Tomatenmark",
         "Wein",
         "Mehl",
         "Knoblauch",
-        "Miso",
         "Gemüsebrühe",
         "Belugalinsen",
         "Austernpilz",
         "Pastinake",
-        "Olivenöl",
-        "Rosmarin",
         "Limabohnen",
         "Pflanzendrink",
-        "Miso",
         "Hefeflocken",
         "Zitrone"
+      ],
+      "spices": [
+        "Rosmarin",
+        "Miso",
+        "Rosmarin",
+        "Miso"
       ]
     },
     {
@@ -2462,18 +2409,16 @@
       "restTime": 0,
       "ingredients": [
         "Seidentofu",
-        "Miso",
-        "Olivenöl",
         "Pflanzlicher Joghurt",
         "Zitrone",
         "Zitrone",
-        "Zucchini",
-        "Olivenöl",
-        "Salz",
-        "Pfeffer"
+        "Zucchini"
       ],
       "tags": [
         "dip"
+      ],
+      "spices": [
+        "Miso"
       ]
     },
     {
@@ -2488,23 +2433,23 @@
       "restTime": 0,
       "ingredients": [
         "Gemüsebrühe",
-        "Miso",
         "Kombu",
         "Ingwer",
         "Knoblauch",
-        "Olivenöl",
-        "Salz",
         "Limette",
         "Kräuterseitling",
-        "Fünf-Gewürz-Pulver",
         "Tempeh",
-        "Sojasauce",
         "Agavensirup",
-        "Reis",
-        "Koriander"
+        "Reis"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Miso",
+        "Fünf-Gewürz-Pulver",
+        "Sojasauce",
+        "Koriander"
       ]
     },
     {
@@ -2518,19 +2463,18 @@
       "cookTime": 30,
       "restTime": 0,
       "ingredients": [
-        "Olivenöl",
         "Limabohnen",
         "Knoblauch",
-        "Miso",
         "Veganer Frischkäse",
         "Zitrone",
         "Gemüsebrühe",
         "Pistazien",
+        "Kürbis"
+      ],
+      "spices": [
+        "Miso",
         "Koriander",
-        "Chiliflocken",
-        "Kürbis",
-        "Olivenöl",
-        "Salz"
+        "Chiliflocken"
       ]
     },
     {
@@ -2544,26 +2488,26 @@
       "cookTime": 25,
       "restTime": 0,
       "ingredients": [
-        "Olivenöl",
         "Aubergine",
         "Zitrone",
         "Zwiebel",
-        "Paprikapulver",
-        "Kreuzkümmel",
-        "Oregano",
         "Tomatenmark",
         "Walnüsse",
         "Datteln",
         "Belugalinsen",
         "Tomate",
         "Gemüsebrühe",
-        "Salz",
-        "Koriander",
         "Pflanzliche Sahne",
         "Reis"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Paprikapulver",
+        "Kreuzkümmel",
+        "Oregano",
+        "Koriander"
       ]
     },
     {
@@ -2589,10 +2533,10 @@
         "Passata",
         "Gemüsebrühe",
         "Rote Linsen",
-        "Miso",
-        "Salz",
-        "Pfeffer",
         "Nudeln"
+      ],
+      "spices": [
+        "Miso"
       ]
     },
     {
@@ -2608,15 +2552,16 @@
       "ingredients": [
         "Kidneybohnen",
         "Wasser",
-        "Thymian",
-        "Salz",
         "Reis",
         "Ingwer",
         "Kokosmilch",
         "Frühlingszwiebel",
         "Knoblauch",
-        "Piment",
         "Chili"
+      ],
+      "spices": [
+        "Thymian",
+        "Piment"
       ]
     },
     {
@@ -2633,8 +2578,7 @@
         "Knoblauch",
         "Eingelegte Zitrone",
         "Nudeln",
-        "Olivenöl",
-        "Salz"
+        "Olivenöl"
       ],
       "tags": [
         "One-Pot"
@@ -2652,24 +2596,26 @@
       "restTime": 0,
       "ingredients": [
         "Gemüsebrühe",
-        "Miso",
-        "Reisessig",
         "Schalotte",
         "Chili",
-        "Zitronengras",
         "Braune Linsen",
         "Knoblauch",
-        "Sesamöl",
-        "Tahini",
         "Wasser",
         "Waldpilze",
-        "Fünf-Gewürz-Pulver",
-        "Sojasauce",
         "Nudeln",
         "Frühlingszwiebel",
-        "Koriander",
         "Sesam",
         "Pak Choi"
+      ],
+      "spices": [
+        "Miso",
+        "Reisessig",
+        "Zitronengras",
+        "Sesamöl",
+        "Tahini",
+        "Fünf-Gewürz-Pulver",
+        "Sojasauce",
+        "Koriander"
       ]
     },
     {
@@ -2683,26 +2629,25 @@
       "cookTime": 15,
       "restTime": 5,
       "ingredients": [
-        "Kardamom",
-        "Koriandersamen",
-        "Kümmel",
-        "Kreuzkümmel",
         "Agavensirup",
         "Orange",
-        "Paprikapulver",
-        "Olivenöl",
         "Veganes Hähnchen",
         "Zwiebel",
         "Knoblauch",
         "Tomate",
-        "Koriander",
         "Reis",
         "Wasser",
         "Brühwürfel",
         "Zitrone",
-        "Salz",
-        "Pfeffer",
-        "Kokosjoghurt",
+        "Kokosjoghurt"
+      ],
+      "spices": [
+        "Kardamom",
+        "Koriandersamen",
+        "Kümmel",
+        "Kreuzkümmel",
+        "Paprikapulver",
+        "Koriander",
         "Minze",
         "Petersilie"
       ]
@@ -2720,13 +2665,19 @@
       "ingredients": [
         "Gelbe Erbsen",
         "Rote Linsen",
-        "Salz",
-        "Kurkuma",
         "Wasser",
         "Ingwer",
         "Knoblauch",
         "Zwiebel",
         "Tomate",
+        "Vegane Butter",
+        "Zitrone"
+      ],
+      "tags": [
+        "One-Pot"
+      ],
+      "spices": [
+        "Kurkuma",
         "Kreuzkümmel",
         "Koriandersamen",
         "Nelken",
@@ -2735,15 +2686,9 @@
         "Chilipulver",
         "Bockshornklee",
         "Curryblätter",
-        "Pfeffer",
-        "Vegane Butter",
         "Kreuzkümmel",
         "Chilipulver",
-        "Koriander",
-        "Zitrone"
-      ],
-      "tags": [
-        "One-Pot"
+        "Koriander"
       ]
     },
     {
@@ -2757,20 +2702,21 @@
       "cookTime": 15,
       "restTime": 0,
       "ingredients": [
-        "Harissa",
-        "Paprikapulver",
         "Paprika",
         "Zwiebel",
         "Limabohnen",
         "Tomate",
-        "Petersilie",
-        "Minze",
-        "Chiliflocken",
         "Pflanzlicher Joghurt",
-        "Olivenöl",
         "Zitrone",
         "Avocado",
         "Brot"
+      ],
+      "spices": [
+        "Harissa",
+        "Paprikapulver",
+        "Petersilie",
+        "Minze",
+        "Chiliflocken"
       ]
     },
     {
@@ -2786,24 +2732,23 @@
       "ingredients": [
         "Aubergine",
         "Augenbohnen",
-        "Palmöl",
         "Zwiebel",
         "Tomate",
         "Chili",
         "Knoblauch",
         "Ingwer",
         "Lorbeerblatt",
-        "Thymian",
-        "Miso",
         "Currypulver",
-        "Koriandersamen",
-        "Bockshornklee",
         "Tomatenmark",
-        "Salz",
-        "Pfeffer",
-        "Koriander",
         "Garri",
         "Kochbanane"
+      ],
+      "spices": [
+        "Thymian",
+        "Miso",
+        "Koriandersamen",
+        "Bockshornklee",
+        "Koriander"
       ]
     },
     {
@@ -2818,15 +2763,14 @@
       "restTime": 75,
       "ingredients": [
         "Mehl",
-        "Salz",
-        "Pflanzenöl",
         "Wasser",
         "Vegane Butter",
-        "Knoblauch",
+        "Knoblauch"
+      ],
+      "spices": [
         "Chiliflocken",
         "Kreuzkümmel",
-        "Koriander",
-        "Salz"
+        "Koriander"
       ]
     },
     {
@@ -2840,20 +2784,19 @@
       "cookTime": 15,
       "restTime": 0,
       "ingredients": [
-        "Estragon",
-        "Basilikum",
-        "Petersilie",
         "Knoblauch",
         "Oliven",
         "Zitrone",
         "Zitrone",
-        "Essig",
-        "Salz",
-        "Pfeffer",
-        "Olivenöl",
         "Grünkohl",
         "Hefeflocken",
         "Nudeln"
+      ],
+      "spices": [
+        "Estragon",
+        "Basilikum",
+        "Petersilie",
+        "Essig"
       ]
     },
     {
@@ -2890,12 +2833,13 @@
         "Mandeln",
         "Natron",
         "Backpulver",
-        "Salz",
         "Pflanzenöl",
         "Pflanzendrink",
         "Zucker",
         "Orange",
-        "Orange",
+        "Orange"
+      ],
+      "spices": [
         "Essig"
       ]
     },
@@ -2911,22 +2855,19 @@
       "restTime": 0,
       "ingredients": [
         "Kokosflocken",
-        "Olivenöl",
-        "Sojasauce",
-        "Paprikapulver",
         "Ahornsirup",
-        "Flüssigrauch",
-        "Salz",
-        "Olivenöl",
         "Zwiebel",
-        "Salz",
-        "Pfeffer",
         "Knoblauch",
         "Grüne Bohnen",
         "Vegane Butter",
         "Hefeflocken",
         "Grünkohl",
-        "Zitrone",
+        "Zitrone"
+      ],
+      "spices": [
+        "Sojasauce",
+        "Paprikapulver",
+        "Flüssigrauch",
         "Sojasauce"
       ]
     },
@@ -2946,24 +2887,26 @@
         "Sellerie",
         "Knoblauch",
         "Ingwer",
-        "Sternanis",
-        "Nelken",
-        "Koriandersamen",
-        "Fenchelsamen",
-        "Zimt",
         "Shiitake-Pilze",
         "Ahornsirup",
-        "Miso",
-        "Sojasauce",
         "Nori",
         "Wasser",
         "Chili",
         "Frühlingszwiebel",
         "Limette",
         "Sojasprossen",
-        "Koriander",
         "Pak Choi",
-        "Reisnudeln",
+        "Reisnudeln"
+      ],
+      "spices": [
+        "Sternanis",
+        "Nelken",
+        "Koriandersamen",
+        "Fenchelsamen",
+        "Zimt",
+        "Miso",
+        "Sojasauce",
+        "Koriander",
         "Sriracha"
       ]
     },
@@ -2980,50 +2923,48 @@
       "ingredients": [
         "Zwiebel",
         "Ingwer",
-        "Thymian",
         "Frühlingszwiebel",
         "Knoblauch",
         "Ahornsirup",
-        "Jerk-Gewürz",
         "Tomate",
         "Gemüsebrühe",
         "Grüne Linsen",
-        "Salz",
-        "Pfeffer",
         "Nudeln",
         "Cashewkerne",
         "Wasser",
         "Tomatenmark",
-        "Miso",
-        "Senf",
-        "Knoblauchgranulat",
-        "Zwiebelgranulat",
         "Zitrone",
         "Pflanzenöl",
-        "Kurkuma",
-        "Paprikapulver",
         "Hefeflocken",
-        "Salz",
-        "Pfeffer",
         "Tomate",
         "Zwiebel",
         "Paprika",
         "Knoblauch",
-        "Thymian",
-        "Sojasauce",
         "Grünkohl",
         "Zwiebel",
         "Frühlingszwiebel",
         "Ingwer",
         "Knoblauch",
-        "Kurkuma",
-        "Kreuzkümmel",
         "Currypulver",
-        "Piment",
-        "Paprikapulver",
         "Kichererbsen",
         "Tomate",
-        "Kokosmilch",
+        "Kokosmilch"
+      ],
+      "spices": [
+        "Thymian",
+        "Jerk-Gewürz",
+        "Miso",
+        "Senf",
+        "Knoblauchgranulat",
+        "Zwiebelgranulat",
+        "Kurkuma",
+        "Paprikapulver",
+        "Thymian",
+        "Sojasauce",
+        "Kurkuma",
+        "Kreuzkümmel",
+        "Piment",
+        "Paprikapulver",
         "Petersilie"
       ]
     },
@@ -3042,22 +2983,22 @@
         "Pflanzendrink",
         "Mehl",
         "Speisestärke",
-        "Salz",
-        "Pfeffer",
-        "Knoblauchgranulat",
-        "Sojasauce",
         "Paniermehl",
         "Knoblauch",
         "Ingwer",
         "Ahornsirup",
         "Brauner Zucker",
-        "Sojasauce",
         "Wasser",
         "Tomatenmark",
-        "Reisessig",
-        "Chiliflocken",
         "Speisestärke",
         "Wasser"
+      ],
+      "spices": [
+        "Knoblauchgranulat",
+        "Sojasauce",
+        "Sojasauce",
+        "Reisessig",
+        "Chiliflocken"
       ]
     },
     {
@@ -3073,17 +3014,18 @@
       "ingredients": [
         "Wasser",
         "Kichererbsenmehl",
-        "Salz",
-        "Kurkuma",
         "Speisestärke",
-        "Sojasauce",
         "Ahornsirup",
-        "Reisessig",
         "Sesam",
         "Knoblauch",
         "Ingwer",
         "Speisestärke",
-        "Wasser",
+        "Wasser"
+      ],
+      "spices": [
+        "Kurkuma",
+        "Sojasauce",
+        "Reisessig",
         "Chiliflocken"
       ]
     },
@@ -3102,27 +3044,26 @@
         "Schalotte",
         "Knoblauch",
         "Sellerie",
-        "Rosmarin",
         "Tomate",
         "Gemüsebrühe",
         "Kartoffel",
         "Lorbeerblatt",
-        "Vegane Worcestersauce",
         "Tomatenmark",
         "Wein",
-        "Petersilie",
         "Mehl",
-        "Salz",
-        "Pfeffer",
-        "Olivenöl",
         "Austernpilz",
-        "Flüssigrauch",
-        "Paprikapulver",
-        "Sojasauce",
         "Ahornsirup"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Rosmarin",
+        "Vegane Worcestersauce",
+        "Petersilie",
+        "Flüssigrauch",
+        "Paprikapulver",
+        "Sojasauce"
       ]
     },
     {
@@ -3140,18 +3081,19 @@
         "Veganes Hähnchen",
         "Knoblauch",
         "Hefeflocken",
-        "Petersilie",
-        "Dill",
-        "Zwiebelgranulat",
         "Nudeln",
         "Wasser",
-        "Buffalo-Sauce",
         "Veganer Frischkäse",
-        "Speisestärke",
-        "Salz"
+        "Speisestärke"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Petersilie",
+        "Dill",
+        "Zwiebelgranulat",
+        "Buffalo-Sauce"
       ]
     },
     {
@@ -3168,21 +3110,23 @@
         "Knoblauch",
         "Ingwer",
         "Brauner Zucker",
-        "Currypaste",
         "Kokosmilch",
         "Wasser",
-        "Sojasauce",
         "Kartoffel",
         "Karotte",
         "Zwiebel",
         "Tofu",
         "Erdnüsse",
         "Limette",
-        "Koriander",
         "Reis"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Currypaste",
+        "Sojasauce",
+        "Koriander"
       ]
     },
     {
@@ -3197,11 +3141,8 @@
       "restTime": 0,
       "ingredients": [
         "Wasser",
-        "Gochujang",
-        "Miso",
         "Knoblauch",
         "Zucker",
-        "Chiliflocken",
         "Nudeln",
         "Tofu",
         "Shiitake-Pilze",
@@ -3212,6 +3153,11 @@
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Gochujang",
+        "Miso",
+        "Chiliflocken"
       ]
     },
     {
@@ -3226,19 +3172,18 @@
       "restTime": 0,
       "ingredients": [
         "Tomate",
-        "Olivenöl",
         "Knoblauch",
         "Oliven",
         "Kapern",
-        "Miso",
-        "Thymian",
-        "Chiliflocken",
-        "Weiße Bohnen",
-        "Salz",
-        "Pfeffer"
+        "Weiße Bohnen"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Miso",
+        "Thymian",
+        "Chiliflocken"
       ]
     },
     {
@@ -3252,19 +3197,19 @@
       "cookTime": 17,
       "restTime": 0,
       "ingredients": [
-        "Olivenöl",
         "Zitrone",
         "Zwiebel",
         "Knoblauch",
-        "Thymian",
-        "Paprikapulver",
-        "Pfeffer",
         "Weiße Bohnen",
-        "Gemüsebrühe",
-        "Petersilie"
+        "Gemüsebrühe"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Thymian",
+        "Paprikapulver",
+        "Petersilie"
       ]
     },
     {
@@ -3278,22 +3223,22 @@
       "cookTime": 20,
       "restTime": 0,
       "ingredients": [
-        "Zitronengras",
         "Schalotte",
         "Tofu",
-        "Pflanzenöl",
         "Knoblauch",
         "Chili",
         "Wasser",
         "Zucker",
-        "Sojasauce",
         "Glutamat",
         "Speisestärke",
-        "Salz",
         "Limette"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Zitronengras",
+        "Sojasauce"
       ]
     },
     {
@@ -3310,13 +3255,14 @@
         "Weiße Bohnen",
         "Vegane Butter",
         "Hefeflocken",
-        "Pfeffer",
         "Gemüsebrühe",
-        "Veganer Parmesan",
-        "Petersilie"
+        "Veganer Parmesan"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Petersilie"
       ]
     },
     {
@@ -3330,13 +3276,7 @@
       "cookTime": 25,
       "restTime": 0,
       "ingredients": [
-        "Pflanzenöl",
         "Tofu",
-        "Salz",
-        "Sojasauce",
-        "Hoisin-Sauce",
-        "Reisessig",
-        "Pfeffer",
         "Wasser",
         "Speisestärke",
         "Champignons",
@@ -3348,6 +3288,11 @@
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Sojasauce",
+        "Hoisin-Sauce",
+        "Reisessig"
       ]
     },
     {
@@ -3361,15 +3306,11 @@
       "cookTime": 30,
       "restTime": 0,
       "ingredients": [
-        "Kokosöl",
         "Schalotte",
         "Chili",
         "Knoblauch",
         "Ingwer",
-        "Koriander",
-        "Currypaste",
         "Palmzucker",
-        "Salz",
         "Kürbispüree",
         "Kokosmilch",
         "Wasser",
@@ -3381,6 +3322,10 @@
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Koriander",
+        "Currypaste"
       ]
     },
     {
@@ -3400,17 +3345,18 @@
         "Schwarze Bohnen",
         "Quinoa",
         "Knoblauch",
-        "Koriander",
-        "Chilipulver",
-        "Kreuzkümmel",
-        "Chiliflocken",
-        "Salz",
         "Tomate",
         "Tomatenmark",
         "Gemüsebrühe"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Koriander",
+        "Chilipulver",
+        "Kreuzkümmel",
+        "Chiliflocken"
       ]
     },
     {
@@ -3424,20 +3370,19 @@
       "cookTime": 15,
       "restTime": 0,
       "ingredients": [
-        "Olivenöl",
         "Zwiebel",
         "Champignons",
         "Nudeln",
         "Gemüsebrühe",
         "Hefeflocken",
-        "Pfeffer",
         "Cashewbutter",
-        "Zitrone",
-        "Salz",
-        "Petersilie"
+        "Zitrone"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Petersilie"
       ]
     },
     {
@@ -3451,15 +3396,11 @@
       "cookTime": 20,
       "restTime": 3,
       "ingredients": [
-        "Olivenöl",
         "Paniermehl",
         "Knoblauch",
-        "Salz",
-        "Olivenöl",
         "Zwiebel",
         "Knoblauch",
         "Jalapeño",
-        "Kreuzkümmel",
         "Hefeflocken",
         "Nudeln",
         "Gemüsebrühe",
@@ -3467,6 +3408,9 @@
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Kreuzkümmel"
       ]
     },
     {
@@ -3481,22 +3425,21 @@
       "restTime": 0,
       "ingredients": [
         "Tofu",
-        "Salz",
-        "Pfeffer",
         "Mehl",
         "Vegane Butter",
-        "Olivenöl",
         "Schalotte",
         "Knoblauch",
         "Kapern",
         "Gemüsebrühe",
         "Speisestärke",
         "Zitrone",
-        "Zitrone",
-        "Petersilie"
+        "Zitrone"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Petersilie"
       ]
     },
     {
@@ -3516,14 +3459,12 @@
         "Knoblauch",
         "Hefeflocken",
         "Zitrone",
-        "Salz",
         "Pflanzendrink",
         "Wasser",
         "Nudeln",
         "Veganer Mozzarella",
         "Vegane Butter",
-        "Paniermehl",
-        "Salz"
+        "Paniermehl"
       ],
       "tags": [
         "One-Pot"
@@ -3540,14 +3481,12 @@
       "cookTime": 20,
       "restTime": 0,
       "ingredients": [
-        "Pflanzenöl",
         "Reis",
         "Pesto",
         "Knoblauch",
         "Tomate",
         "Oliven",
         "Zucchini",
-        "Salz",
         "Erbsen",
         "Spinat"
       ],
@@ -3568,9 +3507,7 @@
       "ingredients": [
         "Kokosmilch",
         "Wasser",
-        "Oregano",
         "Hefeflocken",
-        "Salz",
         "Nudeln",
         "Karotte",
         "Zucchini",
@@ -3580,11 +3517,13 @@
         "Brokkoli",
         "Erbsen",
         "Tomate",
-        "Zitrone",
-        "Pfeffer"
+        "Zitrone"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Oregano"
       ]
     },
     {
@@ -3598,24 +3537,23 @@
       "cookTime": 35,
       "restTime": 0,
       "ingredients": [
-        "Olivenöl",
         "Zwiebel",
         "Shiitake-Pilze",
         "Ingwer",
         "Knoblauch",
         "Currypulver",
-        "Zimt",
         "Süßkartoffel",
         "Braune Linsen",
         "Gemüsebrühe",
         "Kokosmilch",
         "Grünkohl",
-        "Zitrone",
-        "Salz",
-        "Pfeffer"
+        "Zitrone"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Zimt"
       ]
     },
     {
@@ -3634,15 +3572,15 @@
         "Paprika",
         "Knoblauch",
         "Hefeflocken",
-        "Salz",
-        "Pfeffer",
         "Wasser",
         "Veganes Hackfleisch",
-        "Nudeln",
-        "Petersilie"
+        "Nudeln"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Petersilie"
       ]
     },
     {
@@ -3657,15 +3595,9 @@
       "restTime": 0,
       "ingredients": [
         "Champignons",
-        "Pflanzenöl",
         "Zwiebel",
         "Paprika",
         "Knoblauch",
-        "Kreuzkümmel",
-        "Chipotlepulver",
-        "Thymian",
-        "Paprikapulver",
-        "Salz",
         "Tomate",
         "Kürbispüree",
         "Pinto-Bohnen",
@@ -3673,6 +3605,12 @@
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Kreuzkümmel",
+        "Chipotlepulver",
+        "Thymian",
+        "Paprikapulver"
       ]
     },
     {
@@ -3690,14 +3628,16 @@
         "Zwiebel",
         "Paprika",
         "Knoblauch",
-        "Koriander",
-        "Kreuzkümmel",
         "Schwarze Bohnen",
         "Salsa",
         "Tomate"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Koriander",
+        "Kreuzkümmel"
       ]
     },
     {
@@ -3711,17 +3651,11 @@
       "cookTime": 50,
       "restTime": 5,
       "ingredients": [
-        "Olivenöl",
         "Zwiebel",
         "Paprika",
         "Paprika",
         "Knoblauch",
         "Pinto-Bohnen",
-        "Adobo-Gewürz",
-        "Knoblauchgranulat",
-        "Zwiebelgranulat",
-        "Pfeffer",
-        "Thymian",
         "Brauner Zucker",
         "Kokosmilch",
         "Frühlingszwiebel",
@@ -3730,6 +3664,12 @@
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Adobo-Gewürz",
+        "Knoblauchgranulat",
+        "Zwiebelgranulat",
+        "Thymian"
       ]
     },
     {
@@ -3744,10 +3684,6 @@
       "restTime": 0,
       "ingredients": [
         "Gemüsebrühe",
-        "Rosmarin",
-        "Thymian",
-        "Paprikapulver",
-        "Pfeffer",
         "Kichererbsen",
         "Süßkartoffel",
         "Zwiebel",
@@ -3756,6 +3692,11 @@
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Rosmarin",
+        "Thymian",
+        "Paprikapulver"
       ]
     },
     {
@@ -3769,18 +3710,17 @@
       "cookTime": 25,
       "restTime": 5,
       "ingredients": [
-        "Olivenöl",
-        "Rosmarin",
         "Knoblauch",
         "Kürbis",
         "Quinoa",
         "Gemüsebrühe",
-        "Kichererbsen",
-        "Salz",
-        "Pfeffer"
+        "Kichererbsen"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Rosmarin"
       ]
     },
     {
@@ -3799,17 +3739,19 @@
         "Chinakohl",
         "Karotte",
         "Knoblauch",
-        "Gochujang",
-        "Chiliflocken",
-        "Sojasauce",
         "Zucker",
         "Shiitake-Pilze",
         "Reiskuchen",
-        "Sesamöl",
         "Sesam"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Gochujang",
+        "Chiliflocken",
+        "Sojasauce",
+        "Sesamöl"
       ]
     },
     {
@@ -3829,15 +3771,16 @@
         "Zwiebel",
         "Zucchini",
         "Champignons",
-        "Oregano",
-        "Chiliflocken",
-        "Salz",
         "Passata",
         "Wasser",
         "Spinat"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Oregano",
+        "Chiliflocken"
       ]
     },
     {
@@ -3853,13 +3796,8 @@
       "ingredients": [
         "Gemüsebrühe",
         "Wein",
-        "Paprikapulver",
-        "Pfeffer",
-        "Thymian",
         "Speisestärke",
-        "Pflanzenöl",
         "Tempeh",
-        "Salz",
         "Zwiebel",
         "Knoblauch",
         "Sellerie",
@@ -3869,6 +3807,10 @@
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Paprikapulver",
+        "Thymian"
       ]
     },
     {
@@ -3885,9 +3827,7 @@
         "Zwiebel",
         "Knoblauch",
         "Ingwer",
-        "Koriander",
         "Currypulver",
-        "Chilipulver",
         "Rote Linsen",
         "Kokosmilch",
         "Gemüsebrühe",
@@ -3895,6 +3835,10 @@
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Koriander",
+        "Chilipulver"
       ]
     },
     {
@@ -3909,28 +3853,27 @@
       "restTime": 0,
       "ingredients": [
         "Chana Dal",
-        "Kokosöl",
         "Zwiebel",
         "Knoblauch",
         "Ingwer",
         "Chili",
-        "Kurkuma",
-        "Koriander gemahlen",
-        "Garam Masala",
-        "Chilipulver",
-        "Salz",
         "Wasser",
-        "Kokosöl",
-        "Curryblätter",
-        "Senfkörner",
-        "Kreuzkümmel",
-        "Zimt",
         "Zitrone",
-        "Koriander",
         "Erdnüsse"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Kurkuma",
+        "Koriander gemahlen",
+        "Garam Masala",
+        "Chilipulver",
+        "Curryblätter",
+        "Senfkörner",
+        "Kreuzkümmel",
+        "Zimt",
+        "Koriander"
       ]
     },
     {
@@ -3944,7 +3887,6 @@
       "cookTime": 35,
       "restTime": 0,
       "ingredients": [
-        "Pflanzenöl",
         "Zwiebel",
         "Paprika",
         "Paprika",
@@ -3954,19 +3896,20 @@
         "Brühwürfel",
         "Kapern",
         "Lorbeerblatt",
+        "Straucherbsen",
+        "Kokosmilch",
+        "Reis"
+      ],
+      "tags": [
+        "One-Pot"
+      ],
+      "spices": [
         "Oregano",
         "Kreuzkümmel",
         "Sazon-Gewürz",
         "Sazon-Gewürz",
         "Sojasauce",
-        "Straucherbsen",
-        "Kokosmilch",
-        "Reis",
-        "Koriander",
-        "Pfeffer"
-      ],
-      "tags": [
-        "One-Pot"
+        "Koriander"
       ]
     },
     {
@@ -3980,25 +3923,26 @@
       "cookTime": 20,
       "restTime": 0,
       "ingredients": [
-        "Pflanzenöl",
         "Zwiebel",
         "Paprika",
         "Paprika",
         "Paprika",
-        "Koriander",
         "Knoblauch",
         "Tomatenmark",
         "Brühwürfel",
-        "Sazon-Gewürz",
-        "Kreuzkümmel",
-        "Oregano",
-        "Oregano",
         "Wasser",
         "Veganes Hackfleisch",
         "Oliven"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Koriander",
+        "Sazon-Gewürz",
+        "Kreuzkümmel",
+        "Oregano",
+        "Oregano"
       ]
     },
     {
@@ -4019,13 +3963,15 @@
         "Reis",
         "Gemüsebrühe",
         "Currypulver",
-        "Knoblauchgranulat",
         "Ingwer",
-        "Cashewkerne",
-        "Sojasauce"
+        "Cashewkerne"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Knoblauchgranulat",
+        "Sojasauce"
       ]
     },
     {
@@ -4047,14 +3993,14 @@
         "Gemüsebrühe",
         "Kokosmilch",
         "Hefeflocken",
-        "Senf",
-        "Paprikapulver",
-        "Salz",
-        "Pfeffer",
         "Veganer Mozzarella"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Senf",
+        "Paprikapulver"
       ]
     },
     {
@@ -4070,13 +4016,13 @@
       "ingredients": [
         "Reis",
         "Wasser",
-        "Salz",
-        "Olivenöl",
-        "Limette",
-        "Koriander"
+        "Limette"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Koriander"
       ]
     },
     {
@@ -4098,15 +4044,17 @@
         "Edamame",
         "Nori",
         "Sesam",
-        "Miso",
         "Orange",
-        "Reisessig",
         "Ahornsirup",
-        "Sesamöl",
         "Ingwer"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Miso",
+        "Reisessig",
+        "Sesamöl"
       ]
     },
     {
@@ -4127,14 +4075,14 @@
         "Gemüsebrühe",
         "Pflanzendrink",
         "Hefeflocken",
-        "Salz",
-        "Pfeffer",
-        "Muskatnuss",
         "Spinat",
         "Veganer Frischkäse"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Muskatnuss"
       ]
     },
     {
@@ -4150,18 +4098,19 @@
       "ingredients": [
         "Zwiebel",
         "Knoblauch",
-        "Chipotlepulver",
-        "Kreuzkümmel",
-        "Paprikapulver",
         "Kürbispüree",
         "Tomate",
         "Kokosmilch",
-        "Kichererbsen",
-        "Salz",
-        "Koriander"
+        "Kichererbsen"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Chipotlepulver",
+        "Kreuzkümmel",
+        "Paprikapulver",
+        "Koriander"
       ]
     },
     {
@@ -4178,20 +4127,21 @@
         "Zwiebel",
         "Knoblauch",
         "Ingwer",
-        "Kreuzkümmel",
-        "Kurkuma",
-        "Chiliflocken",
         "Süßkartoffel",
         "Rote Linsen",
         "Tomate",
         "Gemüsebrühe",
         "Erdnussbutter",
-        "Salz",
-        "Erdnüsse",
-        "Koriander"
+        "Erdnüsse"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Kreuzkümmel",
+        "Kurkuma",
+        "Chiliflocken",
+        "Koriander"
       ]
     },
     {
@@ -4211,13 +4161,13 @@
         "Quinoa",
         "Gemüsebrühe",
         "Spargel",
-        "Thymian",
-        "Salz",
-        "Pfeffer",
         "Zitrone"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Thymian"
       ]
     },
     {
@@ -4239,15 +4189,16 @@
         "Mais",
         "Tomate",
         "Gemüsebrühe",
-        "Kreuzkümmel",
-        "Chilipulver",
-        "Paprikapulver",
-        "Salz",
-        "Koriander",
         "Avocado"
       ],
       "tags": [
         "One-Pot"
+      ],
+      "spices": [
+        "Kreuzkümmel",
+        "Chilipulver",
+        "Paprikapulver",
+        "Koriander"
       ]
     }
   ]

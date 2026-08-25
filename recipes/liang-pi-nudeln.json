@@ -21,18 +21,6 @@
       "unit": "l",
       "name": "Wasser",
       "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": "zum Bestreichen"
     }
   ],
   "steps": [

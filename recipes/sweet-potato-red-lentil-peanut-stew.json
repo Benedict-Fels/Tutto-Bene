@@ -29,24 +29,6 @@
       "variety": "daumengroßes Stück"
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kreuzkümmel",
-      "variety": "gemahlen"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kurkuma",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Chiliflocken",
-      "variety": null
-    },
-    {
       "amount": 500,
       "unit": "g",
       "name": "Süßkartoffel",
@@ -77,16 +59,30 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 30,
       "unit": "g",
       "name": "Erdnüsse",
       "variety": "geröstet, gehackt, zum Servieren"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": null
     },
     {
       "amount": 0.25,

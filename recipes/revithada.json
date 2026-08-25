@@ -17,12 +17,6 @@
       "variety": "getrocknet"
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 100,
       "unit": "ml",
       "name": "Olivenöl",
@@ -41,27 +35,23 @@
       "variety": null
     },
     {
-      "amount": 10,
-      "unit": "g",
-      "name": "Thymian",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "Stück",
       "name": "Lorbeerblatt",
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Zitrone",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Thymian",
       "variety": null
     }
   ],

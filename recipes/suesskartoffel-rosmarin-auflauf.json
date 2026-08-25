@@ -17,30 +17,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Rosmarin",
-      "variety": "frisch"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Thymian",
-      "variety": "frisch"
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 510,
       "unit": "g",
       "name": "Kichererbsen",
@@ -69,6 +45,26 @@
       "unit": "g",
       "name": "Reis",
       "variety": "Vollkorn"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Rosmarin",
+      "variety": "frisch"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": "frisch"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": null
     }
   ],
   "steps": [

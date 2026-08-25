@@ -35,30 +35,6 @@
       "variety": null
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Knoblauchgranulat",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Handvoll",
       "name": "Paniermehl",
@@ -89,12 +65,6 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
       "amount": 3.5,
       "unit": "EL",
       "name": "Wasser",
@@ -109,18 +79,6 @@
     {
       "amount": 1,
       "unit": "EL",
-      "name": "Reisessig",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Chiliflocken",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
       "name": "Speisestärke",
       "variety": null
     },
@@ -128,6 +86,38 @@
       "amount": 1,
       "unit": "EL",
       "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Knoblauchgranulat",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Reisessig",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chiliflocken",
       "variety": null
     }
   ],

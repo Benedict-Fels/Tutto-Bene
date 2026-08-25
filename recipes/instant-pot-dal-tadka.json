@@ -17,12 +17,6 @@
       "variety": "oder gelbe Linsen"
     },
     {
-      "amount": 2,
-      "unit": "TL",
-      "name": "Kokosöl",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
@@ -47,6 +41,26 @@
       "variety": "grün, Serrano"
     },
     {
+      "amount": 680,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Erdnüsse",
+      "variety": "geröstet, gehackt, optional"
+    }
+  ],
+  "spices": [
+    {
       "amount": 0.5,
       "unit": "TL",
       "name": "Kurkuma",
@@ -69,24 +83,6 @@
       "unit": "TL",
       "name": "Chilipulver",
       "variety": "Kashmiri"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 680,
-      "unit": "ml",
-      "name": "Wasser",
-      "variety": null
-    },
-    {
-      "amount": 1.5,
-      "unit": "EL",
-      "name": "Kokosöl",
-      "variety": "für die Tarka"
     },
     {
       "amount": 4,
@@ -113,22 +109,10 @@
       "variety": "Stange"
     },
     {
-      "amount": 1.5,
-      "unit": "EL",
-      "name": "Zitrone",
-      "variety": "Saft"
-    },
-    {
       "amount": 0.5,
       "unit": "Bund",
       "name": "Koriander",
       "variety": null
-    },
-    {
-      "amount": 30,
-      "unit": "g",
-      "name": "Erdnüsse",
-      "variety": "geröstet, gehackt, optional"
     }
   ],
   "steps": [

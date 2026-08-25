@@ -29,12 +29,6 @@
       "variety": "plus etwas zum Servieren"
     },
     {
-      "amount": 1.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 0.5,
       "unit": "TL",
       "name": "Zucker",
@@ -51,7 +45,9 @@
       "unit": "EL",
       "name": "Zitrone",
       "variety": "Saft"
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "Bund",

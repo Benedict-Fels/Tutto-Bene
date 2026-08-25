@@ -11,24 +11,6 @@
   "restTime": 30,
   "ingredients": [
     {
-      "amount": 1.5,
-      "unit": "EL",
-      "name": "Anis",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Zimt",
-      "variety": "gehäuft"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Muskatnuss",
-      "variety": "gehäuft, gerieben"
-    },
-    {
       "amount": 320,
       "unit": "g",
       "name": "Zucker",
@@ -65,16 +47,30 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "Prise",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Wein",
       "variety": "Vin Santo, zum Servieren"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Anis",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Zimt",
+      "variety": "gehäuft"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Muskatnuss",
+      "variety": "gehäuft, gerieben"
     }
   ],
   "steps": [

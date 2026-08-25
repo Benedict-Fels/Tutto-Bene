@@ -11,24 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 1,
-      "unit": "Handvoll",
-      "name": "Estragon",
-      "variety": null
-    },
-    {
-      "amount": 60,
-      "unit": "g",
-      "name": "Basilikum",
-      "variety": null
-    },
-    {
-      "amount": 30,
-      "unit": "g",
-      "name": "Petersilie",
-      "variety": null
-    },
-    {
       "amount": 4,
       "unit": "Zehe",
       "name": "Knoblauch",
@@ -53,30 +35,6 @@
       "variety": "Saft"
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Essig",
-      "variety": "Weißwein"
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 5,
       "unit": "Stück",
       "name": "Grünkohl",
@@ -93,6 +51,32 @@
       "unit": "g",
       "name": "Nudeln",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Estragon",
+      "variety": null
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Basilikum",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Essig",
+      "variety": "Weißwein"
     }
   ],
   "steps": [

@@ -33,7 +33,9 @@
       "unit": "EL",
       "name": "Zitrone",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 0.5,
       "unit": "Stück",

@@ -35,12 +35,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "Prise",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 80,
       "unit": "ml",
       "name": "Pflanzenöl",
@@ -69,7 +63,9 @@
       "unit": "Stück",
       "name": "Orange",
       "variety": "nur Schale"
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "EL",

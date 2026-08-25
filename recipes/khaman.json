@@ -31,12 +31,6 @@
     {
       "amount": 1,
       "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
       "name": "Zucker",
       "variety": null
     },
@@ -45,12 +39,6 @@
       "unit": "EL",
       "name": "Zitrone",
       "variety": "Saft"
-    },
-    {
-      "amount": 1.5,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
     },
     {
       "amount": 0.75,
@@ -71,30 +59,6 @@
       "variety": "grün, für die Tarka"
     },
     {
-      "amount": 10,
-      "unit": "g",
-      "name": "Koriander",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": "für die Tarka"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Senfkörner",
-      "variety": null
-    },
-    {
-      "amount": 10,
-      "unit": "Stück",
-      "name": "Curryblätter",
-      "variety": null
-    },
-    {
       "amount": 180,
       "unit": "ml",
       "name": "Wasser",
@@ -107,15 +71,29 @@
       "variety": "für die Tarka"
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": "für die Tarka"
-    },
-    {
       "amount": 1,
       "unit": "EL",
       "name": "Kokosraspeln",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Senfkörner",
+      "variety": null
+    },
+    {
+      "amount": 10,
+      "unit": "Stück",
+      "name": "Curryblätter",
       "variety": null
     }
   ],

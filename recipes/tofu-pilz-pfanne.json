@@ -11,46 +11,10 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 400,
       "unit": "g",
       "name": "Tofu",
       "variety": "extrafest, gepresst"
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 4,
-      "unit": "EL",
-      "name": "Sojasauce",
-      "variety": "Tamari"
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Hoisin-Sauce",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Reisessig",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
     },
     {
       "amount": 240,
@@ -99,6 +63,26 @@
       "unit": "g",
       "name": "Brokkoli",
       "variety": "optional"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": "Tamari"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Hoisin-Sauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Reisessig",
+      "variety": null
     }
   ],
   "steps": [

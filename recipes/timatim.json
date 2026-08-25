@@ -35,27 +35,17 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 4,
       "unit": "EL",
       "name": "Zitrone",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 0.5,
       "unit": "TL",
       "name": "Berbere",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
       "variety": null
     }
   ],

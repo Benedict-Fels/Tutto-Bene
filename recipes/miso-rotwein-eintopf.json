@@ -23,12 +23,6 @@
       "variety": null
     },
     {
-      "amount": 2,
-      "unit": "Stück",
-      "name": "Rosmarin",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Lorbeerblatt",
@@ -59,12 +53,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Miso",
-      "variety": "dunkel"
-    },
-    {
       "amount": 300,
       "unit": "ml",
       "name": "Gemüsebrühe",
@@ -89,18 +77,6 @@
       "variety": null
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Stück",
-      "name": "Rosmarin",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Dose",
       "name": "Limabohnen",
@@ -113,12 +89,6 @@
       "variety": "Soja"
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Miso",
-      "variety": "weiß"
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Hefeflocken",
@@ -129,6 +99,32 @@
       "unit": "Stück",
       "name": "Zitrone",
       "variety": "nur Schale"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Rosmarin",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "dunkel"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Rosmarin",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Miso",
+      "variety": "weiß"
     }
   ],
   "steps": [

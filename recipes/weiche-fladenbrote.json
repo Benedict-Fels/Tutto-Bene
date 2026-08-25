@@ -23,12 +23,6 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "plus etwas zum Bestreichen"
-    },
-    {
       "amount": 230,
       "unit": "ml",
       "name": "Wasser",
@@ -44,12 +38,6 @@
       "amount": 50,
       "unit": "g",
       "name": "Vollkornmehl",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
       "variety": null
     }
   ],

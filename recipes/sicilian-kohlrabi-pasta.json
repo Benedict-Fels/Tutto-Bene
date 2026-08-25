@@ -11,22 +11,10 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 4.75,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "kg",
       "name": "Kohlrabi",
       "variety": "mit Blättern"
-    },
-    {
-      "amount": 4,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "plus etwas zum Verfeinern"
     },
     {
       "amount": 5,
@@ -47,6 +35,14 @@
       "variety": null
     },
     {
+      "amount": 400,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": "Rigatoni"
+    }
+  ],
+  "spices": [
+    {
       "amount": 1,
       "unit": "Handvoll",
       "name": "Basilikum",
@@ -57,12 +53,6 @@
       "unit": "TL",
       "name": "Chiliflocken",
       "variety": null
-    },
-    {
-      "amount": 400,
-      "unit": "g",
-      "name": "Nudeln",
-      "variety": "Rigatoni"
     }
   ],
   "steps": [

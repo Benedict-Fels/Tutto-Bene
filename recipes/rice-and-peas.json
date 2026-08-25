@@ -23,18 +23,6 @@
       "variety": null
     },
     {
-      "amount": 5,
-      "unit": "Stück",
-      "name": "Thymian",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 380,
       "unit": "g",
       "name": "Reis",
@@ -65,16 +53,24 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Piment",
-      "variety": null
-    },
-    {
       "amount": 0.5,
       "unit": "Stück",
       "name": "Chili",
       "variety": "Scotch Bonnet"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 5,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Piment",
+      "variety": null
     }
   ],
   "steps": [

@@ -23,22 +23,18 @@
       "variety": null
     },
     {
-      "amount": 250,
-      "unit": "ml",
-      "name": "Essig",
-      "variety": "Weißwein"
-    },
-    {
       "amount": 1,
       "unit": "EL",
       "name": "Zucker",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
+      "amount": 250,
+      "unit": "ml",
+      "name": "Essig",
+      "variety": "Weißwein"
     }
   ],
   "steps": [

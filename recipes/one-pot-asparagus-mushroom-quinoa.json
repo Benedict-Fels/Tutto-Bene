@@ -48,27 +48,17 @@
     },
     {
       "amount": 1,
-      "unit": "TL",
-      "name": "Thymian",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "EL",
       "name": "Zitrone",
       "variety": "Saft"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": null
     }
   ],
   "steps": [

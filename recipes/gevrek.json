@@ -35,18 +35,6 @@
       "variety": "Brotmehl"
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "zum Einfetten"
-    },
-    {
       "amount": 100,
       "unit": "g",
       "name": "Sesam",
@@ -67,13 +55,15 @@
     {
       "amount": 4,
       "unit": "EL",
-      "name": "Tahini",
+      "name": "Traubenmelasse",
       "variety": "für den Dip"
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 4,
       "unit": "EL",
-      "name": "Traubenmelasse",
+      "name": "Tahini",
       "variety": "für den Dip"
     }
   ],

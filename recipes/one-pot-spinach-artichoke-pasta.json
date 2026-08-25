@@ -53,24 +53,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 0.25,
-      "unit": "TL",
-      "name": "Muskatnuss",
-      "variety": null
-    },
-    {
       "amount": 150,
       "unit": "g",
       "name": "Spinat",
@@ -80,6 +62,14 @@
       "amount": 60,
       "unit": "g",
       "name": "Veganer Frischkäse",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Muskatnuss",
       "variety": null
     }
   ],

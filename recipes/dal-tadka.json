@@ -18,27 +18,9 @@
     },
     {
       "amount": 1,
-      "unit": "TL",
-      "name": "Kurkuma",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
       "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kreuzkümmel",
-      "variety": "ganze Samen"
     },
     {
       "amount": 3,
@@ -65,10 +47,36 @@
       "variety": null
     },
     {
-      "amount": 0.75,
+      "amount": 1,
       "unit": "EL",
-      "name": "Salz",
+      "name": "Zitrone",
+      "variety": "Saft"
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "für die Tarka"
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "getrocknet, für die Tarka"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
       "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "ganze Samen"
     },
     {
       "amount": 1,
@@ -96,39 +104,15 @@
     },
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Zitrone",
-      "variety": "Saft"
-    },
-    {
-      "amount": 1,
       "unit": "TL",
       "name": "Bockshornklee",
       "variety": "getrocknete Blätter, Kasuri Methi"
     },
     {
       "amount": 1,
-      "unit": "Zehe",
-      "name": "Knoblauch",
-      "variety": "für die Tarka"
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": "für die Tarka"
-    },
-    {
-      "amount": 1,
       "unit": "TL",
       "name": "Kreuzkümmel",
       "variety": "ganze Samen, für die Tarka"
-    },
-    {
-      "amount": 2,
-      "unit": "Stück",
-      "name": "Chili",
-      "variety": "getrocknet, für die Tarka"
     },
     {
       "amount": 1,

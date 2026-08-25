@@ -77,18 +77,6 @@
       "variety": "klein"
     },
     {
-      "amount": 20,
-      "unit": "g",
-      "name": "Koriander",
-      "variety": "frisch"
-    },
-    {
-      "amount": 0.25,
-      "unit": "TL",
-      "name": "Kurkuma",
-      "variety": null
-    },
-    {
       "amount": 500,
       "unit": "ml",
       "name": "Wasser",
@@ -99,6 +87,38 @@
       "unit": "Stück",
       "name": "Chili",
       "variety": "getrocknet, Kashmiri"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chana Dal",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "EL",
+      "name": "Urad Dal",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "getrocknet"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": "frisch"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
     },
     {
       "amount": 1,
@@ -119,27 +139,9 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Handvoll",
       "name": "Curryblätter",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Chana Dal",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "EL",
-      "name": "Urad Dal",
       "variety": null
     },
     {
@@ -155,12 +157,6 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 0.5,
       "unit": "TL",
       "name": "Senfkörner",
@@ -173,12 +169,6 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "Stück",
-      "name": "Chili",
-      "variety": "getrocknet"
-    },
-    {
       "amount": 1,
       "unit": "Handvoll",
       "name": "Curryblätter",
@@ -188,12 +178,6 @@
       "amount": 0.125,
       "unit": "TL",
       "name": "Asafoetida",
-      "variety": null
-    },
-    {
-      "amount": 1.5,
-      "unit": "TL",
-      "name": "Salz",
       "variety": null
     }
   ],

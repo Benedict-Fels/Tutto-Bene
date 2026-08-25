@@ -35,6 +35,14 @@
       "variety": "rot, klein"
     },
     {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
       "amount": 30,
       "unit": "g",
       "name": "Petersilie",
@@ -50,24 +58,6 @@
       "amount": 1,
       "unit": "TL",
       "name": "Sumach",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Zitrone",
       "variety": null
     }
   ],

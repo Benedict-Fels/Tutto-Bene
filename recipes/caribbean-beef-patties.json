@@ -24,20 +24,8 @@
     },
     {
       "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "EL",
       "name": "Currypulver",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kurkuma",
       "variety": null
     },
     {
@@ -83,18 +71,6 @@
       "variety": null
     },
     {
-      "amount": 1.5,
-      "unit": "EL",
-      "name": "Jerk-Gewürz",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "Stück",
-      "name": "Thymian",
-      "variety": null
-    },
-    {
       "amount": 0.5,
       "unit": "Stück",
       "name": "Chili",
@@ -120,6 +96,32 @@
     },
     {
       "amount": 1,
+      "unit": "TL",
+      "name": "Melasse",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Jerk-Gewürz",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Thymian",
+      "variety": null
+    },
+    {
+      "amount": 1,
       "unit": "EL",
       "name": "Sojasauce",
       "variety": "dunkel"
@@ -127,19 +129,7 @@
     {
       "amount": 1,
       "unit": "TL",
-      "name": "Melasse",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
       "name": "Rotweinessig",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
       "variety": null
     }
   ],

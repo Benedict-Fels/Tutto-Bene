@@ -17,21 +17,9 @@
       "variety": null
     },
     {
-      "amount": 1.75,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "Stück",
       "name": "Lorbeerblatt",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Pflanzenöl",
       "variety": null
     },
     {
@@ -51,7 +39,9 @@
       "unit": "Zehe",
       "name": "Knoblauch",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "TL",
@@ -62,12 +52,6 @@
       "amount": 1,
       "unit": "TL",
       "name": "Oregano",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
       "variety": null
     }
   ],

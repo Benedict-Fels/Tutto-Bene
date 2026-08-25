@@ -11,12 +11,6 @@
   "restTime": 10,
   "ingredients": [
     {
-      "amount": 4,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
@@ -53,21 +47,17 @@
       "variety": null
     },
     {
-      "amount": 1.5,
-      "unit": "EL",
-      "name": "Berbere",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 800,
       "unit": "ml",
       "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Berbere",
       "variety": null
     }
   ],

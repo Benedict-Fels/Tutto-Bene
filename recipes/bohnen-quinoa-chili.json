@@ -47,6 +47,26 @@
       "variety": null
     },
     {
+      "amount": 800,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": "gehackt, salzfrei"
+    },
+    {
+      "amount": 170,
+      "unit": "g",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 650,
+      "unit": "ml",
+      "name": "Gemüsebrühe",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
       "amount": 1,
       "unit": "Bund",
       "name": "Koriander",
@@ -69,30 +89,6 @@
       "unit": "TL",
       "name": "Chiliflocken",
       "variety": "Cayenne, optional"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 800,
-      "unit": "g",
-      "name": "Tomate",
-      "variety": "gehackt, salzfrei"
-    },
-    {
-      "amount": 170,
-      "unit": "g",
-      "name": "Tomatenmark",
-      "variety": null
-    },
-    {
-      "amount": 650,
-      "unit": "ml",
-      "name": "Gemüsebrühe",
-      "variety": null
     }
   ],
   "steps": [

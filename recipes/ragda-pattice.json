@@ -10,36 +10,134 @@
   "cookTime": 110,
   "restTime": 480,
   "ingredients": [
-    { "amount": 320, "unit": "g", "name": "Weiße Erbsen", "variety": "getrocknet (Vatana)" },
-    { "amount": 1, "unit": "EL", "name": "Salz", "variety": null },
-    { "amount": 0.5, "unit": "TL", "name": "Kurkuma", "variety": null },
-    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": null },
-    { "amount": 1, "unit": "TL", "name": "Chaat Masala", "variety": null },
-    { "amount": 0.125, "unit": "TL", "name": "Asafoetida", "variety": null },
-    { "amount": 0.5, "unit": "EL", "name": "Salz", "variety": null },
-    { "amount": 500, "unit": "g", "name": "Kartoffel", "variety": "mehlig kochend" },
-    { "amount": 1, "unit": "TL", "name": "Salz", "variety": null },
-    { "amount": 30, "unit": "g", "name": "Koriander", "variety": "frisch" },
-    { "amount": 10, "unit": "g", "name": "Minze", "variety": "frisch" },
-    { "amount": 2, "unit": "EL", "name": "Mehl", "variety": null },
-    { "amount": 0.5, "unit": "TL", "name": "Salz", "variety": null },
-    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": null },
-    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": "zum Braten" },
-    { "amount": 50, "unit": "g", "name": "Erbsen", "variety": "tiefgekühlt" },
-    { "amount": 1, "unit": "Handvoll", "name": "Curryblätter", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Chili", "variety": "grün" },
-    { "amount": 30, "unit": "g", "name": "Ingwer", "variety": null },
-    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": null },
-    { "amount": 1, "unit": "TL", "name": "Kreuzkümmel", "variety": null },
-    { "amount": 0.25, "unit": "TL", "name": "Salz", "variety": null },
-    { "amount": 0.25, "unit": "TL", "name": "Garam Masala", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "klein" },
-    { "amount": 0.5, "unit": "Stück", "name": "Zitrone", "variety": null },
-    { "amount": 1, "unit": "EL", "name": "Chutney", "variety": "rote Knoblauch-Chutney" },
-    { "amount": 1, "unit": "EL", "name": "Chutney", "variety": "Tamarinden-Dattel-Chutney" },
-    { "amount": 1, "unit": "EL", "name": "Chutney", "variety": "Koriander-Chutney" },
-    { "amount": 1, "unit": "TL", "name": "Chaat Masala", "variety": null },
-    { "amount": 20, "unit": "g", "name": "Sev", "variety": null }
+    {
+      "amount": 320,
+      "unit": "g",
+      "name": "Weiße Erbsen",
+      "variety": "getrocknet (Vatana)"
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": "mehlig kochend"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Erbsen",
+      "variety": "tiefgekühlt"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "grün"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "klein"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Sev",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chaat Masala",
+      "variety": null
+    },
+    {
+      "amount": 0.125,
+      "unit": "TL",
+      "name": "Asafoetida",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": "frisch"
+    },
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Minze",
+      "variety": "frisch"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Curryblätter",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Garam Masala",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chutney",
+      "variety": "rote Knoblauch-Chutney"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chutney",
+      "variety": "Tamarinden-Dattel-Chutney"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chutney",
+      "variety": "Koriander-Chutney"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chaat Masala",
+      "variety": null
+    }
   ],
   "steps": [
     "Weiße Erbsen mit Salz in reichlich Wasser über Nacht einweichen.",
@@ -53,6 +151,9 @@
     "Pattice in Öl beidseitig goldbraun braten (5-6 Minuten).",
     "Zwiebel fein hacken. Ragda in Schalen verteilen, mit Zitronensaft und den Chutneys beträufeln. Zwei Pattice obenauf, mit weiteren Chutneys, Zwiebel, restlichem Koriander, Chaat Masala und Sev toppen."
   ],
-  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/ragda-pattice-stuffed-potato-fritters-with-spiced-white-pea-curry/" },
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/ragda-pattice-stuffed-potato-fritters-with-spiced-white-pea-curry/"
+  },
   "note": null
 }

@@ -11,12 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 0.5,
       "unit": "Stück",
       "name": "Zitrone",
@@ -35,24 +29,6 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Thymian",
-      "variety": "frisch"
-    },
-    {
-      "amount": 0.25,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": "geräuchert"
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 900,
       "unit": "g",
       "name": "Weiße Bohnen",
@@ -63,6 +39,20 @@
       "unit": "ml",
       "name": "Gemüsebrühe",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": "frisch"
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
     },
     {
       "amount": 2,

@@ -29,24 +29,6 @@
       "variety": null
     },
     {
-      "amount": 3.5,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
@@ -93,23 +75,25 @@
       "unit": "TL",
       "name": "Brühepulver",
       "variety": "Gemüse"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Sojasauce",
+      "variety": null
     },
     {
       "amount": 2,
       "unit": "TL",
       "name": "Paprikapulver",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
       "variety": null
     },
     {

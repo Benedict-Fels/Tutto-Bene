@@ -47,12 +47,6 @@
       "variety": "Saft"
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 590,
       "unit": "ml",
       "name": "Pflanzendrink",
@@ -87,12 +81,6 @@
       "unit": "g",
       "name": "Paniermehl",
       "variety": "Panko"
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": "für die Brösel"
     }
   ],
   "steps": [

@@ -36,6 +36,68 @@
     },
     {
       "amount": 1,
+      "unit": "Stück",
+      "name": "Kartoffel",
+      "variety": "zum Aufspießen"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Salatgurke",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Radieschen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft, für den Salat"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Zitrone",
+      "variety": "Saft, für die Sauce"
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Fladenbrot",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Zwiebel",
+      "variety": "eingelegt, rot"
+    },
+    {
+      "amount": 8,
+      "unit": "Stück",
+      "name": "Peperoni",
+      "variety": "eingelegt"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
       "unit": "EL",
       "name": "Harissa",
       "variety": null
@@ -72,42 +134,6 @@
     },
     {
       "amount": 1,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Stück",
-      "name": "Kartoffel",
-      "variety": "zum Aufspießen"
-    },
-    {
-      "amount": 150,
-      "unit": "g",
-      "name": "Salatgurke",
-      "variety": null
-    },
-    {
-      "amount": 150,
-      "unit": "g",
-      "name": "Tomate",
-      "variety": null
-    },
-    {
-      "amount": 50,
-      "unit": "g",
-      "name": "Radieschen",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "Handvoll",
       "name": "Minze",
       "variety": null
@@ -119,64 +145,10 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "Zehe",
-      "name": "Knoblauch",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": "für den Salat"
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Zitrone",
-      "variety": "Saft, für den Salat"
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": "für den Salat"
-    },
-    {
       "amount": 100,
       "unit": "g",
       "name": "Tahini",
       "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Zitrone",
-      "variety": "Saft, für die Sauce"
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": "für die Sauce"
-    },
-    {
-      "amount": 4,
-      "unit": "Stück",
-      "name": "Fladenbrot",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Handvoll",
-      "name": "Zwiebel",
-      "variety": "eingelegt, rot"
-    },
-    {
-      "amount": 8,
-      "unit": "Stück",
-      "name": "Peperoni",
-      "variety": "eingelegt"
     }
   ],
   "steps": [

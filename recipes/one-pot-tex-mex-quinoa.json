@@ -60,6 +60,14 @@
     },
     {
       "amount": 1,
+      "unit": "Stück",
+      "name": "Avocado",
+      "variety": "zum Servieren, optional"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
       "unit": "TL",
       "name": "Kreuzkümmel",
       "variety": "gemahlen"
@@ -77,22 +85,10 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 0.25,
       "unit": "Bund",
       "name": "Koriander",
       "variety": "zum Servieren"
-    },
-    {
-      "amount": 1,
-      "unit": "Stück",
-      "name": "Avocado",
-      "variety": "zum Servieren, optional"
     }
   ],
   "steps": [

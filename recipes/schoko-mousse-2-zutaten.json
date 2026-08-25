@@ -27,12 +27,6 @@
       "unit": "g",
       "name": "Eiswürfel",
       "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Prise",
-      "name": "Salz",
-      "variety": "als Garnitur, optional"
     }
   ],
   "steps": [

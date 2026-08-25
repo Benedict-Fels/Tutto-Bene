@@ -12,12 +12,6 @@
   "ingredients": [
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Kokosöl",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "Stück",
       "name": "Schalotte",
       "variety": null
@@ -42,26 +36,8 @@
     },
     {
       "amount": 1,
-      "unit": "Bund",
-      "name": "Koriander",
-      "variety": "ein Viertel Bund"
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Currypaste",
-      "variety": "rot, Thai"
-    },
-    {
-      "amount": 1,
       "unit": "EL",
       "name": "Palmzucker",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
       "variety": null
     },
     {
@@ -111,6 +87,20 @@
       "unit": "g",
       "name": "Reis",
       "variety": "zum Servieren"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": "ein Viertel Bund"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Currypaste",
+      "variety": "rot, Thai"
     }
   ],
   "steps": [

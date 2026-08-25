@@ -10,11 +10,36 @@
   "cookTime": 10,
   "restTime": 75,
   "ingredients": [
-    { "amount": 500, "unit": "ml", "name": "Mandarinensaft", "variety": null },
-    { "amount": 50, "unit": "g", "name": "Zucker", "variety": null },
-    { "amount": 50, "unit": "g", "name": "Speisestärke", "variety": null },
-    { "amount": 1, "unit": "Handvoll", "name": "Pistazien", "variety": null },
-    { "amount": 1.5, "unit": "Stück", "name": "Schokolade", "variety": "zartbitter" }
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Mandarinensaft",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Pistazien",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "Stück",
+      "name": "Schokolade",
+      "variety": "zartbitter"
+    }
   ],
   "steps": [
     "Topf, etwas Mandarinensaft, Zucker, Stärke, mixen. Restlicher Saft, leicht kochen.",

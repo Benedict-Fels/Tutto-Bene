@@ -10,40 +10,188 @@
   "cookTime": 95,
   "restTime": 15,
   "ingredients": [
-    { "amount": 2, "unit": "EL", "name": "Sesam", "variety": null },
-    { "amount": 50, "unit": "g", "name": "Kokosraspeln", "variety": null },
-    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "groß, rot" },
-    { "amount": 4, "unit": "Zehe", "name": "Knoblauch", "variety": null },
-    { "amount": 6, "unit": "Stück", "name": "Chili", "variety": "getrocknet, Kashmiri" },
-    { "amount": 1, "unit": "EL", "name": "Koriandersamen", "variety": null },
-    { "amount": 1, "unit": "TL", "name": "Steinblume", "variety": null },
-    { "amount": 1, "unit": "TL", "name": "Kreuzkümmel", "variety": null },
-    { "amount": 0.5, "unit": "TL", "name": "Pfeffer", "variety": "ganze Körner" },
-    { "amount": 2, "unit": "Stück", "name": "Nelken", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Kardamom", "variety": "schwarz" },
-    { "amount": 3, "unit": "Stück", "name": "Kardamom", "variety": "grün" },
-    { "amount": 1, "unit": "Stück", "name": "Sternanis", "variety": null },
-    { "amount": 0.5, "unit": "Stück", "name": "Zimt", "variety": "Stange, klein" },
-    { "amount": 400, "unit": "g", "name": "Moth Beans", "variety": "gekeimt" },
-    { "amount": 1, "unit": "l", "name": "Wasser", "variety": null },
-    { "amount": 20, "unit": "g", "name": "Tamarinde", "variety": "entkernt" },
-    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": null },
-    { "amount": 1, "unit": "TL", "name": "Senfkörner", "variety": null },
-    { "amount": 1, "unit": "Handvoll", "name": "Curryblätter", "variety": null },
-    { "amount": 3, "unit": "Zehe", "name": "Knoblauch", "variety": "groß" },
-    { "amount": 30, "unit": "g", "name": "Ingwer", "variety": null },
-    { "amount": 1.5, "unit": "TL", "name": "Chilipulver", "variety": "Kashmiri" },
-    { "amount": 0.5, "unit": "TL", "name": "Kurkuma", "variety": null },
-    { "amount": 0.25, "unit": "TL", "name": "Asafoetida", "variety": null },
-    { "amount": 0.75, "unit": "EL", "name": "Salz", "variety": null },
-    { "amount": 1, "unit": "TL", "name": "Jaggery", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "klein" },
-    { "amount": 10, "unit": "g", "name": "Koriander", "variety": "frisch" },
-    { "amount": 20, "unit": "g", "name": "Farsan", "variety": null },
-    { "amount": 1, "unit": "Stück", "name": "Zitrone", "variety": null },
-    { "amount": 4, "unit": "Stück", "name": "Brötchen", "variety": "Pav" }
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sesam",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Kokosraspeln",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "groß, rot"
+    },
+    {
+      "amount": 4,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 6,
+      "unit": "Stück",
+      "name": "Chili",
+      "variety": "getrocknet, Kashmiri"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Steinblume",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Moth Beans",
+      "variety": "gekeimt"
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Tamarinde",
+      "variety": "entkernt"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": "groß"
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Ingwer",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Jaggery",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": "klein"
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Farsan",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zitrone",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Brötchen",
+      "variety": "Pav"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Koriandersamen",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Nelken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Kardamom",
+      "variety": "schwarz"
+    },
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Kardamom",
+      "variety": "grün"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Sternanis",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange, klein"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Senfkörner",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Curryblätter",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": "Kashmiri"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Asafoetida",
+      "variety": null
+    },
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": "frisch"
+    }
   ],
   "steps": [
     "Sesam in Pfanne 3-4 Minuten goldbraun rösten. Kokosraspeln dazu, weiterrösten bis golden. Beiseitestellen.",
@@ -59,6 +207,9 @@
     "Zwiebel fein hacken, Koriander hacken, Zitrone in Spalten schneiden.",
     "Batata Bhaji (separates Rezept) in Schalen verteilen, Misal drüber, mit Farsan, Zwiebel, Koriander und Zitronenspalte toppen. Mit Brötchen servieren."
   ],
-  "source": { "name": "Baking Hermann", "url": "https://bakinghermann.com/misal-pav-fiery-sprouted-moth-bean-and-potato-curry/" },
+  "source": {
+    "name": "Baking Hermann",
+    "url": "https://bakinghermann.com/misal-pav-fiery-sprouted-moth-bean-and-potato-curry/"
+  },
   "note": null
 }

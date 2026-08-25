@@ -11,12 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "Dose",
       "name": "Limabohnen",
@@ -26,12 +20,6 @@
       "amount": 2,
       "unit": "Zehe",
       "name": "Knoblauch",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Miso",
       "variety": null
     },
     {
@@ -59,6 +47,20 @@
       "variety": null
     },
     {
+      "amount": 800,
+      "unit": "g",
+      "name": "Kürbis",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": null
+    },
+    {
       "amount": 1,
       "unit": "Handvoll",
       "name": "Koriander",
@@ -68,24 +70,6 @@
       "amount": 1,
       "unit": "Prise",
       "name": "Chiliflocken",
-      "variety": null
-    },
-    {
-      "amount": 800,
-      "unit": "g",
-      "name": "Kürbis",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
       "variety": null
     }
   ],

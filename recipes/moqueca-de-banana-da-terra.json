@@ -11,22 +11,10 @@
   "restTime": 5,
   "ingredients": [
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
       "variety": "groß"
-    },
-    {
-      "amount": 10,
-      "unit": "g",
-      "name": "Koriander",
-      "variety": "frisch"
     },
     {
       "amount": 1,
@@ -59,12 +47,6 @@
       "variety": "groß"
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 900,
       "unit": "g",
       "name": "Kochbanane",
@@ -87,12 +69,14 @@
       "unit": "Stück",
       "name": "Limette",
       "variety": "Schale und Saft"
-    },
+    }
+  ],
+  "spices": [
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Palmöl",
-      "variety": "Dendê"
+      "amount": 10,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": "frisch"
     }
   ],
   "steps": [

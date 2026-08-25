@@ -24,27 +24,17 @@
     },
     {
       "amount": 1,
-      "unit": "TL",
-      "name": "Kardamom",
-      "variety": "gemahlen"
-    },
-    {
-      "amount": 1,
-      "unit": "Prise",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": "zum Einölen"
-    },
-    {
-      "amount": 1,
       "unit": "EL",
       "name": "Wasser",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kardamom",
+      "variety": "gemahlen"
     }
   ],
   "steps": [

@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title>Tutto Bene.</title>
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -67,6 +68,7 @@
         <div class="category-row">
           <span class="category-label">Kategorie</span>
           <div class="category-list" id="category-list"></div>
+          <button type="button" class="sort-toggle" id="sort-toggle">Beste Bewertung zuerst</button>
           <button type="button" class="reset-button" id="reset-button" hidden>Alles zurücksetzen</button>
         </div>
       </div>
@@ -85,6 +87,7 @@
   </main>
 
   <script src="theme.js"></script>
+  <script src="ratings.js"></script>
   <script>
     const state = {
       include: [],
@@ -93,8 +96,15 @@
       categories: [],
       tags: [],
       quick: false,
+      favoritesOnly: false,
+      sortByRating: false,
       text: '',
     };
+
+    // recipeId -> { average, count } — öffentliche Bewertungen, für alle sichtbar
+    let ratingsSummary = new Map();
+    // Set von recipeId — private Favoritenliste des angemeldeten Nutzers
+    let ownFavoriteIds = new Set();
 
     const QUICK_MAX_MINUTES = 30;
     const QUICK_EXCLUDED_TAGS = ['dip', 'getraenk'];
@@ -173,6 +183,13 @@
       const query = params.toString();
       const url = window.location.pathname + (query ? `?${query}` : '');
       window.history.replaceState(null, '', url);
+      // Für "Zurück zur Übersicht" auf der Detailseite (recipe.html) gemerkt,
+      // damit die Filterauswahl beim Zurückgehen erhalten bleibt.
+      try {
+        sessionStorage.setItem('tuttobene-overview-query', query);
+      } catch (err) {
+        // localStorage/sessionStorage kann in seltenen Fällen blockiert sein — dann bleibt der Zurück-Link ohne Filter, kein Absturz.
+      }
     }
 
     function excludedIngredientsFromGroups(groupIds) {
@@ -227,6 +244,8 @@
         if (!haystack.includes(needle)) return false;
       }
 
+      if (s.favoritesOnly && !ownFavoriteIds.has(recipe.id)) return false;
+
       return true;
     }
 
@@ -271,20 +290,49 @@
 
     const UTENSILS_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 5.5 2 10a7 7 0 0 1-2 4.6"></path><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"></path></svg>';
 
-    function badgeVariant(category) {
-      let sum = 0;
-      for (let i = 0; i < category.length; i++) sum += category.charCodeAt(i);
-      return sum % 2 === 0 ? 'variant-accent' : 'variant-accent2';
+    function starsDisplay(average) {
+      // fünf Sterne als Hintergrund (leer), darüber ein per Breite abgeschnittener
+      // gefüllter Layer — erlaubt saubere Halbschritte ohne Sonderzeichen.
+      const percent = Math.max(0, Math.min(100, (average / 5) * 100));
+      return `
+        <span class="stars-empty" aria-hidden="true">☆☆☆☆☆</span>
+        <span class="stars-filled" aria-hidden="true" style="width: ${percent}%">★★★★★</span>
+      `;
+    }
+
+    function ratingBadge(recipe) {
+      const summary = ratingsSummary.get(recipe.id);
+      if (!summary) return '';
+      const average = formatNumber(summary.average);
+      return `
+        <p class="card-rating">
+          <span class="stars">${starsDisplay(summary.average)}</span>
+          <span class="rating-text">${average} (${summary.count})</span>
+        </p>
+      `;
+    }
+
+    function formatNumber(number) {
+      const rounded = Math.round(number * 10) / 10;
+      return rounded.toString().replace('.', ',');
+    }
+
+    function favoriteButton(recipe) {
+      const active = ownFavoriteIds.has(recipe.id);
+      return `
+        <button type="button" class="badge-icon favorite-toggle ${active ? 'active' : ''}" data-favorite-id="${encodeURIComponent(recipe.id)}" aria-label="${active ? 'Favorit entfernen' : 'Als Favorit markieren'}" aria-pressed="${active}">
+          ${UTENSILS_ICON}
+        </button>
+      `;
     }
 
     function recipeCard(recipe) {
-      const badge = `<span class="badge-icon ${badgeVariant(recipe.category)}" aria-hidden="true">${UTENSILS_ICON}</span>`;
       const image = recipe.image
         ? `<img class="card-image" src="${recipe.image}" alt="" loading="lazy">`
         : `<div class="card-image-placeholder">kein Bild</div>`;
       return `
         <a class="card" href="recipe.html?id=${encodeURIComponent(recipe.id)}">
-          <div class="card-image-wrap">${image}${badge}</div>
+          <div class="card-image-wrap">${image}${ratingBadge(recipe)}${favoriteButton(recipe)}</div>
           <div class="card-content">
             <span class="badge">${recipe.category}</span>
             <h2>${recipe.title}</h2>
@@ -292,6 +340,27 @@
           </div>
         </a>
       `;
+    }
+
+    function attachFavoriteHandlers(container) {
+      container.querySelectorAll('[data-favorite-id]').forEach(button => {
+        button.addEventListener('click', async (event) => {
+          event.preventDefault();
+          event.stopPropagation();
+          const identity = await Ratings.ensureIdentityDialog();
+          if (!identity) return;
+          const recipeId = decodeURIComponent(button.dataset.favoriteId);
+          const nowActive = !ownFavoriteIds.has(recipeId);
+          try {
+            await Ratings.setFavorite(recipeId, nowActive);
+            if (nowActive) ownFavoriteIds.add(recipeId);
+            else ownFavoriteIds.delete(recipeId);
+            renderAll();
+          } catch (err) {
+            alert('Favorit konnte nicht gespeichert werden. Bitte später erneut versuchen.');
+          }
+        });
+      });
     }
 
     function renderChips() {
@@ -365,6 +434,10 @@
         pills.push(`<button type="button" class="category-pill ${state.quick ? 'active' : ''}" data-quick="1">Schnell</button>`);
       }
 
+      if (Ratings.getIdentity()) {
+        pills.push(`<button type="button" class="category-pill ${state.favoritesOnly ? 'active' : ''}" data-favorites-only="1">★ Nur Favoriten</button>`);
+      }
+
       container.innerHTML = pills.join('');
 
       container.querySelectorAll('[data-category]').forEach(pill => {
@@ -396,6 +469,13 @@
       container.querySelectorAll('[data-quick]').forEach(pill => {
         pill.addEventListener('click', () => {
           state.quick = !state.quick;
+          renderAll();
+        });
+      });
+
+      container.querySelectorAll('[data-favorites-only]').forEach(pill => {
+        pill.addEventListener('click', () => {
+          state.favoritesOnly = !state.favoritesOnly;
           renderAll();
         });
       });
@@ -446,9 +526,20 @@
       } else {
         grid.hidden = false;
         emptyState.hidden = true;
-        const sorted = [...results].sort((a, b) => a.title.localeCompare(b.title, 'de'));
+        const sorted = state.sortByRating
+          ? [...results].sort((a, b) => {
+              const ratingA = ratingsSummary.get(a.id);
+              const ratingB = ratingsSummary.get(b.id);
+              // Rezepte ohne Bewertung stehen hinten, nicht bei 0 Sternen (Spec E9, Abschnitt 6)
+              if (!ratingA && !ratingB) return a.title.localeCompare(b.title, 'de');
+              if (!ratingA) return 1;
+              if (!ratingB) return -1;
+              return ratingB.average - ratingA.average || a.title.localeCompare(b.title, 'de');
+            })
+          : [...results].sort((a, b) => a.title.localeCompare(b.title, 'de'));
         const visible = sorted.slice(0, visibleCount);
         grid.innerHTML = visible.map(recipeCard).join('');
+        attachFavoriteHandlers(grid);
 
         if (visible.length < sorted.length) {
           sentinel.hidden = false;
@@ -460,6 +551,7 @@
       }
 
       document.getElementById('reset-button').hidden = !hasActiveFilters();
+      document.getElementById('sort-toggle').classList.toggle('active', state.sortByRating);
 
       renderChips();
       renderCategoryPills(allCategories);
@@ -618,10 +710,18 @@
         state.categories = [];
         state.tags = [];
         state.quick = false;
+        state.favoritesOnly = false;
         state.text = '';
-        // state.exclude und state.excludeGroups bleiben bewusst erhalten
+        // state.exclude, state.excludeGroups und state.sortByRating bleiben bewusst erhalten
         renderAll();
         setupStaticControls(categories);
+      });
+
+      const sortToggle = document.getElementById('sort-toggle');
+      sortToggle.classList.toggle('active', state.sortByRating);
+      sortToggle.addEventListener('click', () => {
+        state.sortByRating = !state.sortByRating;
+        renderAll();
       });
     }
 
@@ -647,6 +747,17 @@
 
       const categories = [...new Set(allRecipes.map(r => r.category))].sort((a, b) => a.localeCompare(b, 'de'));
       allCategories = categories;
+
+      try {
+        ratingsSummary = await Ratings.ratingsForRecipes(allRecipes.map(r => r.id));
+      } catch (err) {
+        ratingsSummary = new Map();
+      }
+      try {
+        ownFavoriteIds = await Ratings.ownFavorites();
+      } catch (err) {
+        ownFavoriteIds = new Set();
+      }
 
       readStateFromUrl();
       setupStaticControls(categories);

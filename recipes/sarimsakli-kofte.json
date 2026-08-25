@@ -41,24 +41,6 @@
       "variety": "mild"
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Kreuzkümmel",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 50,
-      "unit": "g",
-      "name": "Petersilie",
-      "variety": null
-    },
-    {
       "amount": 4,
       "unit": "Stück",
       "name": "Tomate",
@@ -71,28 +53,30 @@
       "variety": null
     },
     {
-      "amount": 5,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 80,
       "unit": "g",
       "name": "Paprikapaste",
       "variety": "mild, für die Sauce"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Kreuzkümmel",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Petersilie",
+      "variety": null
     },
     {
       "amount": 1,
       "unit": "EL",
       "name": "Chiliflocken",
       "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": "für die Sauce"
     }
   ],
   "steps": [

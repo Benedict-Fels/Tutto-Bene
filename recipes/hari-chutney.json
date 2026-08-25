@@ -11,12 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 100,
-      "unit": "g",
-      "name": "Koriander",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Chili",
@@ -26,12 +20,6 @@
       "amount": 1,
       "unit": "Zehe",
       "name": "Knoblauch",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Kreuzkümmel",
       "variety": null
     },
     {
@@ -45,11 +33,19 @@
       "unit": "ml",
       "name": "Wasser",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Koriander",
+      "variety": null
     },
     {
       "amount": 0.5,
       "unit": "TL",
-      "name": "Salz",
+      "name": "Kreuzkümmel",
       "variety": null
     }
   ],

@@ -17,15 +17,17 @@
       "variety": null
     },
     {
-      "amount": 125,
-      "unit": "ml",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
       "amount": 1.5,
       "unit": "g",
       "name": "Agar Agar",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Sojasauce",
       "variety": null
     }
   ],

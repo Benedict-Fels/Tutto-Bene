@@ -17,21 +17,9 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": "für den Teig"
-    },
-    {
       "amount": 260,
       "unit": "ml",
       "name": "Wasser",
-      "variety": null
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Pflanzenöl",
       "variety": null
     },
     {
@@ -47,17 +35,19 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": "für die Füllung"
-    },
-    {
       "amount": 4,
       "unit": "Zehe",
       "name": "Knoblauch",
       "variety": null
     },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    }
+  ],
+  "spices": [
     {
       "amount": 25,
       "unit": "g",
@@ -83,21 +73,9 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
       "amount": 0.25,
       "unit": "TL",
       "name": "Chiliflocken",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "Stück",
-      "name": "Lorbeerblatt",
       "variety": null
     }
   ],

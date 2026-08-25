@@ -11,18 +11,6 @@
   "restTime": 5,
   "ingredients": [
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "Stück",
-      "name": "Rosmarin",
-      "variety": "Zweig"
-    },
-    {
       "amount": 2.5,
       "unit": "Zehe",
       "name": "Knoblauch",
@@ -51,18 +39,14 @@
       "unit": "g",
       "name": "Kichererbsen",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
-      "variety": null
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Rosmarin",
+      "variety": "Zweig"
     }
   ],
   "steps": [

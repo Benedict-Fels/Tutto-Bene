@@ -61,20 +61,8 @@
     {
       "amount": 2,
       "unit": "EL",
-      "name": "Miso",
-      "variety": "weiß"
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
       "name": "Orange",
       "variety": "Saft"
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Reisessig",
-      "variety": null
     },
     {
       "amount": 1,
@@ -85,14 +73,28 @@
     {
       "amount": 1,
       "unit": "TL",
-      "name": "Sesamöl",
+      "name": "Ingwer",
+      "variety": "gerieben"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "weiß"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Reisessig",
       "variety": null
     },
     {
       "amount": 1,
       "unit": "TL",
-      "name": "Ingwer",
-      "variety": "gerieben"
+      "name": "Sesamöl",
+      "variety": null
     }
   ],
   "steps": [

@@ -33,12 +33,6 @@
       "unit": "g",
       "name": "Bulgur",
       "variety": "grob"
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Salz",
-      "variety": null
     }
   ],
   "steps": [

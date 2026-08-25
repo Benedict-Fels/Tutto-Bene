@@ -23,39 +23,15 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Kurkuma",
-      "variety": null
-    },
-    {
       "amount": 30,
       "unit": "g",
       "name": "Speisestärke",
       "variety": null
     },
     {
-      "amount": 120,
-      "unit": "ml",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
       "amount": 4,
       "unit": "EL",
       "name": "Ahornsirup",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Reisessig",
       "variety": null
     },
     {
@@ -86,6 +62,26 @@
       "amount": 2,
       "unit": "EL",
       "name": "Wasser",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Kurkuma",
+      "variety": null
+    },
+    {
+      "amount": 120,
+      "unit": "ml",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Reisessig",
       "variety": null
     },
     {

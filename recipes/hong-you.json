@@ -13,37 +13,7 @@
     {
       "amount": 2,
       "unit": "Stück",
-      "name": "Sternanis",
-      "variety": null
-    },
-    {
-      "amount": 4,
-      "unit": "Stück",
-      "name": "Nelken",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "Stück",
       "name": "Lorbeerblatt",
-      "variety": null
-    },
-    {
-      "amount": 2,
-      "unit": "Stück",
-      "name": "Kardamom",
-      "variety": "schwarz, optional"
-    },
-    {
-      "amount": 1,
-      "unit": "Stück",
-      "name": "Zimt",
-      "variety": "Stange"
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sichuan-Pfeffer",
       "variety": null
     },
     {
@@ -75,11 +45,37 @@
       "unit": "g",
       "name": "Chili",
       "variety": "getrocknet, ganze Sichuan-Chilis"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Sternanis",
+      "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
+      "amount": 4,
+      "unit": "Stück",
+      "name": "Nelken",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Kardamom",
+      "variety": "schwarz, optional"
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zimt",
+      "variety": "Stange"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sichuan-Pfeffer",
       "variety": null
     }
   ],

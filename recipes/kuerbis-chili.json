@@ -18,12 +18,6 @@
     },
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": "Avocadoöl, optional"
-    },
-    {
-      "amount": 1,
       "unit": "Stück",
       "name": "Zwiebel",
       "variety": "rot"
@@ -38,36 +32,6 @@
       "amount": 3,
       "unit": "Zehe",
       "name": "Knoblauch",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kreuzkümmel",
-      "variety": "gemahlen"
-    },
-    {
-      "amount": 0.75,
-      "unit": "TL",
-      "name": "Chipotlepulver",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Thymian",
-      "variety": "frisch"
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": "geräuchert"
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Salz",
       "variety": null
     },
     {
@@ -93,6 +57,32 @@
       "unit": "ml",
       "name": "Gemüsebrühe",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 0.75,
+      "unit": "TL",
+      "name": "Chipotlepulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": "frisch"
+    },
+    {
+      "amount": 0.5,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
     }
   ],
   "steps": [

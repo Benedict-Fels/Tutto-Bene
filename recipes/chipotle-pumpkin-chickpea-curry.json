@@ -23,24 +23,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Chipotlepulver",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Kreuzkümmel",
-      "variety": "gemahlen"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Paprikapulver",
-      "variety": "geräuchert"
-    },
-    {
       "amount": 400,
       "unit": "g",
       "name": "Kürbispüree",
@@ -63,12 +45,26 @@
       "unit": "Dose",
       "name": "Kichererbsen",
       "variety": "abgetropft"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Chipotlepulver",
+      "variety": null
     },
     {
       "amount": 1,
       "unit": "TL",
-      "name": "Salz",
-      "variety": null
+      "name": "Kreuzkümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "geräuchert"
     },
     {
       "amount": 0.25,

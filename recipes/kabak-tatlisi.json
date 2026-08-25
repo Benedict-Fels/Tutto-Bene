@@ -27,7 +27,9 @@
       "unit": "g",
       "name": "Walnüsse",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 80,
       "unit": "g",

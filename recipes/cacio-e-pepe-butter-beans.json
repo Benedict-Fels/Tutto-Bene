@@ -29,12 +29,6 @@
       "variety": null
     },
     {
-      "amount": 2,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": "grob gemahlen"
-    },
-    {
       "amount": 240,
       "unit": "ml",
       "name": "Gemüsebrühe",
@@ -45,7 +39,9 @@
       "unit": "g",
       "name": "Veganer Parmesan",
       "variety": "gerieben"
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 1,
       "unit": "EL",

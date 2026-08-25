@@ -18,12 +18,6 @@
     },
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Miso",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "Stück",
       "name": "Kombu",
       "variety": null
@@ -42,18 +36,6 @@
     },
     {
       "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "Stück",
       "name": "Limette",
       "variety": "Saft"
@@ -65,21 +47,9 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Fünf-Gewürz-Pulver",
-      "variety": null
-    },
-    {
       "amount": 200,
       "unit": "g",
       "name": "Tempeh",
-      "variety": null
-    },
-    {
-      "amount": 1.5,
-      "unit": "TL",
-      "name": "Sojasauce",
       "variety": null
     },
     {
@@ -93,6 +63,26 @@
       "unit": "g",
       "name": "Reis",
       "variety": "Jasmin"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Fünf-Gewürz-Pulver",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Sojasauce",
+      "variety": null
     },
     {
       "amount": 1,

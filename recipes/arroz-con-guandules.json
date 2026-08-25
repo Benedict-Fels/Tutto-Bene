@@ -11,12 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": null
-    },
-    {
       "amount": 0.5,
       "unit": "Stück",
       "name": "Zwiebel",
@@ -71,6 +65,26 @@
       "variety": null
     },
     {
+      "amount": 439,
+      "unit": "g",
+      "name": "Straucherbsen",
+      "variety": "getrocknet, mit Einweichflüssigkeit, aus der Dose"
+    },
+    {
+      "amount": 400,
+      "unit": "ml",
+      "name": "Kokosmilch",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Reis",
+      "variety": "weiß"
+    }
+  ],
+  "spices": [
+    {
       "amount": 1,
       "unit": "TL",
       "name": "Oregano",
@@ -101,33 +115,9 @@
       "variety": "Tamari"
     },
     {
-      "amount": 439,
-      "unit": "g",
-      "name": "Straucherbsen",
-      "variety": "getrocknet, mit Einweichflüssigkeit, aus der Dose"
-    },
-    {
-      "amount": 400,
-      "unit": "ml",
-      "name": "Kokosmilch",
-      "variety": null
-    },
-    {
-      "amount": 400,
-      "unit": "g",
-      "name": "Reis",
-      "variety": "weiß"
-    },
-    {
       "amount": 1,
       "unit": "Bund",
       "name": "Koriander",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
       "variety": null
     }
   ],

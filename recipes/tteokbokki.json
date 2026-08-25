@@ -41,24 +41,6 @@
       "variety": "gehackt"
     },
     {
-      "amount": 2.5,
-      "unit": "EL",
-      "name": "Gochujang",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Chiliflocken",
-      "variety": "koreanisch, Gochugaru, optional"
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Sojasauce",
-      "variety": "Tamari"
-    },
-    {
       "amount": 1,
       "unit": "TL",
       "name": "Zucker",
@@ -77,16 +59,36 @@
       "variety": "koreanisch"
     },
     {
-      "amount": 1.5,
-      "unit": "TL",
-      "name": "Sesamöl",
-      "variety": "geröstet"
-    },
-    {
       "amount": 1,
       "unit": "EL",
       "name": "Sesam",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2.5,
+      "unit": "EL",
+      "name": "Gochujang",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Chiliflocken",
+      "variety": "koreanisch, Gochugaru, optional"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": "Tamari"
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Sesamöl",
+      "variety": "geröstet"
     }
   ],
   "steps": [

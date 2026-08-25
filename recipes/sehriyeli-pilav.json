@@ -17,22 +17,10 @@
       "variety": "Rundkorn"
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 30,
       "unit": "g",
       "name": "Nudeln",
       "variety": "Orzo"
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
     },
     {
       "amount": 460,

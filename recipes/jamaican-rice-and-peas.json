@@ -11,12 +11,6 @@
   "restTime": 5,
   "ingredients": [
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 0.25,
       "unit": "Stück",
       "name": "Zwiebel",
@@ -47,36 +41,6 @@
       "variety": "aus der Dose"
     },
     {
-      "amount": 1.75,
-      "unit": "TL",
-      "name": "Adobo-Gewürz",
-      "variety": null
-    },
-    {
-      "amount": 1.5,
-      "unit": "TL",
-      "name": "Knoblauchgranulat",
-      "variety": null
-    },
-    {
-      "amount": 1.5,
-      "unit": "TL",
-      "name": "Zwiebelgranulat",
-      "variety": null
-    },
-    {
-      "amount": 0.5,
-      "unit": "TL",
-      "name": "Pfeffer",
-      "variety": null
-    },
-    {
-      "amount": 0.25,
-      "unit": "TL",
-      "name": "Thymian",
-      "variety": "getrocknet"
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Brauner Zucker",
@@ -105,6 +69,32 @@
       "unit": "g",
       "name": "Reis",
       "variety": "Vollkorn, Langkorn"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 1.75,
+      "unit": "TL",
+      "name": "Adobo-Gewürz",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Knoblauchgranulat",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Zwiebelgranulat",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Thymian",
+      "variety": "getrocknet"
     }
   ],
   "steps": [

@@ -29,22 +29,10 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "Bund",
-      "name": "Koriander",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "EL",
       "name": "Currypulver",
       "variety": "salzfrei"
-    },
-    {
-      "amount": 0.25,
-      "unit": "TL",
-      "name": "Chilipulver",
-      "variety": "Cayenne, optional"
     },
     {
       "amount": 300,
@@ -69,6 +57,20 @@
       "unit": "ml",
       "name": "Wasser",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 0.5,
+      "unit": "Bund",
+      "name": "Koriander",
+      "variety": null
+    },
+    {
+      "amount": 0.25,
+      "unit": "TL",
+      "name": "Chilipulver",
+      "variety": "Cayenne, optional"
     }
   ],
   "steps": [

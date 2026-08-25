@@ -11,12 +11,6 @@
   "restTime": 0,
   "ingredients": [
     {
-      "amount": 3,
-      "unit": "Stück",
-      "name": "Zitronengras",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Schalotte",
@@ -27,12 +21,6 @@
       "unit": "g",
       "name": "Tofu",
       "variety": "extrafest, gepresst"
-    },
-    {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Pflanzenöl",
-      "variety": "Avocadoöl"
     },
     {
       "amount": 4,
@@ -59,12 +47,6 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Sojasauce",
-      "variety": null
-    },
-    {
       "amount": null,
       "unit": null,
       "name": "Glutamat",
@@ -77,16 +59,24 @@
       "variety": null
     },
     {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
       "amount": 1,
       "unit": "Stück",
       "name": "Limette",
       "variety": "zum Servieren"
+    }
+  ],
+  "spices": [
+    {
+      "amount": 3,
+      "unit": "Stück",
+      "name": "Zitronengras",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
     }
   ],
   "steps": [

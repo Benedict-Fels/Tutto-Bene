@@ -17,18 +17,6 @@
       "variety": null
     },
     {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Miso",
-      "variety": "braun"
-    },
-    {
-      "amount": 2,
-      "unit": "EL",
-      "name": "Reisessig",
-      "variety": null
-    },
-    {
       "amount": 3,
       "unit": "Stück",
       "name": "Schalotte",
@@ -39,12 +27,6 @@
       "unit": "Stück",
       "name": "Chili",
       "variety": "rot"
-    },
-    {
-      "amount": 2,
-      "unit": "Stück",
-      "name": "Zitronengras",
-      "variety": null
     },
     {
       "amount": 100,
@@ -59,18 +41,6 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sesamöl",
-      "variety": null
-    },
-    {
-      "amount": 4,
-      "unit": "EL",
-      "name": "Tahini",
-      "variety": null
-    },
-    {
       "amount": 240,
       "unit": "ml",
       "name": "Wasser",
@@ -80,18 +50,6 @@
       "amount": 250,
       "unit": "g",
       "name": "Waldpilze",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Fünf-Gewürz-Pulver",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "EL",
-      "name": "Sojasauce",
       "variety": null
     },
     {
@@ -108,12 +66,6 @@
     },
     {
       "amount": 1,
-      "unit": "Handvoll",
-      "name": "Koriander",
-      "variety": null
-    },
-    {
-      "amount": 1,
       "unit": "EL",
       "name": "Sesam",
       "variety": null
@@ -122,6 +74,56 @@
       "amount": 1,
       "unit": "Stück",
       "name": "Pak Choi",
+      "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "braun"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Reisessig",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Zitronengras",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sesamöl",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Tahini",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Fünf-Gewürz-Pulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Sojasauce",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Koriander",
       "variety": null
     }
   ],

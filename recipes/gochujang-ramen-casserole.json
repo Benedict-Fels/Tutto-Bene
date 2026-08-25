@@ -17,18 +17,6 @@
       "variety": null
     },
     {
-      "amount": 3,
-      "unit": "EL",
-      "name": "Gochujang",
-      "variety": null
-    },
-    {
-      "amount": 1.5,
-      "unit": "EL",
-      "name": "Miso",
-      "variety": "hell"
-    },
-    {
       "amount": 5,
       "unit": "Zehe",
       "name": "Knoblauch",
@@ -39,12 +27,6 @@
       "unit": "TL",
       "name": "Zucker",
       "variety": null
-    },
-    {
-      "amount": 1.5,
-      "unit": "TL",
-      "name": "Chiliflocken",
-      "variety": "koreanisch, Gochugaru"
     },
     {
       "amount": 4,
@@ -87,6 +69,26 @@
       "unit": "Stück",
       "name": "Frühlingszwiebel",
       "variety": null
+    }
+  ],
+  "spices": [
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Gochujang",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "EL",
+      "name": "Miso",
+      "variety": "hell"
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Chiliflocken",
+      "variety": "koreanisch, Gochugaru"
     }
   ],
   "steps": [

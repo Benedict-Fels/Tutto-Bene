@@ -23,23 +23,13 @@
       "variety": null
     },
     {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": 1,
-      "unit": "TL",
-      "name": "Olivenöl",
-      "variety": null
-    },
-    {
       "amount": 2,
       "unit": "EL",
       "name": "Limette",
       "variety": "Saft"
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 0.25,
       "unit": "Bund",

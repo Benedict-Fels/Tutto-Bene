@@ -57,7 +57,9 @@
       "unit": "Stück",
       "name": "Lorbeerblatt",
       "variety": null
-    },
+    }
+  ],
+  "spices": [
     {
       "amount": 0.5,
       "unit": "TL",
@@ -86,18 +88,6 @@
       "amount": 1,
       "unit": "TL",
       "name": "Garam Masala",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Salz",
-      "variety": null
-    },
-    {
-      "amount": null,
-      "unit": null,
-      "name": "Pfeffer",
       "variety": null
     },
     {
