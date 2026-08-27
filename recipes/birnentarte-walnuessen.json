@@ -1,0 +1,43 @@
+{
+  "id": "birnentarte-walnuessen",
+  "title": "Birnentarte mit Walnüssen",
+  "summary": "Knuspriger Mürbeteig mit Apfel-Birnen-Mark, gefächerten Birnen und gehackten Walnüssen.",
+  "image": "images/birnentarte-walnuessen.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 10,
+  "prepTime": 40,
+  "cookTime": 40,
+  "restTime": 45,
+  "ingredients": [
+    { "amount": 240, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 95, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 1, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 120, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Vegane Butter", "variety": "zum Einfetten" },
+    { "amount": 15, "unit": "g", "name": "Pflanzendrink", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Apfelmark", "variety": "mit Birne" },
+    { "amount": 440, "unit": "g", "name": "Birnen", "variety": "geschält, entkernt, ca. 3-4 Stück" },
+    { "amount": 37.5, "unit": "g", "name": "Walnüsse", "variety": "grob gehackt" },
+    { "amount": 100, "unit": "g", "name": "Aprikosenmarmelade", "variety": "glatt, optional" },
+    { "amount": 20, "unit": "g", "name": "Wasser", "variety": "optional, für die Marmelade" }
+  ],
+  "steps": [
+    "Mehl, Puderzucker und Salz gründlich vermischen.",
+    "Butter und Pflanzendrink dazu, zu Teig verkneten.",
+    "Zur Kugel formen, in Folie wickeln, 30-60 Minuten kalt stellen.",
+    "Ofen auf 200 °C Ober-/Unterhitze vorheizen.",
+    "Tarteform einfetten.",
+    "Birnen vierteln, entkernen, in dünne Scheiben schneiden.",
+    "Walnüsse grob hacken.",
+    "Teig auf ca. 29-30 cm ausrollen.",
+    "In die Form legen, überstehenden Rand abschneiden.",
+    "Apfel-Birnen-Mark auf dem Teigboden verteilen.",
+    "Birnenscheiben fächerartig von außen nach innen anordnen.",
+    "Walnüsse darüberstreuen.",
+    "40 Minuten auf mittlerer Schiene backen.",
+    "Optional: heiße Aprikosenmarmelade mit Wasser erwärmen, warme Tarte damit bestreichen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-vegane-birnentarte-mit-walnuessen/" },
+  "note": null
+}

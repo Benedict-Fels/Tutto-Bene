@@ -1,0 +1,118 @@
+{
+  "id": "spitzkohl-kartoffel-auflauf",
+  "title": "Spitzkohl-Kartoffel-Auflauf",
+  "summary": "Herzhafter Auflauf aus Pellkartoffeln und Spitzkohl mit veganer Béchamelsoße, überbacken mit Käse.",
+  "image": "images/spitzkohl-kartoffel-auflauf.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 50,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 700,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": "festkochend"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Spitzkohl",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "g",
+      "name": "Kümmel",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 90,
+      "unit": "g",
+      "name": "Veganer Käse",
+      "variety": "gerieben"
+    },
+    {
+      "amount": 15,
+      "unit": "g",
+      "name": "Brühepulver",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 25,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": "Soja"
+    },
+    {
+      "amount": 5,
+      "unit": "g",
+      "name": "Brühepulver",
+      "variety": null
+    },
+    {
+      "amount": 15,
+      "unit": "g",
+      "name": "Hefeflocken",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Muskatnuss",
+      "variety": "gemahlen"
+    }
+  ],
+  "steps": [
+    "Kartoffeln ungeschält in Topf geben, mit Wasser knapp bedecken, salzen.",
+    "Aufkochen, Hitze reduzieren, mit Deckel 20-25 Minuten köcheln bis gar.",
+    "Abgießen, kurz ausdampfen und abkühlen lassen, dann schälen und in Scheiben schneiden.",
+    "Für die Béchamel: Pflanzendrink leicht erwärmen.",
+    "Butter im Topf schmelzen, Mehl dazu, ständig rühren, 1,5 Minuten anschwitzen.",
+    "Warmen Pflanzendrink nach und nach unter Rühren zugeben, glattrühren.",
+    "Unter ständigem Rühren aufkochen, 5-10 Minuten bei kleiner Hitze köcheln, oft umrühren.",
+    "Mit Brühepulver, Hefeflocken, Pfeffer und Muskatnuss würzen.",
+    "Zwiebeln fein würfeln.",
+    "Spitzkohl halbieren, vierteln, Strunk entfernen, in feine Streifen schneiden.",
+    "Ofen auf 220°C Ober-/Unterhitze vorheizen.",
+    "Butter in großer Pfanne erhitzen, Zwiebeln 7 Minuten andünsten.",
+    "Spitzkohl dazu, mit Deckel 10 Minuten dünsten, gelegentlich umrühren, bis leicht gebräunt.",
+    "Mit Brühepulver, Kümmel und Pfeffer würzen.",
+    "Kartoffelscheiben mit Kohl-Zwiebel-Mischung vermischen.",
+    "In große Auflaufform geben.",
+    "Béchamelsoße gleichmäßig darübergießen.",
+    "Mit Käse bestreuen.",
+    "25 Minuten auf unterer Schiene backen."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/veganer-spitzkohl-kartoffel-auflauf/"
+  },
+  "note": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "haehnchen-curry-erdnuss-kokos",
+  "title": "Hähnchen-Curry mit Erdnuss-Kokos-Soße",
+  "summary": "Cremiges Curry mit veganem Hähnchen, Wok-Gemüse und einer würzigen Erdnuss-Kokos-Soße.",
+  "image": "images/haehnchen-curry-erdnuss-kokos.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 180, "unit": "g", "name": "Veganes Hähnchen", "variety": null },
+    { "amount": 600, "unit": "g", "name": "TK-Gemüsemischung", "variety": "Wok-Gemüse, ungewürzt" },
+    { "amount": 400, "unit": "ml", "name": "Kokosmilch", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Erdnussbutter", "variety": "cremig" },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Currypaste", "variety": "gelb" },
+    { "amount": 1, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Speisestärke", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Wasser", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Zitronensaft", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Sojasauce", "variety": null }
+  ],
+  "steps": [
+    "Knoblauch pressen.",
+    "Öl in Pfanne erhitzen, Hähnchenstreifen 6 Minuten von allen Seiten anbraten, herausnehmen und beiseitestellen.",
+    "Öl in großer Pfanne erhitzen, Knoblauch und Currypaste dazu, 30-60 Sekunden anbraten.",
+    "Kokosmilch, Erdnussbutter und Brühepulver dazugeben, gut verrühren, bis sich alles aufgelöst hat.",
+    "TK-Wok-Gemüse dazugeben.",
+    "Aufkochen.",
+    "8 Minuten bei mittlerer Hitze köcheln, bis das Gemüse gar ist.",
+    "Speisestärke mit Wasser glattrühren, in die köchelnde Soße geben.",
+    "1 Minute unter Rühren mitkochen.",
+    "Angebratenes Hähnchen zurück in die Pfanne geben, gut vermischen, kurz erhitzen.",
+    "Mit Sojasauce und Zitronensaft würzen.",
+    "Mit Basmatireis servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganes-haehnchen-curry-erdnuss-kokos-sauce-tk-wok-gemuese/" },
+  "note": null
+}

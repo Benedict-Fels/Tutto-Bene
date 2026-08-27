@@ -1,0 +1,33 @@
+{
+  "id": "rosenkohl-ofen",
+  "title": "Rosenkohl aus dem Ofen",
+  "summary": "Geröstete Rosenkohl-Hälften mit Hefeflocken und Curry — knusprig außen, weich innen.",
+  "image": "images/rosenkohl-ofen.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 800, "unit": "g", "name": "Rosenkohl", "variety": "geputzt, halbiert" },
+    { "amount": 25, "unit": "g", "name": "Grieß", "variety": null },
+    { "amount": 1.5, "unit": "TL", "name": "Brühepulver", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Hefeflocken", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Currypulver", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Olivenöl", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Senf", "variety": "mittelscharf" }
+  ],
+  "steps": [
+    "Blech mit Backpapier auslegen, Ofen auf 200°C vorheizen.",
+    "Rosenkohl putzen, äußere Blätter entfernen, halbieren.",
+    "Grieß, Brühepulver, Hefeflocken und Curry in einer großen Schüssel mischen.",
+    "Öl und Senf dazu, gut verrühren.",
+    "Rosenkohl dazugeben, gründlich wenden bis alles bedeckt ist.",
+    "Auf dem Blech verteilen, in einer Schicht.",
+    "15 Minuten bei 200°C backen.",
+    "Wenden, weitere 15 Minuten backen, bis innen weich und außen knusprig."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/rosenkohl-aus-dem-ofen/" },
+  "note": null
+}

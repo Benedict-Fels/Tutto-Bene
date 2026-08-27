@@ -1,0 +1,34 @@
+{
+  "id": "zwiebelsosse",
+  "title": "Zwiebelsoße",
+  "summary": "Kräftige braune Soße mit karamellisierten Zwiebeln, Rotwein und Kräutern.",
+  "image": "images/zwiebelsosse.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 35,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 1000, "unit": "ml", "name": "Vegane Bratensoße", "variety": null },
+    { "amount": 500, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 120, "unit": "ml", "name": "Rotwein", "variety": "trocken, vegan" },
+    { "amount": 30, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Thymian", "variety": "getrocknet" },
+    { "amount": 0.25, "unit": "TL", "name": "Rosmarin", "variety": "gemahlen, getrocknet" }
+  ],
+  "steps": [
+    "Vegane Bratensoße nach Packungsanweisung oder Hausrezept zubereiten.",
+    "Zwiebeln halbieren und in halbe Ringe schneiden.",
+    "Öl in großer Pfanne erhitzen, Zwiebeln dazugeben.",
+    "20-25 Minuten bei mittlerer Hitze anbraten, regelmäßig rühren, bis goldbraun.",
+    "Wein, Zucker, Thymian und Rosmarin dazugeben.",
+    "5 Minuten ohne Deckel köcheln.",
+    "Bratensoße dazugießen.",
+    "5-10 Minuten ohne Deckel köcheln, bis die gewünschte Konsistenz erreicht ist.",
+    "Mit Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-vegane-zwiebelsauce/" },
+  "note": null
+}

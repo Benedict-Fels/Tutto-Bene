@@ -1,0 +1,32 @@
+{
+  "id": "spargel-suesskartoffeln-ofen",
+  "title": "Spargel und Süßkartoffeln aus dem Ofen",
+  "summary": "Grüner Spargel und Süßkartoffelspalten aus dem Ofen, mit Paprikapulver gewürzt.",
+  "image": "images/spargel-suesskartoffeln-ofen.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 24,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 450, "unit": "g", "name": "Spargel", "variety": "grün" },
+    { "amount": 350, "unit": "g", "name": "Süßkartoffel", "variety": null },
+    { "amount": 65, "unit": "g", "name": "Olivenöl", "variety": null },
+    { "amount": 4, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Paprikapulver", "variety": "edelsüß" }
+  ],
+  "steps": [
+    "Ofen auf 220°C Ober-/Unterhitze vorheizen.",
+    "Backblech mit Backpapier auslegen.",
+    "Süßkartoffeln schälen, längs halbieren, in Spalten schneiden.",
+    "Spargel waschen, holzige Enden abbrechen, in etwa 4 cm große Stücke schneiden.",
+    "Olivenöl, Salz und Paprikapulver in großer Schüssel vermischen.",
+    "Spargel und Süßkartoffelspalten dazu, umrühren, bis alles bedeckt ist.",
+    "Auf das Backblech geben.",
+    "23-25 Minuten auf mittlerer Schiene backen.",
+    "Mit Pfeffer würzen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/gruener-spargel-und-suesskartoffeln-aus-dem-ofen/" },
+  "note": null
+}

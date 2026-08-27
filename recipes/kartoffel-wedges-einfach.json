@@ -1,0 +1,48 @@
+{
+  "id": "kartoffel-wedges-einfach",
+  "title": "Einfachste Kartoffel Wedges",
+  "summary": "Knusprige Kartoffelspalten aus dem Ofen mit Paprika gewürzt — unkompliziert und für jeden Anlass.",
+  "image": "images/kartoffel-wedges-einfach.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 35,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 900,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": "festkochend"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "TL",
+      "name": "Paprikapulver",
+      "variety": "edelsüß"
+    }
+  ],
+  "steps": [
+    "Ofen auf 200°C Ober-/Unterhitze vorheizen.",
+    "Backblech mit Backpapier auslegen.",
+    "Kartoffeln waschen, abbürsten, nicht schälen.",
+    "Erst halbieren, dann längs in 4-6 Spalten schneiden.",
+    "Öl, Paprikapulver, Salz und Pfeffer in großer Schüssel vermischen.",
+    "Kartoffelspalten dazu, gut vermischen, bis alle bedeckt sind.",
+    "Mit Schnittfläche nach unten und etwas Abstand aufs Blech legen.",
+    "20 Minuten backen.",
+    "Wenden, weitere 15 Minuten backen."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/die-einfachsten-kartoffel-wedges/"
+  },
+  "note": null
+}

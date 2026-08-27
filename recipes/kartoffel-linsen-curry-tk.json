@@ -1,0 +1,37 @@
+{
+  "id": "kartoffel-linsen-curry-tk",
+  "title": "Kartoffel-Linsen-Curry mit TK-Gemüse",
+  "summary": "Schnelles Curry mit Kartoffeln, roten Linsen und TK-Gemüsemischung in Kokosmilch.",
+  "image": "images/kartoffel-linsen-curry-tk.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 350, "unit": "g", "name": "Kartoffel", "variety": null },
+    { "amount": 450, "unit": "g", "name": "TK-Gemüsemischung", "variety": null },
+    { "amount": 110, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Currypaste", "variety": "gelb" },
+    { "amount": 400, "unit": "ml", "name": "Kokosmilch", "variety": null },
+    { "amount": 75, "unit": "g", "name": "Rote Linsen", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Zitronensaft", "variety": null }
+  ],
+  "steps": [
+    "Kartoffeln schälen und in kleine Würfel schneiden.",
+    "Zwiebeln fein würfeln.",
+    "Öl in großer Pfanne erhitzen, Kartoffeln und Zwiebeln 12 Minuten bei mittlerer Hitze anbraten, gelegentlich umrühren.",
+    "Tomatenmark und Currypaste dazugeben, 1 Minute mit anbraten, gut vermischen.",
+    "Kokosmilch, rote Linsen und TK-Gemüse dazugeben.",
+    "Mit Deckel aufkochen.",
+    "Bei kleiner bis mittlerer Hitze 18-20 Minuten mit Deckel köcheln, bis Linsen und Gemüse gar sind.",
+    "Mit Brühepulver, Zitronensaft und Pfeffer abschmecken.",
+    "Nach Wunsch mit Petersilie bestreuen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/kartoffel-linsen-curry-mit-tk-gemuesemischung/" },
+  "note": null
+}

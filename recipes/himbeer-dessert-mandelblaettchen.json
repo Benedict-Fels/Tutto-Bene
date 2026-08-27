@@ -1,0 +1,37 @@
+{
+  "id": "himbeer-dessert-mandelblaettchen",
+  "title": "Himbeer-Dessert mit Mandelblättchen",
+  "summary": "Geschichtetes Dessert aus Sahne-Skyr-Creme, Himbeeren und karamellisierten Mandelblättchen.",
+  "image": "images/himbeer-dessert-mandelblaettchen.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "restTime": 120,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Himbeeren", "variety": "TK" },
+    { "amount": 200, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "Schlagsahne" },
+    { "amount": 200, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "Skyr, Vanille" },
+    { "amount": 1, "unit": "Packung", "name": "Sahnesteif", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Vegane Butter", "variety": null },
+    { "amount": 60, "unit": "g", "name": "Mandelblättchen", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Zucker", "variety": null }
+  ],
+  "steps": [
+    "Vegane Butter in Pfanne erhitzen.",
+    "Mandelblättchen und Zucker dazu, unter häufigem Rühren 5 Minuten goldbraun rösten.",
+    "Abkühlen lassen.",
+    "Sahnesteif, Vanillezucker und Zucker vermischen.",
+    "Pflanzliche Sahne 30 Sekunden mixen.",
+    "Sahnesteif-Mischung einrieseln lassen, steif schlagen.",
+    "Skyr unter die Sahne heben.",
+    "In Gläser schichten: Creme, Himbeeren, Creme.",
+    "Mit gerösteten Mandelblättchen bestreuen.",
+    "Im Kühlschrank durchziehen lassen, bis die Himbeeren aufgetaut sind, ca. 2 Stunden."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganes-himbeer-dessert-mit-mandelblaettchen/" },
+  "note": null
+}

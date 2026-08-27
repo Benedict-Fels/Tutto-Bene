@@ -1,0 +1,31 @@
+{
+  "id": "kartoffelpueree",
+  "title": "Kartoffelpüree",
+  "summary": "Cremiges Kartoffelpüree mit veganer Butter und Muskat — für Alltag und Festtafel gleichermaßen.",
+  "image": "images/kartoffelpueree.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 1200, "unit": "g", "name": "Kartoffel", "variety": "mehlig" },
+    { "amount": 100, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 275, "unit": "ml", "name": "Pflanzendrink", "variety": "ungesüßt" },
+    { "amount": 1.5, "unit": "TL", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "Prise", "name": "Muskatnuss", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Petersilie", "variety": "optional" }
+  ],
+  "steps": [
+    "Kartoffeln schälen, gleichmäßig würfeln.",
+    "In den Topf, mit kaltem Wasser bedecken, 1 TL Salz dazu.",
+    "Aufkochen, dann Hitze runter, zugedeckt 20–25 Minuten weich kochen.",
+    "Abgießen.",
+    "Im heißen Topf Butter, Pflanzendrink, Brühepulver, Muskat und Pfeffer erhitzen bis die Butter schmilzt.",
+    "Heiße Kartoffeln dazu, durch die Presse drücken oder stampfen.",
+    "Mit Petersilie bestreuen, servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/bestes-veganes-kartoffelpueree/" },
+  "note": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "herrencreme-kirschen",
+  "title": "Herrencreme mit Kirschen",
+  "summary": "Cremiges Dessert aus Vanillepudding, Schokolade und Rum, geschichtet mit fruchtigen Sauerkirschen.",
+  "image": "images/herrencreme-kirschen.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 6,
+  "prepTime": 25,
+  "cookTime": 0,
+  "restTime": 120,
+  "ingredients": [
+    { "amount": 350, "unit": "g", "name": "Sauerkirschen", "variety": "Schattenmorellen" },
+    { "amount": 18.5, "unit": "g", "name": "Vanillepuddingpulver", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 500, "unit": "ml", "name": "Pflanzendrink", "variety": "Vanille-Soja" },
+    { "amount": 37, "unit": "g", "name": "Vanillepuddingpulver", "variety": "für den Pudding" },
+    { "amount": 50, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 200, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "Schlagsahne" },
+    { "amount": 8, "unit": "g", "name": "Sahnesteif", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": "für die Sahne" },
+    { "amount": 100, "unit": "g", "name": "Vegane Schokolade", "variety": "zartbitter" },
+    { "amount": 60, "unit": "ml", "name": "Rum", "variety": null }
+  ],
+  "steps": [
+    "Kirschen abtropfen lassen, Saft auffangen.",
+    "Puddingpulver mit Vanillezucker anrühren, im Kirschsaft aufkochen.",
+    "Kirschen dazugeben, abkühlen lassen.",
+    "Vanillepudding separat nach Packungsanweisung zubereiten, abkühlen lassen.",
+    "Schokolade hacken.",
+    "Sahne mit Sahnesteif und Vanillezucker steif schlagen.",
+    "Kalten Pudding mit Schokolade und Rum vermischen.",
+    "Sahne unterheben.",
+    "Kirschen unten, Herrencreme oben in Gläser schichten.",
+    "Vor dem Servieren mindestens 2 Stunden kühl stellen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-herrencreme-mit-kirschen/" },
+  "note": null
+}

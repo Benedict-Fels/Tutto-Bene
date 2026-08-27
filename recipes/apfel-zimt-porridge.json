@@ -1,0 +1,33 @@
+{
+  "id": "apfel-zimt-porridge",
+  "title": "Apfel-Zimt-Porridge",
+  "summary": "Cremiger Haferbrei mit Mandelmus und einem warmen Apfel-Zimt-Topping — perfekter Start in den Tag.",
+  "image": "images/apfel-zimt-porridge.jpg",
+  "category": "Frühstück",
+  "cuisine": "Deutsch",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 100, "unit": "g", "name": "Haferflocken", "variety": "zart" },
+    { "amount": 200, "unit": "g", "name": "Wasser", "variety": null },
+    { "amount": 500, "unit": "g", "name": "Pflanzendrink", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Zimt", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Mandelmus", "variety": "oder Cashewmus" },
+    { "amount": 2, "unit": "Stück", "name": "Apfel", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Rosinen", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Vegane Butter", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Zimt", "variety": "für das Topping" }
+  ],
+  "steps": [
+    "Haferflocken, Wasser und eine Prise Salz verrühren, langsam köcheln.",
+    "Pflanzendrink und Zimt dazu, ca. 7 Minuten köcheln.",
+    "Mandelmus einrühren, nach Belieben süßen.",
+    "Äpfel würfeln.",
+    "Vegane Butter erhitzen, Äpfel mit Rosinen, etwas Wasser und Zimt ca. 5 Minuten köcheln.",
+    "Porridge anrichten, mit der Apfelmischung toppen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/apfel-zimt-porridge/" },
+  "note": null
+}

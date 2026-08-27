@@ -1,0 +1,81 @@
+{
+  "id": "hummus-pizza-feta",
+  "title": "Hummus-Pizza mit Feta",
+  "summary": "Pizzaboden mit Hummus statt Tomatensoße, veganem Feta, roten Zwiebeln und Oliven — in 30 Minuten fertig.",
+  "image": "images/hummus-pizza-feta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Orientalisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Pizzateig",
+      "variety": "fertig, aus der Rolle"
+    },
+    {
+      "amount": 190,
+      "unit": "g",
+      "name": "Hummus",
+      "variety": null
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Veganer Feta",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Zwiebel",
+      "variety": "rot"
+    },
+    {
+      "amount": 115,
+      "unit": "g",
+      "name": "Kirschtomaten",
+      "variety": null
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Oliven",
+      "variety": "grün oder schwarz, ohne Stein"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Oregano",
+      "variety": "getrocknet"
+    },
+    {
+      "amount": 1,
+      "unit": "Handvoll",
+      "name": "Basilikum",
+      "variety": "frisch, optional"
+    }
+  ],
+  "steps": [
+    "Ofen laut Pizzateig-Packung vorheizen (ca. 220°C Ober-/Unterhitze).",
+    "Rote Zwiebel schälen, in feine Streifen schneiden.",
+    "Zwiebelstreifen mit Salz vermischen, mit den Händen kneten, bis sie weich werden.",
+    "Kirschtomaten halbieren.",
+    "Feta zerbröseln.",
+    "Pizzateig aufs Blech legen.",
+    "Hummus darauf verteilen.",
+    "Mit Pfeffer und Oregano würzen.",
+    "Feta gleichmäßig verteilen.",
+    "Mit Zwiebeln, Tomaten und Oliven belegen.",
+    "Nach Packungsanweisung backen, ca. 20 Minuten.",
+    "Nach Belieben mit Basilikum oder Rucola garnieren."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/hummus-pizza-mit-veganem-feta/"
+  },
+  "note": null
+}

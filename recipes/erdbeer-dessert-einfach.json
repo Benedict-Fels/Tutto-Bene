@@ -1,0 +1,32 @@
+{
+  "id": "erdbeer-dessert-einfach",
+  "title": "Einfaches Erdbeer-Dessert",
+  "summary": "Geschichtetes Dessert aus frischen Erdbeeren und cremiger Vanille-Skyr-Sahne — wenige Zutaten, schnell fertig.",
+  "image": "images/erdbeer-dessert-einfach.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 500, "unit": "g", "name": "Erdbeeren", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Veganer Skyr", "variety": "Vanille" },
+    { "amount": 200, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "Schlagsahne" },
+    { "amount": 8, "unit": "g", "name": "Sahnesteif", "variety": null },
+    { "amount": 75, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Vegane Schokolade", "variety": "geraspelt" }
+  ],
+  "steps": [
+    "Sahnesteif, Vanillezucker und Zucker in kleiner Schüssel gründlich mischen.",
+    "Sahne in Rührschüssel geben, 30 Sekunden mit Handrührer aufschlagen.",
+    "Sahnesteif-Zucker-Mischung einrieseln lassen, während weiter gerührt wird, bis steif.",
+    "Skyr unter die geschlagene Sahne heben.",
+    "Erdbeeren in kleine Würfel schneiden.",
+    "Erdbeeren und Dessertcreme abwechselnd in Gläser oder Schüssel schichten.",
+    "Mit Raspelschokolade bestreuen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfaches-veganes-erdbeer-dessert/" },
+  "note": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "one-pot-pasta-paprika-zucchini",
+  "title": "One-Pot-Pasta mit Paprika und Zucchini",
+  "summary": "Alles-in-einen-Topf-Pasta mit Paprika, Zucchini, getrockneten Tomaten und veganer Crème fraîche.",
+  "image": "images/one-pot-pasta-paprika-zucchini.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 1, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 275, "unit": "g", "name": "Paprika", "variety": "1 rote, 1 gelbe" },
+    { "amount": 225, "unit": "g", "name": "Zucchini", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Getrocknete Tomaten", "variety": "in Öl" },
+    { "amount": 70, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Vegane Crème fraîche", "variety": null },
+    { "amount": 700, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Nudeln", "variety": "Fusilli oder Penne" },
+    { "amount": 1, "unit": "TL", "name": "Italienische Kräuter", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Zwiebel fein würfeln, Knoblauch pressen.",
+    "Paprika entkernen, klein würfeln.",
+    "Zucchini klein würfeln.",
+    "Getrocknete Tomaten abtropfen lassen, in Streifen schneiden.",
+    "Wasser, Öl, Brühepulver, Tomatenmark und Crème fraîche im großen Topf verrühren.",
+    "Zwiebel, Knoblauch, Paprika, Zucchini, Tomaten und trockene Nudeln dazugeben.",
+    "Aufkochen, ohne Deckel ca. 20 Minuten köcheln, bis Nudeln al dente, gelegentlich rühren.",
+    "Mit Salz und Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-one-pot-pasta-paprika-zucchini-getrocknete-tomaten/" },
+  "note": null
+}

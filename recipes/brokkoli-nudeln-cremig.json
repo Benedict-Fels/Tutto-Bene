@@ -1,0 +1,36 @@
+{
+  "id": "brokkoli-nudeln-cremig",
+  "title": "Cremige Brokkoli-Nudeln",
+  "summary": "Schnelle Pasta mit cremiger Brokkolisoße und gerösteten Pinienkernen.",
+  "image": "images/brokkoli-nudeln-cremig.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 675, "unit": "g", "name": "Brokkoli", "variety": "Röschen mit Stiel" },
+    { "amount": 300, "unit": "g", "name": "Nudeln", "variety": "Penne oder Fusilli" },
+    { "amount": 50, "unit": "g", "name": "Pinienkerne", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 150, "unit": "g", "name": "Pflanzliche Sahne", "variety": "Kochsahne" },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Veganer Parmesan", "variety": null }
+  ],
+  "steps": [
+    "Pinienkerne in trockener Pfanne goldbraun rösten, beiseitestellen.",
+    "Nudeln nach Packungsanweisung kochen.",
+    "Brokkoli in Röschen teilen, dicke Stiele entfernen.",
+    "Brokkoli ca. 10 Minuten kochen, abgießen, mit Gabel zerdrücken.",
+    "Butter erhitzen, Mehl einrühren.",
+    "Pflanzendrink unter Rühren dazugeben, bis eingedickt aufkochen.",
+    "Sahne, Brühepulver und Parmesan unterrühren, nochmal aufkochen lassen.",
+    "Nudeln und Brokkolimus mit der Soße vermischen.",
+    "Mit gerösteten Pinienkernen servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/cremige-vegane-brokkoli-nudeln/" },
+  "note": null
+}

@@ -1,0 +1,98 @@
+{
+  "id": "wirsingeintopf-hack-kartoffeln",
+  "title": "Wirsingeintopf mit Hack und Kartoffeln",
+  "summary": "Cremiger Eintopf aus Wirsing, Kartoffeln und veganem Hack — schnelles Wohlfühlessen.",
+  "image": "images/wirsingeintopf-hack-kartoffeln.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 35,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Wirsing",
+      "variety": "geputzt"
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": "geschält"
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 360,
+      "unit": "g",
+      "name": "Veganes Hackfleisch",
+      "variety": null
+    },
+    {
+      "amount": 700,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 15,
+      "unit": "g",
+      "name": "Brühepulver",
+      "variety": null
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Senf",
+      "variety": "mittelscharf"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Pflanzliche Sahne",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Muskatnuss",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Wirsing halbieren, Strunk raus, in mundgerechte Stücke schneiden.",
+    "Zwiebeln würfeln, Kartoffeln würfeln, Knoblauch pressen.",
+    "Öl im großen Topf erhitzen, Zwiebeln 5 Minuten andünsten.",
+    "Hack dazu, 4 Minuten braten, öfter rühren.",
+    "Knoblauch dazu, 1 Minute mitbraten.",
+    "Wirsing dazu, kurz anbraten bis er zusammenfällt.",
+    "Kartoffeln dazu, 1 Minute mitrösten.",
+    "Wasser und Brühepulver dazu, aufkochen.",
+    "Zugedeckt 25 Minuten köcheln, bis Wirsing weich und Kartoffeln gar sind.",
+    "Sahne, Senf und Muskat einrühren, 1 Minute köcheln.",
+    "Mit Salz und Pfeffer abschmecken."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/cremiger-wirsingeintopf-mit-veganem-hack-und-kartoffeln/"
+  },
+  "note": null
+}

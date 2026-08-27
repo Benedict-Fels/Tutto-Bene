@@ -1,0 +1,37 @@
+{
+  "id": "marmorkuchen-grosses-blech",
+  "title": "Marmorkuchen vom großen Blech",
+  "summary": "Klassischer heller und dunkler Rührteig, marmoriert und vom großen Blech gebacken.",
+  "image": "images/marmorkuchen-grosses-blech.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 24,
+  "prepTime": 15,
+  "cookTime": 32,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 600, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 530, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 24, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 24, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 4, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 260, "unit": "ml", "name": "Pflanzenöl", "variety": null },
+    { "amount": 495, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 50, "unit": "g", "name": "Kakaopulver", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzendrink", "variety": "Soja" }
+  ],
+  "steps": [
+    "Großes Backblech mit Backpapier auslegen.",
+    "Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Mehl, Zucker, Backpulver, Vanillezucker und Salz gut vermischen.",
+    "Öl und Pflanzendrink dazugeben, kurz gut durchrühren.",
+    "Etwa zwei Drittel des Teigs auf das Blech geben.",
+    "Zum restlichen Teig Kakaopulver und Pflanzendrink geben, unterrühren.",
+    "Dunklen Teig auf den hellen geben.",
+    "Mit einer Gabel ein Muster hineinziehen.",
+    "Bei 180°C auf mittlerer Schiene 32 Minuten backen.",
+    "Nach Wunsch mit Puderzucker, Schokoglasur oder Streuseln verzieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-marmorkuchen-grosses-blech/" },
+  "note": null
+}

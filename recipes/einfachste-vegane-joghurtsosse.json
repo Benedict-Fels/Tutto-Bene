@@ -1,0 +1,23 @@
+{
+  "id": "einfachste-vegane-joghurtsosse",
+  "title": "Einfachste Joghurtsoße",
+  "summary": "Schnelle, frische Soße aus pflanzlichem Joghurt und Zitrone — perfekt zu Currys und Pfannengerichten.",
+  "image": "images/einfachste-vegane-joghurtsosse.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 400, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "Soja, natur, ungesüßt" },
+    { "amount": 3.5, "unit": "EL", "name": "Zitronensaft", "variety": null }
+  ],
+  "steps": [
+    "Zitrone auspressen.",
+    "Joghurt und Zitronensaft verrühren.",
+    "Mit Salz abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfachste-vegane-joghurtsosse/" },
+  "note": null
+}

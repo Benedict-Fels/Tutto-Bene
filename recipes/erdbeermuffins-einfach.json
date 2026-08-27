@@ -1,0 +1,38 @@
+{
+  "id": "erdbeermuffins-einfach",
+  "title": "Einfache Erdbeermuffins",
+  "summary": "Fluffige Muffins mit frischen Erdbeerstückchen — gelingen immer.",
+  "image": "images/erdbeermuffins-einfach.jpg",
+  "category": "Dessert",
+  "cuisine": "Amerikanisch",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 145, "unit": "g", "name": "Erdbeeren", "variety": null },
+    { "amount": 250, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 1, "unit": "TL", "name": "Apfelessig", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Mehl", "variety": "zum Bestäuben der Beeren" },
+    { "amount": 150, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Backpulver", "variety": "Weinstein" },
+    { "amount": 2.5, "unit": "g", "name": "Natron", "variety": null },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 83, "unit": "ml", "name": "Pflanzenöl", "variety": "geschmacksneutral" }
+  ],
+  "steps": [
+    "Erdbeeren putzen, in kleine Würfel schneiden.",
+    "Erdbeerwürfel mit 1 EL Mehl vermischen.",
+    "Pflanzendrink mit Apfelessig vermischen, kurz stehen lassen.",
+    "Ofen auf 180°C Umluft vorheizen.",
+    "Mehl, Zucker, Backpulver, Natron, Salz und Vanillezucker mischen.",
+    "Geronnenen Pflanzendrink und Öl dazu, kurz mit dem Löffel verrühren.",
+    "Bemehlte Erdbeerwürfel unterheben.",
+    "Teig auf 12 Muffinförmchen verteilen.",
+    "25 Minuten backen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-vegane-erdbeermuffins/" },
+  "note": null
+}

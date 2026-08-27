@@ -1,0 +1,39 @@
+{
+  "id": "rouladen-soja-steaks",
+  "title": "Rouladen aus Sojaschnetzel-Steaks",
+  "summary": "Herzhafte Rouladen gefüllt mit Gewürzgurke, Räuchertofu und Zwiebel, geschmort in Bratensoße.",
+  "image": "images/rouladen-soja-steaks.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 6,
+  "prepTime": 60,
+  "cookTime": 90,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 6, "unit": "Stück", "name": "Sojaschnetzel", "variety": "Big Steaks" },
+    { "amount": 3000, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 52, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Gewürzgurken", "variety": null },
+    { "amount": 60, "unit": "g", "name": "Räuchertofu", "variety": null },
+    { "amount": 60, "unit": "g", "name": "Senf", "variety": "mittelscharf" },
+    { "amount": 12, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1000, "unit": "ml", "name": "Vegane Bratensoße", "variety": null }
+  ],
+  "steps": [
+    "Bratensoße nach Rezept oder aus Pulver ansetzen.",
+    "Wasser mit Brühepulver aufkochen, Sojaschnetzel dazu, zugedeckt 30 Minuten köcheln.",
+    "Abgießen, abkühlen lassen, kräftig ausdrücken.",
+    "4 EL Öl im Bräter erhitzen, Steaks von jeder Seite 3 Minuten scharf anbraten, dabei andrücken.",
+    "Beiseitestellen zum Abkühlen.",
+    "Zwiebel würfeln, Gewürzgurken in Streifen, Räuchertofu in Streifen schneiden.",
+    "Jedes Steak mit Senf bestreichen.",
+    "Gewürzgurken-, Tofu-Streifen und Zwiebel darauf verteilen, mit Pfeffer würzen.",
+    "Fest von der kurzen Seite aufrollen, mit Küchengarn verschnüren.",
+    "Ofen auf 180°C vorheizen.",
+    "8 EL Öl erhitzen, Rouladen rundherum 10-12 Minuten anbraten.",
+    "Bratensoße dazu, zugedeckt 45 Minuten bei 180°C im Ofen schmoren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-rouladen-aus-soja-big-steaks/" },
+  "note": null
+}

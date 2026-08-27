@@ -1,0 +1,28 @@
+{
+  "id": "pizza-salami",
+  "title": "Pizza Salami",
+  "summary": "Klassische runde Pizza mit veganem Käse und veganer Salami.",
+  "image": "images/pizza-salami.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 2,
+  "prepTime": 8,
+  "cookTime": 17,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 1, "unit": "Stück", "name": "Pizzaboden", "variety": "rund, ca. 26 cm" },
+    { "amount": 70, "unit": "g", "name": "Pizzasoße", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Veganer Pizzakäse", "variety": "gerieben" },
+    { "amount": 11, "unit": "Stück", "name": "Vegane Salami", "variety": "in Scheiben" }
+  ],
+  "steps": [
+    "Ofen auf 220°C Ober-/Unterhitze vorheizen.",
+    "Rand des Pizzabodens mit etwas Olivenöl bestreichen.",
+    "Pizzasoße auf dem Boden verteilen.",
+    "Veganen Pizzakäse auf der Soße verteilen.",
+    "Vegane Salamischeiben auf der Pizza verteilen.",
+    "Im vorgeheizten Ofen bei 220°C Ober-/Unterhitze 15-17 Minuten backen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-pizza-salami/" },
+  "note": null
+}

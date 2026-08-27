@@ -1,0 +1,38 @@
+{
+  "id": "reis-gemuese-pfanne-frischkaese",
+  "title": "Reis-Gemüse-Pfanne mit Frischkäse",
+  "summary": "Schnelle, cremige Reispfanne mit Paprika, Karotten und Erbsen — auch gut als Meal Prep.",
+  "image": "images/reis-gemuese-pfanne-frischkaese.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Reis", "variety": "parboiled" },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Paprika", "variety": "rot" },
+    { "amount": 250, "unit": "g", "name": "Karotte", "variety": "grob geraspelt" },
+    { "amount": 250, "unit": "g", "name": "Erbsen", "variety": "TK" },
+    { "amount": 200, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Veganer Frischkäse", "variety": "natur, Paprika oder Kräuter" },
+    { "amount": 1, "unit": "EL", "name": "Currypulver", "variety": null },
+    { "amount": 4, "unit": "TL", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Reis nach Packungsanweisung kochen, 2 TL Brühepulver ins Kochwasser geben.",
+    "Zwiebel fein würfeln.",
+    "Paprika entkernen, klein würfeln.",
+    "Karotten grob raspeln.",
+    "Öl erhitzen, Zwiebel 5 Minuten andünsten.",
+    "Currypulver dazu, 1 Minute mitrösten, gut verrühren.",
+    "Karotten, Paprika und Wasser dazu, 10 Minuten köcheln, gelegentlich rühren.",
+    "Erbsen dazu, weitere 5 Minuten köcheln.",
+    "Frischkäse, restliches Brühepulver und Pfeffer unterrühren.",
+    "Reis unterheben, gut vermischen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-reis-gemuese-pfanne-mit-frischkaese/" },
+  "note": null
+}

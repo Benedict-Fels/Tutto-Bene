@@ -1,0 +1,41 @@
+{
+  "id": "plov-veganes-fleisch-moehren",
+  "title": "Plov mit veganem Fleisch und Möhren",
+  "summary": "Unkompliziertes zentralasiatisches Reisgericht mit Karotten, Rosinen und würzigem veganem Fleisch.",
+  "image": "images/plov-veganes-fleisch-moehren.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 360, "unit": "g", "name": "Veganes Gyros", "variety": "oder Döner" },
+    { "amount": 390, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 390, "unit": "g", "name": "Karotte", "variety": null },
+    { "amount": 3, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 75, "unit": "g", "name": "Pflanzenöl", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Reis", "variety": "Parboiled, Langkorn" },
+    { "amount": 50, "unit": "g", "name": "Rosinen", "variety": null },
+    { "amount": 1.5, "unit": "Stück", "name": "Lorbeerblatt", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 1.5, "unit": "EL", "name": "Paprikapulver", "variety": "edelsüß" },
+    { "amount": 1, "unit": "TL", "name": "Paprikapulver", "variety": "rosenscharf" },
+    { "amount": 0.5, "unit": "TL", "name": "Kreuzkümmel", "variety": null },
+    { "amount": 600, "unit": "ml", "name": "Wasser", "variety": null }
+  ],
+  "steps": [
+    "Zwiebeln halbieren, in feine Halbringe schneiden.",
+    "Möhren schälen, grob raspeln.",
+    "Knoblauch pressen.",
+    "Öl erhitzen, Zwiebeln 12 Minuten anbraten.",
+    "Veganes Fleisch dazu, 6 Minuten mitbraten.",
+    "Knoblauch dazu, 1 Minute mitbraten.",
+    "Möhrenraspel dazu, 2 Minuten mitbraten.",
+    "Reis, Wasser, Brühepulver, Lorbeerblätter, Rosinen und Gewürze dazugeben.",
+    "Aufkochen, 20 Minuten bei kleiner Hitze köcheln lassen.",
+    "Lorbeerblätter entfernen, mit Salz und Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfacher-plov-mit-veganem-fleisch-und-moehren/" },
+  "note": null
+}

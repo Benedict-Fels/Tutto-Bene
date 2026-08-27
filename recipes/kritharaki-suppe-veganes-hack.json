@@ -1,0 +1,35 @@
+{
+  "id": "kritharaki-suppe-veganes-hack",
+  "title": "Kritharaki-Suppe mit veganem Hack",
+  "summary": "Schnelle, aromatische Nudelsuppe mit Orzo, veganem Hackfleisch, Tomatenmark und griechischen Kräutern.",
+  "image": "images/kritharaki-suppe-veganes-hack.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Griechisch",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 215, "unit": "g", "name": "Veganes Hackfleisch", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Kritharaki-Nudeln", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 2, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 1000, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 12.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Oregano", "variety": "getrocknet" },
+    { "amount": 0.5, "unit": "TL", "name": "Thymian", "variety": "getrocknet" },
+    { "amount": 2, "unit": "TL", "name": "Paprikapulver", "variety": "edelsüß" }
+  ],
+  "steps": [
+    "Knoblauch pressen.",
+    "Vegane Butter in großer Pfanne erhitzen, Hack 5 Minuten anbraten.",
+    "Tomatenmark und Knoblauch dazu, 1 Minute mitbraten.",
+    "Orzo, Wasser und Brühepulver dazugeben.",
+    "Mit Oregano, Thymian und Paprikapulver würzen.",
+    "Mit Deckel aufkochen, 20 Minuten bei kleiner Hitze köcheln, gelegentlich umrühren.",
+    "Mit Pfeffer und bei Bedarf Salz abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-kritharaki-suppe-mit-veganem-hack/" },
+  "note": null
+}

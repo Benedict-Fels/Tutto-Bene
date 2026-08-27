@@ -1,0 +1,32 @@
+{
+  "id": "waffeln-oel-mineralwasser",
+  "title": "Waffeln mit Öl und Mineralwasser",
+  "summary": "Eifreie Waffeln, leicht und knusprig durch Mineralwasser im Teig — ein zuverlässiges Grundrezept.",
+  "image": "images/waffeln-oel-mineralwasser.jpg",
+  "category": "Frühstück",
+  "cuisine": "Deutsch",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 25,
+  "restTime": 5,
+  "ingredients": [
+    { "amount": 250, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Backpulver", "variety": "Weinstein" },
+    { "amount": 80, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "Prise", "name": "Salz", "variety": null },
+    { "amount": 250, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 60, "unit": "ml", "name": "Pflanzenöl", "variety": null },
+    { "amount": 50, "unit": "ml", "name": "Mineralwasser", "variety": "stark sprudelnd" },
+    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": "zum Einfetten" }
+  ],
+  "steps": [
+    "Alle trockenen Zutaten gründlich mischen.",
+    "Feuchte Zutaten dazu, kurz verrühren, nicht überarbeiten.",
+    "5 Minuten ruhen lassen, währenddessen Waffeleisen vorheizen.",
+    "Eisen mit Öl bepinseln.",
+    "Pro Waffel etwa 5 Minuten bei mittlerer Hitze backen, bis goldbraun und durch."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-waffeln-mit-oel-und-mineralwasser/" },
+  "note": null
+}

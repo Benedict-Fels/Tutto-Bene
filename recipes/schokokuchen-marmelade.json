@@ -1,0 +1,39 @@
+{
+  "id": "schokokuchen-marmelade",
+  "title": "Schokokuchen mit Marmelade",
+  "summary": "Saftiger Schokokuchen mit Marmelade, Schokotröpfchen und gemahlenen Nüssen.",
+  "image": "images/schokokuchen-marmelade.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 230, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 145, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 35, "unit": "g", "name": "Haselnüsse", "variety": "gemahlen" },
+    { "amount": 40, "unit": "g", "name": "Kakaopulver", "variety": null },
+    { "amount": 55, "unit": "g", "name": "Vegane Schokolade", "variety": "Tröpfchen" },
+    { "amount": 1, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 230, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Marmelade", "variety": null },
+    { "amount": 109, "unit": "ml", "name": "Pflanzenöl", "variety": "geschmacksneutral" }
+  ],
+  "steps": [
+    "Kastenform (25 cm) einfetten, mit Backpapier auslegen.",
+    "Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Mehl, Backpulver, Zucker, Haselnüsse, Kakaopulver, Schokotröpfchen und Salz in Rührschüssel gründlich mischen.",
+    "Wasser und Marmelade in zweiter Schüssel leicht erwärmen, verrühren bis die Marmelade sich auflöst.",
+    "Öl dazu, verrühren.",
+    "Feuchte Zutaten zu den trockenen geben.",
+    "Kurz mit dem Rührlöffel verrühren, nicht zu lange.",
+    "In die Kastenform füllen.",
+    "45 Minuten auf mittlerer Schiene backen.",
+    "Etwas in der Form abkühlen lassen, dann auf ein Gitter stürzen und ganz auskühlen lassen.",
+    "Nach Belieben mit Puderzucker bestreuen oder mit Schokoglasur überziehen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/saftiger-veganer-schokokuchen-mit-marmelade/" },
+  "note": null
+}

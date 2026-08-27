@@ -1,0 +1,36 @@
+{
+  "id": "rostbraten-soja-steaks",
+  "title": "Rostbraten aus Soja Big Steaks",
+  "summary": "Deftiger Rostbraten aus Soja Big Steaks in würziger Zwiebelsoße mit Rosmarin und Thymian.",
+  "image": "images/rostbraten-soja-steaks.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 40,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 4, "unit": "Stück", "name": "Sojaschnetzel", "variety": "Big Steaks" },
+    { "amount": 2000, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 37.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Vegane Butter", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Rosmarin", "variety": "gemahlen, getrocknet" },
+    { "amount": 0.5, "unit": "TL", "name": "Thymian", "variety": "getrocknet" },
+    { "amount": 750, "unit": "ml", "name": "Zwiebelsoße", "variety": null }
+  ],
+  "steps": [
+    "Wasser mit Brühepulver aufkochen, Soja Big Steaks dazu, 30 Minuten kochen.",
+    "Abgießen, abkühlen lassen, Flüssigkeit auspressen, mit Küchenpapier trocknen.",
+    "Steaks quer halbieren.",
+    "Knoblauch pressen.",
+    "Öl und Butter in Pfanne erhitzen, Steaks von beiden Seiten 10 Minuten braun braten, mehrfach wenden.",
+    "Steaks beiseitestellen.",
+    "Erneut Öl erhitzen, Knoblauch 30 Sekunden anbraten.",
+    "Zwiebelsoße, Rosmarin, Thymian und Steaks dazu.",
+    "10-15 Minuten ohne Deckel köcheln, gelegentlich rühren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-rostbraten-aus-soja-big-steaks/" },
+  "note": null
+}

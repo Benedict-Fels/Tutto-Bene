@@ -1,0 +1,39 @@
+{
+  "id": "orangenplaetzchen-gefuellt",
+  "title": "Gefüllte Orangenplätzchen",
+  "summary": "Mürbe Plätzchen mit Orangenaroma, gefüllt mit Orangenmarmelade und mit Schokolade verziert.",
+  "image": "images/orangenplaetzchen-gefuellt.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 27,
+  "prepTime": 40,
+  "cookTime": 10,
+  "restTime": 60,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Vegane Butter", "variety": "kalt" },
+    { "amount": 100, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "Prise", "name": "Salz", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Orangenschale", "variety": "gerieben" },
+    { "amount": 2, "unit": "TL", "name": "Orangenaroma", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Orangenmarmelade", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Vegane Kuvertüre", "variety": null }
+  ],
+  "steps": [
+    "Mehl, Puderzucker, Vanillezucker, Salz, Orangenschale und Orangenaroma mischen.",
+    "Kalte Butter in Stücken dazu, zu einem Teig verkneten — wirkt anfangs trocken, weiterkneten ohne Flüssigkeit zuzugeben.",
+    "Zu einer Kugel oder Scheibe formen, in Folie wickeln, 1 Stunde kalt stellen.",
+    "Ofen auf 180°C vorheizen.",
+    "Teig auf bemehlter Fläche 5-6 mm dick ausrollen.",
+    "Sterne oder andere Formen ausstechen.",
+    "10 Minuten bei 180°C backen.",
+    "Auf dem Blech auskühlen lassen.",
+    "Marmelade mit Orangenaroma verrühren, auf eine Hälfte der Plätzchen streichen.",
+    "Mit der zweiten Hälfte zusammensetzen, fest werden lassen.",
+    "Kuvertüre schmelzen, Linien über die Plätzchen ziehen oder zur Hälfte eintauchen.",
+    "Vollständig aushärten lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-gefuellte-orangenplaetzchen/" },
+  "note": null
+}

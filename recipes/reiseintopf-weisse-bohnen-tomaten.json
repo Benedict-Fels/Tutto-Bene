@@ -1,0 +1,41 @@
+{
+  "id": "reiseintopf-weisse-bohnen-tomaten",
+  "title": "Reiseintopf mit weißen Bohnen und Tomaten",
+  "summary": "Schneller Eintopf mit Risottoreis, weißen Bohnen und Tomaten aus dem Vorratsschrank.",
+  "image": "images/reiseintopf-weisse-bohnen-tomaten.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": null },
+    { "amount": 1, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Risottoreis", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Weiße Bohnen", "variety": "aus der Dose, mit Flüssigkeit" },
+    { "amount": 400, "unit": "g", "name": "Tomatenstücke", "variety": "aus der Dose, am besten Kirschtomaten" },
+    { "amount": 500, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Kurkuma", "variety": null },
+    { "amount": 0.25, "unit": "TL", "name": "Thymian", "variety": "getrocknet" },
+    { "amount": 4.5, "unit": "Stück", "name": "Basilikum", "variety": "frisch, Zweige" },
+    { "amount": 4.5, "unit": "EL", "name": "Veganer Parmesan", "variety": null }
+  ],
+  "steps": [
+    "Zwiebel fein würfeln, Knoblauch pressen.",
+    "Basilikum hacken.",
+    "Öl erhitzen, Zwiebel 7 Minuten anschwitzen.",
+    "Knoblauch dazu, 1 Minute mitbraten.",
+    "Reis dazu, 3,5 Minuten anrösten bis glasig, dabei häufig rühren.",
+    "Wasser und Brühepulver dazu, aufkochen.",
+    "Mit Deckel 12 Minuten köcheln, gelegentlich rühren.",
+    "Tomaten, Bohnen, Kurkuma und Thymian dazu.",
+    "Mit Deckel weitere 8 Minuten köcheln.",
+    "Mit Pfeffer abschmecken.",
+    "Mit Basilikum und Parmesan servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/reiseintopf-mit-weissen-bohnen-und-tomaten/" },
+  "note": null
+}

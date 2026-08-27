@@ -1,0 +1,35 @@
+{
+  "id": "doenerfleisch-seitan",
+  "title": "Dönerfleisch aus Seitan",
+  "summary": "Selbst gemachtes Dönerfleisch mit fleischähnlicher Konsistenz aus Seitan Fix, mariniert mit Dönergewürz.",
+  "image": "images/doenerfleisch-seitan.jpg",
+  "category": "Sonstige",
+  "cuisine": "Türkisch",
+  "servings": 3,
+  "prepTime": 30,
+  "cookTime": 60,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 125, "unit": "g", "name": "Seitan", "variety": "Fix" },
+    { "amount": 40, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 180, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Paprikapulver", "variety": "edelsüß" },
+    { "amount": 1, "unit": "TL", "name": "Oregano", "variety": "getrocknet" },
+    { "amount": 2, "unit": "EL", "name": "Brühepulver", "variety": null },
+    { "amount": 2, "unit": "Stück", "name": "Lorbeerblatt", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 2, "unit": "EL", "name": "Dönergewürz", "variety": null }
+  ],
+  "steps": [
+    "Seitan Fix, Mehl, Wasser, Paprikapulver, Oregano und Pfeffer zu einer Masse verkneten.",
+    "Masse zu einer Rolle formen.",
+    "Wasser mit Brühepulver und Lorbeerblättern aufkochen.",
+    "Seitanrolle darin ca. 45-60 Minuten köcheln lassen.",
+    "Abkühlen lassen, in dünne Scheiben schneiden.",
+    "Öl mit Dönergewürz und Salz verrühren, Scheiben darin marinieren.",
+    "Sofort braten oder im Kühlschrank durchziehen lassen.",
+    "In einer Pfanne knusprig anbraten."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganes-doenerfleisch-seitan/" },
+  "note": null
+}

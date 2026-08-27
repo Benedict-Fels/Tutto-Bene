@@ -1,0 +1,27 @@
+{
+  "id": "hummus-dressing",
+  "title": "Hummus-Dressing",
+  "summary": "Cremiges Dressing auf Hummus-Basis mit Zitrone und Olivenöl — schnell gemixt, vielseitig einsetzbar.",
+  "image": "images/hummus-dressing.jpg",
+  "category": "Sonstige",
+  "cuisine": "Orientalisch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 175, "unit": "g", "name": "Hummus", "variety": null },
+    { "amount": 25, "unit": "ml", "name": "Zitronensaft", "variety": null },
+    { "amount": 75, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 55, "unit": "ml", "name": "Olivenöl", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Agavendicksaft", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Senf", "variety": "mittelscharf" },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null }
+  ],
+  "steps": [
+    "Alle Zutaten in einem Standmixer oder Rührbecher gut miteinander mixen.",
+    "Mit Pfeffer oder Cayennepfeffer würzen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/hummus-dressing/" },
+  "note": null
+}

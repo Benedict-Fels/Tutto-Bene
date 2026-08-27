@@ -1,0 +1,31 @@
+{
+  "id": "speckbohnen-raeuchertofu",
+  "title": "Speckbohnen mit Räuchertofu",
+  "summary": "Grüne Bohnen mit würzigem Räuchertofu, Bohnenkraut und Thymian — deftige Beilage.",
+  "image": "images/speckbohnen-raeuchertofu.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 600, "unit": "g", "name": "Grüne Bohnen", "variety": "TK" },
+    { "amount": 110, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 2, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 90, "unit": "g", "name": "Räuchertofu", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Thymian", "variety": "getrocknet" },
+    { "amount": 1, "unit": "Prise", "name": "Bohnenkraut", "variety": null }
+  ],
+  "steps": [
+    "2 Liter Wasser mit 2 TL Salz aufkochen, Bohnen 5 Minuten kochen.",
+    "Abgießen, beiseitestellen.",
+    "Zwiebel fein würfeln, Knoblauch pressen, Räuchertofu würfeln.",
+    "Öl in großer Pfanne erhitzen, Zwiebel- und Tofuwürfel 7 Minuten braten, gelegentlich wenden.",
+    "Bohnen, Knoblauch, Thymian und Bohnenkraut dazu, 1 Minute mitbraten.",
+    "Mit Salz und Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/deftige-vegane-speckbohnen-mit-raeuchertofu/" },
+  "note": null
+}

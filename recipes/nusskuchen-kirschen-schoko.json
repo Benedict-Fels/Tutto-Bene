@@ -1,0 +1,37 @@
+{
+  "id": "nusskuchen-kirschen-schoko",
+  "title": "Nusskuchen mit Kirschen und Schoko",
+  "summary": "Saftiger Nusskuchen mit Sauerkirschen aus dem Glas und Schokostückchen.",
+  "image": "images/nusskuchen-kirschen-schoko.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 58,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 250, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 125, "unit": "g", "name": "Haselnüsse", "variety": "gemahlen" },
+    { "amount": 200, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 6, "unit": "g", "name": "Backpulver", "variety": "Weinstein" },
+    { "amount": 85, "unit": "g", "name": "Vegane Schokolade", "variety": "Stückchen" },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 103, "unit": "ml", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 250, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 300, "unit": "g", "name": "Sauerkirschen", "variety": "aus dem Glas, abgetropft" }
+  ],
+  "steps": [
+    "Sauerkirschen in einem Sieb abtropfen lassen.",
+    "Springform (26 cm) einfetten, mit Backpapier auslegen.",
+    "Ofen auf 160°C Umluft vorheizen.",
+    "Trockene Zutaten in Rührschüssel gründlich mischen.",
+    "Feuchte Zutaten dazu, mit Kochlöffel kurz verrühren, nicht zu lange.",
+    "Teig in die Form geben.",
+    "Kirschen gleichmäßig auf dem Teig verteilen.",
+    "Sofort 55-60 Minuten auf mittlerer Schiene backen.",
+    "Vollständig auskühlen lassen, nach Belieben mit Puderzucker bestäuben."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfacher-veganer-nusskuchen-mit-kirschen-und-schoko/" },
+  "note": null
+}

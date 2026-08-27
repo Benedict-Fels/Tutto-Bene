@@ -1,0 +1,42 @@
+{
+  "id": "gyrosauflauf-kritharaki",
+  "title": "Gyrosauflauf mit Kritharaki",
+  "summary": "Herzhafter Auflauf aus Kritharaki-Nudeln mit veganem Gyros, Feta, Paprika und Kirschtomaten.",
+  "image": "images/gyrosauflauf-kritharaki.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Griechisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 250, "unit": "g", "name": "Kritharaki-Nudeln", "variety": null },
+    { "amount": 400, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 12.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Ajvar", "variety": "mild" },
+    { "amount": 360, "unit": "g", "name": "Veganes Gyros", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Veganer Feta", "variety": null },
+    { "amount": 175, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Paprika", "variety": "rot" },
+    { "amount": 200, "unit": "g", "name": "Kirschtomaten", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Olivenöl", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Gyrosgewürz", "variety": null }
+  ],
+  "steps": [
+    "Kritharaki-Nudeln in eine Auflaufform geben.",
+    "Wasser, Brühepulver und Ajvar verrühren, über die Nudeln gießen, sodass sie komplett bedeckt sind.",
+    "Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Kirschtomaten halbieren.",
+    "Paprika halbieren, entkernen und in Streifen schneiden.",
+    "Zwiebeln halbieren und in Streifen schneiden.",
+    "Veganen Feta grob zerbröseln.",
+    "Olivenöl, Gyrosgewürz und Pfeffer gut vermischen.",
+    "Zwiebeln, Paprika, Kirschtomaten, Feta und Gyros dazugeben, alles gut vermischen.",
+    "Mischung gleichmäßig auf den Nudeln in der Auflaufform verteilen.",
+    "30 Minuten backen.",
+    "Gut umrühren.",
+    "Weitere 15 Minuten backen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-gyrosauflauf-mit-kritharaki/" },
+  "note": null
+}

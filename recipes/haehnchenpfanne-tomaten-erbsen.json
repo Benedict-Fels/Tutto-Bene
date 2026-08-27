@@ -1,0 +1,43 @@
+{
+  "id": "haehnchenpfanne-tomaten-erbsen",
+  "title": "Hähnchenpfanne mit getrockneten Tomaten und Erbsen",
+  "summary": "Cremige Pfanne mit veganem Hähnchen, getrockneten Tomaten und Erbsen, serviert mit Couscous.",
+  "image": "images/haehnchenpfanne-tomaten-erbsen.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mediterran",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 180, "unit": "g", "name": "Veganes Hähnchen", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Vegane Crème fraîche", "variety": null },
+    { "amount": 200, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 2.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 90, "unit": "g", "name": "Getrocknete Tomaten", "variety": "in Öl" },
+    { "amount": 200, "unit": "g", "name": "Erbsen", "variety": "TK" },
+    { "amount": 0.5, "unit": "TL", "name": "Italienische Kräuter", "variety": "getrocknet" },
+    { "amount": 1, "unit": "EL", "name": "Zitronensaft", "variety": null },
+    { "amount": 125, "unit": "g", "name": "Couscous", "variety": null },
+    { "amount": 250, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 2.5, "unit": "g", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Knoblauch pressen.",
+    "Getrocknete Tomaten abtropfen lassen, in Streifen schneiden.",
+    "Wasser (250 ml) mit Brühepulver aufkochen, Couscous einrühren, Herd ausstellen.",
+    "Mit Deckel 5 Minuten quellen lassen, mit Gabel auflockern.",
+    "Öl in großer Pfanne erhitzen, Hähnchenstreifen 6 Minuten anbraten.",
+    "Knoblauch dazu, 1 Minute mit anbraten.",
+    "Wasser (200 ml), Crème fraîche, Brühepulver, italienische Kräuter, getrocknete Tomaten und Erbsen dazugeben.",
+    "Aufkochen.",
+    "5 Minuten bei kleiner bis mittlerer Hitze ohne Deckel köcheln.",
+    "Mit Pfeffer und Zitronensaft abschmecken, bei Bedarf salzen.",
+    "Couscous auf Teller geben, Pfanne darüber verteilen.",
+    "Mit Petersilie und/oder Basilikum bestreuen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/cremige-vegane-haehnchenpfanne-mit-getrockneten-tomaten-und-erbsen/" },
+  "note": null
+}

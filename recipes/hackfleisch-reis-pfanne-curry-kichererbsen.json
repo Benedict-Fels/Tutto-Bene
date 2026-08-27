@@ -1,0 +1,41 @@
+{
+  "id": "hackfleisch-reis-pfanne-curry-kichererbsen",
+  "title": "Hackfleisch-Reis-Pfanne mit Curry und Kichererbsen",
+  "summary": "Würzige Reispfanne mit veganem Hack, Kichererbsen, Rosinen und Paprika, dazu eine frische Zitrone-Joghurt-Soße.",
+  "image": "images/hackfleisch-reis-pfanne-curry-kichererbsen.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mediterran",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 100, "unit": "g", "name": "Reis", "variety": "Basmati" },
+    { "amount": 1, "unit": "Stück", "name": "Paprika", "variety": "rot oder gelb" },
+    { "amount": 215, "unit": "g", "name": "Veganes Hackfleisch", "variety": null },
+    { "amount": 1, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 265, "unit": "g", "name": "Kichererbsen", "variety": "aus der Dose" },
+    { "amount": 110, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 25, "unit": "g", "name": "Rosinen", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Currypulver", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Petersilie", "variety": "gehackt" },
+    { "amount": 200, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "natur, ungesüßt" },
+    { "amount": 1.75, "unit": "EL", "name": "Zitronensaft", "variety": null }
+  ],
+  "steps": [
+    "Reis nach Packungsanweisung kochen.",
+    "Zwiebel würfeln, Paprika in Streifen schneiden, Knoblauch pressen, Kichererbsen abtropfen.",
+    "Öl erhitzen, Zwiebel 3 Minuten anbraten.",
+    "Hack dazu, 5 Minuten mitbraten.",
+    "Paprika dazu, 3 Minuten mitbraten.",
+    "Knoblauch dazu, 1 Minute mitbraten.",
+    "Kichererbsen, Rosinen, Curry und Brühepulver dazu, 6 Minuten garen.",
+    "Reis untermischen, mit Pfeffer und Petersilie abschmecken.",
+    "Für die Soße: Zitrone auspressen, mit Joghurt und Salz verrühren.",
+    "Reispfanne mit der Joghurtsoße servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-hackfleisch-reis-pfanne-mit-curry-und-kichererbsen/" },
+  "note": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sauerkraut-geschmort",
+  "title": "Geschmortes Sauerkraut",
+  "summary": "Aromatisches Sauerkraut mit Apfel, Zwiebel, Lorbeer und Wacholder — die klassische Beilage.",
+  "image": "images/sauerkraut-geschmort.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 500, "unit": "g", "name": "Sauerkraut", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Apfel", "variety": null },
+    { "amount": 25, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 5, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 350, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 1.5, "unit": "TL", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Lorbeerblatt", "variety": null },
+    { "amount": 3, "unit": "Stück", "name": "Wacholderbeeren", "variety": null }
+  ],
+  "steps": [
+    "Zwiebel fein würfeln. Apfel schälen, vierteln, entkernen, würfeln.",
+    "Butter im Topf schmelzen.",
+    "Zwiebel und Apfel dazu, 5 Minuten andünsten.",
+    "Zucker dazu, 3 Minuten leicht karamellisieren lassen.",
+    "Sauerkraut mit Flüssigkeit dazu, 5 Minuten mitdünsten, gut umrühren.",
+    "Wasser, Brühepulver, Lorbeerblatt und Wacholderbeeren dazu.",
+    "Aufkochen, zugedeckt.",
+    "30 Minuten bei kleiner Hitze köcheln, gelegentlich umrühren.",
+    "Lorbeerblatt und Wacholderbeeren entfernen, mit Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganes-sauerkraut/" },
+  "note": null
+}

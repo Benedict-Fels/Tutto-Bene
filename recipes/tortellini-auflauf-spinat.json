@@ -1,0 +1,37 @@
+{
+  "id": "tortellini-auflauf-spinat",
+  "title": "Tortellini-Auflauf mit Spinat",
+  "summary": "Unkomplizierter Auflauf aus Tortellini, Spinat und Tomatensoße, überbacken mit Käse.",
+  "image": "images/tortellini-auflauf-spinat.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 500, "unit": "g", "name": "Vegane Tortellini", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Blattspinat", "variety": "TK" },
+    { "amount": 140, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 1.5, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 700, "unit": "g", "name": "Vegane Tomatensoße", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Pflanzliche Sahne", "variety": "Kochcreme" },
+    { "amount": 75, "unit": "g", "name": "Veganer Käse", "variety": "gerieben" },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Zwiebel fein würfeln, Knoblauch pressen.",
+    "Ofen auf 180°C vorheizen.",
+    "Öl in großer Pfanne erhitzen, Zwiebel 5 Minuten anbraten.",
+    "Knoblauch dazu, 30 Sekunden mitbraten.",
+    "Spinat, Tomatensoße, Sahne und Brühepulver dazu, 5 Minuten köcheln, bis der Spinat aufgetaut ist.",
+    "Mit Pfeffer würzen.",
+    "Tortellini in eine Auflaufform geben.",
+    "Spinat-Tomaten-Mischung darübergießen.",
+    "Mit Käse bestreuen.",
+    "30 Minuten auf mittlerer Schiene backen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-tortellini-auflauf-spinat-tomatensosse/" },
+  "note": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pancakes-mit-joghurt",
+  "title": "Pancakes mit Joghurt",
+  "summary": "Fluffige Pancakes mit Sojajoghurt — schnell gemacht und ein tolles veganes Frühstück.",
+  "image": "images/pancakes-mit-joghurt.jpg",
+  "category": "Frühstück",
+  "cuisine": "Amerikanisch",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 375, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "Soja" },
+    { "amount": 200, "unit": "g", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 1, "unit": "EL", "name": "Sojamehl", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Wasser", "variety": null },
+    { "amount": 300, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 80, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Vegane Butter", "variety": "zum Braten" }
+  ],
+  "steps": [
+    "Sojajoghurt und Pflanzendrink vermischen.",
+    "Sojamehl mit Wasser anrühren, zur Mischung geben.",
+    "Mehl, Zucker, Backpulver und Salz vermischen.",
+    "Trockene Zutaten schrittweise einrühren bis ein gleichmäßiger Teig entsteht.",
+    "Je 4 EL Teig pro Pancake in erhitzte, gefettete Pfanne geben.",
+    "Ca. 4 Minuten bei mittlerer Hitze braten, wenden, weitere 4 Minuten braten."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-vegane-pancakes/" },
+  "note": null
+}

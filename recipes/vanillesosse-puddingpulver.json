@@ -1,0 +1,28 @@
+{
+  "id": "vanillesosse-puddingpulver",
+  "title": "Vanillesoße aus Puddingpulver",
+  "summary": "Intensive Vanillesoße aus Puddingpulver und Vanillesojamilch — der Klassiker zu jedem Dessert.",
+  "image": "images/vanillesosse-puddingpulver.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 5,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 800, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja, Vanille" },
+    { "amount": 37, "unit": "g", "name": "Vanillepuddingpulver", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null }
+  ],
+  "steps": [
+    "Puddingpulver und Vanillezucker in einer kleinen Schüssel mischen.",
+    "Etwas Pflanzendrink dazu, glattrühren.",
+    "Restlichen Pflanzendrink im Topf aufkochen.",
+    "Von der Hitze, Puddingmischung unter Rühren einrühren.",
+    "Zurück auf die Hitze, aufkochen.",
+    "1 Minute unter Rühren köcheln.",
+    "Warm servieren oder abkühlen lassen — dickt beim Abkühlen nach, ggf. mit etwas Pflanzendrink verdünnen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-vanillesauce-aus-puddingpulver/" },
+  "note": null
+}

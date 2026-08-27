@@ -1,0 +1,105 @@
+{
+  "id": "gemueseeintopf-kichererbsen-zucchini-spinat",
+  "title": "Gemüseeintopf mit Kichererbsen, Zucchini und Spinat",
+  "summary": "Bunter Eintopf mit Lauch, Kichererbsen und Spinat, mit veganem Parmesan bestreut — dazu passt Baguette.",
+  "image": "images/gemueseeintopf-kichererbsen-zucchini-spinat.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mediterran",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Lauch",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Zucchini",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Zehe",
+      "name": "Knoblauch",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "Tomatenstücke",
+      "variety": "Dose"
+    },
+    {
+      "amount": 10,
+      "unit": "g",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Lorbeerblatt",
+      "variety": null
+    },
+    {
+      "amount": 265,
+      "unit": "g",
+      "name": "Kichererbsen",
+      "variety": "Abtropfgewicht"
+    },
+    {
+      "amount": 450,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 15,
+      "unit": "g",
+      "name": "Brühepulver",
+      "variety": null
+    },
+    {
+      "amount": 125,
+      "unit": "g",
+      "name": "Blattspinat",
+      "variety": "TK"
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Veganer Parmesan",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Lauch längs halbieren, einschneiden, quer in Streifen schneiden, waschen.",
+    "Zucchini in kleine Würfel schneiden.",
+    "Knoblauch pressen.",
+    "Kichererbsen abgießen.",
+    "Öl erhitzen, Lauch und Zucchini 5 Minuten andünsten.",
+    "Knoblauch und Tomatenmark dazu, 1 Minute andünsten.",
+    "Tomatenstücke, Kichererbsen, Wasser, Brühepulver und Lorbeerblatt dazu.",
+    "Aufkochen, 10 Minuten köcheln.",
+    "Spinat dazu, weitere 5 Minuten köcheln.",
+    "Lorbeerblatt entfernen.",
+    "Mit Salz und Pfeffer abschmecken.",
+    "Mit veganem Parmesan bestreut servieren."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/veganer-gemueseeintopf-kichererbsen-zucchini-spinat/"
+  },
+  "note": null
+}

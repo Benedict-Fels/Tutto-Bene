@@ -1,0 +1,36 @@
+{
+  "id": "sahne-moehren-hack",
+  "title": "Sahne-Möhren mit Hack",
+  "summary": "Cremige Möhren in Sahnesoße mit veganem Hack — deftige Hausmannskost.",
+  "image": "images/sahne-moehren-hack.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Veganes Hackfleisch", "variety": null },
+    { "amount": 625, "unit": "g", "name": "Karotte", "variety": null },
+    { "amount": 110, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 250, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "Kochsahne" },
+    { "amount": 100, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 3.5, "unit": "EL", "name": "Petersilie", "variety": "gehackt" }
+  ],
+  "steps": [
+    "Zwiebeln fein würfeln.",
+    "Karotten schälen und klein schneiden.",
+    "Öl in großer Pfanne erhitzen, Zwiebeln 5 Minuten andünsten.",
+    "Hack dazu, 5 Minuten mitbraten.",
+    "Karotten dazu, 3 Minuten mitbraten.",
+    "Wasser, Sahne und Brühepulver dazugeben.",
+    "Mit Deckel aufkochen.",
+    "20-25 Minuten bei kleiner Hitze köcheln, ab und zu umrühren.",
+    "Mit Pfeffer würzen, bei Bedarf salzen.",
+    "Mit Petersilie bestreut servieren, z.B. mit Kartoffeln, Reis oder Nudeln."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-sahne-moehren-mit-hack/" },
+  "note": null
+}

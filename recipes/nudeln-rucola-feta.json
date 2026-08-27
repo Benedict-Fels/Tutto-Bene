@@ -1,0 +1,37 @@
+{
+  "id": "nudeln-rucola-feta",
+  "title": "Nudeln mit Rucola und Feta",
+  "summary": "Schnelle Pasta mit Rucola, Zitrone und Feta — in 25 Minuten fertig.",
+  "image": "images/nudeln-rucola-feta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Nudeln", "variety": "Fusilli" },
+    { "amount": 60, "unit": "g", "name": "Rucola", "variety": null },
+    { "amount": 2.5, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zitrone", "variety": "Bio" },
+    { "amount": 150, "unit": "g", "name": "Veganer Feta", "variety": null },
+    { "amount": 3.5, "unit": "EL", "name": "Olivenöl", "variety": null }
+  ],
+  "steps": [
+    "Reichlich Wasser mit Salz aufkochen.",
+    "Nudeln nach Packungsanweisung kochen.",
+    "Kurz vor Ende der Kochzeit etwas Nudelwasser abnehmen, beiseitestellen.",
+    "Nudeln abgießen.",
+    "Zitrone heiß abwaschen, Schale fein abreiben.",
+    "Zitrone halbieren, eine Hälfte auspressen.",
+    "Feta grob zerkrümeln.",
+    "Knoblauch pressen.",
+    "Rucola klein schneiden.",
+    "Olivenöl in großer Pfanne erhitzen, nicht zu heiß.",
+    "Knoblauch dazu, 30 Sekunden anbraten.",
+    "Nudelwasser, Nudeln, Zitronensaft, Zitronenschale, Feta und Rucola dazugeben.",
+    "Mit Pfeffer würzen, bei Bedarf salzen, alles vermischen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/schnelle-nudeln-mit-rucola-und-veganem-feta/" },
+  "note": null
+}

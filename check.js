@@ -27,6 +27,11 @@ const DB_FILE = path.join(ROOT, 'recipes.json');
 const errors = [];
 const warnings = [];
 
+// Von main() befüllt, von checkIngredientList() gelesen (Zutaten- und Einheitenliste
+// werden für recipe.ingredients ebenso wie für variant.extraIngredients gebraucht).
+let ingredientNamesGlobal = new Set();
+let unitsGlobal = new Set();
+
 const error = (where, message) => errors.push({ where, message });
 const warn = (where, message) => warnings.push({ where, message });
 
@@ -79,6 +84,8 @@ function main() {
   const tags = new Set(lists.tags || []);
   const ingredientNames = new Set(lists.ingredients || []);
   const spiceNames = new Set(lists.spices || []);
+  ingredientNamesGlobal = ingredientNames;
+  unitsGlobal = units;
 
   if (!Array.isArray(db.recipes)) {
     error('recipes.json', 'Feld "recipes" fehlt oder ist keine Liste.');
@@ -168,49 +175,119 @@ function main() {
       if (recipe.ingredients.length === 0) {
         error(where, 'ingredients ist leer, mindestens ein Eintrag ist Pflicht.');
       }
-      for (const ing of recipe.ingredients) {
-        const label = ing && ing.name ? `Zutat "${ing.name}"` : 'Eine Zutat';
-
-        if (!ing || typeof ing !== 'object') {
-          error(where, 'Eine Zutat ist kein Objekt.');
-          continue;
-        }
-
-        // Regel 3 — Zutatenname in der Liste
-        if (!ing.name) {
-          error(where, 'Eine Zutat hat kein Feld "name".');
-        } else if (!ingredientNames.has(ing.name)) {
-          error(where, `${label} steht nicht in der Zutatenliste in data/lists.json.`);
-        }
-
-        // Regel 2 — Einheit aus fester Liste
-        if (ing.unit !== null && ing.unit !== undefined && !units.has(ing.unit)) {
-          error(where, `Einheit "${ing.unit}" bei ${label} steht nicht in der Einheitenliste.`);
-        }
-
-        // Regel 7 — amount und unit müssen zusammenpassen
-        const hasAmount = ing.amount !== null && ing.amount !== undefined;
-        const hasUnit = ing.unit !== null && ing.unit !== undefined;
-        if (hasAmount && typeof ing.amount !== 'number') {
-          error(where, `amount bei ${label} muss eine Zahl sein.`);
-        }
-        if (hasAmount && !hasUnit) {
-          error(where, `${label} hat eine Menge, aber keine Einheit.`);
-        }
-        if (!hasAmount && hasUnit) {
-          error(where, `${label} hat eine Einheit, aber keine Menge — "nach Geschmack" braucht beides auf null.`);
-        }
-
-        // Regel 9 — variety darf nicht zugleich eigener Listeneintrag sein
-        if (ing.variety && ingredientNames.has(ing.variety)) {
-          error(
-            where,
-            `variety "${ing.variety}" bei ${label} steht zugleich als eigener Eintrag in der Zutatenliste. Entweder filterbar oder Vorliebe — nicht beides.`
-          );
-        }
-      }
+      checkIngredientList(recipe.ingredients, where, 'Zutat');
     } else if (recipe.ingredients !== undefined) {
       error(where, 'ingredients muss eine Liste sein.');
+    }
+
+    // --- Varianten (variants) -------------------------------------------------
+    if (recipe.variants !== undefined && recipe.variants !== null) {
+      if (!Array.isArray(recipe.variants)) {
+        error(where, 'variants muss eine Liste sein.');
+      } else {
+        if (recipe.variants.length === 0) {
+          error(where, 'variants ist leer — entweder weglassen oder mindestens eine Variante angeben.');
+        }
+        const seenVariantNames = new Set();
+        for (const variant of recipe.variants) {
+          if (!variant || typeof variant !== 'object') {
+            error(where, 'Ein Eintrag in variants ist kein Objekt.');
+            continue;
+          }
+          const label = variant.name ? `Variante "${variant.name}"` : 'Eine Variante';
+
+          if (!variant.name || typeof variant.name !== 'string') {
+            error(where, 'Eine Variante hat kein Feld "name".');
+          } else {
+            if (seenVariantNames.has(variant.name)) {
+              error(where, `Variantenname "${variant.name}" kommt mehrfach vor.`);
+            }
+            seenVariantNames.add(variant.name);
+          }
+
+          // Zutaten: entweder eine vollständige Ersetzung (variant.ingredients —
+          // ersetzt die Basiszutaten komplett, für Varianten mit eigenem Teig)
+          // oder eine Ergänzung (variant.extraIngredients — wird an die
+          // Basiszutaten angehängt, für einfache Zutat-Add-ons). Nicht beides.
+          const hasFullIngredients = variant.ingredients !== undefined;
+          const hasExtraIngredients = variant.extraIngredients !== undefined;
+          if (hasFullIngredients && hasExtraIngredients) {
+            error(where, `${label}: ingredients und extraIngredients gleichzeitig gesetzt — nur eines von beiden.`);
+          } else if (hasFullIngredients) {
+            if (!Array.isArray(variant.ingredients) || variant.ingredients.length === 0) {
+              error(where, `${label}: ingredients muss eine Liste mit mindestens einem Eintrag sein.`);
+            } else {
+              checkIngredientList(variant.ingredients, where, `Zutat bei ${label}`);
+            }
+          } else if (hasExtraIngredients) {
+            if (!Array.isArray(variant.extraIngredients)) {
+              error(where, `${label}: extraIngredients muss eine Liste sein.`);
+            } else {
+              checkIngredientList(variant.extraIngredients, where, `Zusatzzutat bei ${label}`);
+            }
+          } else {
+            error(where, `${label}: weder "ingredients" noch "extraIngredients" gesetzt (leere Liste [] bei extraIngredients, falls keine Zusatzzutaten).`);
+          }
+
+          // Schritte: gleiches Muster — variant.steps ersetzt komplett,
+          // variant.extraSteps ergänzt die Basisschritte.
+          const hasFullSteps = variant.steps !== undefined;
+          const hasExtraSteps = variant.extraSteps !== undefined;
+          if (hasFullSteps && hasExtraSteps) {
+            error(where, `${label}: steps und extraSteps gleichzeitig gesetzt — nur eines von beiden.`);
+          } else if (hasFullSteps) {
+            if (!Array.isArray(variant.steps) || variant.steps.length === 0) {
+              error(where, `${label}: steps muss eine Liste mit mindestens einem Eintrag sein.`);
+            } else {
+              variant.steps.forEach((step, index) => {
+                if (typeof step !== 'string') {
+                  error(where, `${label}: Schritt ${index + 1} ist kein Text.`);
+                }
+              });
+            }
+          } else if (hasExtraSteps) {
+            if (!Array.isArray(variant.extraSteps)) {
+              error(where, `${label}: extraSteps muss eine Liste sein.`);
+            } else {
+              variant.extraSteps.forEach((step, index) => {
+                if (typeof step !== 'string') {
+                  error(where, `${label}: Extra-Schritt ${index + 1} ist kein Text.`);
+                }
+              });
+            }
+          } else {
+            error(where, `${label}: weder "steps" noch "extraSteps" gesetzt (leere Liste [] bei extraSteps, falls keine Zusatzschritte).`);
+          }
+
+          // Optionale Zeit-/Portions-Overrides — nur wenn gesetzt, aber dann korrekt.
+          for (const field of ['servings', 'prepTime', 'cookTime', 'restTime']) {
+            const value = variant[field];
+            if (value === undefined || value === null) continue;
+            if (typeof value !== 'number' || value < 0) {
+              error(where, `${label}: ${field} muss eine nichtnegative Zahl sein.`);
+            } else if (field === 'servings' && !Number.isInteger(value)) {
+              error(where, `${label}: servings muss eine ganze Zahl sein.`);
+            }
+          }
+
+          // Optionale cuisine- und image-Overrides.
+          if (variant.cuisine !== undefined && variant.cuisine !== null) {
+            if (typeof variant.cuisine !== 'string' || !cuisines.has(variant.cuisine)) {
+              error(where, `${label}: cuisine "${variant.cuisine}" steht nicht in der Küchenliste.`);
+            }
+          }
+          if (variant.image !== undefined && variant.image !== null) {
+            if (typeof variant.image !== 'string') {
+              error(where, `${label}: image muss ein Text sein.`);
+            } else {
+              const variantImagePath = path.join(ROOT, variant.image);
+              if (!fs.existsSync(variantImagePath)) {
+                error(where, `${label}: Bilddatei fehlt: ${variant.image}`);
+              }
+            }
+          }
+        }
+      }
     }
 
     // --- Gewürze (spices) -----------------------------------------------------
@@ -391,6 +468,51 @@ function main() {
   }
 
   finish(recipes.length);
+}
+
+/**
+ * Prüft eine Liste von Zutaten-Objekten (Regeln 2, 3, 7, 9 aus Spec E1).
+ * Wird sowohl für recipe.ingredients als auch für variant.extraIngredients benutzt.
+ * `ingredientNames` und `units` werden aus dem umschließenden main()-Scope erwartet.
+ */
+function checkIngredientList(list, where, labelPrefix) {
+  for (const ing of list) {
+    const label = ing && ing.name ? `${labelPrefix} "${ing.name}"` : `Eine ${labelPrefix.toLowerCase()}`;
+
+    if (!ing || typeof ing !== 'object') {
+      error(where, `Ein Eintrag (${labelPrefix}) ist kein Objekt.`);
+      continue;
+    }
+
+    if (!ing.name) {
+      error(where, `${labelPrefix} hat kein Feld "name".`);
+    } else if (!ingredientNamesGlobal.has(ing.name)) {
+      error(where, `${label} steht nicht in der Zutatenliste in data/lists.json.`);
+    }
+
+    if (ing.unit !== null && ing.unit !== undefined && !unitsGlobal.has(ing.unit)) {
+      error(where, `Einheit "${ing.unit}" bei ${label} steht nicht in der Einheitenliste.`);
+    }
+
+    const hasAmount = ing.amount !== null && ing.amount !== undefined;
+    const hasUnit = ing.unit !== null && ing.unit !== undefined;
+    if (hasAmount && typeof ing.amount !== 'number') {
+      error(where, `amount bei ${label} muss eine Zahl sein.`);
+    }
+    if (hasAmount && !hasUnit) {
+      error(where, `${label} hat eine Menge, aber keine Einheit.`);
+    }
+    if (!hasAmount && hasUnit) {
+      error(where, `${label} hat eine Einheit, aber keine Menge — "nach Geschmack" braucht beides auf null.`);
+    }
+
+    if (ing.variety && ingredientNamesGlobal.has(ing.variety)) {
+      error(
+        where,
+        `variety "${ing.variety}" bei ${label} steht zugleich als eigener Eintrag in der Zutatenliste. Entweder filterbar oder Vorliebe — nicht beides.`
+      );
+    }
+  }
 }
 
 function escapeRegExp(text) {

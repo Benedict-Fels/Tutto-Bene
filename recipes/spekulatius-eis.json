@@ -1,0 +1,30 @@
+{
+  "id": "spekulatius-eis",
+  "title": "Spekulatius-Eis",
+  "summary": "Cremiges No-Churn-Eis aus Vanilleeis, Spekulatius und Zimt — ganz ohne Eismaschine.",
+  "image": "images/spekulatius-eis.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 6,
+  "prepTime": 30,
+  "cookTime": 0,
+  "restTime": 240,
+  "ingredients": [
+    { "amount": 413, "unit": "g", "name": "Vegane Vanilleeiscreme", "variety": null },
+    { "amount": 9, "unit": "Stück", "name": "Spekulatius", "variety": null },
+    { "amount": 200, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "schlagfest, gekühlt" },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Zimt", "variety": null }
+  ],
+  "steps": [
+    "Eis 15-20 Minuten antauen lassen.",
+    "Spekulatius in kleine Stücke brechen.",
+    "Gekühlte Sahne mit Vanillezucker steif schlagen.",
+    "Angetautes Eis, Spekulatiusstücke und Zimt in einer Schüssel verrühren.",
+    "Mit dem Handmixer kurz durchmixen.",
+    "Geschlagene Sahne unterheben.",
+    "In eine Form füllen, mindestens 4 Stunden gefrieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/sehr-einfaches-veganes-spekulatius-eis/" },
+  "note": null
+}

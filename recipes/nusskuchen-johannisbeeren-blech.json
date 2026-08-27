@@ -1,0 +1,38 @@
+{
+  "id": "nusskuchen-johannisbeeren-blech",
+  "title": "Nusskuchen mit Johannisbeeren vom Blech",
+  "summary": "Saftiger Haselnusskuchen mit Schokostückchen und frischen Johannisbeeren.",
+  "image": "images/nusskuchen-johannisbeeren-blech.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 20,
+  "prepTime": 18,
+  "cookTime": 42,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Haselnüsse", "variety": "gemahlen" },
+    { "amount": 250, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Backpulver", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Vegane Schokolade", "variety": "geraspelt" },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 115, "unit": "ml", "name": "Pflanzenöl", "variety": null },
+    { "amount": 300, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 300, "unit": "g", "name": "Johannisbeeren", "variety": null }
+  ],
+  "steps": [
+    "Johannisbeeren waschen, von Stielen zupfen, trocken tupfen.",
+    "Backblech einfetten und mit Backpapier auslegen.",
+    "Ofen auf 160°C Umluft vorheizen.",
+    "Mehl, Haselnüsse, Zucker, Backpulver, Schokolade, Vanillezucker und Salz vermischen.",
+    "Öl und Pflanzendrink dazugeben, kurz gut umrühren.",
+    "Johannisbeeren unterrühren.",
+    "Teig auf das Blech geben.",
+    "Bei 160°C Umluft auf mittlerer Schiene 42 Minuten backen.",
+    "Vollständig abkühlen lassen.",
+    "Nach Wunsch mit Schokoglasur oder Puderzucker verzieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-nusskuchen-mit-johannisbeeren-vom-blech/" },
+  "note": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bananenjoghurt-sahne",
+  "title": "Bananenjoghurt mit Sahne",
+  "summary": "Schnelles Dessert aus Bananenmus, Vanillejoghurt und geschlagener Sahne.",
+  "image": "images/bananenjoghurt-sahne.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Banane", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Zitronensaft", "variety": null },
+    { "amount": 300, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "Soja, Vanille" },
+    { "amount": 200, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "Schlagsahne" },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null }
+  ],
+  "steps": [
+    "Zitrone auspressen.",
+    "Bananen schälen, 300 g für den Joghurt verwenden, Rest in Scheiben schneiden für die Deko.",
+    "Banane und Zitronensaft in eine Schüssel geben, mit einer Gabel zu Mus zerdrücken.",
+    "Pflanzlichen Joghurt dazugeben und gut vermischen.",
+    "Pflanzliche Sahne und Vanillezucker steif schlagen.",
+    "Geschlagene Sahne unter das Bananen-Joghurt-Mus heben.",
+    "Bis zum Servieren kalt stellen, mit Bananenscheiben dekorieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfacher-veganer-bananenjoghurt-mit-sahne/" },
+  "note": null
+}

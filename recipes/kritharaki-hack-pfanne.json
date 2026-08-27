@@ -1,0 +1,36 @@
+{
+  "id": "kritharaki-hack-pfanne",
+  "title": "Kritharaki-Hack-Pfanne",
+  "summary": "Schnelles Pfannengericht mit Kritharaki, Hack und Paprika, dazu frische Joghurtsoße.",
+  "image": "images/kritharaki-hack-pfanne.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Griechisch",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Kritharaki-Nudeln", "variety": null },
+    { "amount": 215, "unit": "g", "name": "Veganes Hackfleisch", "variety": null },
+    { "amount": 190, "unit": "g", "name": "Paprika", "variety": "rot" },
+    { "amount": 120, "unit": "g", "name": "Frühlingszwiebel", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Currypulver", "variety": null },
+    { "amount": 400, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "ungesüßt" },
+    { "amount": 3.5, "unit": "EL", "name": "Zitronensaft", "variety": null }
+  ],
+  "steps": [
+    "Kritharaki nach Packungsanweisung kochen, abgießen.",
+    "Joghurt mit Zitronensaft verrühren, salzen, beiseitestellen.",
+    "Paprika entkernen, in kleine Würfel schneiden.",
+    "Frühlingszwiebeln in feine Ringe schneiden.",
+    "Öl in Pfanne erhitzen, Hack 4 Minuten braten.",
+    "Paprika dazu, 3 Minuten mitbraten.",
+    "Frühlingszwiebeln dazu, 3 Minuten mitbraten.",
+    "Mit Currypulver und Pfeffer würzen, bei Bedarf salzen.",
+    "Kritharaki unterheben, gut vermischen.",
+    "Mit Joghurtsoße servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-vegane-kritharaki-hackfleisch-pfanne/" },
+  "note": null
+}

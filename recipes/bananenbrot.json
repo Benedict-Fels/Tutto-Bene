@@ -1,0 +1,158 @@
+{
+  "id": "bananenbrot",
+  "title": "Bananenbrot",
+  "summary": "Saftiges Bananenbrot in vier Varianten — pur, mit Walnüssen, Erdnussbutter oder Zimt-Schicht.",
+  "image": "images/bananenbrot.jpg",
+  "category": "Frühstück",
+  "cuisine": "Deutsch",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 60,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 330,
+      "unit": "g",
+      "name": "Banane",
+      "variety": "geschält"
+    },
+    {
+      "amount": 92,
+      "unit": "g",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Pflanzendrink",
+      "variety": "Soja"
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 15,
+      "unit": "g",
+      "name": "Speisestärke",
+      "variety": null
+    },
+    {
+      "amount": 8,
+      "unit": "g",
+      "name": "Backpulver",
+      "variety": "Weinstein"
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 8,
+      "unit": "g",
+      "name": "Vanillezucker",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "g",
+      "name": "Salz",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Kastenform einfetten, mit Backpapier auslegen. Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Mehl, Stärke, Zucker, Vanillezucker, Backpulver, Salz vermischen.",
+    "Bananen mit Öl und Pflanzendrink zerdrücken — grob, nicht pürieren.",
+    "Trocken und feucht zusammen, nur kurz verrühren.",
+    "In die Form füllen, glattstreichen.",
+    "60 Minuten bei 180°C backen, mit Stäbchenprobe testen."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/saftige-vegane-bananenbrot-muffins/"
+  },
+  "note": null,
+  "variants": [
+    {
+      "name": "Klassisch",
+      "extraIngredients": [],
+      "extraSteps": []
+    },
+    {
+      "name": "Walnuss",
+      "extraIngredients": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "name": "Walnüsse",
+          "variety": null
+        }
+      ],
+      "extraSteps": [
+        "Walnüsse grob hacken, unter den fertigen Teig heben."
+      ]
+    },
+    {
+      "name": "Erdnussbutter",
+      "extraIngredients": [
+        {
+          "amount": 120,
+          "unit": "g",
+          "name": "Erdnussbutter",
+          "variety": "cremig"
+        },
+        {
+          "amount": 40,
+          "unit": "g",
+          "name": "Erdnüsse",
+          "variety": "geröstet, gesalzen"
+        }
+      ],
+      "extraSteps": [
+        "Erdnussbutter unter den fertigen Teig rühren.",
+        "Mit gehackten Erdnüssen bestreuen, vor dem Backen leicht andrücken."
+      ]
+    },
+    {
+      "name": "Zimt",
+      "extraIngredients": [
+        {
+          "amount": 30,
+          "unit": "g",
+          "name": "Zucker",
+          "variety": "für die Zimt-Schicht"
+        },
+        {
+          "amount": 8,
+          "unit": "g",
+          "name": "Zimt",
+          "variety": null
+        }
+      ],
+      "extraSteps": [
+        "Zucker und Zimt für die Schicht vermischen.",
+        "Teig und Zimt-Zucker abwechselnd in Dritteln in die Form schichten."
+      ]
+    },
+    {
+      "name": "Muffins",
+      "servings": 12,
+      "prepTime": 10,
+      "cookTime": 25,
+      "restTime": 0,
+      "extraIngredients": [],
+      "extraSteps": [
+        "Statt Kastenform: Muffinform mit Papierförmchen auslegen.",
+        "Teig auf die Förmchen verteilen.",
+        "25 Minuten bei 180°C backen, statt 60 Minuten in der Kastenform."
+      ],
+      "image": "images/bananenbrot-muffins.jpg"
+    }
+  ]
+}

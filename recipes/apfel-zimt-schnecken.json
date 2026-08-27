@@ -1,0 +1,41 @@
+{
+  "id": "apfel-zimt-schnecken",
+  "title": "Fluffige Apfel-Zimt-Schnecken",
+  "summary": "Weiche Hefeschnecken mit Zimt und saftigen Apfelstücken, mit Zuckerguss übergossen.",
+  "image": "images/apfel-zimt-schnecken.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 12,
+  "prepTime": 40,
+  "cookTime": 27,
+  "restTime": 90,
+  "ingredients": [
+    { "amount": 500, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 7, "unit": "g", "name": "Trockenhefe", "variety": null },
+    { "amount": 90, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 1.5, "unit": "Stück", "name": "Apfel", "variety": null },
+    { "amount": 60, "unit": "g", "name": "Vegane Butter", "variety": "für die Füllung" },
+    { "amount": 50, "unit": "g", "name": "Zucker", "variety": "für die Füllung" },
+    { "amount": 2, "unit": "TL", "name": "Zimt", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Pflanzendrink", "variety": "für den Guss" }
+  ],
+  "steps": [
+    "Pflanzendrink und Butter handwarm erwärmen.",
+    "Trockenzutaten mischen, feuchte Zutaten dazugeben, 10 Minuten kneten.",
+    "Teig zugedeckt 1 Stunde gehen lassen.",
+    "Für die Füllung Butter schmelzen, Zucker und Zimt unterrühren, abkühlen lassen.",
+    "Äpfel würfeln.",
+    "Teig auf ca. 30 x 42 cm ausrollen.",
+    "Füllung verteilen, Apfelstücke darauf streuen.",
+    "Von der langen Seite aufrollen, in 12 Scheiben schneiden.",
+    "In eingefettete Form setzen, 30 Minuten gehen lassen.",
+    "Mit etwas Wasser besprühen.",
+    "27 Minuten bei 180 °C backen.",
+    "Puderzucker mit Pflanzendrink glattrühren, über die abgekühlten Schnecken geben."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/fluffige-vegane-apfel-zimt-schnecken/" },
+  "note": null
+}

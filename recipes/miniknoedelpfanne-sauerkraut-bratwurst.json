@@ -1,0 +1,34 @@
+{
+  "id": "miniknoedelpfanne-sauerkraut-bratwurst",
+  "title": "Miniknödel-Pfanne mit Sauerkraut und Bratwürstchen",
+  "summary": "Deftige Hausmannskost mit gebratenen Miniknödeln, Sauerkraut und veganen Bratwürstchen in Bratensoße.",
+  "image": "images/miniknoedelpfanne-sauerkraut-bratwurst.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 30,
+  "cookTime": 40,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 275, "unit": "ml", "name": "Vegane Bratensoße", "variety": null },
+    { "amount": 375, "unit": "g", "name": "Vegane Mini-Knödel", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "groß" },
+    { "amount": 2.5, "unit": "EL", "name": "Mehl", "variety": null },
+    { "amount": 190, "unit": "g", "name": "Vegane Bratwurst", "variety": null },
+    { "amount": 350, "unit": "g", "name": "Sauerkraut", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Kümmel", "variety": "gemahlen" }
+  ],
+  "steps": [
+    "Knödel nach Packungsanweisung kochen.",
+    "Zwiebeln in Streifen schneiden, mit Mehl bestäuben.",
+    "Öl erhitzen, Zwiebeln ca. 10 Minuten anbraten.",
+    "Gekochte Knödel dazu, 12-15 Minuten goldbraun braten.",
+    "Bratwürstchen in Scheiben schneiden, 7-8 Minuten anbraten.",
+    "Sauerkraut 5 Minuten anbraten, mit Kümmel und Pfeffer würzen.",
+    "Bratensoße erhitzen.",
+    "Alle Komponenten kombinieren, mit heißer Bratensoße vermischen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/miniknoedelpfanne-sauerkraut-vegane-bratwurst/" },
+  "note": null
+}

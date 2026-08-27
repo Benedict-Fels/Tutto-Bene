@@ -1,0 +1,39 @@
+{
+  "id": "kritharaki-salat-hack",
+  "title": "Kritharaki-Salat mit Hackfleisch",
+  "summary": "Griechischer Nudelsalat mit veganem Hack, Paprika und einem Balsamico-Kräuter-Dressing.",
+  "image": "images/kritharaki-salat-hack.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Griechisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 30,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Veganes Hackfleisch", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Kritharaki-Nudeln", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Paprika", "variety": "rot" },
+    { "amount": 100, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 1, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Ketchup", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Oregano", "variety": "getrocknet" },
+    { "amount": 2.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Olivenöl", "variety": null },
+    { "amount": 45, "unit": "g", "name": "Balsamico-Essig", "variety": null },
+    { "amount": 35, "unit": "g", "name": "Olivenöl", "variety": null },
+    { "amount": 4, "unit": "EL", "name": "Petersilie", "variety": "gehackt" },
+    { "amount": 5, "unit": "g", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Kritharaki in Salzwasser 12-14 Minuten kochen, abgießen und abkühlen lassen.",
+    "Paprika und Zwiebel sehr fein würfeln, Knoblauch pressen.",
+    "Hackfleisch mit Pfeffer, Tomatenmark, Ketchup, Oregano, Brühepulver, Zwiebel und Knoblauch vermischen.",
+    "Olivenöl in Pfanne erhitzen, Hackmischung 8 Minuten bei mittlerer Hitze anbraten.",
+    "Für das Dressing Balsamico-Essig, Olivenöl, Petersilie, Brühepulver und Pfeffer verrühren.",
+    "Kritharaki, gebratenes Hack und Paprikawürfel zum Dressing geben.",
+    "Gut vermischen und mindestens 30 Minuten im Kühlschrank durchziehen lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfacher-kritharaki-salat-mit-veganem-hackfleisch/" },
+  "note": null
+}

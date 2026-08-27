@@ -1,13 +1,13 @@
 {
   "id": "veganer-chow-mein",
   "title": "Chow Mein",
-  "summary": "Asiatische Pfannennudeln mit veganem Hähnchen, Gemüse und würziger Sojasauce — schnell und besser als Take-away.",
+  "summary": "Asiatische Pfannennudeln mit Tofu, Gemüse und würziger Sojasauce — schnell und besser als Take-away.",
   "image": "images/veganer-chow-mein.jpg",
   "category": "Hauptgericht",
   "cuisine": "Asiatisch",
   "servings": 3,
-  "prepTime": 20,
-  "cookTime": 15,
+  "prepTime": 30,
+  "cookTime": 20,
   "restTime": 0,
   "ingredients": [
     {
@@ -17,27 +17,21 @@
       "variety": null
     },
     {
-      "amount": 0.5,
-      "unit": "Stück",
-      "name": "Brühwürfel",
-      "variety": "Gemüse"
-    },
-    {
       "amount": 5,
       "unit": "g",
       "name": "Speisestärke",
       "variety": null
     },
     {
-      "amount": 10,
+      "amount": 5,
       "unit": "ml",
       "name": "Agavensirup",
       "variety": null
     },
     {
-      "amount": 170,
+      "amount": 200,
       "unit": "g",
-      "name": "Veganes Hähnchen",
+      "name": "Tofu",
       "variety": null
     },
     {
@@ -97,7 +91,7 @@
       "variety": "dunkel"
     },
     {
-      "amount": 30,
+      "amount": 10,
       "unit": "ml",
       "name": "Sesamöl",
       "variety": null
@@ -123,11 +117,11 @@
   ],
   "steps": [
     "Saucenzutaten verrühren.",
-    "Öl erhitzen, veganes Hähnchen goldbraun braten, beiseitestellen.",
+    "Öl erhitzen, Tofu in Streifen goldbraun braten, beiseitestellen.",
     "Mehr Öl dazu, Zwiebel und Knoblauch braten bis der Knoblauch goldbraun ist.",
     "Chinakohl, Karotten, weiße Pak-Choi-Stiele dazu, ein paar Minuten braten.",
     "Nudeln nach Packungsanleitung kochen, abtropfen, kalt abspülen.",
-    "Hähnchen und Pak-Choi-Blätter zurück in die Pfanne, durchwärmen.",
+    "Tofu und Pak-Choi-Blätter zurück in die Pfanne, durchwärmen.",
     "Nudeln dazu, Sauce drüber, vermischen. Kurz köcheln bis die Sauce andickt.",
     "Mit Frühlingszwiebeln und Sesam servieren."
   ],

@@ -1,0 +1,39 @@
+{
+  "id": "mandelhoernchen",
+  "title": "Mandelhörnchen",
+  "summary": "Saftige Hörnchen aus Marzipanteig, in Mandelblättchen gewälzt, mit Schokolade an den Enden.",
+  "image": "images/mandelhoernchen.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 20,
+  "prepTime": 30,
+  "cookTime": 12,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Marzipan", "variety": "Rohmasse" },
+    { "amount": 100, "unit": "g", "name": "Mandeln", "variety": "gemahlen" },
+    { "amount": 100, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Speisestärke", "variety": null },
+    { "amount": 1, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 1, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 80, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 0.5, "unit": "Stück", "name": "Bittermandelaroma", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Mandeln", "variety": "blättrig" },
+    { "amount": 150, "unit": "g", "name": "Vegane Kuvertüre", "variety": null }
+  ],
+  "steps": [
+    "Backblech mit Papier auslegen, Mandelblättchen in eine flache Schale geben.",
+    "Gemahlene Mandeln, Mehl, Zucker, Vanillezucker, Stärke, Backpulver und Salz mischen.",
+    "Marzipan reiben, mit Pflanzendrink und Bittermandelaroma dazugeben, gründlich verkneten.",
+    "Ofen auf 180°C Umluft vorheizen.",
+    "Teig in 20 Portionen à etwa 25 g teilen, zu Hörnchen formen.",
+    "In den Mandelblättchen wälzen, aufs Blech setzen.",
+    "12 Minuten backen, bis goldbraun.",
+    "Komplett auskühlen lassen.",
+    "Kuvertüre schmelzen, beide Enden eintauchen, auf Backpapier fest werden lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-mandelhoernchen/" },
+  "note": null
+}

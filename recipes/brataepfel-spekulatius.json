@@ -1,0 +1,39 @@
+{
+  "id": "brataepfel-spekulatius",
+  "title": "Bratäpfel mit Spekulatius",
+  "summary": "Winterliches Dessert: gefüllte Äpfel mit Spekulatius, Rum-Rosinen und gehackten Nüssen aus dem Ofen.",
+  "image": "images/brataepfel-spekulatius.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 50,
+  "cookTime": 25,
+  "restTime": 30,
+  "ingredients": [
+    { "amount": 4, "unit": "Stück", "name": "Apfel", "variety": "z.B. Boskoop" },
+    { "amount": 7, "unit": "Stück", "name": "Spekulatius", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Rosinen", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Rum", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Haselnüsse", "variety": "gehackt" },
+    { "amount": 4, "unit": "TL", "name": "Aprikosenmarmelade", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Vegane Butter", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Zucker", "variety": null },
+    { "amount": 0.25, "unit": "TL", "name": "Zimt", "variety": null }
+  ],
+  "steps": [
+    "Rosinen in Rum mindestens 30 Minuten einweichen.",
+    "Spekulatius im Gefrierbeutel mit dem Nudelholz fein zerbröseln.",
+    "Brösel mit Nüssen, eingeweichten Rosinen samt Flüssigkeit, Marmelade und Zimt mischen.",
+    "Auflaufform mit Butter fetten.",
+    "Ofen auf 180°C vorheizen.",
+    "Von den Äpfeln oben einen Deckel abschneiden.",
+    "Kerngehäuse großzügig aushöhlen.",
+    "Füllung in die Äpfel drücken.",
+    "Deckel wieder aufsetzen.",
+    "Auf jeden Apfel etwas Butter und Zucker geben.",
+    "In die Form setzen, 25 Minuten bei 180°C backen.",
+    "Warm mit Vanillesoße oder Vanilleeis servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-brataepfel-mit-spekulatius-rum-rosinen-und-gehackten-nuessen/" },
+  "note": null
+}

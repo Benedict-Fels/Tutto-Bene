@@ -1,0 +1,39 @@
+{
+  "id": "kirschkuchen-saftig",
+  "title": "Saftiger Kirschkuchen",
+  "summary": "Schneller Rührkuchen mit Mineralwasser aufgelockert und vollen Sauerkirschen.",
+  "image": "images/kirschkuchen-saftig.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 60,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 375, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 185, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 12, "unit": "g", "name": "Backpulver", "variety": "Weinstein-Backpulver" },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 115, "unit": "g", "name": "Pflanzenöl", "variety": "neutral" },
+    { "amount": 180, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 125, "unit": "ml", "name": "Mineralwasser", "variety": "mit Kohlensäure" },
+    { "amount": 350, "unit": "g", "name": "Sauerkirschen", "variety": "aus dem Glas, abgetropft" },
+    { "amount": 30, "unit": "g", "name": "Mehl", "variety": "zum Wenden der Kirschen" }
+  ],
+  "steps": [
+    "Kirschen gründlich in einem Sieb abtropfen lassen.",
+    "Ofen auf 180 °C Ober-/Unterhitze vorheizen.",
+    "Springform mit Öl einfetten, mit Mehl bestäuben.",
+    "Mehl, Zucker, Vanillezucker, Backpulver und Salz vermischen.",
+    "Öl, Pflanzendrink und Mineralwasser dazu, kurz mit dem Löffel verrühren.",
+    "Kirschen mit Mehl wenden, damit sie nicht absinken.",
+    "Vorsichtig unter den Teig heben.",
+    "In die Springform füllen.",
+    "60 Minuten auf mittlerer Schiene backen.",
+    "Vollständig in der Form auskühlen lassen.",
+    "Nach Belieben mit Puderzucker bestäuben."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/saftiger-veganer-kirschkuchen/" },
+  "note": null
+}

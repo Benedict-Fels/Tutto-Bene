@@ -1,0 +1,30 @@
+{
+  "id": "vollkorn-dinkelwaffeln",
+  "title": "Vollkorn-Dinkelwaffeln",
+  "summary": "Schnelle Waffeln aus wenigen Zutaten, mit Vollkornmehl und einem Schuss Apfelmus für extra Saftigkeit.",
+  "image": "images/vollkorn-dinkelwaffeln.jpg",
+  "category": "Frühstück",
+  "cuisine": "Deutsch",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 5,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Vollkornmehl", "variety": "Dinkel oder Weizen" },
+    { "amount": 2, "unit": "TL", "name": "Backpulver", "variety": null },
+    { "amount": 75, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 500, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja, Hafer oder Mandel" },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 50, "unit": "g", "name": "Apfelmus", "variety": null },
+    { "amount": 1, "unit": "Packung", "name": "Vanillezucker", "variety": null }
+  ],
+  "steps": [
+    "Trockene Zutaten in einer Schüssel mischen.",
+    "Feuchte Zutaten dazu, gut verrühren.",
+    "Waffeleisen auf mittlerer Hitze vorheizen, einfetten.",
+    "Jede Waffel ca. 3,5 Minuten backen.",
+    "Waffeleisen langsam öffnen, Waffel entnehmen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/dinkel-vollkorn-waffeln/" },
+  "note": null
+}

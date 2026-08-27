@@ -1,0 +1,25 @@
+{
+  "id": "spekulatius-milchshake",
+  "title": "Spekulatius-Milchshake",
+  "summary": "Cremiger Shake mit Spekulatius und Vanilleeis — schmeckt wie Weihnachten im Glas.",
+  "image": "images/spekulatius-milchshake.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 100, "unit": "g", "name": "Spekulatius", "variety": null },
+    { "amount": 300, "unit": "g", "name": "Vegane Vanilleeiscreme", "variety": null },
+    { "amount": 300, "unit": "ml", "name": "Pflanzendrink", "variety": null }
+  ],
+  "steps": [
+    "Spekulatius, Eis und Pflanzendrink in den Mixer.",
+    "Eine Minute mixen, bis glatt.",
+    "In Gläser füllen.",
+    "Nach Belieben mit zerbröseltem Spekulatius toppen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-spekulatius-milchshake/" },
+  "note": null
+}

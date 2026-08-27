@@ -1,0 +1,34 @@
+{
+  "id": "schoko-gewuerzkuchen",
+  "title": "Schoko-Gewürzkuchen",
+  "summary": "Saftiger Schokokuchen mit Lebkuchengewürz und Orangensaft — schnell gerührt, perfekt für die Weihnachtszeit.",
+  "image": "images/schoko-gewuerzkuchen.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 50,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Haselnüsse", "variety": "gemahlen" },
+    { "amount": 16, "unit": "g", "name": "Backpulver", "variety": "Weinstein-Backpulver" },
+    { "amount": 300, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Lebkuchengewürz", "variety": null },
+    { "amount": 25, "unit": "g", "name": "Kakaopulver", "variety": null },
+    { "amount": 130, "unit": "g", "name": "Pflanzenöl", "variety": "neutral" },
+    { "amount": 300, "unit": "g", "name": "Orangensaft", "variety": null }
+  ],
+  "steps": [
+    "Ofen auf 180 °C Ober-/Unterhitze vorheizen.",
+    "Kastenform einfetten oder mit Backpapier auslegen.",
+    "Mehl, Haselnüsse, Backpulver, Zucker, Lebkuchengewürz und Kakaopulver vermischen.",
+    "Öl und Orangensaft dazu, kurz mit dem Kochlöffel verrühren, nicht zu lange rühren.",
+    "Teig in die Form füllen.",
+    "50 Minuten backen, mit Stäbchenprobe testen.",
+    "Vollständig in der Form auskühlen lassen.",
+    "Optional mit Puderzucker bestäuben oder mit Glasur beträufeln."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-schoko-gewuerzkuchen-springform/" },
+  "note": null
+}

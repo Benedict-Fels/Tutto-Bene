@@ -1,0 +1,36 @@
+{
+  "id": "tiramisu",
+  "title": "Tiramisu",
+  "summary": "Cremiges Tiramisu mit veganem Frischkäse, Kaffee und Amaretto — der italienische Klassiker, pflanzlich.",
+  "image": "images/tiramisu.jpg",
+  "category": "Dessert",
+  "cuisine": "Italienisch",
+  "servings": 10,
+  "prepTime": 30,
+  "cookTime": 0,
+  "restTime": 300,
+  "ingredients": [
+    { "amount": 1, "unit": "Stück", "name": "Biskuit für Tiramisu", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Veganer Frischkäse", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 200, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "schlagfest" },
+    { "amount": 250, "unit": "ml", "name": "Kaffee", "variety": "stark" },
+    { "amount": 125, "unit": "ml", "name": "Amaretto", "variety": "vegan" },
+    { "amount": 30, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 27, "unit": "g", "name": "Kakaopulver", "variety": null }
+  ],
+  "steps": [
+    "Biskuit backen (eigenes Rezept), auskühlen lassen.",
+    "Kaffee kochen, Zucker heiß darin auflösen, auskühlen lassen.",
+    "Ausgekühlten Kaffee mit Amaretto mischen.",
+    "Sahne steif schlagen.",
+    "Frischkäse, Puderzucker und Vanillezucker glatt rühren.",
+    "Geschlagene Sahne unterheben.",
+    "Form schichten: Biskuit, Hälfte Kaffeemischung, Hälfte Creme, Biskuit, restliche Kaffeemischung, restliche Creme.",
+    "Mit Kakaopulver bestäuben.",
+    "Mindestens 4–6 Stunden, besser über Nacht, kalt stellen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganes-tiramisu-mit-veganem-frischkaese/" },
+  "note": null
+}

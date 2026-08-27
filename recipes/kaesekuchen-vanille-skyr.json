@@ -1,0 +1,42 @@
+{
+  "id": "kaesekuchen-vanille-skyr",
+  "title": "Käsekuchen mit Vanille-Skyr",
+  "summary": "Kleiner Käsekuchen für die 20-cm-Form, cremig durch Skyr statt Frischkäse — perfekt zum Kaffee.",
+  "image": "images/kaesekuchen-vanille-skyr.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 10,
+  "prepTime": 20,
+  "cookTime": 68,
+  "restTime": 180,
+  "ingredients": [
+    { "amount": 140, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 60, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 4, "unit": "g", "name": "Backpulver", "variety": "Weinstein" },
+    { "amount": 1, "unit": "Prise", "name": "Salz", "variety": null },
+    { "amount": 85, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 475, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "Skyr, Vanille" },
+    { "amount": 45, "unit": "g", "name": "Vanillepuddingpulver", "variety": null },
+    { "amount": 120, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Zitronensaft", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Zitronenschale", "variety": "gerieben" },
+    { "amount": 60, "unit": "g", "name": "Vegane Butter", "variety": "geschmolzen" }
+  ],
+  "steps": [
+    "Springform (20 cm) fetten, Boden mit Backpapier auslegen.",
+    "Mehl, Zucker, Vanillezucker, Backpulver und Salz mischen.",
+    "Butter dazu, zu einem Teig kneten.",
+    "In die Form drücken, 2 cm hohen Rand formen.",
+    "Ofen auf 180°C vorheizen.",
+    "Butter für die Füllung schmelzen, etwas abkühlen lassen.",
+    "Skyr, Zucker, Zitronensaft, Zitronenschale und geschmolzene Butter verrühren.",
+    "Puddingpulver einrühren, glattrühren.",
+    "Füllung auf den Boden gießen.",
+    "65-70 Minuten bei 180°C backen, bis goldbraun.",
+    "Ofentür einen Spalt öffnen, komplett im Ofen auskühlen lassen.",
+    "Vor dem Anschneiden mindestens 3 Stunden kalt stellen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/kleiner-veganer-kaesekuchen-skyr/" },
+  "note": null
+}

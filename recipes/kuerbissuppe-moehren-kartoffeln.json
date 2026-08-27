@@ -1,0 +1,39 @@
+{
+  "id": "kuerbissuppe-moehren-kartoffeln",
+  "title": "Kürbissuppe mit Karotten und Kartoffeln",
+  "summary": "Schnelle Hokkaido-Kürbissuppe ohne Kokosmilch — cremig durch Crème fraîche, fruchtig durch Orangensaft.",
+  "image": "images/kuerbissuppe-moehren-kartoffeln.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 1250, "unit": "g", "name": "Kürbis", "variety": "Hokkaido" },
+    { "amount": 150, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 3, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 12.5, "unit": "g", "name": "Ingwer", "variety": "frisch" },
+    { "amount": 300, "unit": "g", "name": "Karotte", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Kartoffel", "variety": null },
+    { "amount": 150, "unit": "ml", "name": "Orangensaft", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Vegane Crème fraîche", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Currypulver", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Zwiebel, Ingwer und Knoblauch schälen und würfeln.",
+    "Kürbis halbieren, vierteln, Kerne und Fasern entfernen, würfeln.",
+    "Karotten und Kartoffeln würfeln.",
+    "Öl erhitzen, Zwiebel 5 Minuten andünsten.",
+    "Ingwer, Knoblauch und Currypulver dazu, 1 Minute mitdünsten.",
+    "1000 ml Wasser und Brühepulver dazu, aufkochen.",
+    "Kürbis-, Karotten- und Kartoffelwürfel dazu, 20 Minuten weich köcheln.",
+    "Mit dem Pürierstab fein pürieren.",
+    "Orangensaft und Crème fraîche unterrühren.",
+    "Mit Salz und Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-kuerbissuppe-mit-moehren-und-kartoffeln/" },
+  "note": null
+}

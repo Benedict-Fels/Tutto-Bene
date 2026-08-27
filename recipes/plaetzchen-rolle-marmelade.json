@@ -1,0 +1,35 @@
+{
+  "id": "plaetzchen-rolle-marmelade",
+  "title": "Plätzchen von der Rolle mit Marmelade",
+  "summary": "Mürbe Rollplätzchen mit Vanillepudding-Pulver, gefüllt mit Erdbeermarmelade — schnell gemacht.",
+  "image": "images/plaetzchen-rolle-marmelade.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 28,
+  "prepTime": 30,
+  "cookTime": 12,
+  "restTime": 60,
+  "ingredients": [
+    { "amount": 265, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 37, "unit": "g", "name": "Vanillepuddingpulver", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "Prise", "name": "Salz", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Vegane Butter", "variety": "kalt" },
+    { "amount": 140, "unit": "g", "name": "Erdbeermarmelade", "variety": "fein" }
+  ],
+  "steps": [
+    "Mehl, Puddingpulver, Puderzucker, Vanillezucker und Salz mischen.",
+    "Kalte Butter in Stücken dazu, zu einem Teig verkneten.",
+    "Zu zwei Rollen von etwa 4 cm Durchmesser formen.",
+    "In Folie wickeln, mindestens 1 Stunde kalt stellen.",
+    "Ofen auf 180°C vorheizen.",
+    "Rollen in etwa 5 mm dicke Scheiben schneiden.",
+    "Auf Backpapier verteilen.",
+    "10-12 Minuten bei 180°C backen.",
+    "Komplett auskühlen lassen.",
+    "Marmelade auf eine Hälfte der Plätzchen streichen, mit der zweiten Hälfte zusammensetzen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-vegane-plaetzchen-von-der-rolle-mit-marmelade/" },
+  "note": null
+}

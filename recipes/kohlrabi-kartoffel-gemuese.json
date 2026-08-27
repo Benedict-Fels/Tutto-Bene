@@ -1,0 +1,92 @@
+{
+  "id": "kohlrabi-kartoffel-gemuese",
+  "title": "Kohlrabi-Kartoffel-Gemüse",
+  "summary": "Kohlrabi und Kartoffeln in sahniger Soße mit Senf und Muskat — einfaches Alltagsgericht.",
+  "image": "images/kohlrabi-kartoffel-gemuese.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 140,
+      "unit": "g",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 450,
+      "unit": "g",
+      "name": "Kohlrabi",
+      "variety": null
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Kartoffel",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Pflanzliche Sahne",
+      "variety": "Kochsahne"
+    },
+    {
+      "amount": 8.75,
+      "unit": "g",
+      "name": "Brühepulver",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Muskatnuss",
+      "variety": "gemahlen"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Senf",
+      "variety": "mittelscharf"
+    },
+    {
+      "amount": 3.5,
+      "unit": "EL",
+      "name": "Petersilie",
+      "variety": "gehackt"
+    }
+  ],
+  "steps": [
+    "Kohlrabi schälen, in kleine Würfel schneiden.",
+    "Kartoffeln schälen, in kleine Würfel schneiden.",
+    "Zwiebeln schälen, fein würfeln.",
+    "Butter im Topf erhitzen, Zwiebeln 5 Minuten andünsten.",
+    "Wasser, Brühepulver und Sahne dazu, aufkochen.",
+    "3 Minuten köcheln.",
+    "Kohlrabi und Kartoffeln dazu, mit Deckel aufkochen.",
+    "Bei kleiner bis mittlerer Hitze 15 Minuten köcheln, ab und zu umrühren, bis gar.",
+    "Mit Senf und Muskatnuss würzen.",
+    "Mit Salz und Pfeffer abschmecken.",
+    "Mit Petersilie bestreut servieren."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/veganes-kohlrabi-kartoffel-gemuese/"
+  },
+  "note": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "schokoplaetzchen-ausstechen",
+  "title": "Schokoplätzchen zum Ausstechen",
+  "summary": "Mürbe Schoko-Ausstechplätzchen mit Kakao — unkompliziertes Grundrezept fürs Weihnachtsbacken.",
+  "image": "images/schokoplaetzchen-ausstechen.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 50,
+  "prepTime": 30,
+  "cookTime": 10,
+  "restTime": 60,
+  "ingredients": [
+    { "amount": 280, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 20, "unit": "g", "name": "Kakaopulver", "variety": null },
+    { "amount": 120, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "Prise", "name": "Salz", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Vegane Butter", "variety": "kalt" }
+  ],
+  "steps": [
+    "Mehl, Kakaopulver, Puderzucker, Vanillezucker und Salz mischen.",
+    "Kalte Butter in Stücken dazu, zu einem Teig verkneten — wirkt anfangs trocken, weiterkneten.",
+    "Zu einer Kugel oder Scheibe formen, in Folie wickeln, 1 Stunde kalt stellen.",
+    "Ofen auf 180°C vorheizen.",
+    "Teig auf bemehlter Fläche 5-6 mm dick ausrollen.",
+    "Formen ausstechen.",
+    "Auf Backpapier verteilen.",
+    "10 Minuten bei 180°C backen.",
+    "Kurz auf dem Blech, dann auf einem Gitter auskühlen lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-schokoplaetzchen-zum-ausstechen/" },
+  "note": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": "burger-einfach",
+  "title": "Ganz einfacher Burger",
+  "summary": "Klassischer Burger mit Patty, Salat, Tomate und angebratenen Zwiebeln — schnell gemacht.",
+  "image": "images/burger-einfach.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Burger Patty",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "Stück",
+      "name": "Burger Brötchen",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "Stück",
+      "name": "Romana-Salat",
+      "variety": null
+    },
+    {
+      "amount": 1.5,
+      "unit": "Stück",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 1,
+      "unit": "Stück",
+      "name": "Zwiebel",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Ketchup",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Mayonnaise",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Salat in Streifen schneiden.",
+    "Tomaten in halbe Scheiben schneiden.",
+    "Zwiebel in feine Ringe schneiden.",
+    "Öl in Pfanne erhitzen, Zwiebelringe bei kleiner bis mittlerer Hitze 10 Minuten anbraten.",
+    "Zwiebelringe beiseitestellen.",
+    "Öl erhitzen, Patties nach Packungsanweisung anbraten.",
+    "Brötchen halbieren, kurz in der Pfanne anrösten.",
+    "Schnittflächen mit Ketchup und Mayo bestreichen.",
+    "Untere Hälften belegen: Salat, Tomaten, Patty, Zwiebelringe.",
+    "Mit Salz und Pfeffer würzen.",
+    "Obere Brötchenhälften aufsetzen."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/ganz-einfacher-veganer-burger/"
+  },
+  "note": null
+}

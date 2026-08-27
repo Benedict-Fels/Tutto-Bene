@@ -1,0 +1,40 @@
+{
+  "id": "zitronen-mohn-kuchen",
+  "title": "Zitronen-Mohn-Kuchen",
+  "summary": "Saftiger Mohnkuchen mit Zitronenaroma und einer süßen Zitronenglasur.",
+  "image": "images/zitronen-mohn-kuchen.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 12,
+  "prepTime": 20,
+  "cookTime": 37,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 375, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 18, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 25, "unit": "g", "name": "Mohn", "variety": null },
+    { "amount": 310, "unit": "g", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 125, "unit": "g", "name": "Pflanzenöl", "variety": null },
+    { "amount": 60, "unit": "g", "name": "Zitronensaft", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zitronenaroma", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Zitronenschale", "variety": "gerieben" },
+    { "amount": 100, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 20, "unit": "g", "name": "Zitronensaft", "variety": null }
+  ],
+  "steps": [
+    "Ofen auf 180°C vorheizen.",
+    "Brownieform (ca. 27x26 cm) einfetten und mit Backpapier auslegen.",
+    "Zitronen waschen, Schale abreiben, auspressen.",
+    "Mehl, Zucker, Backpulver, Vanillezucker, Salz, Zitronenschale und Mohn vermischen.",
+    "Pflanzendrink, Öl, Zitronensaft und Zitronenaroma dazugeben, kurz verrühren.",
+    "Teig in die Form füllen.",
+    "Bei 180°C auf mittlerer Schiene 36-38 Minuten backen.",
+    "In der Form abkühlen lassen.",
+    "Puderzucker sieben, mit Zitronensaft glattrühren und auf dem Kuchen verteilen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/kleiner-veganer-zitronen-mohn-kuchen/" },
+  "note": null
+}

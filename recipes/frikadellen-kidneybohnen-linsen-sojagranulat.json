@@ -1,0 +1,41 @@
+{
+  "id": "frikadellen-kidneybohnen-linsen-sojagranulat",
+  "title": "Frikadellen aus Kidneybohnen, Linsen und Sojagranulat",
+  "summary": "Herzhafte Frikadellen aus Hülsenfrüchten und Sojaschnetzeln — bessere Alternative zu fertig gekauften.",
+  "image": "images/frikadellen-kidneybohnen-linsen-sojagranulat.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 18,
+  "prepTime": 20,
+  "cookTime": 24,
+  "restTime": 15,
+  "ingredients": [
+    { "amount": 50, "unit": "g", "name": "Sojaschnetzel", "variety": "fein" },
+    { "amount": 255, "unit": "g", "name": "Kidneybohnen", "variety": "aus der Dose" },
+    { "amount": 255, "unit": "g", "name": "Linsen", "variety": "aus der Dose" },
+    { "amount": 100, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 2.5, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Senf", "variety": "mittelscharf" },
+    { "amount": 10, "unit": "g", "name": "Bratengewürz", "variety": null },
+    { "amount": 5, "unit": "g", "name": "Sojasauce", "variety": null },
+    { "amount": 60, "unit": "g", "name": "Speisestärke", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Petersilie", "variety": "gehackt, frisch oder TK" },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": "zum Braten" }
+  ],
+  "steps": [
+    "Sojaschnetzel in 1 l kochendem Wasser 15 Minuten einweichen.",
+    "Abgießen, abspülen, mit Küchenpapier trockendrücken.",
+    "Kidneybohnen und Linsen gut abtropfen lassen.",
+    "Zwiebel fein würfeln, Knoblauch pressen.",
+    "Öl erhitzen, Zwiebel 5 Minuten andünsten.",
+    "Knoblauch dazu, 1 Minute mitdünsten.",
+    "Bohnen, Linsen, Sojaschnetzel, Tomatenmark, Senf, Bratengewürz, Sojasauce und Petersilie im Mixer grob pürieren.",
+    "Masse in Schüssel geben, Stärke und Zwiebel-Knoblauch dazu.",
+    "Zu Teig verkneten, ganze Bohnen mit den Händen zerdrücken.",
+    "18 Frikadellen formen.",
+    "Öl erhitzen, Frikadellen 12 Minuten pro Seite bei mittlerer Hitze goldbraun braten."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-frikadellen-aus-kidneybohnen-linsen-und-sojagranulat/" },
+  "note": null
+}

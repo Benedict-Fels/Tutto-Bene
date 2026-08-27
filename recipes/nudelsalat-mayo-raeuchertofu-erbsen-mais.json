@@ -1,0 +1,37 @@
+{
+  "id": "nudelsalat-mayo-raeuchertofu-erbsen-mais",
+  "title": "Nudelsalat mit Mayo, Räuchertofu, Erbsen und Mais",
+  "summary": "Klassischer cremiger Nudelsalat mit Mayonnaise, geräuchertem Tofu, Gewürzgurken und buntem Gemüse.",
+  "image": "images/nudelsalat-mayo-raeuchertofu-erbsen-mais.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 5,
+  "prepTime": 25,
+  "cookTime": 10,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 500, "unit": "g", "name": "Nudeln", "variety": "Spirelli, Penne oder Korkenzieher" },
+    { "amount": 140, "unit": "g", "name": "Erbsen", "variety": "aus der Dose" },
+    { "amount": 140, "unit": "g", "name": "Mais", "variety": "aus der Dose" },
+    { "amount": 1, "unit": "Stück", "name": "Paprika", "variety": "rot" },
+    { "amount": 200, "unit": "g", "name": "Räuchertofu", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Gewürzgurken", "variety": null },
+    { "amount": 500, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "Soja" },
+    { "amount": 300, "unit": "g", "name": "Mayonnaise", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Wasser", "variety": "Gurkenwasser" },
+    { "amount": 2, "unit": "TL", "name": "Senf", "variety": "mittelscharf" },
+    { "amount": 1.75, "unit": "TL", "name": "Paprikapulver", "variety": "edelsüß" },
+    { "amount": 1, "unit": "EL", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Nudeln kochen und abkühlen lassen.",
+    "Paprika, Räuchertofu und Gewürzgurken würfeln.",
+    "Erbsen und Mais abtropfen lassen.",
+    "Joghurt, Mayonnaise, Gurkenwasser, Senf, Paprikapulver und Brühepulver zu einem Dressing verrühren.",
+    "Mit Pfeffer abschmecken.",
+    "Nudeln, Gemüse, Tofu und Dressing vermischen.",
+    "Vor dem Servieren durchziehen lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-nudelsalat-mit-mayo-raeuchertofu-erbsen-und-mais/" },
+  "note": null
+}

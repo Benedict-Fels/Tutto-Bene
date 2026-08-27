@@ -1,0 +1,33 @@
+{
+  "id": "biskuit-fuer-tiramisu",
+  "title": "Biskuit für Tiramisu",
+  "summary": "Lockerer, eifreier Biskuitboden vom Blech, extra für Tiramisu gedacht — zwei Lagen aus einem Blech.",
+  "image": "images/biskuit-fuer-tiramisu.jpg",
+  "category": "Dessert",
+  "cuisine": "Italienisch",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 21,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 260, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 175, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 12, "unit": "g", "name": "Backpulver", "variety": "Weinstein" },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 75, "unit": "g", "name": "Pflanzenöl", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Mineralwasser", "variety": "stark sprudelnd" }
+  ],
+  "steps": [
+    "Blech (42×29 cm) einölen, mit Backpapier auslegen.",
+    "Ofen auf 180°C vorheizen.",
+    "Mehl, Zucker, Vanillezucker, Backpulver, Salz mischen.",
+    "Öl und Mineralwasser dazu, mit dem Kochlöffel nur kurz verrühren, nicht überarbeiten.",
+    "Sofort aufs Blech, gleichmäßig verteilen.",
+    "20–22 Minuten bei 180°C backen.",
+    "Komplett auf dem Blech auskühlen lassen.",
+    "Für Tiramisu in zwei Lagen schneiden."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-biskuit-fuer-tiramisu/" },
+  "note": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sauerkrautpfanne-hack-champignons",
+  "title": "Sauerkrautpfanne mit Hack und Champignons",
+  "summary": "Herzhafte Pfanne aus Sauerkraut, Champignons und veganem Hack in cremiger Soße.",
+  "image": "images/sauerkrautpfanne-hack-champignons.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 35,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 4, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 220, "unit": "g", "name": "Veganes Hackfleisch", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Champignons", "variety": null },
+    { "amount": 400, "unit": "g", "name": "Sauerkraut", "variety": null },
+    { "amount": 60, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 300, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Pflanzliche Sahne", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 5, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Paprikapulver", "variety": "süß" },
+    { "amount": 1, "unit": "EL", "name": "Petersilie", "variety": null }
+  ],
+  "steps": [
+    "Champignons putzen, in Scheiben schneiden. Zwiebeln würfeln.",
+    "Öl in großer Pfanne erhitzen, Zwiebeln 6 Minuten andünsten.",
+    "Hack dazu, 4 Minuten braten.",
+    "Champignons dazu, 3 Minuten mitbraten.",
+    "Sauerkraut dazu, 5 Minuten mitbraten.",
+    "Tomatenmark einrühren, 2 Minuten anrösten.",
+    "Wasser, Brühepulver und Zucker dazu, aufkochen.",
+    "Zugedeckt 15 Minuten köcheln, gelegentlich umrühren.",
+    "Sahne und Paprikapulver einrühren, mit Pfeffer abschmecken.",
+    "Mit Kartoffelpüree servieren, Petersilie drüber."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/sauerkrautpfanne-mit-veganem-hack-und-champignons/" },
+  "note": null
+}

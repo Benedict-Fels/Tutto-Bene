@@ -1,0 +1,34 @@
+{
+  "id": "doener-fertiges-doenerfleisch-salatmix",
+  "title": "Döner mit fertigem Dönerfleisch und Salatmix",
+  "summary": "Schneller Döner mit fertigem veganem Dönerfleisch, frischem Gemüse und selbstgemachtem Tzatziki.",
+  "image": "images/doener-fertiges-doenerfleisch-salatmix.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Türkisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 5,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 1, "unit": "Stück", "name": "Fladenbrot", "variety": "groß, fertig" },
+    { "amount": 1, "unit": "Packung", "name": "Salatmix", "variety": "fertig" },
+    { "amount": 360, "unit": "g", "name": "Veganes Dönerfleisch", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": "zum Anbraten" },
+    { "amount": 1, "unit": "Stück", "name": "Tomate", "variety": null },
+    { "amount": 0.75, "unit": "Stück", "name": "Zwiebel", "variety": "rot" },
+    { "amount": 0.25, "unit": "Stück", "name": "Salatgurke", "variety": null },
+    { "amount": 4, "unit": "EL", "name": "Veganer Tzatziki", "variety": "selbstgemacht oder fertig" }
+  ],
+  "steps": [
+    "Tzatziki zubereiten, falls selbstgemacht.",
+    "Fladenbrot nach Packungsanweisung aufbacken.",
+    "Dönerfleisch in Öl nach Packungsanweisung anbraten.",
+    "Rote Zwiebel in feine Ringe schneiden.",
+    "Tomate halbieren, in Scheiben schneiden.",
+    "Salatgurke längs vierteln, in Scheiben schneiden.",
+    "Fladenbrot vierteln, mittig aufschneiden.",
+    "Mit Tzatziki, Dönerfleisch, Salat, Tomaten, Gurken und Zwiebeln füllen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfachster-veganer-doener-mit-fertigem-doenerfleisch-und-salatmix/" },
+  "note": null
+}

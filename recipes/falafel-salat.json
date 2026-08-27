@@ -1,0 +1,36 @@
+{
+  "id": "falafel-salat",
+  "title": "Falafel-Salat",
+  "summary": "Bunter grüner Salat mit knusprigen Falafeln und einem schnellen Hummus-Dressing.",
+  "image": "images/falafel-salat.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Orientalisch",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 6,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 250, "unit": "g", "name": "Eisbergsalat", "variety": "oder Romana-/Kopfsalat" },
+    { "amount": 125, "unit": "g", "name": "Kirschtomaten", "variety": null },
+    { "amount": 125, "unit": "g", "name": "Salatgurke", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Falafel", "variety": "fertig" },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": "zum Braten" },
+    { "amount": 175, "unit": "g", "name": "Hummus", "variety": null },
+    { "amount": 25, "unit": "g", "name": "Zitronensaft", "variety": null },
+    { "amount": 75, "unit": "g", "name": "Wasser", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Olivenöl", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Agavendicksaft", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Senf", "variety": "mittelscharf" }
+  ],
+  "steps": [
+    "Salat waschen, trocknen, in Streifen schneiden.",
+    "Kirschtomaten halbieren, Gurke klein schneiden.",
+    "Öl in Pfanne erhitzen, Falafel 6 Minuten anbraten.",
+    "Zitrone auspressen.",
+    "Alle Dressing-Zutaten verrühren oder mixen, mit Salz und Pfeffer abschmecken.",
+    "Salat, Tomaten und Gurke auf Tellern anrichten.",
+    "Falafel darauf verteilen, mit Dressing beträufeln."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/falafel-mit-salat/" },
+  "note": null
+}

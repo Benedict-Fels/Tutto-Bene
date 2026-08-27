@@ -1,0 +1,36 @@
+{
+  "id": "ruehrei-tofu-sojajoghurt",
+  "title": "Rührei aus Tofu und Sojajoghurt",
+  "summary": "Cremiges veganes Rührei aus zerbröseltem Tofu und Sojajoghurt, herzhaft gewürzt mit Kala Namak.",
+  "image": "images/ruehrei-tofu-sojajoghurt.jpg",
+  "category": "Frühstück",
+  "cuisine": "Deutsch",
+  "servings": 2,
+  "prepTime": 8,
+  "cookTime": 7,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Tofu", "variety": "natur" },
+    { "amount": 65, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "Soja, ungesüßt" },
+    { "amount": 50, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Hefeflocken", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Kurkuma", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Paprikapulver", "variety": "edelsüß" },
+    { "amount": 0.5, "unit": "TL", "name": "Kala Namak", "variety": null },
+    { "amount": 1, "unit": "Handvoll", "name": "Schnittlauch", "variety": null }
+  ],
+  "steps": [
+    "Zwiebel fein würfeln.",
+    "Tofu mit Küchenpapier abtupfen, mit den Händen oder einer Gabel zerbröseln.",
+    "Öl in Pfanne erhitzen, Zwiebeln 2-3 Minuten glasig anbraten.",
+    "Zerbröselten Tofu dazu, 5 Minuten mitbraten, ab und zu umrühren.",
+    "Hefeflocken, Kurkuma, Paprikapulver und Kala Namak dazugeben, gut vermischen.",
+    "Sojajoghurt einrühren.",
+    "2 Minuten bei kleiner Hitze erhitzen.",
+    "Mit Salz und Pfeffer abschmecken.",
+    "Mit Petersilie oder Schnittlauch bestreuen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganes-ruehrei-tofu-sojajoghurt/" },
+  "note": null
+}

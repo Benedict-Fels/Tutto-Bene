@@ -1,0 +1,38 @@
+{
+  "id": "gyrospizza",
+  "title": "Gyrospizza",
+  "summary": "Runde Pizza mit veganem Gyros, Feta, Oliven und gebratenen Zwiebeln.",
+  "image": "images/gyrospizza.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Griechisch",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 1, "unit": "Stück", "name": "Pizzaboden", "variety": "rund, ca. 26 cm" },
+    { "amount": 70, "unit": "g", "name": "Pizzasoße", "variety": null },
+    { "amount": 90, "unit": "g", "name": "Veganes Gyros", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Veganer Feta", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Oliven", "variety": "in Scheiben" },
+    { "amount": 0.5, "unit": "Stück", "name": "Zwiebel", "variety": "klein" },
+    { "amount": 2, "unit": "EL", "name": "Olivenöl", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Veganer Tzatziki", "variety": null }
+  ],
+  "steps": [
+    "Ofen auf 220°C Ober-/Unterhitze vorheizen.",
+    "Zwiebel in halbe Ringe schneiden.",
+    "Olivenöl in kleiner Pfanne erhitzen, Zwiebelringe 5 Minuten bei mittlerer Hitze anbraten.",
+    "Veganes Gyros mit etwas Olivenöl vermischen.",
+    "Veganen Feta grob zerkrümeln.",
+    "Oliven in Scheiben schneiden.",
+    "Pizzasoße auf dem Pizzaboden verteilen.",
+    "Rand mit etwas Olivenöl bestreichen.",
+    "Gyros auf der Soße verteilen.",
+    "Gebratene Zwiebeln, Oliven und Feta darüber verteilen.",
+    "Bei 220°C Ober-/Unterhitze 16-20 Minuten backen.",
+    "Mit veganem Tzatziki servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-gyrospizza/" },
+  "note": null
+}

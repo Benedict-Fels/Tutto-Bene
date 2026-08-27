@@ -1,0 +1,42 @@
+{
+  "id": "kritharaki-cevapcici-tzatziki",
+  "title": "Tomaten-Kritharaki mit Cevapcici und Tzatziki",
+  "summary": "Cremiges Kritharaki in Tomatensoße, dazu gebratene Cevapcici und hausgemachtes Tzatziki.",
+  "image": "images/kritharaki-cevapcici-tzatziki.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Griechisch",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 1, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 130, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 4, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Kritharaki-Nudeln", "variety": null },
+    { "amount": 250, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "Kochsahne" },
+    { "amount": 250, "unit": "g", "name": "Kirschtomaten", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 400, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 0.25, "unit": "TL", "name": "Chiliflocken", "variety": null },
+    { "amount": 4, "unit": "EL", "name": "Petersilie", "variety": "gehackt" },
+    { "amount": 300, "unit": "g", "name": "Vegane Cevapcici", "variety": "fertig" },
+    { "amount": 4, "unit": "EL", "name": "Veganer Tzatziki", "variety": "selbstgemacht" }
+  ],
+  "steps": [
+    "Zwiebel würfeln, Knoblauch pressen, Kirschtomaten halbieren.",
+    "Tzatziki zubereiten, falls selbstgemacht.",
+    "Öl erhitzen, Zwiebel 5 Minuten anbraten.",
+    "Tomatenmark und Knoblauch dazu, 1 Minute mitbraten.",
+    "Kirschtomaten dazu, 4 Minuten braten, gelegentlich rühren.",
+    "Kritharaki dazu, 1 Minute mitrösten, gut verrühren.",
+    "Wasser, Sahne und Brühepulver dazu, aufkochen.",
+    "12 Minuten ohne Deckel köcheln, gelegentlich rühren.",
+    "Mit Chiliflocken, Pfeffer und Salz abschmecken.",
+    "Cevapcici nach Packungsanweisung braten.",
+    "Mit Petersilie bestreuen, Cevapcici und Tzatziki dazu servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/tomaten-kritharaki-vegane-cevapcici-tzatziki/" },
+  "note": null
+}

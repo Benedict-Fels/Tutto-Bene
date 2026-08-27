@@ -1,0 +1,41 @@
+{
+  "id": "kichererbsensalat-avocado-feta",
+  "title": "Kichererbsensalat mit Avocado und Feta",
+  "summary": "Frischer Salat mit Kichererbsen, Avocado, Gurke, Tomaten und veganem Feta in Zitronen-Dressing.",
+  "image": "images/kichererbsensalat-avocado-feta.jpg",
+  "category": "Sonstige",
+  "cuisine": "Mediterran",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 265, "unit": "g", "name": "Kichererbsen", "variety": "Abtropfgewicht" },
+    { "amount": 400, "unit": "g", "name": "Kirschtomaten", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Salatgurke", "variety": null },
+    { "amount": 300, "unit": "g", "name": "Avocado", "variety": null },
+    { "amount": 150, "unit": "g", "name": "Veganer Feta", "variety": null },
+    { "amount": 4, "unit": "EL", "name": "Petersilie", "variety": "gehackt" },
+    { "amount": 2, "unit": "EL", "name": "Basilikum", "variety": "gehackt" },
+    { "amount": 30, "unit": "ml", "name": "Zitronensaft", "variety": null },
+    { "amount": 60, "unit": "ml", "name": "Olivenöl", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Senf", "variety": "mittelscharf" },
+    { "amount": 1, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 0.75, "unit": "TL", "name": "Oregano", "variety": "getrocknet" }
+  ],
+  "steps": [
+    "Knoblauch pressen.",
+    "Zitronensaft, Olivenöl, Knoblauch, Salz, Oregano und Pfeffer für das Dressing verrühren.",
+    "Kirschtomaten halbieren oder vierteln.",
+    "Gurke halbieren, entkernen, würfeln.",
+    "Kichererbsen abgießen und abspülen.",
+    "Feta würfeln.",
+    "Petersilie und Basilikum klein schneiden.",
+    "Avocado halbieren, entkernen, schälen, würfeln.",
+    "Alle Zutaten mit dem Dressing in einer großen Schüssel vermischen.",
+    "Mit Pfeffer und bei Bedarf Salz abschmecken.",
+    "Sofort servieren oder im Kühlschrank durchziehen lassen — Avocado dann erst kurz vorher zugeben."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/kichererbsensalat-avocado-gurke-tomaten-veganer-feta/" },
+  "note": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kichererbsen-curry-paprika-sosse",
+  "title": "Kichererbsen-Curry mit Paprikasoße",
+  "summary": "Cremiges Curry mit pürierter Paprikasoße, Kichererbsen und Kokosmilch — schnell gemacht und alltagstauglich.",
+  "image": "images/kichererbsen-curry-paprika-sosse.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 275, "unit": "g", "name": "Paprika", "variety": "rot, 2 Stück" },
+    { "amount": 175, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 4, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Ingwer", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Chiliflocken", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Currypulver", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Zitronensaft", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Speisestärke", "variety": null },
+    { "amount": 100, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Kokosöl", "variety": "oder geschmacksneutrales Öl" },
+    { "amount": 530, "unit": "g", "name": "Kichererbsen", "variety": "abgetropft" },
+    { "amount": 800, "unit": "g", "name": "Kokosmilch", "variety": null },
+    { "amount": 20, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Petersilie", "variety": "gehackt" }
+  ],
+  "steps": [
+    "Zwiebeln und Paprika würfeln, Knoblauch und Ingwer schälen.",
+    "Zitrone auspressen, Kichererbsen abtropfen lassen.",
+    "Speisestärke mit Wasser glattrühren.",
+    "Gemüse, Gewürze, Tomatenmark und Zitronensaft im Standmixer pürieren.",
+    "Kokosöl erhitzen, Püree 6 Minuten köcheln.",
+    "Kichererbsen, Kokosmilch, Stärkemischung und Brühepulver dazugeben.",
+    "Aufkochen, 5 Minuten köcheln lassen.",
+    "Mit Pfeffer würzen, mit Petersilie garnieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/schnelles-kichererbsen-curry-mit-paprika-sosse/" },
+  "note": null
+}

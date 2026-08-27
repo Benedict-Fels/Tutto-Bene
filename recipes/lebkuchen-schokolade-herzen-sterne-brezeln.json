@@ -1,0 +1,41 @@
+{
+  "id": "lebkuchen-schokolade-herzen-sterne-brezeln",
+  "title": "Weiche Lebkuchen mit Schokoglasur",
+  "summary": "Weiche Lebkuchen in Herz-, Stern- und Brezelform, komplett in Schokolade getunkt.",
+  "image": "images/lebkuchen-schokolade-herzen-sterne-brezeln.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 26,
+  "prepTime": 20,
+  "cookTime": 17,
+  "restTime": 8,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Haselnüsse", "variety": "gemahlen" },
+    { "amount": 100, "unit": "g", "name": "Mandeln", "variety": "gemahlen" },
+    { "amount": 275, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Backpulver", "variety": "Weinstein-Backpulver" },
+    { "amount": 15, "unit": "g", "name": "Kakaopulver", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Lebkuchengewürz", "variety": null },
+    { "amount": 2.5, "unit": "g", "name": "Zimt", "variety": null },
+    { "amount": 1, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 110, "unit": "ml", "name": "Pflanzenöl", "variety": "neutral" },
+    { "amount": 350, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 375, "unit": "g", "name": "Vegane Kuvertüre", "variety": null }
+  ],
+  "steps": [
+    "Ofen auf 180 °C Ober-/Unterhitze vorheizen.",
+    "Herz-Stern-Brezel-Form mit Butter oder Backspray einfetten.",
+    "Alle trockenen Zutaten gründlich vermischen.",
+    "Öl und Pflanzendrink dazu, kurz verrühren, nicht zu lange rühren.",
+    "Mit Teelöffel in die Form füllen.",
+    "17 Minuten auf mittlerer Schiene backen.",
+    "8 Minuten in der Form abkühlen lassen.",
+    "Aus der Form lösen, vollständig auskühlen lassen.",
+    "Schokolade über Wasserbad oder in der Mikrowelle schmelzen.",
+    "Lebkuchen komplett in Schokolade tunken.",
+    "Kurz abtropfen lassen, auf Backpapier fest werden lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/weiche-vegane-lebkuchen-mit-schokolade-herzen-sterne-brezeln/" },
+  "note": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "kartoffel-sellerie-stampf",
+  "title": "Kartoffel-Sellerie-Stampf",
+  "summary": "Cremiger Stampf mit aromatischem Sellerie — die perfekte Beilage zu Braten und Rouladen.",
+  "image": "images/kartoffel-sellerie-stampf.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 800, "unit": "g", "name": "Kartoffel", "variety": "geschält" },
+    { "amount": 400, "unit": "g", "name": "Sellerie", "variety": "geschält" },
+    { "amount": 250, "unit": "ml", "name": "Pflanzendrink", "variety": "Hafer oder Soja" },
+    { "amount": 60, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Salz", "variety": null },
+    { "amount": 1, "unit": "Prise", "name": "Muskatnuss", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Petersilie", "variety": "optional" }
+  ],
+  "steps": [
+    "Kartoffeln und Sellerie schälen, in gleich große Würfel schneiden.",
+    "In den Topf, mit kaltem Salzwasser bedecken.",
+    "Aufkochen, 25 Minuten köcheln bis weich.",
+    "Abgießen.",
+    "Butter, Pflanzendrink, Salz, Muskat und Pfeffer im heißen Topf verrühren.",
+    "Heiße Kartoffel-Sellerie-Mischung dazu, gründlich stampfen.",
+    "Mit Petersilie bestreuen, servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-kartoffel-sellerie-stampf/" },
+  "note": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pizzateig-rund",
+  "title": "Pizzateig für runde Pizzen",
+  "summary": "Klassischer Hefeteig für zwei runde Pizzen, luftig und knusprig gebacken.",
+  "image": "images/pizzateig-rund.jpg",
+  "category": "Sonstige",
+  "cuisine": "Italienisch",
+  "servings": 2,
+  "prepTime": 20,
+  "cookTime": 20,
+  "restTime": 150,
+  "ingredients": [
+    { "amount": 400, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 5, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 3.5, "unit": "g", "name": "Hefe", "variety": "Trocken- oder frische Hefe" },
+    { "amount": 33, "unit": "ml", "name": "Olivenöl", "variety": null },
+    { "amount": 225, "unit": "ml", "name": "Wasser", "variety": null }
+  ],
+  "steps": [
+    "Mehl, Salz und Zucker in einer Rührschüssel vermischen. Bei Trockenhefe diese direkt zufügen.",
+    "Öl, Wasser und (bei frischer Hefe) die Hefe dazugeben.",
+    "10 Minuten mit Knethaken kneten.",
+    "Schüssel abdecken, 2 Stunden gehen lassen.",
+    "Arbeitsfläche und Hände bemehlen, Teig kurz durchkneten.",
+    "Teig in 2 Kugeln teilen.",
+    "Teigkugeln in geölte Schüsseln oder auf ein geöltes Blech legen, abdecken, 30-40 Minuten gehen lassen.",
+    "Ofen auf 220°C Ober-/Unterhitze vorheizen.",
+    "Teigkugeln mit den Händen zu Pizzaböden (ca. 26 cm) formen, außen einen Rand lassen.",
+    "Auf Backpapier legen, nach Wunsch belegen.",
+    "Rand mit Olivenöl bepinseln.",
+    "Bei 220°C Ober-/Unterhitze 15-20 Minuten backen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-pizzateig-rund/" },
+  "note": null
+}

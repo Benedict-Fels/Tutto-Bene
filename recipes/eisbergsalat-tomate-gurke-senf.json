@@ -1,0 +1,34 @@
+{
+  "id": "eisbergsalat-tomate-gurke-senf",
+  "title": "Eisbergsalat mit Tomate, Gurke und Knoblauch-Senf-Dressing",
+  "summary": "Knackiger Salat mit Tomate und Gurke in einem würzigen Knoblauch-Senf-Dressing.",
+  "image": "images/eisbergsalat-tomate-gurke-senf.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 275, "unit": "g", "name": "Eisbergsalat", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Tomate", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Salatgurke", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Olivenöl", "variety": null },
+    { "amount": 1.5, "unit": "EL", "name": "Apfelessig", "variety": null },
+    { "amount": 1, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 3, "unit": "g", "name": "Senf", "variety": "mittelscharf" },
+    { "amount": 0.5, "unit": "TL", "name": "Brühepulver", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Petersilie", "variety": "gehackt" }
+  ],
+  "steps": [
+    "Strunk des Eisbergsalats entfernen, Salat in Streifen schneiden.",
+    "Tomaten klein schneiden.",
+    "Salatgurke längs vierteln und in dünne Scheiben schneiden.",
+    "Knoblauch pressen.",
+    "Dressing mischen: Olivenöl, Essig, Brühepulver, Knoblauch, Senf, Petersilie und Pfeffer.",
+    "Gut verrühren.",
+    "Eisbergsalat, Gurke und Tomaten dazugeben und gut mit dem Dressing vermischen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/eisbergsalat-mit-tomate-gurke-und-knoblauch-senf-dressing/" },
+  "note": null
+}

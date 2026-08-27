@@ -1,0 +1,29 @@
+{
+  "id": "waffeln-ohne-zucker",
+  "title": "Waffeln ohne Zucker",
+  "summary": "Fluffige Vollkornwaffeln ohne Zucker, mit Apfelmus gesüßt.",
+  "image": "images/waffeln-ohne-zucker.jpg",
+  "category": "Frühstück",
+  "cuisine": "Deutsch",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Vollkornmehl", "variety": "Dinkel" },
+    { "amount": 8, "unit": "g", "name": "Backpulver", "variety": "Weinstein" },
+    { "amount": 300, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 100, "unit": "g", "name": "Apfelmus", "variety": null }
+  ],
+  "steps": [
+    "Mehl und Backpulver in Rührschüssel mischen.",
+    "Öl, Pflanzendrink und Apfelmus dazu.",
+    "Teig kurz verrühren.",
+    "Waffeleisen auf mittlere Hitze vorheizen, mit Öl einfetten.",
+    "Jede Waffel etwa 3,5 Minuten bei mittlerer bis mittelhoher Hitze backen.",
+    "Waffeleisen langsam öffnen, damit die Waffel nicht reißt."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/gesunde-vegane-waffeln-ohne-zucker/" },
+  "note": null
+}

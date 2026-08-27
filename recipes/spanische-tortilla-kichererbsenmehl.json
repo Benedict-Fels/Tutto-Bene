@@ -1,0 +1,40 @@
+{
+  "id": "spanische-tortilla-kichererbsenmehl",
+  "title": "Spanische Tortilla mit Kichererbsenmehl",
+  "summary": "Herzhaftes spanisches Omelett aus Kartoffeln und Zwiebeln, ganz ohne Ei — mit Kichererbsenmehl und Kala Namak.",
+  "image": "images/spanische-tortilla-kichererbsenmehl.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Spanisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "restTime": 15,
+  "ingredients": [
+    { "amount": 250, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 500, "unit": "g", "name": "Kartoffel", "variety": "festkochend" },
+    { "amount": 200, "unit": "ml", "name": "Olivenöl", "variety": null },
+    { "amount": 120, "unit": "g", "name": "Kichererbsenmehl", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Kurkuma", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Knoblauchpulver", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Kala Namak", "variety": "schwarzes Salz" },
+    { "amount": 8, "unit": "g", "name": "Hefeflocken", "variety": null },
+    { "amount": 1, "unit": "Prise", "name": "Cayennepfeffer", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Backpulver", "variety": null },
+    { "amount": 250, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" }
+  ],
+  "steps": [
+    "Kartoffeln schälen, in ca. 1 cm Würfel schneiden.",
+    "Zwiebel schälen, fein würfeln.",
+    "100 ml Öl erhitzen, Zwiebel 5 Minuten andünsten.",
+    "Kartoffeln dazu, mit Deckel 15 Minuten schmoren, gelegentlich rühren, salzen.",
+    "Kichererbsenmehl mit Kurkuma, Knoblauchpulver, Kala Namak, Hefeflocken, Cayennepfeffer und Backpulver vermischen.",
+    "Pflanzendrink dazu, glattrühren, 5-10 Minuten ruhen lassen.",
+    "Kartoffel-Zwiebel-Mischung unterheben, 5 Minuten ruhen lassen.",
+    "Restliches Öl in Pfanne erhitzen, Masse hineingeben.",
+    "5 Minuten ohne Deckel bei mittlerer Hitze braten.",
+    "Mit Teller oder zweiter Pfanne wenden (Topflappen benutzen).",
+    "Zweite Seite weitere 5 Minuten braten."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-spanische-tortilla-mit-kichererbsenmehl/" },
+  "note": null
+}

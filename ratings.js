@@ -102,6 +102,15 @@ const Ratings = (function () {
     });
   }
 
+  async function deleteRating(recipeId) {
+    const identity = getIdentity();
+    if (!identity) throw new Error('Keine Identität hinterlegt.');
+    await request(
+      `/ratings?recipe_id=eq.${encodeURIComponent(recipeId)}&user_email=eq.${encodeURIComponent(identity.email)}`,
+      { method: 'DELETE' }
+    );
+  }
+
   // ── Favoriten (privat) ──────────────────────────────────────────────
 
   async function ownFavorites() {
@@ -195,6 +204,7 @@ const Ratings = (function () {
     ratingsForRecipes,
     ratingsForRecipe,
     submitRating,
+    deleteRating,
     ownFavorites,
     setFavorite,
   };

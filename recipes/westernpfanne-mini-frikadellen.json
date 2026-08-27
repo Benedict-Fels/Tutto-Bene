@@ -1,0 +1,43 @@
+{
+  "id": "westernpfanne-mini-frikadellen",
+  "title": "Westernpfanne mit Mini-Frikadellen",
+  "summary": "Herzhaftes Pfannengericht mit goldbraunen Kartoffeln, Mini-Frikadellen, Kidneybohnen und Mais.",
+  "image": "images/westernpfanne-mini-frikadellen.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 5,
+  "prepTime": 30,
+  "cookTime": 40,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 1000, "unit": "g", "name": "Kartoffel", "variety": "Drillinge" },
+    { "amount": 200, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 380, "unit": "g", "name": "Vegane Frikadellen", "variety": "Mini" },
+    { "amount": 1, "unit": "Stück", "name": "Paprika", "variety": "rot" },
+    { "amount": 250, "unit": "g", "name": "Grüne Bohnen", "variety": "TK oder frisch" },
+    { "amount": 40, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 150, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 255, "unit": "g", "name": "Kidneybohnen", "variety": "aus der Dose" },
+    { "amount": 140, "unit": "g", "name": "Mais", "variety": "aus der Dose" },
+    { "amount": 4, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 22.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Paprikapulver", "variety": "edelsüß" },
+    { "amount": 0.75, "unit": "TL", "name": "Paprikapulver", "variety": "rosenscharf" }
+  ],
+  "steps": [
+    "Kartoffeln abschrubben, mit kaltem Wasser und etwas Salz aufkochen, 15-20 Minuten garen.",
+    "Abgießen, abkühlen lassen, halbieren.",
+    "Zwiebeln würfeln, Paprika würfeln, grüne Bohnen vorbereiten.",
+    "Mini-Frikadellen halbieren, Kidneybohnen und Mais abtropfen lassen.",
+    "In einer Pfanne Öl erhitzen, Zwiebeln 5 Minuten anbraten.",
+    "Kartoffeln dazu, 10-12 Minuten bräunen.",
+    "In zweiter Pfanne Öl erhitzen, Frikadellen 5 Minuten anbraten.",
+    "Paprika und Bohnen dazu, 5 Minuten mitbraten.",
+    "Tomatenmark dazu, 1,5 Minuten vermischen.",
+    "Wasser und Brühepulver dazugeben, mit Deckel 10 Minuten köcheln.",
+    "Paprikapulver, Kidneybohnen, Mais, Kartoffeln und Zwiebeln dazugeben.",
+    "5 Minuten mit Deckel erhitzen, mit Salz und Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/westernpfanne-mit-veganen-mini-frikadellen/" },
+  "note": null
+}

@@ -1220,6 +1220,25 @@ a:hover { color: var(--accent-600); }
 
 .rating-submit:hover { background: var(--accent-700); }
 
+.own-rating-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.rating-delete {
+  border: none;
+  background: none;
+  color: var(--muted);
+  font-family: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+  text-decoration: underline;
+  padding: 0.3rem 0;
+}
+
+.rating-delete:hover { color: var(--accent-700); }
+
 /* Sortier-Umschalter (Übersicht) */
 
 .sort-toggle {
@@ -1236,6 +1255,34 @@ a:hover { color: var(--accent-600); }
 .sort-toggle:hover { background: var(--accent-100); border-color: var(--accent-200); }
 
 .sort-toggle.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: white;
+}
+
+/* Varianten-Umschalter (Detailseite, z. B. Bananenbrot) */
+
+.variant-switcher {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.variant-tab {
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 0.45rem 1rem;
+  font-family: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.variant-tab:hover { background: var(--accent-100); border-color: var(--accent-200); }
+
+.variant-tab.active {
   background: var(--accent);
   border-color: var(--accent);
   color: white;

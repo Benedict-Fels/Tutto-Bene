@@ -137,9 +137,51 @@
       `;
     }
 
-    function renderIngredients(recipe, servings) {
-      const factor = servings / recipe.servings;
-      const list = recipe.ingredients.map(i => ingredientRow(i, factor)).join('');
+    // Liefert Basis-Portionen/-Zeiten/-Küche/-Bild der aktuell gewählten Variante,
+    // mit Override durch die entsprechenden Felder der Variante, falls gesetzt.
+    function variantBase(recipe, variant) {
+      const base = {
+        servings: recipe.servings,
+        prepTime: recipe.prepTime,
+        cookTime: recipe.cookTime,
+        restTime: recipe.restTime,
+        cuisine: recipe.cuisine,
+        image: recipe.image,
+      };
+      if (!variant) return base;
+      for (const field of ['servings', 'prepTime', 'cookTime', 'restTime', 'cuisine', 'image']) {
+        if (variant[field] !== undefined && variant[field] !== null) {
+          base[field] = variant[field];
+        }
+      }
+      return base;
+    }
+
+    // Zutaten der aktiven Variante: variant.ingredients ersetzt die Basisliste
+    // komplett (eigener Teig), variant.extraIngredients ergänzt sie nur.
+    function variantIngredients(recipe, variant) {
+      if (!variant) return recipe.ingredients;
+      if (Array.isArray(variant.ingredients)) return variant.ingredients;
+      return recipe.ingredients.concat(variant.extraIngredients || []);
+    }
+
+    // Schritte der aktiven Variante: gleiches Muster wie bei den Zutaten.
+    function variantSteps(recipe, variant) {
+      if (!variant) return recipe.steps;
+      if (Array.isArray(variant.steps)) return variant.steps;
+      return recipe.steps.concat(variant.extraSteps || []);
+    }
+
+    function getActiveVariant(recipe, variantName) {
+      if (!Array.isArray(recipe.variants)) return null;
+      return recipe.variants.find(v => v.name === variantName) || recipe.variants[0] || null;
+    }
+
+    function renderIngredients(recipe, servings, variant) {
+      const base = variantBase(recipe, variant);
+      const factor = servings / base.servings;
+      const combined = variantIngredients(recipe, variant);
+      const list = combined.map(i => ingredientRow(i, factor)).join('');
       document.getElementById('ingredients-list').innerHTML = list;
 
       const spices = Array.isArray(recipe.spices) ? recipe.spices : [];
@@ -151,6 +193,33 @@
       } else {
         spicesSection.hidden = true;
       }
+    }
+
+    function renderSteps(recipe, variant) {
+      const steps = variantSteps(recipe, variant);
+      document.getElementById('steps-timeline').innerHTML = steps.map((s, i) => `
+        <div class="step">
+          <span class="step-number">${i + 1}</span>
+          <p>${s}</p>
+        </div>
+      `).join('');
+    }
+
+    function renderVariantCuisine(recipe, variant) {
+      const base = variantBase(recipe, variant);
+      const cuisineBadge = document.getElementById('cuisine-badge');
+      if (cuisineBadge) cuisineBadge.textContent = base.cuisine;
+    }
+
+    function renderVariantImage(recipe, variant) {
+      const base = variantBase(recipe, variant);
+      const img = document.getElementById('detail-image');
+      if (img && base.image) img.src = base.image;
+    }
+
+    function renderVariantTimes(recipe, variant) {
+      const base = variantBase(recipe, variant);
+      document.getElementById('times-row').innerHTML = timesRow(base);
     }
 
     function starsDisplay(average) {
@@ -242,7 +311,10 @@
             <span class="stars-filled" aria-hidden="true" id="own-stars-filled" style="width: ${own ? (Number(own.stars) / 5) * 100 : 0}%">★★★★★</span>
           </div>
           <textarea id="rating-comment" placeholder="Kurzer Kommentar (optional)" maxlength="500">${own && own.comment ? escapeHtml(own.comment) : ''}</textarea>
-          <button type="button" class="rating-submit" id="rating-submit">${own ? 'Bewertung ändern' : 'Bewerten'}</button>
+          <div class="own-rating-actions">
+            <button type="button" class="rating-submit" id="rating-submit">${own ? 'Bewertung ändern' : 'Bewerten'}</button>
+            ${own ? '<button type="button" class="rating-delete" id="rating-delete">Bewertung löschen</button>' : ''}
+          </div>
         </div>
       `;
 
@@ -288,6 +360,19 @@
           alert('Bewertung konnte nicht gespeichert werden. Bitte später erneut versuchen.');
         }
       });
+
+      const deleteButton = document.getElementById('rating-delete');
+      if (deleteButton) {
+        deleteButton.addEventListener('click', async () => {
+          if (!confirm('Deine Bewertung wirklich löschen?')) return;
+          try {
+            await Ratings.deleteRating(recipe.id);
+            renderRatingSection(recipe);
+          } catch (err) {
+            alert('Bewertung konnte nicht gelöscht werden. Bitte später erneut versuchen.');
+          }
+        });
+      }
     }
 
     function overviewUrlWithFilters() {
@@ -367,8 +452,17 @@
       document.title = `${recipe.title} — Tutto Bene.`;
 
       const image = recipe.image
-        ? `<img class="detail-image" src="${recipe.image}" alt="">`
+        ? `<img class="detail-image" id="detail-image" src="${recipe.image}" alt="">`
         : `<div class="card-image-placeholder">kein Bild</div>`;
+
+      const hasVariants = Array.isArray(recipe.variants) && recipe.variants.length > 0;
+      const variantSwitcher = hasVariants ? `
+        <div class="variant-switcher" id="variant-switcher" role="tablist">
+          ${recipe.variants.map((v, i) => `
+            <button type="button" class="variant-tab${i === 0 ? ' active' : ''}" data-variant="${escapeHtml(v.name)}" role="tab" aria-selected="${i === 0 ? 'true' : 'false'}">${v.name}</button>
+          `).join('')}
+        </div>
+      ` : '';
 
       container.innerHTML = `
         <a class="back" href="index.html">&larr; Zurück zur Übersicht</a>
@@ -380,14 +474,15 @@
         <h1>${recipe.title}</h1>
         <div class="badges">
           <span class="badge">${recipe.category}</span>
-          <span class="badge cuisine">${recipe.cuisine}</span>
+          <span class="badge cuisine" id="cuisine-badge">${recipe.cuisine}</span>
         </div>
-        <p class="times">${timesRow(recipe)}</p>
+        <p class="times" id="times-row"></p>
+        ${variantSwitcher}
 
         <div class="toolbar">
           <div class="servings">
             <button type="button" id="servings-minus" aria-label="weniger Portionen">&minus;</button>
-            <span><span id="servings-count">${recipe.servings}</span> Portionen</span>
+            <span><span id="servings-count"></span> Portionen</span>
             <button type="button" id="servings-plus" aria-label="mehr Portionen">+</button>
           </div>
           <button type="button" class="cook-mode" id="cook-mode-toggle">Kochmodus: Display an</button>
@@ -404,12 +499,7 @@
           </div>
           <div class="steps">
             <h3>Zubereitung</h3>
-            <div class="steps-timeline">${recipe.steps.map((s, i) => `
-              <div class="step">
-                <span class="step-number">${i + 1}</span>
-                <p>${s}</p>
-              </div>
-            `).join('')}</div>
+            <div class="steps-timeline" id="steps-timeline"></div>
           </div>
         </div>
 
@@ -418,21 +508,47 @@
         ${sourceBlock(recipe)}
       `;
 
-      let servings = recipe.servings;
-      renderIngredients(recipe, servings);
+      let activeVariantName = hasVariants ? recipe.variants[0].name : null;
+      let activeVariant = getActiveVariant(recipe, activeVariantName);
+      let servings = variantBase(recipe, activeVariant).servings;
+
+      function refresh() {
+        document.getElementById('servings-count').textContent = servings;
+        renderVariantTimes(recipe, activeVariant);
+        renderVariantCuisine(recipe, activeVariant);
+        renderVariantImage(recipe, activeVariant);
+        renderIngredients(recipe, servings, activeVariant);
+        renderSteps(recipe, activeVariant);
+      }
+
+      refresh();
 
       document.getElementById('servings-minus').addEventListener('click', () => {
         if (servings > 1) {
           servings -= 1;
-          document.getElementById('servings-count').textContent = servings;
-          renderIngredients(recipe, servings);
+          refresh();
         }
       });
       document.getElementById('servings-plus').addEventListener('click', () => {
         servings += 1;
-        document.getElementById('servings-count').textContent = servings;
-        renderIngredients(recipe, servings);
+        refresh();
       });
+
+      if (hasVariants) {
+        const switcher = document.getElementById('variant-switcher');
+        switcher.addEventListener('click', (event) => {
+          const tab = event.target.closest('.variant-tab');
+          if (!tab) return;
+          switcher.querySelectorAll('.variant-tab').forEach(btn => {
+            btn.classList.toggle('active', btn === tab);
+            btn.setAttribute('aria-selected', btn === tab ? 'true' : 'false');
+          });
+          activeVariantName = tab.dataset.variant;
+          activeVariant = getActiveVariant(recipe, activeVariantName);
+          servings = variantBase(recipe, activeVariant).servings;
+          refresh();
+        });
+      }
 
       setupCookMode();
       renderRatingSection(recipe);

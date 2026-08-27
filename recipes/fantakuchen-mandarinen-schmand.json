@@ -1,0 +1,42 @@
+{
+  "id": "fantakuchen-mandarinen-schmand",
+  "title": "Fantakuchen mit Mandarinen und Schmand",
+  "summary": "Saftiger Blechkuchen mit Orangenlimonade im Teig, fruchtigen Mandarinen und cremiger Sahne-Schmand-Creme.",
+  "image": "images/fantakuchen-mandarinen-schmand.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 20,
+  "prepTime": 35,
+  "cookTime": 25,
+  "restTime": 120,
+  "ingredients": [
+    { "amount": 400, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 265, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 115, "unit": "g", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 345, "unit": "g", "name": "Orangenlimonade", "variety": null },
+    { "amount": 875, "unit": "g", "name": "Mandarinen", "variety": "aus der Dose, abgetropft" },
+    { "amount": 600, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "Schlagsahne" },
+    { "amount": 450, "unit": "g", "name": "Vegane Crème fraîche", "variety": null },
+    { "amount": 48, "unit": "g", "name": "Sahnesteif", "variety": null },
+    { "amount": 64, "unit": "g", "name": "Vanillezucker", "variety": "für die Creme" },
+    { "amount": 50, "unit": "g", "name": "Zucker", "variety": "zum Bestreuen" },
+    { "amount": 1.5, "unit": "TL", "name": "Zimt", "variety": null }
+  ],
+  "steps": [
+    "Ofen auf 180 °C Ober-/Unterhitze vorheizen, großes Backblech mit Backpapier auslegen.",
+    "Mehl, Zucker, Vanillezucker, Backpulver und Salz vermischen.",
+    "Öl und Orangenlimonade dazu, kurz unterrühren.",
+    "Sofort auf das Backblech gießen.",
+    "25 Minuten bei 180 °C backen, vollständig abkühlen lassen.",
+    "Sahnesteif und Vanillezucker mischen.",
+    "Sahne 30 Sekunden schlagen, Sahnesteif-Mischung einrieseln lassen, steif schlagen.",
+    "Crème fraîche unterrühren.",
+    "Mandarinen abtropfen, auf dem Kuchenboden verteilen.",
+    "Creme gleichmäßig darauf verteilen.",
+    "Mit Zimt-Zucker bestreuen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-fantakuchen-mit-mandarinen-und-schmand/" },
+  "note": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "kritharaki-gemuesepfanne-raeuchertofu",
+  "title": "Kritharaki-Gemüsepfanne mit Räuchertofu",
+  "summary": "Bunte Nudelpfanne mit geröstetem Gemüse, Orzo und würzig marinierten Räuchertofu-Würfeln.",
+  "image": "images/kritharaki-gemuesepfanne-raeuchertofu.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Griechisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 190, "unit": "g", "name": "Räuchertofu", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Sojasauce", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Zucchini", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Karotte", "variety": null },
+    { "amount": 190, "unit": "g", "name": "Paprika", "variety": "rot" },
+    { "amount": 140, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 1.5, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 500, "unit": "g", "name": "Passierte Tomaten", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Kritharaki-Nudeln", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Kräuter der Provence", "variety": null }
+  ],
+  "steps": [
+    "Räuchertofu würfeln, in Sojasauce marinieren.",
+    "Gemüse klein schneiden.",
+    "Zwiebeln 7 Minuten anbraten.",
+    "Tofu und Karotten dazu, 5 Minuten mitbraten.",
+    "Paprika und Zucchini dazu, 5 Minuten mitbraten.",
+    "Knoblauch dazu, 1 Minute mitbraten.",
+    "Passierte Tomaten, etwas Wasser, Orzo, Kräuter und Brühepulver dazugeben.",
+    "Mit Deckel 15 Minuten köcheln lassen.",
+    "Mit Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/kritharaki-gemuesepfanne-mit-raeuchertofu/" },
+  "note": null
+}

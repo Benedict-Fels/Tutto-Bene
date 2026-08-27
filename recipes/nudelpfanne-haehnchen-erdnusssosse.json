@@ -1,0 +1,43 @@
+{
+  "id": "nudelpfanne-haehnchen-erdnusssosse",
+  "title": "Nudelpfanne mit Hähnchen und Erdnusssoße",
+  "summary": "Asiatisch angehauchte Nudelpfanne mit Gemüse, Hähnchen und würziger Erdnusssoße.",
+  "image": "images/nudelpfanne-haehnchen-erdnusssosse.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 50, "unit": "g", "name": "Erdnussbutter", "variety": "cremig" },
+    { "amount": 2, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Zitronensaft", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Sriracha", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Sweet Chili Sauce", "variety": null },
+    { "amount": 110, "unit": "g", "name": "Karotte", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Zucchini", "variety": null },
+    { "amount": 210, "unit": "g", "name": "Paprika", "variety": "rot" },
+    { "amount": 75, "unit": "g", "name": "Frühlingszwiebel", "variety": null },
+    { "amount": 270, "unit": "g", "name": "Veganes Hähnchen", "variety": null },
+    { "amount": 4, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Nudeln", "variety": "Spaghetti, Penne oder Fusilli" }
+  ],
+  "steps": [
+    "Erdnussbutter leicht erwärmen.",
+    "Knoblauch pressen, in die Erdnussbutter geben.",
+    "Zitronensaft, Sriracha und Sweet Chili Sauce dazu, gut verrühren.",
+    "Karotte schälen, in kleine Stücke oder Streifen schneiden.",
+    "Zucchini in kleine Stücke schneiden.",
+    "Paprika entkernen, würfeln oder in Streifen schneiden.",
+    "Frühlingszwiebeln in feine Ringe schneiden.",
+    "Reichlich Salzwasser aufkochen, Nudeln 1 Minute kürzer als angegeben kochen, abgießen.",
+    "Öl in Pfanne erhitzen, Hähnchen 6 Minuten anbraten, beiseitestellen.",
+    "Öl in großer Pfanne erhitzen, Karotte und Paprika 5 Minuten braten.",
+    "Zucchini und Frühlingszwiebeln dazu, weitere 5 Minuten braten.",
+    "Erdnusssoße, Hähnchen und Nudeln dazugeben, gut vermischen, 3 Minuten erhitzen.",
+    "Nach Belieben mit Petersilie, Erdnüssen oder Frühlingszwiebelringen toppen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/nudelpfanne-mit-gemuese-veganem-haehnchen-und-mega-leckerer-erdnusssosse/" },
+  "note": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "kartoffel-brokkoli-auflauf",
+  "title": "Kartoffel-Brokkoli-Auflauf",
+  "summary": "Unkomplizierter Auflauf aus wenigen Zutaten mit cremiger Sahnesoße und Muskat.",
+  "image": "images/kartoffel-brokkoli-auflauf.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 20,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 500, "unit": "g", "name": "Kartoffel", "variety": "geschält" },
+    { "amount": 525, "unit": "g", "name": "Brokkoli", "variety": "TK oder frisch" },
+    { "amount": 2, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": "groß" },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Pflanzliche Sahne", "variety": "Kochsahne" },
+    { "amount": 22.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 0.125, "unit": "TL", "name": "Muskatnuss", "variety": "gemahlen" }
+  ],
+  "steps": [
+    "Kartoffeln schälen, längs halbieren, in Scheiben schneiden.",
+    "Zwiebel würfeln, Knoblauch pressen, Brokkoli in Röschen teilen.",
+    "Öl im Topf erhitzen, Zwiebel 5 Minuten andünsten.",
+    "Knoblauch 30 Sekunden mitbraten.",
+    "Ofen auf 200 °C Umluft vorheizen.",
+    "Sahne, Brühepulver, Muskat und Pfeffer dazu, umrühren.",
+    "Kartoffeln und Brokkoli dazugeben, umrühren.",
+    "Mit Deckel aufkochen, 8-10 Minuten köcheln.",
+    "Alles in eine Auflaufform geben.",
+    "20 Minuten bei 200 °C backen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfacher-veganer-kartoffel-brokkoli-auflauf/" },
+  "note": null
+}

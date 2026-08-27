@@ -1,0 +1,36 @@
+{
+  "id": "marmorkuchen-vom-blech",
+  "title": "Marmorkuchen vom Blech",
+  "summary": "Saftiger Marmorkuchen für ein großes Blech — schnell gebacken, kommt bei allen gut an.",
+  "image": "images/marmorkuchen-vom-blech.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 20,
+  "prepTime": 15,
+  "cookTime": 32,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 440, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 385, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 18, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 192, "unit": "ml", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 375, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 35, "unit": "g", "name": "Kakaopulver", "variety": null }
+  ],
+  "steps": [
+    "Kuchenblech (42×29 cm) einfetten, mit Backpapier auslegen.",
+    "Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Trockene Zutaten in Rührschüssel mischen.",
+    "Öl und Pflanzendrink dazu, kurz durchrühren.",
+    "Etwa zwei Drittel des Teigs aufs Blech geben.",
+    "Kakaopulver und einen Schuss Pflanzendrink zum restlichen Teig geben, unterrühren.",
+    "Dunklen Teig auf den hellen geben.",
+    "Mit einer Gabel ein Muster ziehen.",
+    "32 Minuten auf mittlerer Schiene backen.",
+    "Nach Belieben mit Puderzucker bestäuben oder mit Schokoglasur überziehen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-marmorkuchen-vom-blech/" },
+  "note": null
+}

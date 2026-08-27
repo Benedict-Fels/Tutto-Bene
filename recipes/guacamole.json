@@ -1,0 +1,29 @@
+{
+  "id": "guacamole",
+  "title": "Guacamole",
+  "summary": "Cremiger Avocado-Dip mit Tomaten, Limette und Knoblauch — vielseitig und schnell gemacht.",
+  "image": "images/guacamole.jpg",
+  "category": "Sonstige",
+  "cuisine": "Mexikanisch",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 400, "unit": "g", "name": "Avocado", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Tomate", "variety": "Kirsch- oder normale" },
+    { "amount": 1, "unit": "EL", "name": "Limettensaft", "variety": "oder Zitronensaft" },
+    { "amount": 2, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Olivenöl", "variety": null }
+  ],
+  "steps": [
+    "Tomaten halbieren, entkernen, würfeln.",
+    "Limette auspressen.",
+    "Knoblauch pressen.",
+    "Avocados halbieren, Kern entfernen, Fruchtfleisch herauslösen.",
+    "Hälfte des Avocado-Fruchtfleischs zerdrücken, Rest würfeln.",
+    "Alle Zutaten vermischen, mit Salz und Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/guacamole-einfach-selber-machen/" },
+  "note": null
+}

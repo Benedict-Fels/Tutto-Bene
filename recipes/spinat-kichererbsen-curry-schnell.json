@@ -1,0 +1,41 @@
+{
+  "id": "spinat-kichererbsen-curry-schnell",
+  "title": "Schnelles Spinat-Kichererbsen-Curry",
+  "summary": "Cremiges Curry mit Kichererbsen, Blattspinat und Kokosmilch — schnell gemacht, indisch gewürzt.",
+  "image": "images/spinat-kichererbsen-curry-schnell.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 175, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 2, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Ingwer", "variety": "gerieben" },
+    { "amount": 400, "unit": "g", "name": "Tomatenstücke", "variety": "Dose" },
+    { "amount": 400, "unit": "ml", "name": "Kokosmilch", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 265, "unit": "g", "name": "Kichererbsen", "variety": "Abtropfgewicht" },
+    { "amount": 450, "unit": "g", "name": "Blattspinat", "variety": "TK" },
+    { "amount": 12.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 9, "unit": "g", "name": "Currypulver", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Paprikapulver", "variety": "edelsüß" },
+    { "amount": 1, "unit": "TL", "name": "Kreuzkümmel", "variety": "gemahlen" }
+  ],
+  "steps": [
+    "Blattspinat etwas antauen lassen.",
+    "Knoblauch pressen, Ingwer reiben.",
+    "Kichererbsen abgießen.",
+    "Zwiebeln fein würfeln.",
+    "Öl in großer Pfanne erhitzen, Zwiebeln 10 Minuten anbraten, leicht bräunen lassen.",
+    "Knoblauch, Ingwer, Currypulver und Kreuzkümmel dazu, 1 Minute mitbraten.",
+    "Tomatenstücke, Kokosmilch, Brühepulver und Paprikapulver dazugeben, gut verrühren.",
+    "Kichererbsen und Spinat dazugeben.",
+    "Mit Deckel 12 Minuten köcheln, bis der Spinat gar ist, ab und zu umrühren.",
+    "Mit Pfeffer oder Chiliflocken würzen, bei Bedarf salzen.",
+    "Mit Reis, Couscous oder Fladenbrot servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/schnelles-spinat-kichererbsen-gericht/" },
+  "note": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "zwiebelmett-reiswaffeln",
+  "title": "Zwiebelmett aus Reiswaffeln",
+  "summary": "Deftiger veganer Brotaufstrich aus zerbröselten Reiswaffeln, Tomatenmark und würzigen Gewürzen.",
+  "image": "images/zwiebelmett-reiswaffeln.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 0,
+  "restTime": 240,
+  "ingredients": [
+    { "amount": 100, "unit": "g", "name": "Reiswaffeln", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 300, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 0.5, "unit": "EL", "name": "Sojasauce", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Paprikapulver", "variety": "edelsüß" },
+    { "amount": 0.5, "unit": "TL", "name": "Paprikapulver", "variety": "geräuchert" },
+    { "amount": 0.25, "unit": "TL", "name": "Knoblauchpulver", "variety": null },
+    { "amount": 0.25, "unit": "TL", "name": "Zwiebelpulver", "variety": null }
+  ],
+  "steps": [
+    "Reiswaffeln zerbröseln.",
+    "Gewürze und Tomatenmark mit Wasser verrühren.",
+    "Optional etwas Gurkenwasser, Zitronensaft oder Apfelessig für Säure dazugeben.",
+    "Flüssigkeit zu den Reiswaffeln geben, vermischen.",
+    "Zwiebel fein würfeln, mit Öl dazugeben.",
+    "Alles vermischen, mit Salz und Pfeffer abschmecken.",
+    "Mehrere Stunden, am besten über Nacht, durchziehen lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganes-mett/" },
+  "note": null
+}

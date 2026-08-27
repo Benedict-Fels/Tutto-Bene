@@ -1,0 +1,99 @@
+{
+  "id": "haehnchenpfanne-nudeln-gemuese",
+  "title": "Hähnchenpfanne mit Nudeln und Gemüse",
+  "summary": "Cremige Nudelpfanne mit veganem Hähnchen, Zucchini und Möhre, mit Currypaste und Frischkäse.",
+  "image": "images/haehnchenpfanne-nudeln-gemuese.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Asiatisch",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Nudeln",
+      "variety": "Penne oder Fusilli"
+    },
+    {
+      "amount": 180,
+      "unit": "g",
+      "name": "Veganes Hähnchen",
+      "variety": null
+    },
+    {
+      "amount": 0.75,
+      "unit": "TL",
+      "name": "Currypaste",
+      "variety": "rot"
+    },
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Zucchini",
+      "variety": null
+    },
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "Karotte",
+      "variety": null
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Tomate",
+      "variety": null
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Pflanzenöl",
+      "variety": null
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Tomatenmark",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "ml",
+      "name": "Wasser",
+      "variety": null
+    },
+    {
+      "amount": 85,
+      "unit": "g",
+      "name": "Veganer Frischkäse",
+      "variety": "Kräuter"
+    },
+    {
+      "amount": 5,
+      "unit": "g",
+      "name": "Brühepulver",
+      "variety": null
+    }
+  ],
+  "steps": [
+    "Zucchini in kleine Stücke schneiden.",
+    "Karotte schälen, würfeln.",
+    "Tomaten würfeln.",
+    "Reichlich Wasser mit Salz aufkochen, Nudeln nach Packungsanweisung kochen, abgießen.",
+    "Öl in Pfanne erhitzen, Currypaste 30 Sekunden anschwitzen.",
+    "Veganes Hähnchen dazu, 6 Minuten anbraten, herausnehmen.",
+    "Öl in Pfanne erhitzen, Karotten 5 Minuten anbraten.",
+    "Zucchini dazu, 5 Minuten weiter anbraten.",
+    "Tomatenmark dazu, 1 Minute mit anbraten, gut vermischen.",
+    "Tomatenwürfel, Wasser und Brühepulver dazu, 3 Minuten köcheln.",
+    "Frischkäse einrühren.",
+    "Hähnchen und Nudeln dazugeben, alles vermischen."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/vegane-haehnchenpfanne-mit-nudeln-und-gemuese/"
+  },
+  "note": null
+}

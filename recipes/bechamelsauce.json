@@ -1,0 +1,31 @@
+{
+  "id": "bechamelsauce",
+  "title": "Béchamelsauce",
+  "summary": "Cremige, samtige Grundsoße für Aufläufe, Lasagne und Gemüse mit herzhafter Note durch Hefeflocken.",
+  "image": "images/bechamelsauce.jpg",
+  "category": "Sonstige",
+  "cuisine": "Französisch",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 50, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 25, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 500, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Hefeflocken", "variety": "ohne Reismehl" },
+    { "amount": 1, "unit": "Prise", "name": "Muskatnuss", "variety": "gemahlen" }
+  ],
+  "steps": [
+    "Pflanzendrink erwärmen.",
+    "Vegane Butter in Topf schmelzen.",
+    "Mehl einrühren, kurz anschwitzen.",
+    "Warmen Pflanzendrink nach und nach einrühren.",
+    "Zum Kochen bringen, 5-10 Minuten köcheln lassen.",
+    "Mit Brühepulver, Hefeflocken, Pfeffer und Muskat würzen.",
+    "Bei Bedarf mit etwas Pflanzendrink verdünnen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/mega-leckere-vegane-bechamelsauce/" },
+  "note": null
+}

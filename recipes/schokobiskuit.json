@@ -1,0 +1,34 @@
+{
+  "id": "schokobiskuit",
+  "title": "Schokobiskuit",
+  "summary": "Lockerer Schoko-Tortenboden ohne Ei, mit Mineralwasser statt viel Fett — Basis für jede Torte.",
+  "image": "images/schokobiskuit.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 10,
+  "prepTime": 50,
+  "cookTime": 38,
+  "restTime": 180,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 240, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 12, "unit": "g", "name": "Backpulver", "variety": "Weinstein" },
+    { "amount": 30, "unit": "g", "name": "Kakaopulver", "variety": null },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 93, "unit": "ml", "name": "Pflanzenöl", "variety": null },
+    { "amount": 325, "unit": "ml", "name": "Mineralwasser", "variety": null }
+  ],
+  "steps": [
+    "Springform (26 cm) fetten, Boden mit Backpapier auslegen, Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Alle trockenen Zutaten gründlich mischen.",
+    "Öl und Mineralwasser dazu, nur kurz verrühren, nicht überarbeiten.",
+    "Sofort in die Form füllen.",
+    "35–40 Minuten bei 180°C backen.",
+    "Komplett auskühlen lassen, am besten über Nacht.",
+    "Oben glatt schneiden, waagerecht halbieren.",
+    "Mit Füllung nach Wahl schichten, 3–4 Stunden kalt stellen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-schokobiskuit-26cm/" },
+  "note": null
+}

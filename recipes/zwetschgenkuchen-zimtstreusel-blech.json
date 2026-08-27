@@ -1,0 +1,40 @@
+{
+  "id": "zwetschgenkuchen-zimtstreusel-blech",
+  "title": "Zwetschgenkuchen mit Zimtstreuseln vom Blech",
+  "summary": "Großes Blech mit Mürbeteigboden, saftigen Zwetschgen und knusprigen Zimtstreuseln.",
+  "image": "images/zwetschgenkuchen-zimtstreusel-blech.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 20,
+  "prepTime": 40,
+  "cookTime": 45,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 6, "unit": "g", "name": "Zimt", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 500, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 300, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 1200, "unit": "g", "name": "Zwetschgen", "variety": "entkernt" }
+  ],
+  "steps": [
+    "Mehl, Zucker, Vanillezucker und Zimt vermischen.",
+    "Vegane Butter dazu, zu Streuselteig verkneten, kalt stellen.",
+    "Großes Backblech mit veganer Butter einfetten und mit Backpapier auslegen.",
+    "Mehl, Zucker, Vanillezucker, Backpulver und Salz vermischen.",
+    "Vegane Butter dazu, zu Mürbeteig verkneten.",
+    "Teig auf das Backblech drücken.",
+    "Ofen auf 200°C vorheizen.",
+    "Zwetschgen entsteinen und vierteln, auf dem Teig verteilen.",
+    "Streuselmischung darüberbröseln.",
+    "Bei 200°C auf mittlerer Schiene 45 Minuten backen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-zwetschgenkuchen-mit-zimtstreuseln-grosses-backblech/" },
+  "note": null
+}

@@ -45,9 +45,13 @@ create policy "ratings_update_all"
   using (true)
   with check (true);
 
--- Löschen: bewusst nicht vorgesehen (kein Löschen fremder oder eigener
--- Bewertungen über die Seite, siehe Spec E9 Abschnitt 8) — keine Policy,
--- also standardmäßig verboten.
+-- Löschen: nur die eigene Zeile. Ursprünglich bewusst nicht vorgesehen
+-- (Spec E9 Abschnitt 8), auf Wunsch nachgerüstet, damit eine versehentlich
+-- abgegebene Bewertung wieder entfernt werden kann. Fremde Bewertungen
+-- bleiben weiterhin nicht löschbar.
+create policy "ratings_delete_own"
+  on ratings for delete
+  using (user_email = current_setting('request.headers', true)::json->>'x-user-email');
 
 -- ────────────────────────────────────────────────────────────
 -- Tabelle: favorites

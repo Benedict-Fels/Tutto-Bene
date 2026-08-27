@@ -1,0 +1,28 @@
+{
+  "id": "dessertcreme-skyr-schlagsahne",
+  "title": "Dessertcreme aus Skyr und Schlagsahne",
+  "summary": "Schnelle, cremige Basis für Schichtdesserts aus geschlagener Sahne und Vanille-Skyr.",
+  "image": "images/dessertcreme-skyr-schlagsahne.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 6,
+  "prepTime": 8,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 200, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "Schlagcreme" },
+    { "amount": 200, "unit": "g", "name": "Veganer Skyr", "variety": "Vanille" },
+    { "amount": 8, "unit": "g", "name": "Sahnesteif", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Zucker", "variety": null }
+  ],
+  "steps": [
+    "Sahnesteif, Vanillezucker und Zucker vermischen.",
+    "Sahne 30 Sekunden mit dem Mixer schlagen.",
+    "Zucker-Mischung einrieseln lassen, weiter schlagen bis steif.",
+    "Skyr mit dem Mixer unterheben.",
+    "Für Schichtdesserts oder Desserts im Glas verwenden."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-dessertcreme-skyr-schlagsahne/" },
+  "note": null
+}

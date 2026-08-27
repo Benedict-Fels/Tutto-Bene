@@ -1,0 +1,37 @@
+{
+  "id": "spitzkohl-hackfleisch-pfanne-kartoffeln",
+  "title": "Spitzkohl-Hackfleisch-Pfanne mit Kartoffeln",
+  "summary": "Herzhaftes Pfannengericht mit Spitzkohl, Kartoffeln und veganem Hack in cremiger Curry-Frischkäse-Sauce.",
+  "image": "images/spitzkohl-hackfleisch-pfanne-kartoffeln.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 750, "unit": "g", "name": "Spitzkohl", "variety": "in Streifen" },
+    { "amount": 150, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 500, "unit": "g", "name": "Kartoffel", "variety": "geschält" },
+    { "amount": 1.5, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 4, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 360, "unit": "g", "name": "Veganes Hackfleisch", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 500, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 175, "unit": "g", "name": "Veganer Frischkäse", "variety": "mit Kräutern" },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Currypulver", "variety": null }
+  ],
+  "steps": [
+    "Spitzkohl in Streifen schneiden, Zwiebel und Knoblauch klein schneiden.",
+    "Kartoffeln schälen und würfeln.",
+    "Öl in Pfanne erhitzen, Zwiebeln und Hack anbraten.",
+    "Spitzkohl und Kartoffeln dazugeben.",
+    "Tomatenmark, Curry und Knoblauch dazu, kurz mitbraten.",
+    "Wasser und Brühepulver dazugeben.",
+    "25 Minuten köcheln lassen.",
+    "Frischkäse einrühren, mit Salz und Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-spitzkohl-hackfleisch-pfanne-mit-kartoffeln/" },
+  "note": null
+}

@@ -1,0 +1,106 @@
+{
+  "id": "zimtschnecken-weniger-zucker",
+  "title": "Zimtschnecken mit weniger Zucker",
+  "summary": "Klassische Hefeschnecken mit Zimtfüllung und Zuckerguss, etwas weniger süß als üblich.",
+  "image": "images/zimtschnecken-weniger-zucker.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 12,
+  "prepTime": 25,
+  "cookTime": 25,
+  "restTime": 90,
+  "ingredients": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Mehl",
+      "variety": null
+    },
+    {
+      "amount": 3.5,
+      "unit": "g",
+      "name": "Trockenhefe",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "g",
+      "name": "Salz",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 250,
+      "unit": "ml",
+      "name": "Pflanzendrink",
+      "variety": "Soja"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Vegane Butter",
+      "variety": null
+    },
+    {
+      "amount": 30,
+      "unit": "g",
+      "name": "Zucker",
+      "variety": null
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Zimt",
+      "variety": null
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Puderzucker",
+      "variety": null
+    },
+    {
+      "amount": 0.5,
+      "unit": "EL",
+      "name": "Pflanzendrink",
+      "variety": "Soja"
+    }
+  ],
+  "steps": [
+    "Mehl, Trockenhefe, Zucker und Salz vermischen.",
+    "Pflanzendrink und weiche Butter dazugeben.",
+    "10 Minuten kneten, bis der Teig glatt ist und nicht mehr klebt.",
+    "Abgedeckt 1 Stunde gehen lassen.",
+    "Butter für die Füllung schmelzen, mit Zucker und Zimt verrühren.",
+    "Füllung abkühlen lassen, bis sie fester wird.",
+    "Auflaufform einfetten.",
+    "Teig zu einem Rechteck ausrollen.",
+    "Füllung gleichmäßig verstreichen.",
+    "Von der langen Seite aufrollen.",
+    "In 12 Scheiben schneiden.",
+    "In die Auflaufform legen.",
+    "Abgedeckt nochmal 30 Minuten gehen lassen.",
+    "Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Schnecken mit etwas Pflanzendrink bepinseln.",
+    "25 Minuten backen, bis goldbraun.",
+    "Etwas abkühlen lassen.",
+    "Puderzucker mit Pflanzendrink glattrühren.",
+    "Über die lauwarmen Schnecken verteilen."
+  ],
+  "source": {
+    "name": "Veggie Einhorn",
+    "url": "https://veggie-einhorn.de/vegane-zimtschnecken-mit-weniger-zucker/"
+  },
+  "note": null
+}

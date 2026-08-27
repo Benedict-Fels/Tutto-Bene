@@ -1,0 +1,40 @@
+{
+  "id": "tomaten-couscous-feta",
+  "title": "Tomaten-Couscous mit Feta",
+  "summary": "Schnelles Feierabendgericht mit Couscous, geschmorten Kirschtomaten und veganem Feta.",
+  "image": "images/tomaten-couscous-feta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mediterran",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 10,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Couscous", "variety": null },
+    { "amount": 4, "unit": "g", "name": "Salz", "variety": "für den Couscous" },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 110, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 1.5, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 20, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 400, "unit": "g", "name": "Kirschtomaten", "variety": null },
+    { "amount": 0.75, "unit": "TL", "name": "Zucker", "variety": null },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": "für die Tomaten" },
+    { "amount": 150, "unit": "g", "name": "Veganer Feta", "variety": null },
+    { "amount": 4, "unit": "EL", "name": "Petersilie", "variety": "gehackt, frisch" },
+    { "amount": 2, "unit": "EL", "name": "Minze", "variety": "gehackt, frisch" }
+  ],
+  "steps": [
+    "Zwiebel würfeln, Knoblauch pressen, Kirschtomaten halbieren.",
+    "Veganen Käse zerbröckeln, Petersilie und Minze fein hacken.",
+    "Couscous mit Salz in einer Schüssel vermischen.",
+    "300 ml kochendes Wasser dazugeben, abdecken, 10 Minuten quellen lassen.",
+    "Öl erhitzen, Zwiebel 5 Minuten andünsten.",
+    "Tomatenmark und Knoblauch dazu, 1 Minute mitbraten.",
+    "Kirschtomaten, Salz und Zucker dazu, 5 Minuten bei mittlerer Hitze köcheln, gelegentlich rühren.",
+    "Mit Pfeffer abschmecken.",
+    "Couscous und zerbröckelten Käse unterheben.",
+    "Mit Petersilie und Minze garnieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/tomaten-couscous/" },
+  "note": null
+}

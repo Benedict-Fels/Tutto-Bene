@@ -1,0 +1,40 @@
+{
+  "id": "mac-and-cheese-einfach",
+  "title": "Einfache Mac and Cheese",
+  "summary": "Schnelle Mac and Cheese ohne Cashews, cremig durch veganen Cheddar und eine simple Roux-Soße.",
+  "image": "images/mac-and-cheese-einfach.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Amerikanisch",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 400, "unit": "g", "name": "Nudeln", "variety": "kurze Form" },
+    { "amount": 70, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 35, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 630, "unit": "ml", "name": "Pflanzendrink", "variety": "Hafer oder Soja, ungesüßt" },
+    { "amount": 200, "unit": "g", "name": "Veganer Käse", "variety": "Cheddar" },
+    { "amount": 1, "unit": "TL", "name": "Knoblauchpulver", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Zwiebelpulver", "variety": null },
+    { "amount": 1.5, "unit": "TL", "name": "Paprikapulver", "variety": "süß" },
+    { "amount": 1.5, "unit": "TL", "name": "Brühepulver", "variety": null },
+    { "amount": 20, "unit": "g", "name": "Senf", "variety": "mittelscharf" },
+    { "amount": 1, "unit": "EL", "name": "Petersilie", "variety": null }
+  ],
+  "steps": [
+    "Käse grob raspeln.",
+    "Nudelwasser mit Salz aufsetzen, Nudeln nach Packung kochen, abgießen.",
+    "Butter in großer Pfanne schmelzen.",
+    "Mehl einrühren, 1 Minute anschwitzen.",
+    "Pflanzendrink nach und nach unter Rühren dazu.",
+    "Aufkochen lassen.",
+    "5 Minuten offen köcheln, öfter rühren.",
+    "Knoblauchpulver, Zwiebelpulver, Paprikapulver, Brühepulver und Senf einrühren, 3 Minuten weiter köcheln.",
+    "Käse einrühren, bei kleiner Hitze schmelzen lassen.",
+    "Nudeln unterheben.",
+    "Mit Paprikapulver und Petersilie servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-mac-and-cheese-mit-veganem-cheddar/" },
+  "note": null
+}

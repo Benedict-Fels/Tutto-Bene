@@ -1,0 +1,30 @@
+{
+  "id": "eisbergsalat-tomaten-einfach",
+  "title": "Einfacher Eisbergsalat mit Tomaten",
+  "summary": "Schneller Salat aus Eisbergsalat und Tomaten mit Öl-Essig-Dressing und Petersilie.",
+  "image": "images/eisbergsalat-tomaten-einfach.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 7,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 275, "unit": "g", "name": "Eisbergsalat", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Tomate", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Olivenöl", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Apfelessig", "variety": null },
+    { "amount": 2.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Petersilie", "variety": "gehackt" }
+  ],
+  "steps": [
+    "Strunk des Eisbergsalats entfernen, Salat in Streifen schneiden.",
+    "Tomaten klein schneiden.",
+    "Petersilie klein schneiden.",
+    "Dressing in der Salatschüssel mischen: Öl, Essig, Brühepulver, Petersilie und Pfeffer.",
+    "Gut verrühren.",
+    "Eisbergsalat und Tomaten dazugeben, gut mit dem Dressing vermischen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/ganz-einfacher-eisbergsalat-mit-tomaten/" },
+  "note": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "spinat-curry-kichererbsen-rote-linsen",
+  "title": "Spinat-Curry mit Kichererbsen und roten Linsen",
+  "summary": "Proteinreiches Curry aus Hülsenfrüchten, Spinat und Kokosmilch — schnell und unkompliziert.",
+  "image": "images/spinat-curry-kichererbsen-rote-linsen.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Indisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 150, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 2.5, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Ingwer", "variety": "frisch, gerieben" },
+    { "amount": 1, "unit": "EL", "name": "Zitronensaft", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 265, "unit": "g", "name": "Kichererbsen", "variety": "aus der Dose, abgetropft" },
+    { "amount": 250, "unit": "g", "name": "Rote Linsen", "variety": "trocken" },
+    { "amount": 800, "unit": "g", "name": "Tomatenstücke", "variety": "aus der Dose" },
+    { "amount": 400, "unit": "ml", "name": "Kokosmilch", "variety": null },
+    { "amount": 300, "unit": "g", "name": "Blattspinat", "variety": "TK" },
+    { "amount": 0.5, "unit": "TL", "name": "Garam Masala", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Kreuzkümmel", "variety": "gemahlen" },
+    { "amount": 2, "unit": "TL", "name": "Currypulver", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Zwiebel würfeln, Knoblauch pressen, Ingwer reiben, Zitrone auspressen.",
+    "Kichererbsen abtropfen lassen.",
+    "Öl erhitzen, Zwiebel 5 Minuten anbraten.",
+    "Ingwer, Knoblauch und Gewürze dazu, 1 Minute mitbraten, gut verrühren.",
+    "Tomaten, Kokosmilch und trockene Linsen dazu, aufkochen.",
+    "20 Minuten bei mittlerer bis niedriger Hitze köcheln, gelegentlich rühren.",
+    "Spinat, Kichererbsen und Brühepulver dazu, 5 Minuten köcheln.",
+    "Mit Zitronensaft und Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/spinat-curry-kichererbsen-rote-linsen/" },
+  "note": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "afrikanisches-stew",
+  "title": "Afrikanisches Stew",
+  "summary": "Aromatisches Wohlfühlgericht mit Kidneybohnen, Tomaten und cremiger Erdnussbutter.",
+  "image": "images/afrikanisches-stew.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Sonstige",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 625, "unit": "g", "name": "Tomate", "variety": "6-7 Stück" },
+    { "amount": 255, "unit": "g", "name": "Kidneybohnen", "variety": "aus der Dose" },
+    { "amount": 110, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 75, "unit": "g", "name": "Erdnussbutter", "variety": "cremig" },
+    { "amount": 1, "unit": "TL", "name": "Sambal Oelek", "variety": null },
+    { "amount": 2.5, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Kreuzkümmel", "variety": "gemahlen" },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 5, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Petersilie", "variety": "gehackt" },
+    { "amount": 100, "unit": "ml", "name": "Wasser", "variety": null }
+  ],
+  "steps": [
+    "Bohnen abgießen, Tomaten, Zwiebeln und Knoblauch zerkleinern.",
+    "Öl erhitzen, Zwiebeln 5 Minuten anbraten.",
+    "Knoblauch dazu, 1 Minute mitbraten.",
+    "Tomaten dazu, 10 Minuten mitbraten.",
+    "Wasser, Bohnen, Erdnussbutter, Sambal Oelek, Kreuzkümmel, Brühepulver und Zucker dazugeben.",
+    "5 Minuten köcheln lassen.",
+    "Mit Petersilie bestreuen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/afrikanisches-stew/" },
+  "note": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "blaubeerkuchen-rohrbodenform",
+  "title": "Blaubeerkuchen aus der Rohrbodenform",
+  "summary": "Saftiger Rührkuchen mit Blaubeeren, klassisch aus der Springform mit Rohrboden.",
+  "image": "images/blaubeerkuchen-rohrbodenform.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 60,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 375, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 185, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 12, "unit": "g", "name": "Backpulver", "variety": "Weinstein" },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 125, "unit": "ml", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 180, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 125, "unit": "ml", "name": "Mineralwasser", "variety": "stark sprudelnd" },
+    { "amount": 275, "unit": "g", "name": "Heidelbeeren", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Mehl", "variety": "zum Bestäuben der Beeren" },
+    { "amount": 1, "unit": "EL", "name": "Vegane Butter", "variety": "zum Einfetten" }
+  ],
+  "steps": [
+    "Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Rohrboden-Springform (26 cm) einfetten, mit Mehl ausstreuen.",
+    "Heidelbeeren aus dem Glas gründlich abtropfen lassen, falls nicht frisch oder TK.",
+    "Mehl, Zucker, Vanillezucker, Backpulver und Salz in großer Schüssel mischen.",
+    "Öl, Pflanzendrink und Mineralwasser dazu, nur kurz mit dem Löffel verrühren.",
+    "Heidelbeeren mit Mehl bestäuben, sodass alle bedeckt sind.",
+    "Bemehlte Heidelbeeren kurz unter den Teig heben.",
+    "Teig in die Form füllen, sofort backen.",
+    "60 Minuten backen.",
+    "Komplett in der Form auskühlen lassen, nach Belieben mit Puderzucker bestäuben."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/saftiger-veganer-blaubeerkuchen-rohrbodenform/" },
+  "note": null
+}

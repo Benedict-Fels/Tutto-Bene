@@ -1,0 +1,41 @@
+{
+  "id": "marry-me-kichererbsen-pasta",
+  "title": "Marry Me Kichererbsen-Pasta",
+  "summary": "Cremige Pasta mit Kichererbsen und getrockneten Tomaten — das Gericht, das alle lieben.",
+  "image": "images/marry-me-kichererbsen-pasta.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 2, "unit": "EL", "name": "Vegane Butter", "variety": null },
+    { "amount": 3, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 0.5, "unit": "TL", "name": "Oregano", "variety": "getrocknet" },
+    { "amount": 0.5, "unit": "TL", "name": "Chiliflocken", "variety": null },
+    { "amount": 105, "unit": "g", "name": "Getrocknete Tomaten", "variety": "abgetropft, in Streifen" },
+    { "amount": 7.5, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 250, "unit": "ml", "name": "Vegane Crème fraîche", "variety": null },
+    { "amount": 530, "unit": "g", "name": "Kichererbsen", "variety": "aus der Dose, abgetropft" },
+    { "amount": 40, "unit": "g", "name": "Veganer Parmesan", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Nudeln", "variety": "Penne oder Fusilli" },
+    { "amount": 5, "unit": "Stück", "name": "Basilikum", "variety": "frisch, Zweige" }
+  ],
+  "steps": [
+    "Getrocknete Tomaten abtropfen lassen, in dünne Streifen schneiden.",
+    "Knoblauch fein hacken.",
+    "Kichererbsen abtropfen lassen, nicht abspülen.",
+    "Basilikum in Streifen schneiden.",
+    "Nudeln nach Packungsanweisung kochen, abgießen.",
+    "Butter in großer Pfanne erhitzen.",
+    "Knoblauch 1 Minute anbraten.",
+    "Wasser, Tomatenstreifen, Kichererbsen, Brühepulver, Oregano und Chiliflocken dazu.",
+    "5 Minuten ohne Deckel köcheln.",
+    "Crème fraîche und Parmesan einrühren, 2 Minuten köcheln.",
+    "Mit den Nudeln vermischen.",
+    "Mit frischem Basilikum servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/marry-me-chickpeas-pasta/" },
+  "note": null
+}

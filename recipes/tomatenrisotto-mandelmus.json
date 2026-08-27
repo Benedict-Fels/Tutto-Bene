@@ -1,0 +1,43 @@
+{
+  "id": "tomatenrisotto-mandelmus",
+  "title": "Tomatenrisotto mit Mandelmus",
+  "summary": "Cremiges, aromatisches Risotto mit getrockneten und frischen Tomaten, verfeinert mit Mandelmus.",
+  "image": "images/tomatenrisotto-mandelmus.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Italienisch",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 350, "unit": "g", "name": "Reis", "variety": "Risotto, Rundkorn" },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": null },
+    { "amount": 1.5, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Olivenöl", "variety": null },
+    { "amount": 40, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 400, "unit": "g", "name": "Passierte Tomaten", "variety": null },
+    { "amount": 900, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 1.5, "unit": "TL", "name": "Italienische Kräuter", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Hefeflocken", "variety": null },
+    { "amount": 75, "unit": "g", "name": "Getrocknete Tomaten", "variety": "in Öl" },
+    { "amount": 40, "unit": "g", "name": "Mandelmus", "variety": "weiß" },
+    { "amount": 250, "unit": "g", "name": "Kirschtomaten", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Basilikum", "variety": "frisch, zum Topping" },
+    { "amount": 150, "unit": "g", "name": "Veganer Feta", "variety": null }
+  ],
+  "steps": [
+    "Zwiebel würfeln, Knoblauch pressen.",
+    "Öl erhitzen, Zwiebel andünsten.",
+    "Knoblauch und Tomatenmark dazu, kurz mitbraten.",
+    "Reis dazugeben, anrösten.",
+    "Heiße Brühe und passierte Tomaten nach und nach unter Rühren zugeben.",
+    "Ca. 20 Minuten köcheln, dabei weiter Flüssigkeit nachgießen.",
+    "Mandelmus, Hefeflocken, getrocknete Tomaten, Kirschtomaten und Kräuter einrühren.",
+    "3-5 Minuten weiter köcheln.",
+    "Mit Salz und Pfeffer abschmecken.",
+    "Mit Basilikum und veganem Feta servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganes-tomatenrisotto-mit-mandelmus/" },
+  "note": null
+}

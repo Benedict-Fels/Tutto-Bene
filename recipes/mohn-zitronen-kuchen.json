@@ -1,0 +1,40 @@
+{
+  "id": "mohn-zitronen-kuchen",
+  "title": "Mohn-Zitronen-Kuchen",
+  "summary": "Saftiger Kastenkuchen mit Mohn und feiner Zitronennote, mit Zitronenguss überzogen.",
+  "image": "images/mohn-zitronen-kuchen.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 60,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 20, "unit": "g", "name": "Mohn", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 100, "unit": "g", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 50, "unit": "g", "name": "Zitronensaft", "variety": null },
+    { "amount": 0.75, "unit": "Stück", "name": "Zitronenaroma", "variety": null },
+    { "amount": 1, "unit": "Stück", "name": "Zitronenschale", "variety": "gerieben, von 2 Zitronen" },
+    { "amount": 150, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Zitronensaft", "variety": "für den Guss" },
+    { "amount": 2, "unit": "EL", "name": "Paniermehl", "variety": "für die Form" }
+  ],
+  "steps": [
+    "Kastenform einfetten und mit Paniermehl ausstreuen.",
+    "Zitronen abreiben und auspressen.",
+    "Ofen auf 180 °C vorheizen.",
+    "Mehl, Zucker, Backpulver, Vanillezucker, Salz, Zitronenschale und Mohn vermischen.",
+    "Pflanzendrink, Öl, Zitronensaft und Zitronenaroma dazu, kurz verrühren.",
+    "Teig in die Kastenform füllen.",
+    "60 Minuten bei 180 °C auf mittlerer Schiene backen, Stäbchenprobe machen.",
+    "In der Form abkühlen lassen.",
+    "Puderzucker sieben, mit Zitronensaft verrühren, auf den Kuchen verteilen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-mohn-zitronen-kuchen/" },
+  "note": null
+}

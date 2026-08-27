@@ -1,0 +1,34 @@
+{
+  "id": "vanilleplaetzchen-erdbeermarmelade",
+  "title": "Vanilleplätzchen mit Erdbeermarmelade",
+  "summary": "Zarte Vanille-Ausstechplätzchen, gefüllt mit Erdbeermarmelade — der Klassiker unter den Weihnachtsplätzchen.",
+  "image": "images/vanilleplaetzchen-erdbeermarmelade.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 27,
+  "prepTime": 30,
+  "cookTime": 10,
+  "restTime": 60,
+  "ingredients": [
+    { "amount": 265, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 37, "unit": "g", "name": "Vanillepuddingpulver", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "Prise", "name": "Salz", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Vegane Butter", "variety": "kalt" },
+    { "amount": 135, "unit": "g", "name": "Erdbeermarmelade", "variety": "fein" }
+  ],
+  "steps": [
+    "Mehl, Puddingpulver, Puderzucker, Vanillezucker und Salz mischen.",
+    "Kalte Butter in Stücken dazu, zu einem Teig verkneten.",
+    "Zu einer Kugel formen, in Folie wickeln, 1 Stunde kalt stellen.",
+    "Ofen auf 180°C vorheizen.",
+    "Teig 5-6 mm dick ausrollen, Formen ausstechen.",
+    "Auf Backpapier verteilen.",
+    "10 Minuten bei 180°C backen.",
+    "Auf dem Blech auskühlen lassen.",
+    "Marmelade auf eine Hälfte streichen, mit der zweiten Hälfte zusammensetzen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-vanilleplaetzchen-mit-erdbeermarmelade/" },
+  "note": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "maultaschen-pilzrahmsosse",
+  "title": "Maultaschen mit Pilzrahmsoße",
+  "summary": "Angebratene Maultaschen in würziger Champignon-Rahmsoße — schnelles, sättigendes Alltagsgericht.",
+  "image": "images/maultaschen-pilzrahmsosse.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Vegane Maultaschen", "variety": null },
+    { "amount": 4, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 300, "unit": "g", "name": "Champignons", "variety": null },
+    { "amount": 100, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Pflanzliche Sahne", "variety": null },
+    { "amount": 175, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Brühepulver", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Paprikapulver", "variety": "mild" },
+    { "amount": 3, "unit": "EL", "name": "Petersilie", "variety": null },
+    { "amount": 1.5, "unit": "TL", "name": "Speisestärke", "variety": null }
+  ],
+  "steps": [
+    "Zwiebel fein würfeln, Champignons putzen und in Scheiben schneiden.",
+    "Maultaschen in Streifen schneiden, in heißem Öl 5 Minuten anbraten, rausnehmen.",
+    "Öl nachgeben, Zwiebeln 4 Minuten andünsten.",
+    "Champignons dazu, scharf 7 Minuten anbraten bis braun.",
+    "Paprikapulver kurz mit anrösten, dann Wasser, Sahne und Brühepulver dazu.",
+    "Aufkochen, 5 Minuten offen köcheln lassen.",
+    "Stärke mit kaltem Wasser glattrühren, in die Soße, 1 Minute köcheln unter Rühren.",
+    "Maultaschen zurück in die Soße, 2 Minuten ziehen lassen.",
+    "Mit Salz und Pfeffer abschmecken, Petersilie drüber, servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-maultaschen-mit-pilzrahmsosse/" },
+  "note": null
+}

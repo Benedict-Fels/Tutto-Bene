@@ -1,0 +1,37 @@
+{
+  "id": "tomaten-orzo-kokosmilch",
+  "title": "Tomaten-Orzo mit Kokosmilch",
+  "summary": "Cremiges One-Pot-Gericht aus Kritharaki-Nudeln, Kirschtomaten und Kokosmilch, in unter 30 Minuten fertig.",
+  "image": "images/tomaten-orzo-kokosmilch.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Griechisch",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 4, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Kritharaki-Nudeln", "variety": null },
+    { "amount": 200, "unit": "ml", "name": "Kokosmilch", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Kirschtomaten", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 450, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 5, "unit": "g", "name": "Zucker", "variety": "optional" },
+    { "amount": 0.125, "unit": "TL", "name": "Chiliflocken", "variety": null },
+    { "amount": 8, "unit": "Stück", "name": "Basilikum", "variety": "frisch, Zweige" },
+    { "amount": 40, "unit": "g", "name": "Veganer Parmesan", "variety": "gerieben" }
+  ],
+  "steps": [
+    "Knoblauch fein hacken, Kirschtomaten halbieren, Basilikum hacken.",
+    "Öl erhitzen, Tomatenmark und Knoblauch dazu, 1 Minute anbraten.",
+    "Kirschtomaten dazu, 4 Minuten braten, gelegentlich rühren.",
+    "Nudeln dazu, 2 Minuten mitrösten.",
+    "Wasser und Kokosmilch dazu, Brühepulver und Zucker dazu, ohne Deckel aufkochen.",
+    "12 Minuten ohne Deckel köcheln, gelegentlich rühren.",
+    "Basilikum und Parmesan unterrühren, mit Chiliflocken, Pfeffer und Salz abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/tomaten-orzo-mit-kokosmilch/" },
+  "note": null
+}

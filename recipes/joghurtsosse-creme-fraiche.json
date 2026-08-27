@@ -1,0 +1,24 @@
+{
+  "id": "joghurtsosse-creme-fraiche",
+  "title": "Joghurtsoße mit Crème fraîche",
+  "summary": "Cremige Soße aus Joghurt und Crème fraîche mit Zitrone — schnell gemacht, vielseitig einsetzbar.",
+  "image": "images/joghurtsosse-creme-fraiche.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 3,
+  "cookTime": 0,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 200, "unit": "g", "name": "Pflanzlicher Joghurt", "variety": "ungesüßt" },
+    { "amount": 150, "unit": "g", "name": "Vegane Crème fraîche", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Zitronensaft", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Olivenöl", "variety": null },
+    { "amount": 2, "unit": "g", "name": "Salz", "variety": null }
+  ],
+  "steps": [
+    "Alle Zutaten in einer Schüssel gut vermischen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/joghurtsosse-mit-veganer-creme-fraiche/" },
+  "note": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "marmormuffins-oel",
+  "title": "Marmormuffins mit Öl",
+  "summary": "Saftige Muffins mit heller und dunkler Schokoteig-Marmorierung.",
+  "image": "images/marmormuffins-oel.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 225, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Backpulver", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 98, "unit": "ml", "name": "Pflanzenöl", "variety": null },
+    { "amount": 185, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 20, "unit": "g", "name": "Kakaopulver", "variety": null },
+    { "amount": 1, "unit": "EL", "name": "Pflanzendrink", "variety": "Soja" }
+  ],
+  "steps": [
+    "Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "12 Papierförmchen in ein Muffinblech legen.",
+    "Mehl, Zucker, Backpulver, Vanillezucker und Salz in einer Rührschüssel vermischen.",
+    "Öl und Pflanzendrink dazugeben, kurz gut umrühren.",
+    "Etwa zwei Drittel des Teigs auf die Muffinförmchen verteilen.",
+    "Zum restlichen Teig Kakaopulver und 1 EL Pflanzendrink geben.",
+    "Dunklen Teig gleichmäßig auf dem hellen Teig verteilen.",
+    "Mit einer Gabel oder einem Stäbchen spiralförmig durchziehen.",
+    "Bei 180°C auf mittlerer Schiene 25 Minuten backen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/saftige-vegane-marmormuffins-mit-oel/" },
+  "note": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "waffeln-apfelmus-schlagsahne",
+  "title": "Waffeln mit Apfelmus und Schlagsahne",
+  "summary": "Fluffige Waffeln mit Apfelmus und Schlagsahne direkt im Teig — lösen sich leicht vom Eisen.",
+  "image": "images/waffeln-apfelmus-schlagsahne.jpg",
+  "category": "Frühstück",
+  "cuisine": "Deutsch",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 4,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 125, "unit": "g", "name": "Vegane Butter", "variety": "weich" },
+    { "amount": 50, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Apfelmus", "variety": null },
+    { "amount": 250, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 8, "unit": "g", "name": "Backpulver", "variety": "Weinstein-Backpulver" },
+    { "amount": 200, "unit": "g", "name": "Pflanzliche Sahne", "variety": "flüssig, ungeschlagen" },
+    { "amount": 1, "unit": "EL", "name": "Vegane Butter", "variety": "zum Einfetten des Waffeleisens" }
+  ],
+  "steps": [
+    "Butter auf Zimmertemperatur bringen, ggf. kurz in der Mikrowelle erwärmen.",
+    "Mehl und Backpulver gründlich vermischen.",
+    "Butter, Zucker und Vanillezucker kurz verrühren.",
+    "Apfelmus dazu, gut verrühren.",
+    "Mehlmischung und Sahne dazugeben, zu glattem Teig verrühren.",
+    "Waffeleisen auf mittlerer Stufe vorheizen.",
+    "Einfetten, Waffeln 3,5-4 Minuten bei mittlerer Hitze backen.",
+    "Zwischen jeder Waffel neu einfetten."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-waffeln-apfelmus-aufschlagbare-vegane-sahne/" },
+  "note": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "heidelbeerkuchen-blech",
+  "title": "Heidelbeerkuchen vom Blech",
+  "summary": "Saftiger Rührkuchen vom Blech mit Heidelbeeren aus dem Glas — schnell gemacht.",
+  "image": "images/heidelbeerkuchen-blech.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 16,
+  "prepTime": 15,
+  "cookTime": 40,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 600, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 300, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 24, "unit": "g", "name": "Backpulver", "variety": "Weinstein" },
+    { "amount": 4, "unit": "g", "name": "Salz", "variety": null },
+    { "amount": 200, "unit": "ml", "name": "Pflanzenöl", "variety": "geschmacksneutral" },
+    { "amount": 300, "unit": "ml", "name": "Pflanzendrink", "variety": "Soja" },
+    { "amount": 200, "unit": "ml", "name": "Mineralwasser", "variety": "stark sprudelnd" },
+    { "amount": 410, "unit": "g", "name": "Heidelbeeren", "variety": "aus dem Glas, abgetropft" }
+  ],
+  "steps": [
+    "Heidelbeeren gründlich in einem Sieb abtropfen lassen.",
+    "Ofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Großes, tiefes Backblech mit Backpapier auslegen.",
+    "Trockene Zutaten in großer Schüssel gründlich mischen.",
+    "Feuchte Zutaten dazu, kurz mit dem Kochlöffel verrühren, nicht zu lange.",
+    "Heidelbeeren vorsichtig unterheben.",
+    "Teig aufs Blech verteilen.",
+    "35-40 Minuten backen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfacher-veganer-heidelbeerkuchen-vom-blech/" },
+  "note": null
+}

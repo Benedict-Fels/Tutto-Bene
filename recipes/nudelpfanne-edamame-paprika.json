@@ -1,0 +1,36 @@
+{
+  "id": "nudelpfanne-edamame-paprika",
+  "title": "Nudelpfanne mit Edamame und Paprika",
+  "summary": "Cremige Nudelpfanne mit Edamame, Paprika und Tomaten in sahniger Soße — unkompliziert.",
+  "image": "images/nudelpfanne-edamame-paprika.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Mediterran",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Nudeln", "variety": "Fusilli" },
+    { "amount": 250, "unit": "g", "name": "Edamame", "variety": "TK, geschält" },
+    { "amount": 2, "unit": "Stück", "name": "Paprika", "variety": "rot" },
+    { "amount": 500, "unit": "g", "name": "Tomate", "variety": null },
+    { "amount": 2, "unit": "Zehe", "name": "Knoblauch", "variety": null },
+    { "amount": 250, "unit": "ml", "name": "Pflanzliche Sahne", "variety": "Kochsahne" },
+    { "amount": 80, "unit": "g", "name": "Veganer Parmesan", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Italienische Kräuter", "variety": "getrocknet" },
+    { "amount": 15, "unit": "g", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Reichlich Salzwasser aufkochen, Nudeln nach Packungsanweisung kochen, abgießen.",
+    "Paprika würfeln, Tomaten würfeln, Knoblauch pressen.",
+    "Öl in großer Pfanne erhitzen, Paprika 5 Minuten andünsten.",
+    "Knoblauch dazu, 30 Sekunden anbraten.",
+    "Tomaten und Edamame dazu, 8 Minuten erhitzen, gelegentlich umrühren.",
+    "Sahne, Brühepulver und Kräuter dazu, 7 Minuten köcheln.",
+    "Veganen Parmesan, Pfeffer und Nudeln unterrühren.",
+    "Bei Bedarf salzen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-vegane-nudelpfanne-edamame-paprika/" },
+  "note": null
+}

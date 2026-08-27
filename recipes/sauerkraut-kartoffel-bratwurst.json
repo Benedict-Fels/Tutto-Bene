@@ -1,0 +1,34 @@
+{
+  "id": "sauerkraut-kartoffel-bratwurst",
+  "title": "Sauerkraut-Kartoffel-Pfanne mit Bratwurst",
+  "summary": "Deftige Pfanne aus Kartoffeln, Sauerkraut und veganer Bratwurst — schnelles Alltagsgericht.",
+  "image": "images/sauerkraut-kartoffel-bratwurst.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 25,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 800, "unit": "g", "name": "Kartoffel", "variety": "festkochend" },
+    { "amount": 150, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 500, "unit": "g", "name": "Sauerkraut", "variety": null },
+    { "amount": 180, "unit": "g", "name": "Vegane Bratwurst", "variety": null },
+    { "amount": 3, "unit": "EL", "name": "Pflanzenöl", "variety": null },
+    { "amount": 100, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 5, "unit": "g", "name": "Brühepulver", "variety": null }
+  ],
+  "steps": [
+    "Kartoffeln schälen, würfeln.",
+    "In Salzwasser 10 Minuten kochen, abgießen.",
+    "Zwiebeln währenddessen würfeln.",
+    "1 EL Öl erhitzen, Bratwürste braun braten, dann in Scheiben schneiden.",
+    "2 EL Öl in die Pfanne, Kartoffeln 5 Minuten braten.",
+    "Zwiebeln dazu, 10 Minuten mitbraten, gelegentlich umrühren.",
+    "Bratwurstscheiben und Sauerkraut dazu, 5 Minuten mitbraten.",
+    "Wasser und Brühepulver dazu, 2 Minuten köcheln.",
+    "Mit Pfeffer abschmecken, servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/sauerkraut-kartoffel-pfanne-mit-veganer-bratwurst/" },
+  "note": null
+}

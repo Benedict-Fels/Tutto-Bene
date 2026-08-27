@@ -1,0 +1,41 @@
+{
+  "id": "miniknoedelpfanne-hackfleisch-pilze-zwiebeln",
+  "title": "Mini-Knödel-Pfanne mit Hackfleisch, Pilzen und Zwiebeln",
+  "summary": "Herzhaftes Pfannengericht mit Mini-Knödeln, Hackfleisch und Champignons in würziger Soße.",
+  "image": "images/miniknoedelpfanne-hackfleisch-pilze-zwiebeln.jpg",
+  "category": "Hauptgericht",
+  "cuisine": "Deutsch",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 375, "unit": "g", "name": "Vegane Mini-Knödel", "variety": "fertig" },
+    { "amount": 150, "unit": "g", "name": "Zwiebel", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Champignons", "variety": null },
+    { "amount": 180, "unit": "g", "name": "Veganes Hackfleisch", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Tomatenmark", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 350, "unit": "ml", "name": "Wasser", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Brühepulver", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Sojasauce", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Majoran", "variety": "getrocknet" },
+    { "amount": 1, "unit": "TL", "name": "Knoblauchpulver", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Pflanzenöl", "variety": "neutral" },
+    { "amount": 2, "unit": "Stück", "name": "Lorbeerblatt", "variety": null }
+  ],
+  "steps": [
+    "Mini-Knödel nach Packungsanweisung kochen.",
+    "Zwiebel in Streifen schneiden, Champignons in Scheiben.",
+    "Öl erhitzen, Hackfleisch 3 Minuten anbraten.",
+    "Zwiebeln dazu, 3 Minuten braten.",
+    "Champignons dazu, 3 Minuten mitbraten.",
+    "Tomatenmark dazu, 1 Minute anrösten.",
+    "Mehl dazu, gut verrühren.",
+    "Wasser, Brühepulver, Sojasauce, Majoran, Knoblauchpulver und Lorbeerblätter dazu.",
+    "7-10 Minuten köcheln, gelegentlich rühren.",
+    "Mit Pfeffer abschmecken, Knödel unterheben, kurz ziehen lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/mini-knoedel-pfanne-mit-veganem-hackfleisch-pilzen-und-zwiebeln/" },
+  "note": null
+}

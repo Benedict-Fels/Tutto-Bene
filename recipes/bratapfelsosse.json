@@ -1,0 +1,37 @@
+{
+  "id": "bratapfelsosse",
+  "title": "Bratapfelsoße",
+  "summary": "Weihnachtliche Dessertsoße aus karamellisierten Äpfeln, Rosinen und Amaretto — zu Eis, Waffeln oder Pfannkuchen.",
+  "image": "images/bratapfelsosse.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 400, "unit": "g", "name": "Apfel", "variety": "säuerlich, geschält" },
+    { "amount": 30, "unit": "g", "name": "Rosinen", "variety": null },
+    { "amount": 20, "unit": "g", "name": "Mandeln", "variety": "gehackt" },
+    { "amount": 50, "unit": "g", "name": "Amaretto", "variety": null },
+    { "amount": 20, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 30, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 16, "unit": "g", "name": "Vanillezucker", "variety": null },
+    { "amount": 1, "unit": "TL", "name": "Zimt", "variety": null },
+    { "amount": 200, "unit": "ml", "name": "Apfelsaft", "variety": "naturtrüb" },
+    { "amount": 15, "unit": "g", "name": "Zitronensaft", "variety": null },
+    { "amount": 10, "unit": "g", "name": "Vanillepuddingpulver", "variety": null }
+  ],
+  "steps": [
+    "Rosinen und Mandeln in Amaretto einweichen.",
+    "Butter erhitzen, Zucker darin goldbraun schmelzen.",
+    "Apfelstücke dazu, 3 Minuten mitbraten.",
+    "Apfelsaft, Zitronensaft, Rosinen-Mandel-Mischung, Zimt und Vanillezucker dazu.",
+    "8 Minuten köcheln, bis die Äpfel weich sind.",
+    "Puddingpulver mit etwas Wasser glattrühren, einrühren.",
+    "1-2 Minuten köcheln, bis die Soße andickt.",
+    "Warm servieren."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/einfache-bratapfelsosse/" },
+  "note": null
+}

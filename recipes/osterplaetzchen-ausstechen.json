@@ -1,0 +1,30 @@
+{
+  "id": "osterplaetzchen-ausstechen",
+  "title": "Osterplätzchen zum Ausstechen",
+  "summary": "Einfacher Mürbeteig ohne Ei zum Ausstechen in Osterformen — ideal fürs Osternest.",
+  "image": "images/osterplaetzchen-ausstechen.jpg",
+  "category": "Dessert",
+  "cuisine": "Deutsch",
+  "servings": 40,
+  "prepTime": 15,
+  "cookTime": 10,
+  "restTime": 60,
+  "ingredients": [
+    { "amount": 300, "unit": "g", "name": "Mehl", "variety": null },
+    { "amount": 200, "unit": "g", "name": "Vegane Butter", "variety": "kalt" },
+    { "amount": 100, "unit": "g", "name": "Puderzucker", "variety": null },
+    { "amount": 1, "unit": "Packung", "name": "Vanillezucker", "variety": null }
+  ],
+  "steps": [
+    "Mehl, Puderzucker, Vanillezucker und eine Prise Salz mischen.",
+    "Kalte Butter dazugeben, zu einem Teig verkneten.",
+    "Zu einer Kugel formen, in Folie wickeln, 1 Stunde kühlen.",
+    "Ofen auf 180 °C vorheizen.",
+    "Teig 5-6 mm dick ausrollen.",
+    "Formen ausstechen, auf Backpapier legen.",
+    "10 Minuten bei 180 °C backen.",
+    "Kurz auf dem Blech, dann auf einem Gitter auskühlen lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/vegane-osterplaetzchen-zum-ausstechen/" },
+  "note": null
+}

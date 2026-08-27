@@ -1,0 +1,31 @@
+{
+  "id": "pizzasosse-tomatenmark",
+  "title": "Pizzasoße aus passierten Tomaten und Tomatenmark",
+  "summary": "Würzige Grundsoße aus passierten Tomaten, Tomatenmark und italienischen Kräutern.",
+  "image": "images/pizzasosse-tomatenmark.jpg",
+  "category": "Sonstige",
+  "cuisine": "Italienisch",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 15,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 500, "unit": "g", "name": "Passierte Tomaten", "variety": null },
+    { "amount": 60, "unit": "g", "name": "Tomatenmark", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Olivenöl", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Knoblauchpulver", "variety": null },
+    { "amount": 2, "unit": "TL", "name": "Italienische Kräuter", "variety": "getrocknet" },
+    { "amount": 5, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 6, "unit": "g", "name": "Salz", "variety": null }
+  ],
+  "steps": [
+    "Olivenöl in großem, hohem Topf erhitzen.",
+    "Tomatenmark dazu, 1 Minute anbraten, gut mit dem Öl vermischen.",
+    "Passierte Tomaten, Knoblauchpulver, italienische Kräuter, Zucker, Salz und Pfeffer dazugeben.",
+    "Gut verrühren und ohne Deckel aufkochen.",
+    "Bei kleiner Hitze ohne Deckel 15 Minuten köcheln lassen, oft umrühren.",
+    "Im Topf ohne Deckel abkühlen lassen."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/leckere-pizzasosse-aus-passierten-tomaten-und-tomatenmark/" },
+  "note": null
+}

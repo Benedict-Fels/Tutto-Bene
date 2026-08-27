@@ -1,0 +1,34 @@
+{
+  "id": "rotkohl",
+  "title": "Rotkohl",
+  "summary": "Klassischer geschmorter Rotkohl mit Äpfeln, Apfelsaft und Gewürznelken — wärmende Beilage.",
+  "image": "images/rotkohl.jpg",
+  "category": "Sonstige",
+  "cuisine": "Deutsch",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 70,
+  "restTime": 0,
+  "ingredients": [
+    { "amount": 850, "unit": "g", "name": "Rotkohl", "variety": "gehobelt" },
+    { "amount": 2, "unit": "Stück", "name": "Apfel", "variety": "groß" },
+    { "amount": 1, "unit": "Stück", "name": "Zwiebel", "variety": null },
+    { "amount": 50, "unit": "g", "name": "Vegane Butter", "variety": null },
+    { "amount": 250, "unit": "ml", "name": "Apfelsaft", "variety": null },
+    { "amount": 2, "unit": "EL", "name": "Apfelessig", "variety": null },
+    { "amount": 4, "unit": "Stück", "name": "Nelken", "variety": null },
+    { "amount": 3, "unit": "Stück", "name": "Lorbeerblatt", "variety": null },
+    { "amount": 15, "unit": "g", "name": "Zucker", "variety": null },
+    { "amount": 12, "unit": "g", "name": "Salz", "variety": null }
+  ],
+  "steps": [
+    "Rotkohl in Streifen hobeln, Äpfel schälen, entkernen, würfeln, Zwiebel fein würfeln.",
+    "Butter erhitzen, Zwiebel und Apfel 5 Minuten andünsten.",
+    "Rotkohl dazu, weitere 5 Minuten andünsten.",
+    "Apfelsaft, etwas Wasser, Essig, Nelken, Lorbeerblätter, Zucker und Salz dazugeben.",
+    "Aufkochen, mit Deckel 1 Stunde köcheln lassen.",
+    "Nelken und Lorbeerblätter entfernen, mit Pfeffer abschmecken."
+  ],
+  "source": { "name": "Veggie Einhorn", "url": "https://veggie-einhorn.de/veganer-rotkohl-einfach-und-sehr-lecker/" },
+  "note": null
+}
