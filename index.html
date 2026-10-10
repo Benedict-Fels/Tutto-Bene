@@ -105,6 +105,9 @@
     let ratingsSummary = new Map();
     // Set von recipeId — private Favoritenliste des angemeldeten Nutzers
     let ownFavoriteIds = new Set();
+    // recipeId -> Zufallszahl — Standardreihenfolge der Karten, einmal pro Sitzung gemischt
+    // (siehe shuffleOrderFor), damit sie beim Zurückkommen von der Detailseite nicht springt
+    let shuffleOrder = new Map();
 
     const QUICK_MAX_MINUTES = 30;
     const QUICK_EXCLUDED_TAGS = ['dip', 'getraenk'];
@@ -503,6 +506,52 @@
       loadMoreObserver.observe(sentinel);
     }
 
+    const SHUFFLE_KEY = 'tuttobene-shuffle-order';
+
+    // Erzeugt oder lädt die zufällige Standardreihenfolge der Karten. Einmal pro
+    // Browser-Sitzung gemischt und in sessionStorage gemerkt (Abschnitt Standard-
+    // sortierung, E3) — dadurch bleibt die Reihenfolge stabil, wenn man ein Rezept
+    // öffnet und über "Zurück" wieder auf die Übersicht kommt, wird aber bei einer
+    // neuen Sitzung (neuer Tab, Seite neu aufgerufen) wieder frisch gemischt.
+    function buildShuffleOrder(recipes) {
+      let stored = null;
+      try {
+        const raw = sessionStorage.getItem(SHUFFLE_KEY);
+        stored = raw ? JSON.parse(raw) : null;
+      } catch (err) {
+        stored = null;
+      }
+
+      const order = new Map();
+      const knownIds = new Set(recipes.map(r => r.id));
+      let changed = false;
+
+      if (stored && typeof stored === 'object') {
+        Object.keys(stored).forEach(id => {
+          if (knownIds.has(id)) order.set(id, stored[id]);
+        });
+      }
+
+      // Neue Rezepte (oder erster Aufruf ohne gespeicherten Stand) bekommen eine
+      // zufällige Position dazugemischt, statt die ganze Liste neu zu würfeln.
+      recipes.forEach(r => {
+        if (!order.has(r.id)) {
+          order.set(r.id, Math.random());
+          changed = true;
+        }
+      });
+
+      if (changed) {
+        try {
+          sessionStorage.setItem(SHUFFLE_KEY, JSON.stringify(Object.fromEntries(order)));
+        } catch (err) {
+          // sessionStorage kann blockiert sein — dann wird bei jedem Aufruf neu gemischt, kein Absturz.
+        }
+      }
+
+      return order;
+    }
+
     function renderAll(keepScroll) {
       writeStateToUrl();
 
@@ -531,12 +580,12 @@
               const ratingA = ratingsSummary.get(a.id);
               const ratingB = ratingsSummary.get(b.id);
               // Rezepte ohne Bewertung stehen hinten, nicht bei 0 Sternen (Spec E9, Abschnitt 6)
-              if (!ratingA && !ratingB) return a.title.localeCompare(b.title, 'de');
+              if (!ratingA && !ratingB) return shuffleOrder.get(a.id) - shuffleOrder.get(b.id);
               if (!ratingA) return 1;
               if (!ratingB) return -1;
-              return ratingB.average - ratingA.average || a.title.localeCompare(b.title, 'de');
+              return ratingB.average - ratingA.average || shuffleOrder.get(a.id) - shuffleOrder.get(b.id);
             })
-          : [...results].sort((a, b) => a.title.localeCompare(b.title, 'de'));
+          : [...results].sort((a, b) => shuffleOrder.get(a.id) - shuffleOrder.get(b.id));
         const visible = sorted.slice(0, visibleCount);
         grid.innerHTML = visible.map(recipeCard).join('');
         attachFavoriteHandlers(grid);
@@ -747,6 +796,8 @@
 
       const categories = [...new Set(allRecipes.map(r => r.category))].sort((a, b) => a.localeCompare(b, 'de'));
       allCategories = categories;
+
+      shuffleOrder = buildShuffleOrder(allRecipes);
 
       try {
         ratingsSummary = await Ratings.ratingsForRecipes(allRecipes.map(r => r.id));
